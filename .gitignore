@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+*.egg-info/
+
+# Ignore everything in .vscode except settings.json
+.vscode/*
+!.vscode/settings.json
+
+
+# MacOS
+.DS_Store
+
+# Env Files
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+data/raw/
