@@ -23,3 +23,7 @@ env/
 
 # Data
 data/raw/
+
+# Raw data
+data/raw/papers/
+
