@@ -1,8 +1,0 @@
-{
-  "year": null,
-  "author": null,
-  "keyword_string": null,
-  "source_pdf_path": "/Volumes/NVME2TB/projects/LabPipeline/data/raw/papers/2012_Clarke_chronic_postsurgical_pain.pdf",
-  "processed_text_path": "/Volumes/NVME2TB/projects/LabPipeline/data/processed/papers/text/2012_Clarke_chronic_postsurgical_pain.txt",
-  "extracted_title_heuristic": "Pain Medicine"
-}

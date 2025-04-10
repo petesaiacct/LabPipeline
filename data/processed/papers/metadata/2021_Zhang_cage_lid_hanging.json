@@ -1,8 +1,0 @@
-{
-  "year": null,
-  "author": null,
-  "keyword_string": null,
-  "source_pdf_path": "/Volumes/NVME2TB/projects/LabPipeline/data/raw/papers/2021_Zhang_cage_lid_hanging.pdf",
-  "processed_text_path": "/Volumes/NVME2TB/projects/LabPipeline/data/processed/papers/text/2021_Zhang_cage_lid_hanging.txt",
-  "extracted_title_heuristic": "ResearchPaper"
-}

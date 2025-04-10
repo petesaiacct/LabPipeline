@@ -1,8 +1,0 @@
-{
-  "year": null,
-  "author": null,
-  "keyword_string": null,
-  "source_pdf_path": "/Volumes/NVME2TB/projects/LabPipeline/data/raw/papers/2017_Echeverry_spinal_microglia.pdf",
-  "processed_text_path": "/Volumes/NVME2TB/projects/LabPipeline/data/processed/papers/text/2017_Echeverry_spinal_microglia.txt",
-  "extracted_title_heuristic": "ResearchPaper"
-}

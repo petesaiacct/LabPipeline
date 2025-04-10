@@ -1,8 +1,0 @@
-{
-  "year": null,
-  "author": null,
-  "keyword_string": null,
-  "source_pdf_path": "/Volumes/NVME2TB/projects/LabPipeline/data/raw/papers/2019_Whissel_CCK_GABA_neurons.pdf",
-  "processed_text_path": "/Volumes/NVME2TB/projects/LabPipeline/data/processed/papers/text/2019_Whissel_CCK_GABA_neurons.txt",
-  "extracted_title_heuristic": "NewResearch"
-}
