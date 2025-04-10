@@ -67,7 +67,7 @@ def extract_metadata_from_filename(filename: str) -> dict:
     # Regex pattern based on the convention: [YYYY]_Author_Keyword(s).pdf
     # This version allows Author and Keyword to contain more than just \w (e.g., hyphens)
     # It captures everything after the second underscore as the keyword part.
-    pattern = r"\[(\d{4})\]_([^_]+)_(.+)\.pdf" 
+    pattern = r"(\d{4})_([^_]+)_(.+)\.pdf" 
     match = re.match(pattern, filename)
     
     metadata = {

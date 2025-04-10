@@ -31,3 +31,5 @@ data/raw/
 # Raw data
 data/raw/papers/
 
+# Processed outputs
+data/processed/
