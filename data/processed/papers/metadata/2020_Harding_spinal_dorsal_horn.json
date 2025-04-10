@@ -1,0 +1,8 @@
+{
+  "year": null,
+  "author": null,
+  "keyword_string": null,
+  "source_pdf_path": "/Volumes/NVME2TB/projects/LabPipeline/data/raw/papers/2020_Harding_spinal_dorsal_horn.pdf",
+  "processed_text_path": "/Volumes/NVME2TB/projects/LabPipeline/data/processed/papers/text/2020_Harding_spinal_dorsal_horn.txt",
+  "extracted_title_heuristic": "REVIEW"
+}

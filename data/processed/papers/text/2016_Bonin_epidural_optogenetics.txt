@@ -1,0 +1,519 @@
+Original Article
+MolecularPain
+Volume12:1–11
+Epidural optogenetics for !TheAuthor(s)2016
+Reprintsandpermissions:
+sagepub.co.uk/journalsPermissions.nav
+controlled analgesia
+DOI:10.1177/1744806916629051
+mpx.sagepub.com
+Robert P Bonin, PhD1, Feng Wang, PhD1, Mireille Desrochers-
+Couture1, Alicja Ga¸secka, PhD2, Marie-Eve Boulanger1,
+Daniel C Coˆte´, PhD2 and Yves De Koninck, PhD1,3
+Abstract
+Background: Optogenetic tools enable cell selectiveand temporally precisecontrolof neuronal activity; yet,difficulties in
+deliveringsufficientlighttothespinalcordoffreelybehavinganimalshavehamperedtheuseofspinaloptogeneticapproaches
+to produce analgesia. We describe an epidural optic fiber designed forchronic spinal optogenetics that enables the precise
+delivery of light at multiple wavelengths to the spinal cord dorsal horn and sensory afferents.
+Results:Theepiduraldeliveryoflightenabledtheoptogeneticmodulationofnociceptiveprocessesatthespinallevel.The
+acuteandrepeatedactivationofchannelrhodopsin-2 expressingnociceptiveafferentsproducedrobustnocifensivebehavior
+and mechanical sensitization in freely behaving mice, respectively. The optogenetic inhibition of GABAergic interneurons in
+the spinal cord dorsal horn through the activation of archaerhodopsin also produced a transient, but selective induction of
+mechanicalhypersensitivity.Finally,wedemonstratethecapacityofoptogeneticstoproduceanalgesiainfreelybehavingmice
+through the inhibition of nociceptive afferents via archaerhodopsin.
+Conclusion:Epiduraloptogeneticsprovidesarobustandpowerfulsolutionforactivationofbothexcitatoryandinhibitory
+opsins in sensory processing pathways. Our results demonstrate the potential of spinal optogenetics to modulate sensory
+behavior and produce analgesia in freely behaving animals.
+Keywords
+Optogenetics, pain, analgesia, spinal cord, dorsal horn, plasticity, optics, allodynia, hyperalgesia
+Datereceived:2October2015;accepted:18November2015
+Optogenetic toolsoffer apowerful means forthecell-
+Introduction
+specific,functionaldissectionandmodulationofsensory
+Noxious and innocuous sensation is largely mediated circuits. Optogenetic proteins have previously been
+through the transmission of sensory information from expressed in genetically5 and biologically defined6 sen-
+the periphery to the spinal cord via modality-specific sory afferent populations to study nociception induced
+sensory afferents.1 The precise nature of sensation is by peripheral optical stimulation. In vitro studies have
+dependent not only on the pattern of sensory afferents also employed optogenetics to explore sensory and
+activated peripherally but also on how this input is pro-
+cessed and integrated in the spinal cord.2 Abnormalities
+1InstitutUniversitaireensante´ mentaledeQue´bec,Que´bec,Canada
+in either afferent or dorsal horn interneuronal activity
+2DepartmentofPhysics,Universite´ Laval,Que´bec,Canada
+can lead to pathological sensory conditions, including 3Department of Psychiatry and Neuroscience, Universite´ Laval, Que´bec,
+chronic pain.2–4 Deciphering how sensory information Canada
+is relayed through the spinal cord from the periphery
+and how this process changes in pathological conditions Correspondingauthor:
+YvesDeKoninck,DivisionofCellularandMolecularNeuroscience,Institut
+is crucial for the development of novel therapeutic
+UniversitaireensantementaledeQue´bec2601,ChemindelaCanardiere
+approaches that treat the root causes of sensory
+Que´bec,QC,G1J2G3Canada.
+dysfunction. Email:yves.dekoninck@neuro.ulaval.ca
+CreativeCommonsNonCommercialCC-BY-NC:This articleisdistributedunderthetermsoftheCreativeCommonsAttribution-
+NonCommercial3.0License(http://www.creativecommons.org/licenses/by-nc/3.0/)whichpermitsnon-commercialuse,reproductionand
+distributionofthework withoutfurtherpermissionprovidedtheoriginalworkisattributedasspecifiedontheSAGEandOpenAccesspages(https://
+us.sagepub.com/en-us/nam/open-access-at-sage).
+2 Molecular Pain 0(0)
+motor circuitry of the spinal cord.7–11 However, the dif- Council for Animal Care. Adult (>12 weeks old) male
+ficulty in delivering light to the spinal cord of freely C57BL/6 mice were used for experiments except where
+behaving animals has hindered the optogenetic study of indicatedotherwise.Micewerekeptona12:12light:dark
+howspinalprocessingmodulatesbehavioralresponsesto cycleingroupsofonetofourmicepercagepriortofiber
+sensory input. implantation, and singly housed after implantation of
+Recently, a subcutaneous, wireless light-emitting the fiber, with food and water provided ad libitum. All
+diode (LED) system was described that could activate experiments started prior to 10:00.
+channelrhodopsin-2 (ChR2) expressing sensory afferents Optogenetic mouse models were generated using
+either peripherally or at thespinal level.12 This advance- three different approaches to highlight a number of
+ment enabled the manipulation of sensory afferents in applications of the epidural optic fiber (see Table 1).
+awake mice. Yet, it is unclear whether this LED Mice expressing ChR2 in Na 1.8+ nociceptive afferents
+v
+approachcandeliversufficientlyintenselightfortheacti- (Na 1.8-ChR2)weregeneratedbycrossingmiceexpress-
+v
+vationofinhibitoryoptogeneticproteinssuchasarchae- ing Cre-recombinase in Na 1.8+ neurons (Na 1.8-Cre;
+v v
+rhodopsin (ArchT) that have a higher threshold for generously provided by Rohini Kuner)13 with mice
+activation than channelrhodopsin, or for the activation expressing a loxP-flanked STOP cassette upstream of
+or inhibition of neurons within sensory processing path- a ChR2-EYFP fusion gene at the Rosa 26 locus
+ways of the spinal cord dorsal horn that lie beneath a (Rosa-CAG-LSL-ChR2(H134R)-EYFP-WPRE; stock
+layer of myelin. The inhibition of nociceptive afferents number 012569, The Jackson Laboratory, Bar Harbor,
+via activation of ArchT or manipulation of intrinsic ME). In these mice, Cre expression is restricted to the
+spinal neuron activity to inhibit the activity of nocicep- dorsal root ganglia, and the vast majority (>90%) of
+tive projection neurons would enable optogenetic induc- Cre-expressing cells are unmyelinated C-fibers that
+tionofanalgesia—oneofthekeytherapeuticpossibilities innervate the superficial dorsal horn (Figure 1(a) and
+enabled by spinal cord optogenetics. (b)).13,14 Mice expressing ArchT in Na 1.8+ nociceptive
+v
+To overcomethiskey obstacle,we havedeveloped an afferents were generated by intraperitoneal injection of
+effective epidural optic fiber implant for mice that is neonatal (P5) Na 1.8-Cre mouse pups with 20 ml of
+v
+entirely compatible with conventional LED or laser- AAV8 virus Cre-dependently expressing ArchT
+based optogenetic systems, and that enables the spinal (AAV8-CBA-Flex-ArchT-GFP-WPRE-SV40, >1013
+delivery of light in acute and chronic experiments. This particles(cid:2)ml(cid:3)1, University of North Carolina). We con-
+approach offers the advantages of permitting delivery of firmed that this technique efficiently transfects dorsal
+multiplewavelengthsoflightfortheactivationofthecom- root ganglia neurons while sparing the spinal cord
+pletepaletteofoptogeneticproteins,aswellasthedelivery dorsalhornbyinjectingneonatalmousepups(P5)intra-
+of sufficient light intensity for activating or inhibiting peritoneally with with Cre-independent
+intrinsic spinal cordneurons insensory processing path- AAV9 expressing GCaMP (AAV9, CAG-GCaMP6s-
+ways. We used this easily constructed and readily WPRE-SV40, >1013 particles(cid:2)ml(cid:3)1, University of
+employeddesigntoinducemechanicalhyperalgesiaaris- Pennsylvania), after which we observed no transfection of
+ingfromsensoryplasticityanddorsalhorndisinhibition, spinalcordneurons(Figure1(c)and(d)).15Miceexpressing
+andtheimmediateandacuteinductionofanalgesia. ArchT in spinal cord inhibitory interneurons were gener-
+ated by intraspinal injection of AAV8 virus Cre-depen-
+dently expressing ArchT into adult (eight weeks) male
+Methods GAD2-IRES-Cre mice (Stock number 010802, The
+Jackson Laboratory). Briefly, adult mice
+Animals
+were anesthetized with 2.5% to 3% isoflurane and L3
+All behavioral experiments were conducted in accord- through L5 spinal cord was exposed by laminectomy;
+ance with the guidelines established by the Canadian 500 nl of AAV8-CBA-Flex-ArchT-GFP-WPRE-SV40
+Table 1. Summaryofoptogenetic models andapproachesused.
+Mousemodel Method ofgeneration Method oflight delivery Figure
+Na1.8-ChR2 Na1.8-Cre(cid:4)FloxedChR2 Epidural inawake 4b,c,f
+v v
+Na1.8-ChR2 Na1.8-Cre(cid:4)FloxedChR2 Peripheral under anesthesia 4d
+v v
+Na1.8-ChR2 Na1.8-Cre(cid:4)FloxedChR2 Epidural under anesthesia 4e
+v v
+GAD2-ArchT Intraspinal AAVin GAD2-Cre Epidural inawake 4h,i
+Na1.8-ArchT I.P.AAV(neonates) in Na1.8-Cre Epidural inawake 4k
+v v
+C57BL/6 None Epidural inawake 4l
+Bonin et al. 3
+Figure 1. Characterization ofoptogenetic mouse models used. (a,b) Spinalexpression ofChR2-YFP in Na1.8-ChR2mice.ChR2-YFP
+v
+doesnotcolocalizewithNeuN(a),andispredominantlypresentinthesuperficialdorsalhorn(b),consistentwithitsrestrictedexpression
+inNa1.8+sensoryafferents.(c,d)ExpressionofGCamP6asacellularmarkerinsuperficialdorsalhornanddorsalrootganglianeurons
+v
+aftersystemictransfectionofneonatalmousepupswithGCamP6-expressingAAV9administeredviai.p.injection.GCaMP6expressionis
+restrictedtoafferentterminalsenteringthespinalcorddorsalhorn(c)andneuronsoftheDRG(d),indicatingtherouteofAAV9virus-
+administrationdoesnottransfectintrinsicdorsalhornneurons.(e)ExpressionofArchT-YFPinGAD65/67+neuronsofthedorsalhorn
+afterintraspinalinjectionofCre-dependentAAV9expressingArchT-YFPinGAD2-Cremice.(f)TheexpressionofArchT-YFPwaslargely
+restrictedtothesuperficialdorsalhornofintraspinallyinjectedGAD2-Cremice.Scalebarsofa,b,c,andfindicate100mm.Scalebarsofd,
+e indicate50mm.
+(>1013 particles(cid:2)ml(cid:3)1, University of North Carolina) were
+Epidural fiber production and implantation
+pressure ejected into the spinal parenchyma at a depth of
+100mm via a glass pipette connected to a nanoinjector The epidural optic fiber implant consisted of a length of
+(Micro 4, World Precision Instruments, Florida, USA) at multimode plastic fiber (240mm core, 250mm diameter
+a rate of 100nl(cid:2)min(cid:3)1. The injection was carried out four with cladding, 0.62NA) modified with a diffusive tip
+times bilaterally (two times on each side) on each mouse. (Doric Lenses, Quebec, Canada) to enable multidirec-
+The expression of ArchT was restricted to the superficial tional diffusion of light from the fiber (Figure 2(a)
+dorsal horn and overlapped with GAD65/67 expression and(b);Figure3(a)).Thefiberwasfittedwithaceramic
+(Figure 1(e) and (f)). Mice were allowed to recover from ferrule (2.5mm diameter, 270mm bore; Thor Labs,
+intraspinal injection for four weeks prior to epidural fiber Germany) and the length of the fiber from the end of
+implantation. the ferrule to the diffusive tip was typically 40mm, but
+4 Molecular Pain 0(0)
+Figure 2. Development andcharacterization of anepidural opticfiberimplant. (a)The epiduraloptic fiberimplantconsists ofabare
+ferrule(1)embeddedinapreformeddentalcementbasethatfacilitatesfixationtotheskull(2).Theopticfiber(3)connectedtotheferrule
+isahigh-aperture,large-diametercore(240mm)plasticfibermodifiedwithadiffusivetip(4)toenableilluminationofthespinalcordventral
+tothefibertip.Theopticfiberisepidurallyimplantedinamouseandconnectedtoafiber-coupledlaserviaalight-weightsleeve.(b)Image
+ofanepiduralopticfiberbeforeimplantation.Scalebarindicates1cm.(c)Imageofamouseimmediatelyafterimplantationsurgerywith
+epidural opticfiberconnected directlyto agreenlightsource(not to anexperiment patch cable) toverifypositioning ofthefiber tip.
+(d)Estimationofpoweroutputfromthediffusivetipoftheopticfiberrequiredforactivationofopsinsinthespinalcorddorsalhornusing
+athresholdof activation (EC )of 0.3mW(cid:2)mm(cid:3)2and0.75mW(cid:2)mm(cid:3)2forChR2andArchT, respectively.(e) Motorperformance of
+20
+epidural fiber-implantedandcontrol miceintheRotaRod task.n¼6 micepergroup.(f) Distancemeasurement andactivityanalysis of
+implanted andnon-implanted miceplaced innovelcage for1h. n¼6 micepergroup.
+varied from 38mm to 42mm for implantation in longer The head and neck of the mice were shaved and a 1.5-
+or shorter mice, as necessary. A 5mm diameter base of cm incision was made from the first vertebrae to the
+dentalcementwasaddedtotheferrule priortoimplant- skull. The dorsal neck muscles were separated at mid-
+ation to facilitate fixation on the skull of the mouse. line and retracted with the head held at a downward
+Mice were anesthetized with isoflurane (2% to 2.5%) angle (approximately 45(cid:5) from parallel) to expose the
+delivered by a flexible tube fitted with a latex nose cone posterior atlanto-occipital membrane. The atlanto-occi-
+to enable to manipulation of mouse during the surgery. pital membrane was vigorously, mechanically cleaned
+Bonin et al. 5
+Figure 3. Activationofopsinsexpressedbysensoryafferentsandneuronsofthespinalcorddorsalhornwithadiffusive-tippedepidural
+opticfiber.(a)Adiffusive-tippedopticfiberwasusedtoensuretheventrallytransmissionoflighttowardsthedorsalhorn.Demonstration
+oflightemissionfromadiffusive-tippedfiber(left)comparedtoastandard,non-diffusive-tippedfiber(right),showingawideangleoflight
+emission from diffusive tip.Both fiberswereimmersed in afluorescentFITC solution andinjected with blue(473nm)light. Scale bar
+indicates 250mm.(b) Measurementof lighttransmission throughvarious thicknessesof spinalcordmyelin.(c)Schematic drawingof the
+modelusedforestimationofthepoweroutputfromthediffusivetipoftheopticfiberrequiredforactivationofopsinsinthespinalcord
+dorsalhorn (seeMethods).
+with a cotton swab with particular attention paid to the allowed to recover from surgery for at least one week
+point of connection to the first vertebrae (C1). This prior to experimentation.
+cleaning procedure does not perforate the membrane
+and promotes separation of the atlanto-occipital mem-
+Immunohistochemistry
+brane from the dura to facilitate the epidural placement
+of the optic fiber. The optic fiber was carefully inserted For immunohistochemistry, mice were anesthetized with
+through the atlanto-occipital membrane and under C1, ketamine/xylazineandtranscardiallyperfusedwith4%w/
+immediately rostral to C1, with the head held at an v paraformaldehyde and 0.1% v/v picric acid in phos-
+acute, downward angle. Correct insertion was asso- phate buffer. The spinal cord was dissected and post-
+ciated with a lack of cerebrospinal fluid loss at the fixed for 2h. Notably, no gross deformation or damage
+site of insertion. With the head maintained at an caused by the epidural optic fiber was observed upon
+acute angle and the body of the mouse suspended off spinal cord extraction for immunohistochemistry. The
+the surgical table, the fiber was carefully inserted along tissue was cryo-protected in 30% sucrose solution over-
+the length of the spinal cord. The mouse was repos- nightandthensectionedbyacryostatat14mmthickness.
+itioned as necessary to straighten the natural curvature The sections were stained with rabbit antibodies against
+of the spine during implantation. The correct position- CGRP(1:2000;C8198,SigmaAldrich),mouseanti-NeuN
+ing of the fiber tip near L1 (corresponding to spinal antibodies (1:800; MAB377, Chemicon), or rabbit anti-
+segments L4 through L616) was confirmed by connect- GAD65/67 antibodies (1:200; AB1511, Millipore), fol-
+ing the fiber to a light source and observing the illumi- lowed by incubation with Alexa Fluor 543-conjugated
+nated region on the back (Figure 2(c)). Once the fiber goat secondary anti-rabbit antibodies (1:100; Molecular
+was correctly positioned, the skull of the mouse was Probes) or Alexa Fluor 647-conjugated goat secondary
+cleaned with a small quantity of 30% H O (Sigma anti-mouse antibodies (1:100; Molecular Probes).
+2 2
+Aldrich, Canada), rinsed thoroughly with saline, and Sections were examined under an Olympus Fluoview
+blotted dry. The dental cement base of the fiber was FV1000 confocal laser scanning microscope.
+fixed to the skull with Loctite 454 Prism instant adhe-
+sive and the incision sutured closed. The implanted
+Physical model of spinal cord irradiance
+mice were allowed to recover from anesthesia and the
+animals were monitored to ensure a lack of paralysis or Myelinated spinal cord slices were obtained from adult
+movement abnormalities indicative of improper fiber male C57BL/6 mice. Mice were anesthetized with ureth-
+placement before being housed in a standard home ane (2g(cid:2)kg(cid:3)1) and perfused with ice-cold artificial cere-
+cage without environmental enrichment. Mice were bralspinalfluid(aCSF;compositioninmM:124NaCl,3
+6 Molecular Pain 0(0)
+KCl,1.3MgCl,2.6CaCl ,1.25NaH PO ,26NaHCO , software (Toptica Inc). The intensity of the 592nm
+2 2 4 3
+10 D-glucose; oxygenated with 95% O , 5% CO ). The laser (VFL-P-300-592, MPB Technologies, Montreal,
+2 2
+lumbarspinalcolumnwasremovedandimmersedinice- Canada) used for activation of ArchT was controlled
+cold sucrose aCSF after which the whole lumbar spinal with MPB VFL laser software and light delivery
+cordwasquicklyremovedvialaminectomy.Parasagittal was regulated with a custom-made, TTL-controlled
+slices were cut at varying thicknesses that excluded gray acousto-optic modulator (Doric Lenses Inc., Quebec,
+matterandcontainedonlymyelinfromthelateralsideof Canada). Attenuation of the 592nm laser output below
+thespinalcord.SlicesweremaintainedinaCSFatroom 30mW was achieved with an in-line, custom-made neu-
+temperature (21–23(cid:5)C) until imaging. tral density filter box (Doric Lenses). All laser output
+The transmission of light through the myelinated intensities reported refer to light intensity output from
+slices was measured using a custom-made laser scanning a patch cable (200mm silica core, 0.22NA, Thor Labs,)
+microscope with a long working distance water used for connection to the epidural optic fiber as mea-
+immersed objective (40(cid:4)0.9NA, LUMPlanFI/IR, sured with a PM100 light meter (Thor Labs).
+Olympus, Japan). Spinal cord slices were illuminated Mechanical sensitization via peripheral stimulation
+by three laser beams: 473nm (MBL-FN, Changchun was induced in fiber implanted Na 1.8-ChR2 mice by
+v
+New Industries Optoelectronics Technology, China), stimulating the hind paw of anesthetized mice with
+594nm (Mambo, Cobolt, Sweden) with a typical aver- 488nm light at a low frequency (2Hz, 10ms pulses) for
+agedpowerof3to4mW.Imagingwasperformedbythe 20min as previously described.5 The light intensity used
+scanningofthesampleplacedonamicrocontrollerstage for peripheral sensitization was 4 to 5 times higher than
+(MPC-200, Sutter Instrument). The 473nm and 594nm peripheral threshold intensity. Anesthesia was induced
+lightwastransmittedthroughthetissueandmeasuredby with isoflurane at the minimum concentration required
+aphotodetector(818SiMetalWandDetector,Newport, to prevent paw withdrawal from peripheral light stimu-
+California,USA)fittedwitha0.8-mmdiameterpinhole. lus (approximately 1.8%). For epidural activation of
+The total power of the transmitted light (473nm and ChR2-expressing Na 1.8+ afferents, the behavioral
+v
+594nm) was recorded for different thickness of the threshold was determined as the lowest intensity of
+sample.Themeasuredtransmissionwasfitwithamono- light delivered via the epidural fiber that produced a
+exponentially decaying curve. behavioral response in the mice, such as twitching, flee-
+We used a schematic model to estimate the power ing,orvocalization.Thelightintensityusedforepidural
+of light at the fiber tip required to activate opsins in sensitization was 1.5 to 3 times higher than the behav-
+the spinal cord (Figure 3(c)). We assumed an area of ioral threshold, and this intensity induced robust behav-
+0.5mm(cid:4)0.5mm (approximately half a spinal segment ioral responses in non-anesthetized mice. Mechanical
+in length) on the top of each half of the spinal cord to sensitizationwasinducedinNa 1.8-ChR2micewithepi-
+v
+be irradiated by one-quarter of the output from the dural stimulation in anesthetized (1.8% isoflurane) and
+diffusive optic fiber tip. We accounted for the reduc- non-anesthetized mice with 488nm light at a low fre-
+tion in irradiation caused by scattering through myelin quency(2Hz,10mspulses)for20min.Fortestsofther-
+with the exponential fit of the empirically measured malandmechanicalsensitivityusingepiduraldeliveryof
+transmission of light through myelinated slices. We 592nm laser light, the laser was activated immediately
+then calculated the power output from the diffusive priortopresentationofeachthermalorvonFreystimu-
+tip of the optic fiber that would be required to activate lusandinactivatedimmediatelyafter.Eachpresentation
+opsins in the irradiated area using a threshold of acti- was separated by a minimum of 5min. Mice were accli-
+vation (EC ) of 0.3mW(cid:2)mm(cid:3)2 and 0.75mW(cid:2)mm(cid:3)2 matized to the connection of the patch cable and testing
+20
+for ChR2 and ArchT, respectively,17,18 using the environment for 1h prior to testing. The various optical
+formula: approaches used throughout the study are summarized
+in Table 1.
+Requiredpower ðmWÞ¼EC ðmW(cid:4)mm(cid:3)2Þ
+20
+(cid:4)irradiatedarea
+(cid:2) mm2(cid:3)
+Behavioral Experiments
+(cid:4)4=ð%transmissionthroughmyelinÞ
+Rotarod. Evoked motor performance was tested innaive,
+fiber-implanted,andnon-implantedC57BL/6miceusing
+a Rotarod (IITC Life Sciences, California, USA). Mice
+were tested at least two weeks after fiber implantation
+Optogenetic activation
+and all mice were age-matched. Rotation was started
+The frequency and intensity of the 488 nm laser (iBeam immediately after the mice were placed on the rotarod,
+Smart PT, Toptica Inc, Germany) used foractivation of andacceleratedfrom0to35RPMoveraperiodof100s.
+ChR2 was controlled directly through TopControl The latency to fall was measured and a cut-off time of
+Bonin et al. 7
+100swasset,butthecut-offwasnotreachedinanytrial. fiber tip was positioned between vertebral spines T13
+Trials were repeated five times per mouse separated by and L1, corresponding with spinal segments L4 through
+30min each. L616 (Figure 2(c)). The optic fiber was terminated in a
+diffusive tip to enable the diffusion of light ventrally,
+Novelcagebehavior. Spontaneousmotorbehavioroffiber- toward the spinal cord (Figure 3(a)). A diffusive tip
+implanted and non-implanted C57BL/6 mice was design was chosen for this purpose for its combination
+assessed by recording the activity of mice placed in a of robustness and simplicity.
+clean cage fitted with a food hopper, similar to their Theactivationofopsinsexpressedinafferentfiberterm-
+home cage, but empty of food and water. Mice were inalsandcellsofthespinalcorddorsalhornrequireslight
+tested at least two weeks after fiber implantation and fromtheopticfibertopassthroughthemyelinateddorsal
+allmicewereage-matched.Fourmiceweretestedsimul- surface of the spinal cord, which will scatter light and
+taneously with the experimenter out of the room using reducedorsalhornirradiance.Wefirstmeasuredthetrans-
+and behavior was captured using D-Link 942L network mission of light through various thicknesses of myelin to
+cameras and recorded with iSpy64 software. The mouse accountforscatteringoflightbymyelin(Figure3(b)).We
+behavior and distance traveled by the mice were foundthatthedegreeofscatteringisstronglydetermined
+automatically scored using HomeCageScan software bythethicknessofmyelinandthewavelengthoflight,with
+(CleverSys Inc, Virginia, USA) and the time spent in 96% to 99% attenuation of light intensity observed
+each behavior was totaled. The activity of mice was formyelinthicknessesof50to200mm.Wethenincorpo-
+binned into the behavioral categories of exploration ratedthesedataintoasimplemodelofspinalcordillumin-
+(dig, forage, sniff, rearing), hanging, and resting ation to estimate the total power of light at the fiber tip
+(no movement) behavior. required to activate spinal cord opsins (Figure 3(c)). We
+estimatedthatopsinsexpressedinafferentfibersthatenter
+Thermal sensitivity. Thermal sensitivity was assessed using the dorsal horn from the dorsal side and are therefore
+a Hargreaves thermal sensitivity apparatus (IITC Life verysuperficial(<50mm of myelin)willbeactivated with
+Sciences). Mice were placed on a 3/16th-inch thick a totalpoweroutputfromthe tipofthefiberofapproxi-
+glass floor warmed to 29(cid:5)C within small (8(cid:4)8cm) mately5to10mWforChR2and10to15mWforArchT
+Plexiglascubicles,andafocusedhigh-intensityprojector (Figure2(d)).Opsinsexpressedbyneuronsinthesuperfi-
+lamp beam was shone from below onto the mid-plantar cialdorsalhornrequirelighttotraverseapproximately100
+surface of the hind paw. For experiments with Na 1.8- to 150mm of myelin and therefore require approximately
+v
+ArchT mice, a 715-nm long-pass filter (Thor Labs) was 15to35mWofpoweroutputfromthetipofthefiberfor
+fittedtotheprojectortoavoidactivationofperipherally thresholdactivationofChR2,and25to40mWforthresh-
+expressed ArchT in nociceptive afferents. Light intensity oldactivationofArchT.
+during stimulation was adjusted to 75% of maximum The epidural implant was well tolerated in mice, with
+with the long-pass filter in place. In experiments with several mice retaining intact fibers and behavioral
+GAD2-ArchT mice, the long-pass filter was omitted responses to epidural light stimulation for up to six
+and stimulation light intensity was set to 20% of max- monthsafterimplantation.Todeterminewhethertheepi-
+imum.A30-swithdrawallatencywasset,andlatencyto duralopticfiberimpairedanimalmovement,wemeasured
+withdrawfromthestimuluswasmeasuredtothenearest evoked and spontaneous motor performance in the
+0.1s. Both hind paws were tested twice under each con- otarod assay and novel cage activity, respectively, of epi-
+dition and all results were averaged for each experimen- duralfiber-implantedandnon-implantedcontrolmice.In
+tal condition. the Rotarod assay, epidural fiber-implanted C57BL/6
+mice performed as well as non-implanted controls
+Mechanical sensitivity. Mechanosensitivity was measured (Figure 2(e)). Additionally, the total distance traveled as
+using the SUDO up-down method with von Frey hairs wellastheamountoftimespentactivelyexploring,climb-
+to estimate the 50% withdrawal threshold in pressure ing, and resting during a 1-h exposure to a novel home
+units (g(cid:2)mm(cid:3)2).19 Both hind paws were tested twice cage environment were similar between implanted and
+under each condition and results were averaged for non-implantedmice(Figure2(f)).Thesedatademonstrate
+each experimental condition. thattheepiduralfiberimplantdoesnotimpairevokedor
+spontaneous motor activity in mice.
+Three different optogenetic mouse lines were
+Results
+implanted with the optic fiber: mice expressing ChR2
+The epidural optic fiber consisted of a length of plastic in Na 1.8+ nociceptors (Na 1.8-ChR2 mice),5,13 mice
+v v
+opticalfiberandceramicferrulewithasmallcementbase expressing the inhibitory opsin ArchT in Na 1.8+ noci-
+v
+forfixationtotheskull(Figure2(a)and(b)).Thelength ceptors (Na 1.8-ArchT), and mice expressing ArchT in
+v
+and placement of the fiber was adjusted to ensure the GABAergic interneurons of the spinal cord dorsal horn
+8 Molecular Pain 0(0)
+(GAD2-ArchT; Table 1). We first sought to use the epi- following the delivery of 592nm light intensities at up
+dural optic fiber to activate sensory afferents and induce to 200mW at the fiber tip (data not shown). Of interest,
+sensory plasticity in freely behaving Na 1.8-ChR2 mice spinaldeliveryoforangelightdidnotchangethethermal
+v
+(Figure4(a)).ThespinaldeliveryofbluelighttoNa 1.8- sensitivityofGAD-ArchTmice(Figure4(i)).Thesefind-
+v
+ChR2 mice implanted with the epidural optic fiber ings are consistent with the recent report that the per-
+produced robust nocifensive behavior (Figure 4(b)). manent ablation of dynorphin-expressing GABAergic
+Notably, the mechanical withdrawal threshold of and glycinergic interneurons in the dorsal horn select-
+Na 1.8-ChR2 mice did not change after implantation ivelyinduceshyperalgesiatomechanicalbutnotthermal
+v
+of the fiber compared to preimplantation withdrawal stimuli.20 Our results extend these findings by indicating
+thresholds in the same mice, indicating the fiber that acute, optogenetic inhibition of inhibitory inter-
+implant does not cause mechanical hyperalgesia by neurons in the dorsal horn is sufficient to transiently
+itself (Figure 4(c)). Additionally, we confirmed that pro- and reversibly induce mechanical hyperalgesia.
+longed, low-frequency peripheral stimulation with blue We next tested whether optogenetic inhibition of
+light (488nm) applied to the hind paw under anesthesia Na 1.8+ afferents at the spinal level could effectively
+v
+inducedlong-lastingmechanicalhyperalgesiainepidural suppress nociception. In Na 1.8-ArchT mice with epi-
+v
+fiber-implanted Na 1.8-ChR2 mice as compared to duralfiberimplanted(Figure4(j)),theacutespinaldeliv-
+v
+implantedNa 1.8-ChR2micemicethatreceivedanesthe- ery of orange (592nm) light prolonged the withdrawal
+v
+sia but no stimulation (Figure 4(d)). latency to noxious thermal stimulation, demonstrating a
+We next sought to determine whether the prolonged suppressionofnociception(Figure4(k)).Conversely,the
+activation of Na 1.8 afferents at the spinal level via the thermal withdrawal thresholds of epidural-fiber
+v
+epidural fiber can induce mechanical hypersensitivity. implantedC57BL/6miceusedascontrolswerenotmod-
+We first tested the effect of epidural stimulation of ifiedbythespinaldeliveryoforangelightupthehighest
+Na 1.8 afferents in anesthetized mice. Compared to lightintensityused, indicatingthat thespinal deliveryof
+v
+non-stimulated controls, we found that epidural stimu- light itself is neither noxious nor analgesic (Figure 4(l)).
+lation produced long-lasting mechanical hyperalgesia
+(Figure 4(e)), similar to that produced by peripheral
+Discussion
+stimulation of the hind paw. Yet, one advantage of the
+epidural fiber is the ability to deliver light to the spinal Overall, these results demonstrate the broad utility of
+cord of freely behaving (non-anesthetized) animals. We epidural optogenetics for the study and manipulation
+next applied the same low-frequency epidural stimula- of sensory afferent and spinal cord sensory network
+tion paradigm (2Hz, 20min) in freely behaving Na 1.8- activity. The strategy employed here addresses key limi-
+v
+ChR2 mice and found that a similar hyperalgesia was tations of other approaches to sensory optogenetics
+observed following prolonged epidural light recently described.5,6,12 The epidural implant enables
+stimulation as compared to non-stimulated controls the concurrent delivery of any wavelength of light for
+(Figure 4(f)). The epidural fiber optogenetic paradigm completeoptogeneticcontrolofdefinedcellpopulations.
+thus enables the stable and well-controlled optogenetic The ability to couple the epidural fiber to laser light
+exploration of activity-induced hyperalgesia without the sources also enables the delivery of sufficiently strong
+potentially confounding effects of anesthesia. light intensities for the activation of inhibitory opsins
+To demonstrate the ability to optogenetically modu- such as ArchT as well as the modulation of intrinsic
+late intrinsic spinal cord circuits with the epidural optic spinal neurons. By extrapolating our irradiance model,
+fiber,weusedGAD2-ArchTmice(Figure4(g))toenable we predict that the epidural optic fiber design described
+the selective silencing of spinal inhibitory GABAergic here will enable sufficient irradiance for optogenetic
+interneurons. In these mice, the spinal delivery of manipulation of spinal cord neurons throughout the
+orange (592nm) light with the epidural fiber reduced dorsal horn. As with other methods to deliver light
+mechanical withdrawal thresholds (Figure 4(h)). directly to the spinal cord,12 the epidural optic fiber
+Notably, the power requirements we predicted would provides a method for the stable, controlled modulation
+be required to activate ArchT within the dorsal horn of sensory afferents in freely behaving animals.5,8 Yet,
+directly correspond with our behavioral observations because the epidural fiber is uniquely suitable for the
+for the mechanical hyperalgesia induced by inhibition activation of inhibitory opsins and the manipulation of
+of GABAergic interneurons. Additionally, the same intrinsic spinal cord neurons, this approach also enables
+orange light had no effect on the mechanosensitivity of the use of optogenetics in more complex behavioral
+Na 1.8-ChR2 control mice implanted with the fiber, assaysdesigned todissect theintegrationand processing
+v
+even though they exhibit nocifensive responses to epi- of sensory inputs.
+dural delivery of blue light, and no behavioral response Thetransientinductionofmechanicalbutnotthermal
+was seen in implanted C57BL/6 or Na 1.8-ChR2 hyperalgesia upon inhibition of GABAergic neurons
+v
+Bonin et al. 9
+Figure 4. Modulationof nociception throughoptogenetic controlof sensoryafferentsandspinal cord interneurons.(a) Schematic
+diagramofoptogeneticactivationofChR2-expressingNa1.8+afferentswithbluelightdeliveredbyepiduralopticfiber.(b)Lightintensity
+v
+thresholdsforbehaviouralresponseofNa1.8-ChR2miceto bluelightdeliveredviaepidural opticfiber. n¼9 mice.(c) Mechanical
+v
+withdrawalthresholdsofNa1.8-ChR2micebefore(Pre)andafter(Post)implantationoftheepiduralopticfiber.n¼9mice.(d)Reduction
+v
+ofmechanicalwithdrawalthresholdsofNa1.8-ChR2miceinducedthoughrepetitivestimulationofthehindpawventralsurfacewithblue
+v
+light(488nm)inmiceimmobilizedwithanesthesia.n¼7micepergroup.(e,f)ReductionofmechanicalwithdrawalthresholdsinNa1.8-
+v
+ChR2miceinducedthoughrepetitiveepiduralopticalstimulationwithbluelightimmobilizedwithanesthesia(e;n¼5micein0minand
+n¼6 micein20minstimulation groups)andinfreely-behaving,non-anesthetized animals (f;n¼7 micepergroup). (g)Schematic of
+optogeneticinhibitionofArchT-expressingGAD2+inhibitoryinterneuronsinthespinalcorddorsalhornwithorangelightdeliveredby
+epidural opticfiber.(h,i) Reduction of mechanical withdrawalthresholds(h; n¼7 GAD2-ArchT mice,n¼3Na1.8-ChR2mice) but not
+v
+thermalwithdrawallatencies(i;n¼6mice)viaepiduraldeliveryoforangelightinepiduralfiber-implantedGAD2-ArchTmice.(j)Schematic
+of optogeneticinhibition ofArchT-expressing Na1.8+afferents withorange lightdeliveredbyepidural optic fiber.(k,l) Reductionof
+v
+withdrawallatenciestonoxiousthermalstimulationviadeliveryoforange(592nm)lightinepiduralfiber-implantedNa1.8-ArchT(k;n¼4
+v
+mice) but not fiber-implantedC57BL/6 mice(l;n¼3 mice).
+10 Molecular Pain 0(0)
+parallelsresultsrecentlyobtainedthroughthepermanent Declaration of Conflicting Interests
+ablation of somatostatin-positive inhibitory neurons in The author(s) declared no potential conflicts of interest with
+the dorsal horn.20 These results, together, suggest that respect to the research, authorship, and/or publication of this
+thermal and mechanical hyperalgesia involve different article.
+changes in spinal cord sensory processing, with spinal
+GABAergic disinhibition primarily modulating mechan-
+ical sensitivity. However, the temporal fidelity of opto- Funding
+geneticsoffersaconsiderableadvantageoverablationor The author(s) disclosed receipt of the following financial sup-
+pharmacologicalinhibitionapproachestothebehavioral port for the research, authorship, and/or publication of this
+studies of spinal cord function.20,21 In particular, short- article: This work was supported by a Pfizer-Fonds de
+termoptogeneticsilencingavoidspossibledevelopmental recherche Quebec-Sante (FRQS) Innovation Fund Award to
+or compensatory changes that may accompany perman- YDK, a Canadian Institutes of Health Research grant MOP
+ent ablation, as observed in the spontaneous partial 12942 to YDK, and the Catherine Bushnell Pain Research
+Fellowship from the Louise and Alan Edwards Foundation
+recovery of hyperalgesia induced by ablation of spinal
+cord glycinergic neurons.22 to RPB.
+Finally, our epidural fiber implant also provides an
+important demonstration of the utility of epidural opti-
+References
+calapproachesforpossiblefutureuseinclinicalsettings.
+Chronic, epidural, or intrathecal probes are routinely 1. Todd AJ. Neuronal circuitry for pain processing in the
+dorsalhorn. NatRev Neurosci 2010; 11:823–836.
+used for spinal drug delivery or electrical stimulation in
+2. Prescott SA, Ma Q and De Koninck Y. Normal and
+pain.Whilemanyhurdlesstillremain,thetransfectionof
+abnormal coding of somatosensory stimuli causing pain.
+peripheral nerves to enable optogenetic control of neur-
+Nat Neurosci2014; 17: 183–191.
+onal activity in humans is a distinct future possibil-
+3. BrazJ,SolorzanoC,WangX,etal.Transmittingpainand
+ity.23,24 Our results demonstrate the potential of using
+itchmessages:acontemporaryviewofthespinalcordcir-
+epidural or intrathecal optic fibers for the optogentic
+cuitsthatgenerategatecontrol.Neuron2014;82:522–536.
+control of specific sensory afferents as a therapeutic 4. DevorM.EctopicdischargeinAbetaafferentsasasource
+approach for the treatment of sensory disorders in of neuropathicpain. Exp BrainRes2009; 196: 115–128.
+humans. 5. Daou I, Tuttle AH, Longo G, et al. Remote optogenetic
+activation and sensitization of pain pathways in freely
+moving mice. JNeurosci 2013; 33: 18631–18640.
+Conclusions
+6. Iyer SM, Montgomery KL, Towne C, et al. Virally
+Theepiduralopticfiberdescribedhereprovidesarobust mediated optogenetic excitation and inhibition of pain in
+freely moving nontransgenic mice. Nat Biotech 2014; 32:
+and powerful solution for spinal optogenetics that
+274–278.
+enables activation of both excitatory and inhibitory
+7. Wang H and Zylka MJ. Mrgprd-expressing polymodal
+opsins insensory processing pathways. Our results dem-
+nociceptive neurons innervate most known classes of
+onstratethepotentialofspinaloptogeneticstomodulate
+substantia gelatinosa neurons. J Neurosci 2009; 29:
+sensory behavior and produce analgesia in freely behav-
+13202–13209.
+ing animals.
+8. BoninRPandDeKoninckY.Aspinalanalogofmemory
+reconsolidation enables reversal of hyperalgesia. Nat
+Neurosci 2014; 17: 1043–1045.
+Author contributions 9. HonsekSD,SealRPandSandkuhlerJ.Presynapticinhib-
+RPB,FW,MDC,andMEBconductedbehavioralandinvitro itionofoptogeneticallyidentifiedVGluT3þsensoryfibres
+experiments and analyzed data. RPB, AG, and DCC created byopioids andbaclofen. Pain2015; 156:243–251.
+andanalyzedthephysicalmodelofthespinalcord.RPB,FW, 10. HagglundM,DoughertyKJ,BorgiusL,etal.Optogenetic
+AG, DCC, and YDK designed all experiments. RPB, DCC, dissectionrevealsmultiplerhythmogenicmodulesunderly-
+AG, and YDK wrote the manuscript. All authors reviewed ing locomotion. Proc Natl Acad Sci USA 2013; 110:
+andapproved thefinal manuscript. 11589–11594.
+11. Wyart C, Del Bene F, Warp E, et al. Optogenetic dissec-
+tionofabehaviouralmoduleinthevertebratespinalcord.
+Acknowledgments
+Nature 2009; 461:407–410.
+TheauthorsthankRohiniKunerforgenerouslyprovidingthe 12. Montgomery KL, Yeh AJ, Ho JS, et al. Wirelessly pow-
+Na 1.8-Cre mice; Nicolas Lapointe, Behrang Sharif, and ered, fully internal optogenetics for brain, spinal and per-
+v
+Jimena Perez-Sanchez for their assistance with the figures; ipheralcircuits in mice. NatMethods2015; 12: 969–974.
+Yoan LeChasseur and Anne-Marie Roy for their advice on 13. AgarwalN,OffermannsSandKunerR.Conditionalgene
+the design of the optic fiber; and Modesto R. Peralta III for deletioninprimarynociceptiveneuronsoftrigeminalgang-
+his inputonthe surgical method. lia anddorsalrootganglia. Genesis2004; 38: 122–129.
+Bonin et al. 11
+14. Shields SD, Ahn HS, Yang Y, et al. Na 1.8 expression is nociception in rodents using von Frey filaments. Mol
+v
+not restricted to nociceptors in mouse peripheral nervous Pain2014; 10: 26.
+system. Pain2012; 153:2017–2030. 20. DuanB,ChengL,BouraneS,etal.Identificationofspinal
+15. VrontouS,WongAM,RauKK,etal.Geneticidentifica- circuitstransmittingandgatingmechanicalpain.Cell2014;
+tion of C fibres that detect massage-like stroking of hairy 159: 1417–1432.
+skinin vivo. Nature2013; 493: 669–673. 21. Petitjean H, Pawlowski SA, Fraine SL, et al. Dorsal horn
+16. Harrison M, O’Brien A, Adams L, et al. Vertebral land- parvalbumin neurons are gate-keepers of touch-evoked
+marksfortheidentificationofspinalcordsegmentsinthe pain afternerveinjury. Cell Rep 2015; 13:1246–1257.
+mouse. NeuroImage 2013; 68:22–29. 22. Foster E, Wildner H, Tudeau L, et al. Targeted ablation,
+17. Han X, Chow BY, Zhou H, et al. A high-light sensitivity silencing, and activation establish glycinergic dorsal horn
+optical neural silencer: development and application to neurons as key components of a spinal gate for pain and
+optogenetic control of non-human primate cortex. Front itch. Neuron 2015; 85:1289–1304.
+SystNeurosci 2011; 5:18. 23. Mallory GW, Grahn PJ, Hachmann JT, et al. Optical
+18. Lin JY, Lin MZ, Steinbach P, et al. Characterization of stimulation for restoration of motor function after spinal
+engineered channelrhodopsin variants with improved cord injury. MayoClin Proc2015; 90: 300–307.
+properties andkinetics. BiophysJ 2009; 96:1803–1814. 24. Williams JC and Denison T. From optogenetic technolo-
+19. Bonin RP, Bories C and De Koninck Y. A simplified giestoneuromodulationtherapies.SciTranslMed2013;5:
+up-down method (SUDO) for measuring mechanical 177ps6.

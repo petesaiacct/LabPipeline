@@ -1,0 +1,8 @@
+{
+  "year": null,
+  "author": null,
+  "keyword_string": null,
+  "source_pdf_path": "/Volumes/NVME2TB/projects/LabPipeline/data/raw/papers/2008_Bonin_GABAA_anesthesia.pdf",
+  "processed_text_path": "/Volumes/NVME2TB/projects/LabPipeline/data/processed/papers/text/2008_Bonin_GABAA_anesthesia.txt",
+  "extracted_title_heuristic": "Available online at www.sciencedirect.com"
+}

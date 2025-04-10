@@ -17,6 +17,10 @@ env/
 
 # Env Files
 .env
+secrets/
+config.py
+
+
 
 # Jupyter
 .ipynb_checkpoints/

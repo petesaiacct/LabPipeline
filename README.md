@@ -14,3 +14,11 @@ It leverages Retrieval-Augmented Generation (RAG), automated spreadsheet agents,
 ```bash
 python3.13 -m venv .venv
 source .venv/bin/activate
+
+## Environment Variables
+
+Copy `.env.example` to `.env` and populate it with your actual secrets:
+
+```bash
+cp .env.example .env
+

@@ -1,0 +1,428 @@
+1334 BiochemicalSocietyTransactions(2009)Volume37,part6
+The physiological properties and therapeutic
+α
+potential of -GABA receptors
+5 A
+LorenJ.Martin*,RobertP.Bonin†andBeverleyA.Orser†‡§1
+*InstituteofMedicalScience,UniversityofToronto,Toronto,Ontario,Canada,M5S1A8,†DepartmentofPhysiology,UniversityofToronto,Toronto,Ontario,
+Canada,M5S1A8,‡DepartmentofAnesthesia,UniversityofToronto,Toronto,Ontario,Canada,M5S1A8,and§DepartmentofAnesthesia,Sunnybrook
+HealthSciencesCentre,Toronto,Ontario,Canada,M4N3M5
+Abstract
+Thenotionthatdrugtreatmentscanimprovememoryperformancehasmovedfromtherealmofscience
+fiction to that of serious investigation. A popular working hypothesis is that cognition can be improved
+byalteringthebalancebetween excitatoryand inhibitoryneurotransmission. Thisreviewfocuses onthe
+unique physiological and pharmacological properties of GABA Rs [GABA (γ-aminobutyric acid) subtype A
+A
+receptors] that contain the α subunit (α -GABA R), as these receptors serve as candidate targets for
+5 5 A
+memory-enhancingdrugs.
+Introduction of neurons in the internal granule cell layer express α -
+5
+TheGABA A Rs[GABA(γ-aminobutyricacid)subtypeAre- GABA A Rs[6].Thefunctionofα 5 -GABA A Rsinthisregion
+ceptors] belong to the cysteine-loop family of ligand-gated remainsunknown.Otherregionsthatexpresstheα 5 subunit
+receptors,whichalsoincludesthenicotinicacetylcholinere- include the neocortex [7], subiculum [8] and substantia
+ceptor, glycine receptor, glutamate-gated ion channel, zinc- gelatinosa [9]; this subunit is also found in sympathetic
+gated ion channel and ionotropic serotonin receptor [1]. preganglionicneurons[10].
+GABA A Rs are membrane-spanning proteins that surround Studies from our laboratory have shown that α 5 -
+a central pore to form an ion channel in the membrane. GABA A Rs generate tonic inhibitory conductance in CA1
+Each GABA R is assembled as a pentamer from a pool of hippocampalpyramidalneurons[11].Thistonicconductance
+A
+19 different subunits (α 1−6 , β 1−3 , γ 1−3 , δ, ε, π, θ, ρ 1−3 ) [2]. issignificantlyreducedinnullmutantmicethathaveagenetic
+Thecombinationofsubunitsisspecific,andthemajorityof
+deletionofthegenethatencodestheα
+5
+subunit(Gabra5−/−
+nativereceptorsinthemammalianbraincontainα ,β and mice);however,spontaneoussynapticGABAergicinhibition
+1 2
+γ subunits in a 2:2:1 stoichiometry [3]. Distinct isoforms remains unchanged [11]. The tonic conductance is sensitive
+2
+of GABA Rs have different developmental, physiological to midazolam [12], but not to zolpidem [11], which is
+A
+andpharmacologicalpropertiesandarelocalizedtospecific consistent with the presence of α 5 and γ subunits [13].
+brain regions and subcellular compartments [4]. As we The α 5 -GABA A Rs display relatively high sensitivity to
+discuss below, GABA Rs that contain the α subunit (α - GABA, and they display slower desensitization kinetics
+A 5 5
+GABA A Rs)generateatonicformofinhibition,areexpressed thanconventionalsynapticGABA A Rs[11,14].Accordingly,
+mainlyinextrasynapticlocationsandplayaroleinmodifying low ambient concentrations of GABA in the extracellular
+learningandmemorybehaviors. spacearethoughttoactivateaproportionofthesereceptors
+andgeneratetonicinhibitoryconductance[15].α -GABA -
+5 A
+R-generated tonic conductance has also been reported in
+Receptor distribution, function and corticalneurons[16],dopaminergicneuronsofthestriatum
+pharmacology [17]andneuronsintheintermediolateralcellcolumninspinal
+The distribution of α -GABA Rs is relatively sparse and cordslicesfromrats[10].Recombinantα 5 β 3 γ 2 receptorshave
+5 A
+pharmacologicalpropertiessimilartothoseofreceptorsthat
+compartmentalized in the mammalian brain [5]. In total,
+approx.5%ofGABA Rscontaintheα subunit[6],although generatetoniccurrentinCA1hippocampalneurons[11,18],
+A 5
+suggestingthatthisisthepredominantcombinationofsub-
+in the hippocampus, 20–25% of GABA Rs contain this
+A
+subunit [6]. The α subunit is predominantly localized to units in the hippocampus. Additionally, mass spectrometry
+5 identified that the α subunit associates with multiple α, β
+the stratum radiatum and stratum oriens of the CA1 and 5
+CA3 regions [5]. The distribution of the α subunit is also andγ subunits,butmostfrequentlytheβ 3 subunit[19].
+5
+Immunocytochemistry and in situ hybridization studies
+exceptionally high in the olfactory bulb [5], where 35%
+have indicated that α -GABA Rs are localized mainly, but
+5 A
+Key words: benzodiazepine, brain, conductance, γ-aminobutyric acid subtype A receptor not exclusively, to extrasynaptic regions of neurons [20–
+(GABAAR),hippocampalpyramidalneuron,long-termpotentiation(LTP). 22].Immunogoldstainingofthehippocampusshowedthat
+Abbreviationsused:GABA,γ-aminobutyricacid;GABAAR,GABAsubtypeAreceptor;LTP,long- α -GABA Rs were located on the dendrites of pyramidal
+termpotentiation.. 5 A
+1Towhomcorrespondenceshouldbeaddressed(emailbeverley.orser@utoronto.ca). neurons in the CA1 region of the rat hippocampus and
+(cid:2)CTheAuthorsJournalcompilation(cid:2)C2009BiochemicalSociety Biochem.Soc.Trans.(2009)37,1334–1337;doi:10.1042/BST0371334
+Downloaded
+from
+http://portlandpress.com/biochemsoctrans/article-pdf/37/6/1334/546961/bst0371334.pdf
+by University
+of
+Toronto
+user
+on
+02
+April
+2025
+NeuronalGlutamateandGABAAReceptorFunctioninHealthandDisease 1335
+cerebral cortex [23]. The clustering of α -GABA Rs is [29], although this finding has not been replicated [36,37].
+5 A
+regulatedbythebindingofradixin,anactin-bindingprotein Furthermore, Gabra5−/− mice and α H105R mutant mice
+5
+that anchors receptors to the cytoskeleton, to the activated show improved performance in the trace fear conditioning
+formofthereceptor[24]. paradigmbutperformsimilarlytowild-typemiceinthenon-
+The results of several electrophysiological studies sug- hippocampus-dependent cued fear conditioning protocol
+gest that α -GABA Rs also generate transient inhibitory [22,37].
+5 A
+synaptic potentials [25–27]. In neocortical pyramidal cells, Anumberofdrugshavebeendevelopedthathaveagreater
+a proportion of synaptic GABAergic events are reduced affinity for, or selective activity at, α -GABA Rs than for
+5 A
+by the α -GABA R-selective inverse agonist α IA [28]. other GABA R subtypes. These drugs include L-655,708,
+5 A 5 A
+Inhibitory postsynaptic potentials generated by bistratified Ro15-4513, RY 080, RY 023 and RY 024 [38,39], which
+interneuronswerepotentiatedbydiazepambutnotenhanced may improve memory with a relatively low occurrence of
+by zolpidem, which is consistent with an α -GABA R side effects [40]. Inverse agonists with selective binding or
+5 A
+subtype[26].Additionally,α -GABA Rsmaycontributeto preferredefficacyforα -GABA Rsinhibitreceptoractivity
+5 A 5 A
+synapticGABAergiceventswithslowkineticsincorticaland allosterically via the benzodiazepine-binding site. The α -
+5
+hippocampalpyramidalneurons[27].Inhippocampalslices GABA R-function inverse agonist α IA improves water
+A 5
+preparedfromGabra5−/−mice,theamplitudeanddecaytime mazelearningandsynapticplasticity[41].Invivo,thisdrug
+courseoftheevokedinhibitorypostsynapticcurrentswere has no apparent convulsant, proconvulsant, or anxiogenic
+reduced,whichsuggeststhatdeletionofα -GABA Rsmay properties[41].Furthermore,ananalogueofα IA,α IA-II,
+5 A 5 5
+reduce synaptic inhibition [29]. In contrast, inhibiting α - regulatesencodingandrecallbutnotconsolidationofspatial
+5
+GABA Rs with low concentrations of the benzodiazepine information[42].Theadministrationofα IA-IIeitherbefore
+A 5
+inverse agonist L-655,708 did not alter spontaneous IPSCs training or immediately before memory-testing improved
+(inhibitory postsynaptic currents) in the CA1 and CA3 the performance of rats in the water maze, whereas α IA-
+5
+regions of the hippocampus, suggesting that spontaneous IIinjectedfollowingtraininghadnoeffect.Administration
+synapticcurrentsarenotreadilyinfluencedbyα -GABA R ofL-655,708reducedthetimerequiredtofindtheplatform
+5 A
+activity[11,30]. intheMorriswatermazeandtheamountoftimespentinthe
+Finally, α -GABA R activity can reduce neuronal excit- correctquadrantduringtheprobetrial[43].
+5 A
+abilitybyshuntingmechanismsand/orchangesinmembrane Inhibitors of α -GABA Rs may be clinically important
+5 A
+potential [31]. In the hippocampus, α -GABA R activity for the reversal of memory blockade induced by other
+5 A
+reduces the excitability of individual pyramidal neurons drugs. For example, the general anesthetics etomidate [36]
+[31] and networks of neurons [32] as well as the power andisoflurane[44]robustlyincreaseα -GABA R-mediated
+5 A
+of network oscillations [33]. The regulation of network tonic conductance. This action probably contributes to the
+excitability may contribute to α -GABA R regulation of drugs’amnesicproperties[36,45].Notably,Gabra5−/−mice
+5 A
+hippocampus-dependentbehaviouralprocesses. areresistanttotheamnesicpropertiesofetomidate[36],and
+L-655,708preventsmemoryblockadebyetomidateinwild-
+typemice[37].Inhumanvolunteers,thememory-blocking
+Learning, memory and α 5 -GABA A Rs effectsofethanolontherecallofwordlistswerereversedby
+The concept that a decrease in GABA R activity modifies α IA-II[46],althoughtheeffectsofα IA-IIaloneonmemory
+A 5 5
+learningandmemoryisnotnew,becauseitiswell-recognized performancewerenotdemonstrated.Furthermore,memory
+that bicuculline, a non-selective competitive antagonist of impairmentcausedbythemuscarinicantagonistscopolamine
+GABA Rs, enhances memory performance [34]. Similarly, canbereversedwithBiRY-080,anovelinverseagonistwith
+A
+non-selective inverse agonists for the benzodiazepine site 130-foldselectivityforα -GABA Rs[47].Inverseagonists
+5 A
+have been shown to enhance cognitive performance in includingL-655,708andα IAarenotcurrentlyavailablefor 5
+animal models [35]. However, these drugs have anxiogenic, clinicaluse;nevertheless,thesedrugscanserveasprototypes
+convulsant and proconvulsant properties that limit their fordrugdevelopment.
+clinicalutility[35].Akeyquestioniswhetherα -GABA Rs The molecular substrate for hippocampus-dependent
+5 A
+can be targeted by subtype-selective drugs to modulate learning and memory is thought to be the strengthening
+memory without the adverse consequences of a global of synaptic connectivity, and brain slices have been used
+decreaseinGABAergicinhibition. to study plasticity in hippocampal networks. LTP (long-
+Two mouse models, the Gabra5−/− mouse [29] and a term potentiation) of excitatory synaptic transmission in
+point mutant (α H105R) mouse with reduced expression CA1 pyramidal neurons following stimulation of Schaffer
+5
+of α -GABA Rs [22], have been used extensively to collaterals is increased by non-selective inhibition of
+5 A
+study the role of α -GABA Rs in cognition. Both GABA Rs [48]. Interestingly, hippocampal slices obtained
+5 A A
+types of mice have normal lifespans, breed normally and fromGabra5−/−miceandα H105Rmiceshowednodiffer-
+5
+exhibit no overt compensatory change in other GABA R encesinsynapticplasticityafterhigh-frequencystimulation,
+A
+subtypes. Initial studies showed that Gabra5−/− mice despite enhanced memory behaviours [22,29]. In contrast,
+display enhanced acquisition in the matching-to-place application of L-655,708 and α IA to brain slices prepared
+5
+version of the hippocampus-dependent water maze task fromratsataconcentrationthatinducespreferentialbinding
+(cid:2)CTheAuthorsJournalcompilation(cid:2)C2009BiochemicalSociety
+Downloaded
+from
+http://portlandpress.com/biochemsoctrans/article-pdf/37/6/1334/546961/bst0371334.pdf
+by University
+of
+Toronto
+user
+on
+02
+April
+2025
+1336 BiochemicalSocietyTransactions(2009)Volume37,part6
+to α 5 -GABA A Rs increased the LTP induced by theta burst 12 Bai,D.,Zhu,G.,Pennefather,P.,Jackson,M.F.,MacDonald,J.F.andOrser,
+stimulation [41,43]. These conflicting results suggest that, B.A.(2001)Distinctfunctionalandpharmacologicalpropertiesoftonic
+although α -GABA Rs may play an important role in the
+andquantalinhibitorypostsynapticcurrentsmediatedbyγ-aminobutyric
+5 A acidAreceptorsinhippocampalneurons.Mol.Pharmacol.59,814–824
+pharmacologicalenhancementofLTP,theirroleinbaseline 13 Pritchett,D.B.andSeeburg,P.H.(1990)γ-AminobutyricacidAreceptor
+plasticityLTPmaybesmaller. α 5-subunitcreatesnoveltypeIIbenzodiazepinereceptorpharmacology.
+On a final note, although α -GABA Rs appear to play J.Neurochem.54,1802–1804
+5 A 14 Brickley,S.G.,Revilla,V.,Cull-Candy,S.G.,Wisden,W.andFarrant,M.
+animportantphysiologicalroleinthelearningandmemory (2001)Adaptiveregulationofneuronalexcitabilitybya
+process,thesereceptorsmayalsocontributetopathological voltage-independentpotassiumconductance.Nature409,88–92
+conditions, including ethanol addiction [49], schizophrenia
+15 Glykys,J.andMody,I.(2007)ActivationofGABAAreceptors:viewsfrom
+outsidethesynapticcleft.Neuron56,763–770
+[50],autism[51]andepilepsy[52].Althoughtherearemajor 16 Yamada,J.,Furukawa,T.,Ueno,S.,Yamamoto,S.andFukuda,A.(2007)
+discrepancies that must still be addressed, α
+5
+-GABA
+A
+Rs MolecularbasisfortheGABAAreceptor-mediatedtonicinhibitioninrat
+somatosensorycortex.Cereb.Cortex17,1782–1787
+will undoubtedly remain at the forefront of studies aimed
+17 Ade,K.K.,Janssen,M.J.,Ortinski,P.I.andVicini,S.(2008)Differential
+at understanding the cellular basis of memory and the tonicGABAconductancesinstriatalmediumspinyneurons.J.Neurosci.
+developmentofmemory-modifyingdrugs. 28,1185–1197
+18 Burgard,E.C.,Tietz,E.I.,Neelands,T.R.andMacdonald,R.L.(1996)
+Propertiesofrecombinantγ-aminobutyricacidAreceptorisoforms
+Funding containingtheα 5subunitsubtype.Mol.Pharmacol.50,119–127
+19 Ju,Y.H.,Guzzo,A.,Chiu,M.W.,Taylor,P.,Moran,M.F.,Gurd,J.W.,
+MacDonald,J.F.andOrser,B.A.(2009)Distinctpropertiesofmurineα
+5
+ThisresearchwassupportedbyoperatinggrantsfromtheCanadian γ-aminobutyricacidtypeAreceptorsrevealedbybiochemical
+Institutes of Health Research, Ottawa, Ontario, Canada [grant fractionationandmassspectroscopy.J.Neurosci.Res.87,
+1737–1747
+numbers MOP 79428 and MOP 38028 to B.A.O.], a Canada
+20 Brunig,I.,Scotti,E.,Sidler,C.andFritschy,J.M.(2002)Intactsorting,
+Research Chair Award in Anesthesia, Ottawa, Ontario, Canada (to targeting,andclusteringofγ-aminobutyricacidAreceptorsubtypesin
+B.A.O), Canadian Institutes of Health Research Canadian Graduate hippocampalneuronsinvitro.J.Comp.Neurol.443,43–55
+Scholarship, Ottawa, Ontario, Canada (to L.J.M.) and a Natural
+21 Christie,S.B.anddeBlas,A.L.C.A.(2002)α 5subunit-containingGABAA
+receptorsformclustersatGABAergicsynapsesinhippocampalcultures.
+Sciences and Engineering Graduate Scholarship, Ottawa, Ontario, NeuroReport13,2355–2358
+Canada(toR.P.B). 22 Crestani,F.,Keist,R.,Fritschy,J.M.,Benke,D.,Vogt,K.,Prut,L.,
+Bluthmann,H.,Mohler,H.andRudolph,U.(2002)Tracefearconditioning
+involveshippocampalα 5GABAAreceptors.Proc.Natl.Acad.Sci.U.S.A.
+99,8980–8985
+23 Serwanski,D.R.,Miralles,C.P.,Christie,S.B.,Mehta,A.K.,Li,X.andDe
+References Blas,A.L.(2006)SynapticandnonsynapticlocalizationofGABAA
+1 Sine,S.M.andEngel,A.G.(2006)RecentadvancesinCys-loopreceptor
+receptorscontainingtheα 5subunitintheratbrain.J.Comp.Neurol.
+499,458–470
+structureandfunction.Nature440,448–455
+24 Loebrich,S.,Bahring,R.,Katsuno,T.,Tsukita,S.andKneussel,M.(2006)
+2 Whiting,P.J.,Bonnert,T.P.,McKernan,R.M.,Farrar,S.,LeBourdelles,B.,
+Heavens,R.P.,Smith,D.W.,Hewson,L.,Rigby,M.R.,Sirinathsinghji,D.J.
+ActivatedradixinisessentialforGABAAreceptorα 5subunitanchoringat
+theactincytoskeleton.EMBOJ.25,987–999
+r
+e
+e
+t
+c
+a
+e
+l
+p
+.
+t
+(
+o
+1
+r
+9
+g
+9
+e
+9
+n
+)
+e
+M
+f
+o
+a
+l
+m
+ec
+i
+u
+ly
+l
+.
+ar
+An
+an
+n
+d
+.N
+fu
+.Y
+n
+.
+c
+A
+ti
+c
+o
+a
+n
+d
+a
+.
+l
+S
+d
+c
+iv
+i.
+e
+8
+rs
+6
+i
+8
+ty
+,
+o
+6
+f
+45
+th
+–
+e
+65
+e
+3
+xpandingGABAA
+25 Ali,A.B.andThomson,A.M.(2008)Synapticα 5subunit-containing
+3 Fritschy,J.M.andMohler,H.(1995)GABAA-receptorheterogeneityinthe
+GABAAreceptorsmediateIPSPselicitedbydendrite-preferringcellsinrat
+neocortex.Cereb.Cortex18,1260–1271
+adultratbrain:differentialregionalandcellulardistributionofseven
+26 Thomson,A.M.,Bannister,A.P.,Hughes,D.I.andPawelzik,H.(2000)
+majorsubunits.J.Comp.Neurol.359,154–194
+4 Farrant,M.andNusser,Z.(2005)Variationsonaninhibitorytheme: DifferentialsensitivitytoZolpidemofIPSPsactivatedbymorphologically
+phasicandtonicactivationofGABAAreceptors.Nat.Rev.Neurosci.6, identifiedCA1interneuronsinslicesofrathippocampus.Eur.J.Neurosci.
+215–229 12,425–436
+5 Pirker,S.,Schwarzer,C.,Wieselthaler,A.,Sieghart,W.andSperk,G. 27 Zarnowska,E.D.,Keist,R.,Rudolph,U.andPearce,R.A.(2009)GABAA
+(2000)GABAAreceptors:immunocytochemicaldistributionof13 receptorα 5subunitscontributetoGABAA,slowsynapticinhibitionin
+subunitsintheadultratbrain.Neuroscience101,815–850 mousehippocampus.J.Neurophysiol.101,1179–1191
+6 Sur,C.,Fresu,L.,Howell,O.,McKernan,R.M.andAtack,J.R.(1999) 28 Ali,A.B.andThomson,A.M.(2008)Synapticα 5subunitcontaining
+Autoradiographiclocalizationofα 5subunit-containingGABAAreceptors GABAAreceptorsmediateIPSPselicitedbydendrite-preferringcellsinrat
+inratbrain.BrainRes.822,265–270 neocortex.Cereb.Cortex18,1260–1271
+7 Yu,Z.Y.,Wang,W.,Fritschy,J.M.,Witte,O.W.andRedecker,C.(2006) 29 Collinson,N.,Kuenzi,F.M.,Jarolimek,W.,Maubach,K.A.,Cothliff,R.,Sur,
+ChangesinneocorticalandhippocampalGABAAreceptorsubunit C.,Smith,A.,Otu,F.M.,Howell,O.,Atack,J.R.etal.(2002)Enhanced
+distributionduringbrainmaturationandaging.BrainRes.1099, learningandmemoryandalteredGABAergicsynaptictransmissionin
+73–81 micelackingtheα 5subunitoftheGABAAreceptor.J.Neurosci.22,
+8 Curia,G.,Papouin,T.,Seguela,P.andAvoli,M.(2009)Downregulationof 5572–5580
+tonicGABAergicinhibitioninamousemodeloffragileXsyndrome. 30 Glykys,J.,Mann,E.O.andMody,I.(2008)WhichGABAAreceptor
+Cereb.Cortex19,1515–1520 subunitsarenecessaryfortonicinhibitioninthehippocampus?
+9 Takahashi,A.,Mashimo,T.andUchida,I.(2006)GABAergictonic J.Neurosci.28,1421–1426
+inhibitionofsubstantiagelatinosaneuronsinmousespinalcord. 31 Bonin,R.P.,Martin,L.J.,MacDonald,J.F.andOrser,B.A.(2007)α5GABAA
+NeuroReport17,1331–1335 receptorsregulatetheintrinsicexcitabilityofmousehippocampal
+10 Wang,L.,Spary,E.,Deuchars,J.andDeuchars,S.A.(2008) pyramidalneurons.J.Neurophysiol.98,2244–2254
+TonicGABAergicinhibitionofsympatheticpreganglionicneurons: 32 Glykys,J.andMody,I.(2006)Hippocampalnetworkhyperactivityafter
+anovelsubstrateforsympatheticcontrol.J.Neurosci.28,
+selectivereductionoftonicinhibitioninGABAAreceptorα
+5
+12445–12452 subunit-deficientmice.J.Neurophysiol.95,2796–2807
+11 Caraiscos,V.B.,Elliott,E.M.,You-Ten,K.E.,Cheng,V.Y.,Belelli,D.,Newell, 33 Towers,S.K.,Gloveli,T.,Traub,R.D.,Driver,J.E.,Engel,D.,Fradley,R.,
+J.G.,Jackson,M.F.,Lambert,J.J.,Rosahl,T.W.,Wafford,K.A.etal.(2004) Rosahl,T.W.,Maubach,K.,Buhl,T.L.E.H.andWhittington,M.A.(2004)α 5
+TonicinhibitioninmousehippocampalCA1pyramidalneuronsis subunit-containingGABAAreceptorsaffectthedynamicrangeofmouse
+mediatedbyα 5subunit-containingγ-aminobutyricacidtypeA hippocampalkainate-inducedγ frequencyoscillationsinvitro.J.Physiol.
+receptors.Proc.Natl.Acad.Sci.U.S.A.101,3662–3667 559,721–728
+(cid:2)CTheAuthorsJournalcompilation(cid:2)C2009BiochemicalSociety
+Downloaded
+from
+http://portlandpress.com/biochemsoctrans/article-pdf/37/6/1334/546961/bst0371334.pdf
+by
+University
+of
+Toronto
+user
+on
+02
+April
+2025
+NeuronalGlutamateandGABAAReceptorFunctioninHealthandDisease 1337
+34 Brioni,J.D.andMcGaugh,J.L.(1988)Post-trainingadministrationof 44 Caraiscos,V.B.,Newell,J.G.,You-Ten,K.E.,Elliott,E.M.,Rosahl,T.W.,
+GABAergicantagonistsenhancesretentionofaversivelymotivatedtasks. Wafford,K.A.,MacDonald,J.F.andOrser,B.A.(2004)Selective
+Psychopharmacology96,505–510 enhancementoftonicGABAergicinhibitioninmurinehippocampal
+35 Bernston,G.,Sarter,M.,Ruland,S.,Hart,S.andRonis,V.(1996) neuronsbylowconcentrationsofthevolatileanestheticisoflurane.
+Benzodiazepinereceptoragonistsandinverseagonistsyieldconcordant J.Neurosci.24,8454–8458
+ratherthanopposingeffectsonstartleresponses.J.Psychopharmacol. 45 Simon,W.,Hapfelmeier,G.,Kochs,E.,Zieglgansberger,W.andRammes,
+10,309–312 G.(2001)Isofluraneblockssynapticplasticityinthemouse
+36 Cheng,V.Y.,Martin,L.J.,Elliott,E.M.,Kim,J.H.,Mount,H.T.J.,Taverna,F.A., hippocampus.Anesthesiology94,1058–1065
+Roder,J.C.,MacDonald,J.F.,Bhambri,A.,Collinson,N.etal.(2006) 46 Nutt,D.J.,Besson,M.,Wilson,S.J.,Dawson,G.R.andLingford-Hughes,
+α5GABAAreceptorsmediatetheamnesticbutnotsedative-hypnotic A.R.(2007)Blockadeofalcohol’samnesticactivityinhumansbyanα
+5
+effectsofthegeneralanestheticetomidate.J.Neurosci.26,3713–3720 subtypebenzodiazepinereceptorinverseagonist.Neuropharmacology
+37 Martin,L.J.,Oh,G.H.andOrser,B.A.(2009)Etomidatetargetsα 5 53,810–820
+γ-aminobutyricacidsubtypeAreceptorstoregulatesynapticplasticity 47 Harris,D.,Clayton,T.,Cook,J.,Sahbaie,P.,Halliwell,R.F.,Furtmuller,R.,
+andmemoryblockade.Anesthesiology111,1025–1035 Huck,S.,Sieghart,W.andDeLorey,T.M.(2008)Selectiveinfluenceon
+38 McKay,P.F.,Foster,K.L.,Mason,D.,Cummings,R.,Garcia,M.,Williams, contextualmemory:physiochemicalpropertiesassociatedwith
+L.S.,Grey,C.,McCane,S.,He,X.,Cook,J.M.andJune,H.L.(2004)Ahigh selectivityofbenzodiazepineligandsatGABAAreceptorscontainingthe
+affinityligandforGABAA-receptorcontainingα 5subunitantagonizes α 5subunit.J.Med.Chem.51,3788–3803
+ethanol’sneurobehavioraleffectsinLong–Evansrats. 48 Wigstrom,H.andGustafsson,B.(1983)Facilitatedinductionof
+Psychopharmacology172,455–462 hippocampallong-lastingpotentiationduringblockadeofinhibition.
+39 Quirk,K.,Blurton,P.,Fletcher,S.,Leeson,P.,Tang,F.,Mellilo,D.,Ragan, Nature301,603–604
+C.I.andMcKernan,R.M.(1996)[3H]L-655,708,anovelligandselective 49 Boehm,II,S.L.,Ponomarev,I.,Blednov,Y.A.andHarris,R.A.(2006)From
+forthebenzodiazepinesiteofGABAAreceptorswhichcontaintheα 5 genetobehaviorandbackagain:newperspectivesonGABAAreceptor
+subunit.Neuropharmacology35,1331–1335 subunitselectivityofalcoholactions.Adv.Pharmacol.54,171–203
+40 Maubach,K.(2003)GABAAreceptorsubtypeselectivecognition 50 Asai,Y.,Takano,A.,Ito,H.,Okubo,Y.,Matsuura,M.,Otsuka,A.,
+enhancers.Curr.DrugTargetsCNSNeurol.Disord.2, Takahashi,H.,Ando,T.,Ito,S.,Arakawa,R.etal.(2008)
+233–239 GABAA/benzodiazepinereceptorbindinginpatientswithschizophrenia
+41 Dawson,G.R.,Maubach,K.A.,Collinson,N.,Cobain,M.,Everitt,B.J., using[11C]Ro15–4513,aradioligandwithrelativelyhighaffinityforα 5
+MacLeod,A.M.,Choudhury,H.I.,McDonald,L.M.,Pillai,G.,Rycroft,W. subunit.Schizophr.Res.99,333–340
+etal.(2006)Aninverseagonistselectiveforα 5subunit-containing 51 McCauley,J.L.,Olson,L.M.,Delahanty,R.,Amin,T.,Nurmi,E.L.,Organ,
+GABAAreceptorsenhancescognition.J.Pharmacol.Exp.Ther.316, E.L.,Jacobs,M.M.,Folstein,S.E.,Haines,J.L.andSutcliffe,J.S.(2004)A
+1335–1345 linkagedisequilibriummapofthe1-Mb15q12GABAAreceptorsubunit
+42 Collinson,N.,Atack,J.R.,Laughton,P.,Dawson,G.R.andStephens,D.N. clusterandassociationtoautism.Am.J.Med.Genet.Sect.B
+(2006)Aninverseagonistselectiveforα 5subunit-containingGABAA Neuropsychiatr.Genet.131B,51–59
+receptorsimprovesencodingandrecallbutnotconsolidationinthe 52 Houser,C.R.andEsclapez,M.(2003)Downregulationoftheα 5subunit
+Morriswatermaze.Psychopharmacology188,619–628 oftheGABAAreceptorinthepilocarpinemodeloftemporallobe
+43 Atack,J.R.,Bayley,P.J.,Seabrook,G.R.,Wafford,K.A.,McKernan,R.M.and epilepsy.Hippocampus13,633–645
+Dawson,G.R.(2006)L-655,708enhancescognitioninratsbutisnot
+proconvulsantatadoseselectiveforα 5-containingGABAAreceptors. Received6July2009
+Neuropharmacology51,1023–1029 doi:10.1042/BST0371334
+(cid:2)CTheAuthorsJournalcompilation(cid:2)C2009BiochemicalSociety
+Downloaded
+from
+http://portlandpress.com/biochemsoctrans/article-pdf/37/6/1334/546961/bst0371334.pdf
+by
+University
+of
+Toronto
+user
+on
+02
+April
+2025

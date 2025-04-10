@@ -1,0 +1,944 @@
+JNeurophysiol98:2244–2254,2007.
+FirstpublishedAugust22,2007;doi:10.1152/jn.00482.2007.
+(cid:1)
+5GABA Receptors Regulate the Intrinsic Excitability of Mouse
+A
+Hippocampal Pyramidal Neurons
+Robert P. Bonin,1 Loren J. Martin,2 John F. MacDonald,1 and Beverley A. Orser1,2,3
+1DepartmentofPhysiologyand2InstituteofMedicalScience,UniversityofToronto;and3DepartmentofAnesthesia,SunnybrookHealth
+ScienceCenter,Toronto,Ontario,Canada
+Submitted27April2007;acceptedinfinalform17August2007
+Bonin RP, Martin LJ, MacDonald JF, Orser BA. (cid:1)5GABA subunithavebetterhippocampal-dependentlearningthanthose
+A
+receptors regulate the intrinsic excitability of mouse hippocampal with the subunit (Collinson et al. 2002). Furthermore, expres-
+pyramidalneurons.JNeurophysiol98:2244–2254,2007.Firstpub- sion of the (cid:1)5 subunit is unexpectedly reduced in transgenic
+lished August 22, 2007; doi:10.1152/jn.00482.2007. GABA A recep- mice expressing a point mutation of the (cid:1)5 subunit (H105R)
+torsgeneratebothphasicandtonicformsofinhibition.Inhippocam-
+palpyramidalneurons,GABA receptorsthatcontainthe(cid:1)5subunit
+(Crestanietal.2002).These(cid:1)5H105Rmiceshowenhanced
+A memory performance for trace fear conditioning. In addi-
+generateatonicinhibitoryconductance.Thephysiologicalroleofthis
+tonicinhibitionisuncertain,although(cid:1)5GABA receptorsareknown tion, inverse agonists that selectively inhibit the activity of
+toinfluencehippocampal-dependentlearningan A dmemoryprocesses. (cid:1)5GABA receptors improve memory performance in animal
+A
+Here we provide evidence that (cid:1)5GABA receptors regulate the models (Chambers et al. 2003). On the basis of these results,
+A
+strength of the depolarizing stimulus that is required to generate an compounds are now being developed that selectively inhibit
+action potential in pyramidal neurons. Neurons from (cid:1)5 knock-out (cid:1)5GABA receptor function for the purpose of enhancing
+((cid:1)5(cid:1)/(cid:1)) and wild-type (WT) mice were studied in brain slices and cognition A (Dawson et al. 2006; Sternfeld et al. 2004). An
+cellculturesusingwholecellandperforated-patch-clamptechniques. increasein(cid:1)5GABA receptoractivityhasbeenimplicatedin
+Membrane resistance was 1.6-fold greater in (cid:1)5(cid:1)/(cid:1) than in WT A
+the memory-impairing properties of benzodiazepines and vol-
+neurons,buttherestingmembranepotentialandchlorideequilibrium
+atileandinjectableanesthetics(Baietal.2001;Caraiscosetal.
+potential were similar. Membrane hyperpolarization evoked by an
+2004b;Chengetal.2006).However,themechanismsbywhich
+application of exogenous GABA was greater in WT neurons. Inhib-
+iting the function of (cid:1)5GABA A receptor with nonselective (picro- activation of (cid:1)5GABA A receptors constrains learning and
+toxin) or (cid:1)5 subunit-selective (L-655,708) compounds depolarized memory have not yet been elucidated.
+WTneuronsby(cid:2)3mV,whereasnochangewasdetectedin(cid:1)5(cid:1)/(cid:1) The distinct cellular distribution of (cid:1)5GABA receptors
+A
+neurons. The depolarizing current required to generate an action may contribute to their unique effects on behavior. The
+potentialwastwofoldgreaterinWTthanin(cid:1)5(cid:1)/(cid:1)neurons,whereas (cid:1)5GABA receptor subunit has a highly restricted pattern of
+A
+the slope of the input-output relationship for action potential firing distribution, being predominantly expressed in hippocampal
+was similar. We conclude that shunting inhibition mediated by pyramidal neurons where it is incorporated into (cid:2)20% of all
+(cid:1)5GABA receptorsregulatesthefiringofactionpotentialsandmay
+A GABA receptors (Sur et al. 1999). Immunocytochemical
+synchronize network activity that underlies hippocampal-dependent A
+studies have revealed an abundance of the (cid:1)5 subunit in the
+behavior.
+hippocampal CA1 region with lower levels of expression in
+CA2andCA3regions(FritschyandMohler1995;Pirkeretal.
+INTRODUCTION 2000; Serwanski et al. 2006; Sur et al. 1999; Wisden et al.
+1992).Stainingforthe(cid:1)5subunitwashomogenousacrossthe
+The ionotropic (cid:2)-aminobutyric acid (GABA) type A dendritic and cell body regions of the hippocampal formation
+(GABA ) receptor is the major inhibitory neurotransmitter (Prenosil et al. 2006). The (cid:1)5GABA receptor also shows
+A A
+receptor in the mammalian brain. GABA receptors are pen- distinct expression patterns at the subcellular level. Immuno-
+A
+tamericcomplexesthatcontainvariouscombinationsof(cid:1)1–6, fluorescence studies with light microscopy have shown that
+(cid:3)1–3, (cid:2)1–3, (cid:4), (cid:5)1–3, (cid:6), (cid:7), and (cid:8) subunits (Rudolph et al. (cid:1)5GABA receptors are primarily expressed in the extrasyn-
+A
+2001). A diverse array of GABA receptor subtypes occurs, apticregionsofpyramidalneurons(Brunigetal.2002;Christie
+A
+each with unique developmental and regional patterns of ex- et al. 2002; Crestani et al. 2002). Higher-resolution electron
+pression and distinct pharmacological and biophysical proper- microscopy studies have shown that some (cid:1)5GABA recep-
+A
+ties (for a review, see Whiting et al. 1999). The physiological tors are located in the peri-synaptic and synaptic regions of
+propertiesofregionallydistinctGABA receptorsareofgreat cultured pyramidal neurons (Serwanski et al. 2006). The rea-
+A
+interest because drugs that target specific receptor subtypes sons for and physiological importance of this pattern of sub-
+may offer potential therapeutic advantages. cellular distribution of (cid:1)5GABA receptors are unknown.
+A
+GABA receptors that contain the (cid:1)5 subunit are of partic- Increasingevidenceindicatesthatdistinctsubpopulationsof
+A
+ularinterestbecausethesereceptorshavebeenstronglyimpli- extrasynaptic GABA receptors generate a persistent tonic
+A
+cated in cognitive processes such as learning and memory. inhibition, whereas synaptic receptors generate inhibitory
+Genetically modified mice lacking the GABA receptor (cid:1)5 postsynaptic potentials (Semyanov et al. 2004). A tonic
+A
+Addressforreprintrequestsandothercorrespondence:B.A.Orser,Deptof Thecostsofpublicationofthisarticleweredefrayedinpartbythepayment
+Physiology, Rm. 3318, Medical Sciences Bldg., 1 King’s College Circle, ofpagecharges.Thearticlemustthereforebeherebymarked“advertisement”
+Toronto,OntarioM5S1A8,Canada(E-mail:beverley.orser@utoronto.ca). inaccordancewith18U.S.C.Section1734solelytoindicatethisfact.
+2244 0022-3077/07$8.00Copyright©2007TheAmericanPhysiologicalSociety www.jn.org
+Downloaded from journals.physiology.org/journal/jn (142.115.063.086) on April 2, 2025.
+(cid:1)5GABA RECEPTORS REGULATE NEURONAL EXCITABILITY 2245
+A
+GABAergic conductance has been identified in hippocampal (cid:1)5GABA receptors in neurons cause membrane hyperpolar-
+A
+pyramidal neurons in both dissociated cell culture (Bai et al. izationorshuntinginhibition?Thesequestionswereaddressed
+2001;Caraiscosetal.2004b)andslicemodels(Caraiscosetal. using patch-clamp recordings from pyramidal neurons in dis-
+2004a; Maguire et al. 2005; Stell and Mody 2002). We previ- sociated cultures and hippocampal slices.
+ouslyshowedthatthetonicconductanceinpyramidalneurons
+is predominantly generated by GABA receptors that contain
+A METHODS
+the(cid:1)5subunit(Caraiscosetal.2004a).Studiesusingneonatal
+Hippocampal cell culture and slice preparation
+mouse and rat hippocampal slices role have confirmed that
+extrasynaptic (cid:1)5GABA A receptors generate a tonic conduc- TheexperimentsreportedherewereapprovedbytheAnimalCare
+tance in pyramidal neurons (Cheng et al. 2006; Glykys and Committee of the University of Toronto. All experiments were con-
+Mody 2006; Marchionni et al. 2007; Prenosil et al. 2006). In ductedwithhippocampaltissueharvestedfrom(cid:1)5(cid:1)/(cid:1)orWTmice.
+contrast, (cid:1)5GABA receptors do not make a major contribu- The generation of the (cid:1)5(cid:1)/(cid:1) mice has been previously described
+A
+tion to GABA-mediated synaptic currents as indicated by the (Collinson et al. 2002). Briefly, all mice were of mixed genetic
+lackofdifferenceinminiatureinhibitorypostsynapticcurrents background (approximately half C57/BL6 and half 129SvEv), and
+between (cid:1)5 subunit knock out neurons ((cid:1)5(cid:1)/(cid:1)) and WT (cid:1)5(cid:1)/(cid:1) and WT mice were generated by crossing (cid:1)5(cid:3)/(cid:1) mice.
+Cultures of hippocampal neurons were prepared as previously de-
+neurons (Caraiscos et al. 2004a).
+scribed (MacDonald et al. 1989) from (cid:1)5(cid:1)/(cid:1) mice and WT litter-
+Fewstudiestodatehaveinvestigatedtheeffectsofreduced
+matesonpostnatalday1.Micewerekilledbydecapitation.Cellswere
+(cid:1)5GABA receptor function on the excitability of mature
+A maintainedinculturefor14–21daysbeforerecordings.Extracellular
+hippocampal pyramidal neurons. Field recordings in the CA3 solutions for cultured neurons contained (in mM): 140 NaCl, 1.3
+pyramidal layer have revealed differences in the frequency of CaCl ,2.0KCl,25HEPES,and33glucose;thepHwasadjustedto
+2
+spontaneous single-population “spike-like events” in slices 7.4with10NNaOHandtheosmolarityadjustedto300–310mosM
+from(cid:1)5(cid:1)/(cid:1)miceandcontrolmice(GlykysandMody2006). withsucrose.Theextracellularsolutionwasappliedtoneuronsbya
+Spontaneous epileptiform bursts were observed in slices from computer-controlled multi-barreled perfusion system (SF-77B;
+(cid:1)5(cid:1)/(cid:1) mice but not controls unless the extracellular concen- WarnerInstruments,Hamden,CT).
+trationsofK(cid:3)orMg2(cid:3)werealtered.Aresidualtonicconduc- Hippocampal slices were prepared from 3- to 6-wk-old WT and
+tanceidentifiedin(cid:1)5(cid:1)/(cid:1)pyramidalneuronswasgenerated,in
+(cid:1)5(cid:1)/(cid:1)miceaspreviouslydescribed(Caraiscosetal.2004a).Slices
+(350(cid:9)m)containingtransversehippocampalsectionswereplacedin
+part,by(cid:4)subunit-containingGABA receptors(Scimemietal.
+A ice-cold oxygenated (95% O -5% CO ) artificial cerebrospinal fluid
+2005). Others have studied gamma frequency oscillations 2 2
+(compositioninmM:124NaCl;3.0KCl,1.3MgCl ,2.6CaCl ,1.25
+evokedbytheapplicationofkainatein(cid:1)5(cid:1)/(cid:1)andWTslices
+NaH
+2
+PO
+4
+, 26 NaHCO
+3
+, and 10 D-glucose) adju
+2
+sted to 30
+2
+0–310
+(Towersetal.2004).Thepowerofthegammaoscillationswas mosM. The CA1 region was isolated from the CA3 region by a
+greater in (cid:1)5(cid:1)/(cid:1) than in WT slices, and interventions aimed surgical cut. Studies were performed in a submerged chamber, and
+at increasing the extracellular concentration of GABA were hippocampalCA1pyramidalneuronswerevisuallyidentifiedusinga
+moreeffectiveatreducingthepowerofgammaoscillationsin microscope equipped with differential interference contrast infrared
+WT than in (cid:1)5(cid:1)/(cid:1) slices. Pharmacological block of (cid:1)5- optics.
+mediated tonic inhibition altered the frequency of action po-
+tential firing in CA1 pyramidal neurons from rat slice (Mar- Electrophysiology
+chionni et al. 2007). However, a detailed analysis of the
+DatawereacquiredwithaMulticlamp700Bamplifier(Molecular
+mechanistic basis for (cid:1)5GABA receptor regulation of py-
+A Devices,Sunnyvale,CA)controlledwithpClamp9.0software(Mo-
+ramidal cell excitability that impacts network oscillation and lecular Devices) via a Digidata 1322 interface (Molecular Devices).
+memory behavior has not been reported. Membrane capacitance was measured using the membrane test pro-
+The results summarized in the preceding text raise several tocolinpClamp9.0.Accessresistancewasmonitoredthroughoutthe
+fundamental questions that must be answered if we are to experimentsbyapplyingabrief10-mVor10-pAhyperpolarizingstep
+understand how tonic inhibition regulates hippocampal func- during voltage- and current-clamp experiments, respectively. Cells
+tion. Do (cid:1)5GABA receptors alter the minimal depolarizing wereeliminatedfromfurtheranalysisiftheaccessresistancechanged
+A by(cid:4)20%.Theliquidjunctionpotentialandpipettecapacitancewere
+current required to generate an action potential or rheobase in
+corrected before establishing the whole cell configuration using
+pyramidalneurons?Doestheresidualtonicinhibitoryconduc-
+pClamp 9.0 software. Patch pipettes were pulled from thin-walled
+tancein(cid:1)5(cid:1)/(cid:1)pyramidalneuronsorsomeotherunidentified
+borosilicateglasscapillarytubesandhadopentipresistancesof3–5
+factor fully compensate and hence normalize pyramidal cell M(cid:5)whenfilledwithanintracellularsolutionthatcontained(inmM)
+firing?DeletionofagenethatencodesaGABA A subunitthat 140CsCl,10HEPES,10EGTA,4Mg-ATP,1CaCl 2 ,and5QX-314.
+underlies a tonic inhibitory conductance does not necessarily The pH was adjusted to 7.3 with CsOH and the osmolarity was
+lead to alteration in neuronal excitability. For example, cere- adjusted to 295–305 mosM. Whole cell currents were recorded with
+bellar-specific (cid:1)6(cid:4)subunit-containing GABA receptors gen- the holding potential clamped at (cid:1)60 mV except when indicated
+A
+erate a tonic conductance (Brickley et al. 1996). The tonic otherwise. We restricted our study to pyramidal neurons to measure
+conductance is reduced in cerebellar neurons from (cid:1)6 null theinfluenceof(cid:1)5GABA A receptoractivityonneuronalexcitability.
+Although a tonic GABAergic conductance has been identified in
+mutant mice; nevertheless, neuronal excitability is unchanged
+due to a compensatory increase in voltage-dependent K(cid:3) stratum radiatum and s. oriens interneurons from guinea pig hip-
+pocampi(Semyanovetal.2003)andinmurinedentategyrusgranule
+conductance (Brickley et al. 2001). Thus it is important to
+cells (Stell et al. 2003), it was primarily mediated by GABA
+determine if selective reduction in the function of (cid:1)5GABA A receptorsthatdidnotcontainthe(cid:1)5subunit.Theneuronculturesuse A d
+receptors (by either genetic manipulations or pharmacological inthisstudycontainedaheterogeneouspopulationofneuronsandglia
+inhibition) increase the intrinsic excitability of hippocampal cells.Weselectedpyramidalneuronsonthebasisofmorphology.The
+pyramidal neurons. Finally, does selective activation of pyramidalneuronsselectedwere15–20(cid:9)mindiameterwithpromi-
+JNeurophysiol•VOL98•OCTOBER2007•www.jn.org
+Downloaded from journals.physiology.org/journal/jn (142.115.063.086) on April 2, 2025.
+2246 R. P. BONIN, L. J. MARTIN, J. F. MacDONALD, AND B. A. ORSER
+nentapicaldendritesandpyramidalsomas.Thedurationoftheaction tocomparegroups.Thedecaywasconsideredtobemonoexponential
+potential,asmeasuredbythespikehalf-width,isadefiningfunctional whentau1wassimilartotau2(within10%)(Collinsonetal.2002).
+characteristicthatdistinguishespyramidalcellsfromothercelltypes Current-clamprecordingswereusedtomeasurerestingmembrane
+in the hippocampus. Pyramidal neurons generate action potentials potentialandevokedactionpotentials.Dataweresampledat50kHz
+with longer durations than those generated by interneurons (Lacaille andlow-passfilteredat10kHzusingan8-poleBesselfilter.Ahigh
+et al. 1987). Accordingly, we restricted our study population to sampling rate was employed to allow accurate determination of the
+timecourseofactionpotentials.Therestingmembranepotentialwas
+pyramidal neurons that generated action potentials with half-widths
+(cid:4)1ms. determinedasthepotentialmeasuredoverastable5-speriod.Mem-
+brane resistance, action potential threshold, and waveform of the
+Perforated-patch recordings were performed in some experiments
+actionpotentialsweremeasuredbyapplying2-pAincrementalcurrent
+by including gramicidin D (Sigma-Aldrich Canada, Oakville, ON,
+steps(250msat0.8Hz)withonecurrentsteppersweep.Theaction
+Canada)inthepatchpipettes.Thepipettesolutioncontained(inmM)
+potential threshold was defined as the inflection point in the voltage
+150 K-gluconate and 10 HEPES with the pH adjusted to 7.3 with
+preceding the action potential. The duration and frequency of the
+KOH.Theosmolarityofthesolutionwasadjustedto290–300mosM
+current steps were selected to minimize the opening of slowly acti-
+withsucrose.Gramicidinstocksolution(10mg/mlinmethanol)was
+vatingvoltage-gatedconductances.Actionpotentialsthatoccurredat
+diluted in K-gluconate solution to a final concentration of 50–100
+(cid:9)g/ml just before the experiment. The tip of the patch pipette was current steps that were 0, 2, and 4 pA above the threshold were
+averaged off-line and analyzed with Clampfit 9.0 (Molecular De-
+filledwithagramicidin-freeK-gluconatesolutionandwasbackfilled
+withthegramicidin-containingsolution.Ahigh-resistance(G(cid:5))seal vices). The frequency of action potentials could not be compared
+when current steps of equal magnitude were applied because of
+wasformedbetweentheelectrodeandthecellmembranebyapplying
+genotypic differences in the firing threshold. Accordingly, the slope
+gentle suction after the pipette touched the cell. The electrode was
+voltage clamped at (cid:1)60 mV, and membrane perforation was moni- of the input-output relationship (the gain) was studied by means of
+currentstepsthatvariedin20-pAincrements.Startingat40pAbelow
+tored by applying 10-mV hyperpolarizing pulses every 20 s. A
+perforated-patchwithanaccessresistanceof(cid:6)30M(cid:5)wasachieved threshold and increasing to 60 pA above threshold (at 1 step per
+within 30 min of establishing the G(cid:5) seal. Capacitive transients, sweep), six 2-s current steps were applied at 0.05 Hz. Membrane
+resistancewascalculatedusinglinearregressiontofittherelationship
+access resistance and leak conductance were carefully monitored
+between membrane potential at subthreshold levels and current am-
+throughouttheexperimentstoconfirmthestabilityoftheperforated-
+plitude.Thefrequencyofactionpotentialfiringateachcurrentlevel
+patch. To further confirm patch stability, the membrane patch was
+wasdeterminedandthegaincalculatedwiththeequationfrequency(cid:7)
+rupturedattheendoftherecording,whichcausedasuddenchangein
+slope(cid:1)(injectedcurrent–thresholdcurrent)(cid:3)frequencyatthreshold.
+capacitance and access resistance. For current-clamp experiments,
+patchpipetteshadopentipresistancesof4–6M(cid:5)whenfilledwithan The slope of this relationship (gain) was used for comparisons
+betweengenotypes.
+intracellular solution that contained (in mM) 145 K-gluconate, 5
+Na-gluconate,2KCl,10HEPES,1EGTA,4Mg-ATP,and1CaCl
+2
+withthepHadjustedto7.3withKOHandtheosmolarityadjustedto Statistics
+300–310mosMwithsucrose.
+StatisticalanalyseswereperformedusingPrism4(Graphpad,San
+Inallexperimentstheionotropicglutamateantagonists6-cyano-7-
+nitro-quinoxaline-2,3-dione (10 (cid:9)M) and 2-amino-4-phosphonova- Diego,CA).Statisticalcomparisonsused2-tailedpairedorunpaired
+lericacid(40(cid:9)M)wereaddedtotheextracellularsolution.Insome Studentt-testorone-wayANOVAfollowedbyTukey’sposthoctests
+where appropriate. A P value (cid:6)0.05 was considered significant. All
+experiments,tetrodotoxin(TTX;300nM;AlomoneLabs,Jerusalem,
+dataareshownasmeans(cid:8)SE.
+Israel) was added to the extracellular solution to block voltage-
+sensitive sodium channels. Aqueous stock solution of all drugs was
+preparedwithdistilledwaterexceptforL-655,708(Tocris,Ellisville, RESULTS
+MO), which was prepared in dimethyl sulfoxide. Concentrations of
+To determine whether the expression of (cid:1)5GABA recep-
+dimethylsulfoxideequivalenttothosepresentinthedrugsolutiondid A
+tors altered the passive properties of hippocampal pyramidal
+notaffectthetonicorsynapticcurrents.Alldrugsandchemicalswere
+purchasedfromSigma-AldrichCanadaexceptwhereindicatedother- neurons grown in dissociated cultures, membrane capacitance
+wise. and input resistance were measured in WT and (cid:1)5(cid:1)/(cid:1) neu-
+rons.Seriesresistancewastypically(cid:6)12M(cid:5)(9.6(cid:8)0.1M(cid:5),
+n(cid:7)28).Membranecapacitancewassimilarinthetwotypesof
+Data analysis neurons(39.3(cid:8)1.6pF,n(cid:7)16vs.37.8(cid:8)2.2pF,n(cid:7)17;P(cid:4)
+0.05). In contrast, membrane resistance measured under cur-
+Tonic current and spontaneous IPSCs (sIPSCs) were measured
+rent-clamp conditions was 1.6-fold greater in (cid:1)5(cid:1)/(cid:1) than in
+usingvoltage-clamptechniques.Voltage-clampdataweresampledat
+WTneurons(370(cid:8)10M(cid:5),n(cid:7)15vs.237(cid:8)8M(cid:5),n(cid:7)15;
+10 kHz and low-pass filtered at 2 kHz using an 8-pole Bessel filter.
+Theamplitudeofthetoniccurrentwasmeasuredasthedifferencein P (cid:6) 0.0001). Next, the amplitude of the tonic current in
+the holding current before and during application of the GABA cultured pyramidal neurons was studied using whole cell
+A
+receptor antagonist bicuculline methiodide (100 (cid:9)M) (Bai et al. voltage-clamp methods with CsCl-based intracellular fluid
+2001).Thisreductioninholdingcurrenthasbeenpreviouslyshownto (ICF). The GABA receptor antagonist bicuculline (100 (cid:9)M)
+not be a result of bicuculline inhibition of K(cid:3) channels (Bai et al. wasappliedandth A echangeinholdingcurrent(I )thatwas
+Hold
+2001). The root mean square (rms) of current noise was calculated required to maintain the membrane potential at (cid:1)60 mV
+from 30-s recorded segments that lacked miniature IPSCs (mIPSCs)
+was measured (Fig. 1A). Notably, a low-amplitude residual
+using MiniAnalysis 5.0 software (Synaptosoft, Decatur, GA). Spon- tonicconductancewas detected in(cid:1)5(cid:1)/(cid:1)neurons(WT:11.4
+taneousIPSCswererecordedintheabsenceofTTXusingagap-free
+pA(cid:8)1.2,n(cid:7)13vs.5.3(cid:8)0.9pA;n(cid:7)13;P(cid:6)0.05)ashas
+voltage-clampprotocol.Todeterminetheamplitudeandtimecourse
+been previously reported (Caraiscos et al. 2004a). The change
+of the sIPSCs, 25–75 events were randomly selected from each
+recording and analyzed using MiniAnalysis software as previously in I Hold , normalized to membrane capacitance, was 2.6-fold
+described (Yeung et al. 2003). Decay of IPSCs was fitted with a greater in WT than in (cid:1)5(cid:1)/(cid:1) neurons (0.42 (cid:8) 0.05 pA/pF,
+double-exponentialfunction,andaweightedtimeconstantwasused n(cid:7)13vs.0.16(cid:8)0.02pA/pF,n(cid:7)13,;P(cid:6)0.001;Fig.1B).
+JNeurophysiol•VOL98•OCTOBER2007•www.jn.org
+Downloaded from journals.physiology.org/journal/jn (142.115.063.086) on April 2, 2025.
+(cid:1)5GABA RECEPTORS REGULATE NEURONAL EXCITABILITY 2247
+A
+(0.40 (cid:8) 0.51 mV) was not significant (n (cid:7) 5; P (cid:4) 0.05). To
+studythespecificcontributionof(cid:1)5GABA receptors,the(cid:1)5
+A
+subunit-selective inverse agonist, L-655,708 was applied. A
+previous study showed that L-655,708 (50 (cid:9)M) attenuated a
+tonicconductanceinhippocampalpyramidalneurons,whereas
+postsynapticinhibitorycurrentswereunaffected(Caraiscosetal.
+2004a). L-655,708 (20 (cid:9)M) depolarized WT neurons by
+2.25(cid:8)0.48mV(n(cid:7)4;P(cid:6)0.01),whereasnochangeinV
+m
+wasdetectedin(cid:1)5(cid:1)/(cid:1)neurons(0.00(cid:8)0.41mVchange,n(cid:7)
+4; P (cid:4) 0.05; Fig. 1C). Picrotoxin and L-655,708 produced a
+similar change, which suggests that GABAergic regulation of
+V isprimarilydeterminedbythetonicconductanceunderthe
+m
+current experimental conditions.
+GABA receptors that generate a tonic conductance have a
+A
+higher affinity for GABA than those that underlie inhibitory
+postsynaptic currents (Semyanov et al. 2004). (cid:1)5GABA re-
+A
+ceptorsshowintermediateGABAsensitivity(EC valueof19
+50
+(cid:9)M),whichpermitsthesereceptortorespondtolow,ambient
+concentrations of transmitter (Caraiscos et al. 2004a). In the
+preceding experimental conditions, no exogenous GABA was
+applied, and the extracellular concentration of GABA was
+unknown. The brain concentration of GABA in the extracel-
+lular space, measured with microdialysis techniques, ranges
+from 0.1 to 2.9 (cid:9)M (Attwell et al. 1993; Lerma et al. 1986;
+FIG.1. Increased tonic GABAergic current in cultured wild-type (WT) Tossman et al. 1986). To mimic physiological conditions, V
+m
+neurons. A: sample traces show a shift in the holding current during an wasmeasuredduringanapplicationofGABA(1(cid:9)M).GABA
+applicationoftheGABAergicantagonistbicuculline(BIC;100(cid:9)M),which
+consistentlyhyperpolarizedtheWTneuronsby(cid:1)2.75(cid:8)0.70
+revealsapersistentinwardGABAergiccurrent.B:averagetonicconductance
+(left)recordedinWTand(cid:1)5(cid:1)/(cid:1)neurons(normalizedtomembranecapaci- mV (n (cid:7) 8; P (cid:6) 0.01), whereas no hyperpolarization was
+tance)showsalargertoniccurrentinWT(n(cid:7)13)thanin(cid:1)5(cid:1)/(cid:1)neurons detected in (cid:1)5(cid:1)/(cid:1) neurons (0.63 (cid:8) 0.38 mV, n (cid:7) 8; P (cid:4)
+(n(cid:7)13;P(cid:6)0.005).Thetoniccurrentcontributesalargerproportionofthe
+0.05). The hyperpolarizing response in WT neurons was con-
+totalholdingcurrentat(cid:1)60mV(right)inWTneuronsthanin(cid:1)5(cid:1)/(cid:1)neurons
+sistent with a GABA-induced increase in chloride influx.
+(P(cid:6)0.05).C:restingmembranepotential(V )ofculturedpyramidalneurons
+m
+was sensitive to modulation of (cid:1)5GABA receptor activity. Using a K-
+A
+gluconate ICF, GABA hyperpolarized V m (n (cid:7) 8; P (cid:6) 0.01), whereas GABA hyperpolarizes WT but not (cid:1)5(cid:1)/(cid:1)neurons
+picrotoxin (PTX; n (cid:7) 6; P (cid:6) 0.05) and L-655,708 (L6; n (cid:7) 4; P (cid:6) 0.05)
+depolarizedV m inWTneurons.TheVmof(cid:1)5(cid:1)/(cid:1)neuronswasinsensitiveto We next determined whether a deficit of (cid:1)5GABA recep-
+GABA(n(cid:7)8),PTX(n(cid:7)5)orL6(n(cid:7)4;P(cid:4)0.05). A
+tors was associated with an alteration in the electrochemical
+gradient for chloride ions under resting conditions. The intra-
+The percent contribution of the bicuculline-sensitive conduc-
+cellularconcentrationofchlorideionsinhippocampalpyrami-
+tance to the total I was also considerably greater in WT
+than in (cid:1)5(cid:1)/(cid:1) neu H r o o ld ns (14.8 (cid:8) 2.30%; n (cid:7) 13 vs. 8.67 (cid:8) dalneuronschangesduringneuronalmaturationbecauseofan
+1.70%, n (cid:7) 13; P (cid:6) 0.05; Fig. 1B). The current noise was increase in the expression of the potassium-chloride co-trans-
+greaterinWTthanin(cid:1)5(cid:1)/(cid:1)neuronsasindicatedbytherms porter,KCC2(Attwelletal.1993;Lermaetal.1986;Riveraet
+of I ((cid:10): 3.74 (cid:8) 0.11 pA, n (cid:7) 10 vs. 3.39 (cid:8) 0.10 pA, n (cid:7) al. 1999). In immature hippocampal neurons, low levels of
+10; H P ol (cid:6) d 0.05). During the application of bicuculline, the rms KCC2 result in a depolarizing chloride gradient. After 13–14
+noiseofI wassimilarinWTand(cid:1)5(cid:1)/(cid:1)neurons(100(cid:9)M; days in vitro, KCC2 protein levels increase and the chloride
+(cid:10): 3.08 (cid:8) Ho 0 ld .16 pA, n (cid:7) 10 vs. 3.12 (cid:8) 0.09 pA, n (cid:7) 10; P (cid:4) gradient becomes hyperpolarizing (Khirug et al. 2005). The
+firing of action potentials can also alter intracellular chloride
+0.05). This latter finding indicated that under control condi-
+concentrations on a short time scale (Woodin et al. 2003). To
+tions, the greater noise in WT neurons was attributable to
+minimize the perturbation of the chloride gradient and the
+activation of GABA receptors.
+A washoutofintracellularmacromolecules,wemadeperforated-
+Activation of (cid:1)5GABA receptors alters membrane potential patch recordings using the ionophore gramicidin D (Fig. 2A).
+A During formation of the perforated-patch, the membrane was
+The resting membrane potential (V ) was measured after voltage clamped at(cid:1)60 mV. Series resistance after formation
+m
+formation of the whole cell configuration using current-clamp of the perforated-patch was typically (cid:6)20 M(cid:5) (18.6 (cid:8) 1.3
+methods with a K-gluconate-based ICF to maintain low intra- M(cid:5); n (cid:7) 12). GABA (10 (cid:9)M) was applied using a rapid
+cellular chloride concentrations. Resting membrane potential perfusionsystemandtheholdingpotentialwasincreasedfrom
+wassimilarinWTand(cid:1)5(cid:1)/(cid:1)neurons((cid:1)61.7(cid:8)0.7mV,n(cid:7) (cid:1)40 to (cid:1)100 mV in 10-mV steps. The reversal potential for
+16 vs. (cid:1)62.1 (cid:8) 0.5 mV, n (cid:7) 17; P (cid:4) 0.05). To examine the the GABA-evoked current was estimated by constructing a
+contributionofGABA receptorstoV ,picrotoxinwasadded current-to-voltageplotandcalculatingthexintercept(Fig.2B).
+A m
+to the extracellular solution (Fig. 1C). Picrotoxin (100 (cid:9)M), TheGABAcurrentshowedareversalpotentialconsistentwith
+depolarizedtheWTneuronsby2.67(cid:8)1.02mV(n(cid:7)6,P(cid:6) a hyperpolarizing chloride conductance and outward rectifica-
+0.05), whereas the change in the V of (cid:1)5(cid:1)/(cid:1) neurons tion as previously described for GABA receptors (Curmi et al.
+m A
+JNeurophysiol•VOL98•OCTOBER2007•www.jn.org
+Downloaded from journals.physiology.org/journal/jn (142.115.063.086) on April 2, 2025.
+2248 R. P. BONIN, L. J. MARTIN, J. F. MacDONALD, AND B. A. ORSER
+Theabsolutecurrentrequiredtogenerateanactionpotential
+was almost twofold greater in WT than in (cid:1)5(cid:1)/(cid:1) neurons
+(100.4 (cid:8) 12.0 pA; n (cid:7) 15 vs. 56.6 (cid:8) 7.4 pA; n (cid:7) 14; P (cid:6)
+0.05). The current required to generate an action potential,
+normalized to cell capacitance was 1.6-fold greater in WT
+neurons than in (cid:1)5(cid:1)/(cid:1) neurons (2.63 (cid:8) 0.31 pA/pF, n (cid:7) 15
+vs.1.61(cid:8)0.19pA/pF,n(cid:7)14;P(cid:6)0.0001;Fig.3B).Notably,
+the membrane potential at which action potentials fired was
+similar in WT and (cid:1)5(cid:1)/(cid:1) neurons ((cid:1)42.7 (cid:8) 1.6 mV, n (cid:7) 9
+vs.(cid:1)42.4(cid:8)1.3mV,n(cid:7)10;P(cid:4)0.05).Todeterminewhether
+changes in voltage-dependent sodium and potassium conduc-
+tances that generated the action potential contributed to the
+increasedexcitabilityof(cid:1)5(cid:1)/(cid:1)neurons,thecharacteristicsof
+theactionpotentialsandafterhyperpolarizatingresponseswere
+studied. No differences were detected in the frequency or
+waveform of action potentials recorded in WT and (cid:1)5(cid:1)/(cid:1)
+neurons: the peak amplitude, rise time, decay time, and after-
+hyperpolarization amplitude were similar (Table 1).
+Excitability of CA1 pyramidal neurons in hippocampal slices
+is similar to that of cultured neurons
+FIG.2. GABA evoked current is hyperpolarizing in cultured WT and Neuronsgrownindissociatedcultureexpressacomplement
+(cid:1)5(cid:1)/(cid:1) neurons. The resting membrane potential and reversal potential for
+of GABA receptors similar to that observed in vivo (Brunig
+current evoked by GABA current were measured in cultured hippocampal A
+pyramidal neurons from WT and (cid:1)5(cid:1)/(cid:1) mice using gramicidin perforated-
+patch.A:samplerecordingsofcurrentevokedbyanapplicationofGABA(10
+(cid:9)M) at several holding potentials. B: maximum GABA-evoked current re-
+cordedatvariousholdingpotentialsisshown.Thereversalpotential,defined
+astheholdingpotentialatwhichGABAevokednonetcurrent,isindicatedby
+the dotted line. C: resting membrane potential and reversal potential of
+GABA-evoked current was similar in WT neurons (n (cid:7) 3) and (cid:1)5(cid:1)/(cid:1)
+neurons(n(cid:7)3;P(cid:4)0.05).
+1993).NodifferencewasdetectedinreversalpotentialforWT
+and(cid:1)5(cid:1)/(cid:1)neurons((cid:1)82.8(cid:8)3.1mV,n(cid:7)7vs.(cid:1)79.6(cid:8)5.2
+mV, n (cid:7) 5 respectively, P (cid:4) 0.05; Fig. 2C).
+The perforated-patch technique was also used to measure
+V .NodifferenceinV wasdetectedbetweenWTand(cid:1)5(cid:1)/(cid:1)
+m m
+neurons ((cid:1)63.2 (cid:8) 1.4 mV, n (cid:7) 7 vs. (cid:1)62.9 (cid:8) 1.6 mV, n (cid:7)
+5;P(cid:4)0.05;Fig.2C).Notably,therestingV measuredusing
+m
+either whole cell or perforated-patch techniques did not differ
+in WT and (cid:1)5(cid:1)/(cid:1) neurons (Fig. 1C). Together, the results
+show that an increase in (cid:1)5GABA receptor function causes
+A
+an influx of chloride ions and membrane hyperpolarization in
+cultured pyramidal neurons.
+(cid:1)5GABA receptors regulate excitability of
+A
+pyramidal neurons
+Aprimarymeasureofneuronalexcitabilityisthemagnitude
+ofthedepolarizinginputrequiredtotriggeranactionpotential
+or rheobase. The excitability of WT and (cid:1)5(cid:1)/(cid:1) hippocampal
+pyramidal neurons was compared by applying depolarizing
+FIG.3. Picrotoxin occluded the difference in excitability in cultured WT
+steps(2pAfor250msat0.8Hz;Fig.3A).Tominimizeseries and (cid:1)5(cid:1)/(cid:1) neurons. The amplitude of the depolarizing current required to
+resistance, experiments were performed using the whole cell generate action potentials was determined in WT and (cid:1)5(cid:1)/(cid:1) neurons.
+patch-clamp technique. To maintain the gradient for chloride A:samplerecordingsillustratethatthemagnitudeofexcitatorycurrent(more
+depolarizingcurrentsteps)requiredtotriggeranactionpotentialwasgreaterin
+ionsclosetophysiologicalvaluesformatureneurons,apotas- WTneuronsthan(cid:1)5(cid:1)/(cid:1)neurons(left).Thedepolarizingcurrentthatgener-
+sium gluconate-based intracellular solution was used in the atedactionpotentialsisindicatedbeloweachsampletrace.Theapplicationof
+recordingelectrode.Theamplitudeofthedepolarizingcurrent picrotoxin(PTX;1(cid:9)M)reducedthemagnitudeofdepolarizingcurrentinWT
+wasincreaseduntilanactionpotentialwasdetectedinresponse
+neuronsbutnot(cid:1)5(cid:1)/(cid:1)neurons(right).B:magnitudeofcurrentrequiredto
+triggeranactionpotential(normalizedtomembranecapacitance)wasgreater
+to three successive depolarizing steps. The current required to
+inWTneurons(n(cid:7)15)thanin(cid:1)5(cid:1)/(cid:1)neurons(n(cid:7)14;P(cid:6)0.001).The
+generatethefirstactionpotentialwasrecordedasthethreshold
+depolarizingcurrentrequiredtoactivateanactionpotentialwassimilarafter
+current. theapplicationofPTX(WT:n(cid:7)6vs.(cid:1)5(cid:1)/(cid:1):n(cid:7)6;P(cid:4)0.05).
+JNeurophysiol•VOL98•OCTOBER2007•www.jn.org
+Downloaded from journals.physiology.org/journal/jn (142.115.063.086) on April 2, 2025.
+(cid:1)5GABA RECEPTORS REGULATE NEURONAL EXCITABILITY 2249
+A
+TABLE 1. Action potential characteristics ble for differences in the excitability of WT and (cid:1)5(cid:1)/(cid:1)
+neurons.
+WT(10) (cid:1)5(cid:1)/(cid:1)(10) PValue To further ensure that the difference in current required to
+generate action potentials was attributable to reduced expres-
+Peakamplitude,mV 74.9(cid:8)2.6 81.6(cid:8)2.6 0.172
+Half-width,ms 1.40(cid:8)0.10 1.62(cid:8)0.12 0.220 sion of (cid:1)5GABA A receptors, we tested the effect of the
+Actionpotentialthreshold,mV (cid:1)41.6(cid:8)1.6 (cid:1)42.0(cid:8)0.9 0.767 (cid:1)5GABA receptor-selective inverse agonist L-655,708 (20
+A
+AHPamplitude,mV (cid:1)16.9(cid:8)1.6 (cid:1)14.9(cid:8)1.6 0.628 (cid:9)M; Fig. 4A). In WT neurons, L-655,708 reduced the depo-
+Maximumriseslope,mVms(cid:1)1 201.9(cid:8)20.6 198.3(cid:8)24.1 0.952 larizingcurrentto76.0(cid:8)7.0%ofcontrol(n(cid:7)4,P(cid:6)0.05vs.
+Maximumdecayslope,mVms(cid:1)1 (cid:1)69.3(cid:8)6.7 (cid:1)57.2(cid:8)4.4 0.181 control), whereas L-655,708 was ineffective in (cid:1)5(cid:1)/(cid:1) neu-
+Properties of action potentials measured from cultured type (WT) and
+rons(95.7(cid:8)3.7%ofcontrol,n(cid:7)4;P(cid:4)0.05vs.control;P(cid:6)
+(cid:1)5(cid:1)/(cid:1) pyramidal neurons. Values are means(cid:8)SE. Parentheses enclose n 0.05 vs. WT; Fig. 4B). The similarity in the effects of
+values. L-655,708 and picrotoxin in reducing the current required to
+generate an action potential in WT but not (cid:1)5(cid:1)/(cid:1) neurons
+etal.2002).However,cellcultureslackthecomplexarchitec- suggests that the (cid:1)5GABA receptor-mediated tonic conduc-
+ture and synaptic connectivity of hippocampal slices. Conse- A
+tanceisaprimarydeterminantbywhichGABAergicinhibition
+quently, we next studied neuronal excitability in mature CA1
+regulates the excitability of pyramidal neurons.
+pyramidal neurons in slices prepared from 4-wk-old (cid:1)5(cid:1)/(cid:1)
+and WT mice. A K-gluconate-based ICF was employed to
+Low concentrations of GABA further distinguish (cid:1)5(cid:1)/(cid:1)
+maintain low intracellular chloride concentrations. Series re-
+sistance for the recordings was 20.4 (cid:8) 1.3 M(cid:5) (n (cid:7) 11). and WT neurons
+MembranecapacitancewassimilarinWTneuronsand(cid:1)5(cid:1)/(cid:1)
+Wenextaddressedwhetheranincreaseintheconcentration
+neurons(32.8(cid:8)2.54pF,n(cid:7)6vs.30.9(cid:8)3.61pF,n(cid:7)5;P(cid:4)
+ofGABAtophysiologicallevelswouldfurtherdistinguishthe
+0.05).TherestingmembranepotentialwasalsosimilarinWT
+neurons and (cid:1)5(cid:1)/(cid:1) neurons ((cid:1)60.8 (cid:8) 1.0 mV, n (cid:7) 6 vs.
+(cid:1)61.0 (cid:8) 1.3 mV, n (cid:7) 5; P (cid:4) 0.05). Notably, the V was
+m
+similartothatmeasuredinculturedneurons.Thedepolarizing
+current required to generate an action potential was twofold
+greater in WT than in (cid:1)5(cid:1)/(cid:1) neurons (1.91 (cid:8) 0.15 pA/pF,
+n(cid:7)6vs.1.05(cid:8)0.36pA/pF,n(cid:7)5;P(cid:6)0.05).Theamplitude
+of excitatory current required to generate action potentials in
+WTand(cid:1)5(cid:1)/(cid:1)neuronswassimilarforneuronsstudiedincell
+cultures and brain slices. These findings indicate that the cell
+culture model reflects the properties of extrasynaptic GABA
+A
+receptorsinhippocampalslices.Theculturepreparationoffers
+more effective concentration clamp and drug solution ex-
+change conditions than brain slices. Thus the remaining phar-
+macological experiments were conducted using cultured neu-
+rons.
+WT and (cid:1)5(cid:1)/(cid:1)neurons differ in sensitivity to GABA
+A
+receptor blockade
+Unidentified compensatory changes can occur after the ge-
+netic deletion of proteins that critically regulate neuronal ex-
+citability.Wenextaddressedwhethertheenhancedexcitability
+of (cid:1)5(cid:1)/(cid:1) pyramidal neurons was due to alterations in the WT FIG b . u 4 t . no G t A (cid:1) B 5(cid:1) A A /(cid:1) re n c e e u p r t o o n r s. an A ta : g s o a n m is p t l s e m tr o a d ce if s y o t f he cu e r x re c n it t a - b cl i a li m ty p o r f ec c o u r l d tu in re g d s
+activity of GABA A receptors alone. We reasoned that the from WT and (cid:1)5(cid:1)/(cid:1) neurons show the magnitude of excitatory current
+difference in excitability between (cid:1)5(cid:1)/(cid:1) and WT neurons requiredtotriggeractionpotentialsinthepresenceofGABAergicdrugs.The
+shouldbeoccludedbyanapplicationofpicrotoxinprovidedno depolarizingcurrentthatgeneratedactionpotentialsisindicatedbeloweach
+sample trace. WT neurons were highly sensitive to GABAergic modulation
+compensatory changes, independent of GABA function, oc-
+withthe(cid:1)5GABA receptorselectiveinverseagonistL-655,708(L6;20(cid:9)M)
+curred after deletion of the (cid:1)5GABA receptor subunit. Pic- A
+A reducingthecurrentrequiredandapplicationofalowGABAconcentration
+rotoxin (100 (cid:9)M) abolished the differences in excitability (1 (cid:9)M) greatly increasing the current required to generate action potentials.
+betweenWTand(cid:1)5(cid:1)/(cid:1)neuronsresultinginasimilarampli- Conversely, (cid:1)5(cid:1)/(cid:1) neurons were much less sensitive to these GABAergic
+tude of the depolarizing current required to generate action drugs. B: graph summarizes the changes in current required to generate an
+potentials (1.83 (cid:8) 0.31 pA/pF, n (cid:7) 6 vs. 1.50 (cid:8) 0.31 pA/pF, a c c o t n io tr n ol. po P t i e c n ro ti t a o l xi a n ft ( e P r T d X ru ; g 1 t (cid:9) re M at ) m r e e n d t u . c N ed ot t e he th fi a r t in t g he th d re a s ta ho a ld re in no W rm T al n i e z u ed ron to s
+n(cid:7)5;P(cid:4)0.05;Fig.3B).Notably,inWTneurons,picrotoxin (n(cid:7)6;P(cid:6)0.05vs.control)butnot(cid:1)5(cid:1)/(cid:1)neurons(n(cid:7)5;P(cid:4)0.05vs.
+reduced the current required to generate an action potential to control; P (cid:6) 0.05 WT versus (cid:1)5(cid:1)/(cid:1) neurons). L655-708 also reduced the
+71.6 (cid:8) 6.3% of control (n (cid:7) 6, P (cid:6) 0.05 vs. control) but had firingthresholdcurrentinWTneurons(n(cid:7)4;P(cid:6)0.05vs.control)butnot
+no effect in (cid:1)5(cid:1)/(cid:1) neurons (94.8 (cid:8) 3.0% of control, n (cid:7) 5,
+(cid:1)5(cid:1)/(cid:1)neurons(n(cid:7)4;P(cid:4)0.05vs.control;P(cid:6)0.01WTvs.(cid:1)5(cid:1)/(cid:1)).An
+application of exogenous GABA increased the firing threshold in both WT
+P(cid:4)0.05vs.control;P(cid:6)0.05vs.WT;Fig.3A).Theseresults
+neurons(n(cid:7)8;P(cid:6)0.01vs.control)and(cid:1)5(cid:1)/(cid:1)neurons(n(cid:7)8;P(cid:4)0.05
+suggest that a GABAergic conductance is primarily responsi- vs.control)buthadgreatereffectonWTneurons(P(cid:6)0.01WTvs.(cid:1)5(cid:1)/(cid:1)).
+JNeurophysiol•VOL98•OCTOBER2007•www.jn.org
+Downloaded from journals.physiology.org/journal/jn (142.115.063.086) on April 2, 2025.
+2250 R. P. BONIN, L. J. MARTIN, J. F. MacDONALD, AND B. A. ORSER
+firingpatternsofWTand(cid:1)5(cid:1)/(cid:1)neurons.GABA(1(cid:9)M)was
+added to the extracellular solution, and the magnitude of the
+depolarizing current required to generate an action potential
+wasdetermined(Fig.4A).GABA(1(cid:9)M)increasedthecurrent
+requiredtogenerateactionpotentialsby(cid:4)40%inWTneurons
+(141.9(cid:8)8.1%ofcontrol,n(cid:7)8,P(cid:6)0.01)butbyonly9%in
+(cid:1)5(cid:1)/(cid:1) neurons (108.8 (cid:8) 3.4% of control, n (cid:7) 7, P (cid:6) 0.05;
+Fig.4B).ThuslowconcentrationsofGABAincreasetheaction
+potential threshold current of WT neurons (cid:2)4.5 times more
+efficaciously than was the case for (cid:1)5(cid:1)/(cid:1) neurons (WT vs.
+(cid:1)5(cid:1)/(cid:1) neurons, P (cid:6) 0.01). These results suggest that extra-
+cellular GABA, acting through (cid:1)5GABA receptors, is capa-
+A
+bleofstronglyregulatingtheexcitabilityofpyramidalneurons.
+Spontaneous IPSCs in WT and (cid:1)5(cid:1)/(cid:1)neurons
+It has been previously reported that (cid:1)5GABA receptors
+A
+increase the amplitude of spontaneous TTX-sensitive IPSCs
+(sIPSCs) recorded in hippocampal slices from 14- to 32-day-
+old mice (Collinson et al. 2002). We previously demonstrated
+that (cid:1)5GABA receptors do not contribute to mIPSCs, which
+A
+are thought to be purely synaptic events (Caraiscos et al.
+2004b). However, it is possible that a larger release of trans-
+mitterfrompresynapticterminalsrecruitsextrasynapticrecep-
+tors through spillover from neighboring synapses (Semyanov
+etal.2003).Here,sIPSCswererecordedinculturedhippocam-
+pal pyramidal neurons in the absence of TTX (Fig. 5A). To
+facilitate detection of GABAergic events, a CsCl-based ICF
+was employed to raise the chloride reversal potential to ap-
+proximately (cid:1)3 mV. The frequency of sIPSC was similar in FIG.5. Deletion of (cid:1)5GABA
+A
+receptors does not modify spontaneous
+WT and (cid:1)5(cid:1)/(cid:1) neurons (0.70 (cid:8) 0.05 Hz, n (cid:7) 7 vs. 0.76 (cid:8) inhibitory postsynaptic currents (IPSCs) in cultured pyramidal neurons.
+0.05Hz,n(cid:7)7;P(cid:4)0.05;Fig.5B).ThetimeconstantofsIPSC A: sample trace of spontaneous IPSCs (sIPSCs) recorded in cultured WT
+neurons and (cid:1)5(cid:1)/(cid:1) neurons. B: normalized cumulative distribution of the
+decay was also similar between WT and (cid:1)5(cid:1)/(cid:1) neurons
+frequencyofsIPSCsisshown.Nodifferencewasdetectedbetweencurrents
+(43.3 (cid:8) 3.76 ms, n (cid:7) 7 vs. 47.6 (cid:8) 2.9 ms, n (cid:7) 7, P (cid:4) 0.05; recordedinWT(n(cid:7)7)and(cid:1)5(cid:1)/(cid:1)neurons(n(cid:7)7,P(cid:4)0.05).C:normalized
+Fig. 5C). Finally, the amplitude of sIPCSs was similar in WT cumulative distribution curves of the decay time of sIPSC were similar for
+and(cid:1)5(cid:1)/(cid:1)neurons(519(cid:8)137pA,n(cid:7)7vs.530(cid:8)180pA, currentsrecordedinWTneurons(n(cid:7)7)and(cid:1)5(cid:1)/(cid:1)neurons(n(cid:7)7,P(cid:4)0.05).
+n (cid:7) 7; P (cid:4) 0.05). Spontaneous IPSCs were also recorded in
+neurons (Fig. 6B). Threshold current was significantly greater
+WT and (cid:1)5(cid:1)/(cid:1) CA1 pyramidal neurons in hippocampal inWTthanin(cid:1)5(cid:1)/(cid:1)neurons(106(cid:8)19pA,n(cid:7)12vs.69(cid:8)
+slices.L-655,708(20(cid:9)M)wasaddedtotheperfusatetofurther
+10 pA, n (cid:7) 12; P (cid:6) 0.01), but the frequency of action
+determinethecontributionof(cid:1)5GABA A receptorstosynaptic potentialsatthethresholdcurrentwassimilar(2.67(cid:8)0.43vs.
+events. No differences in sIPSC amplitude, kinetics or fre- 2.58 (cid:8) 0.50 Hz, n (cid:7) 12; P (cid:4) 0.05). The slope for the
+quencyweredetectedbetweengenotypesundercontrolcondi- input-output relationship was similar in WT and (cid:1)5(cid:1)/(cid:1) neu-
+tionsorfollowinganapplicationofL-655,708(Table2).These rons(0.244(cid:8)0.001Hz/pA,n(cid:7)12vs.0.252(cid:8)0.011Hz/pA,
+data suggest that (cid:1)5GABA A receptors do not contribute ap- n (cid:7) 12; P (cid:4) 0.05; Fig. 6B). These data confirm that tonic
+preciably to the amplitude or duration of sIPSCs in cultured inhibitiongeneratedby(cid:1)5GABA receptorsdoesnotalterthe
+neurons. Alternatively, another subpopulation of receptors A
+gain of the input-output relationship.
+might fully compensate for the (cid:1)5GABA receptors.
+A
+DISCUSSION
+(cid:1)5GABA receptors do not influence the gain of
+A This study provides direct evidence that (cid:1)5GABA recep-
+the input-output relationship A
+tors regulate the firing of action potentials in pyramidal neu-
+A change in the firing rates of neurons in response to rons. Notably, the magnitude of depolarizing current required
+sustained depolarizing input provides a measure of neuronal to trigger action potentials was greater in WT than in (cid:1)5(cid:1)/(cid:1)
+excitability. It has been previously demonstrated that during neurons.Theabsenceof(cid:1)5GABA receptorsdidnotalterthe
+A
+tonicexcitation,shuntinginhibitiondoesnotchangetheslope gainorfrequencyofactionpotentialfiringduringaprolonged
+or“gain”oftherelationship(Brickleyetal.1996;Chanceetal. depolarizing pulse. Furthermore, reduced expression of
+2002). The input (depolarizing current) to output (action po- (cid:1)5GABA receptors did not influence spontaneous inhibitory
+A
+tentialfrequency)relationshipwasassessedinWTand(cid:1)5(cid:1)/(cid:1) synaptic transmission. Thus a tonic conductance generated by
+pyramidal neurons by injecting sustained, suprathreshold cur- (cid:1)5GABA Rs contributes to the lower excitability of WT
+A
+rentsteps(Fig.6A).Theinput-outputrelationshipswerelinear, neurons relative to that of (cid:1)5(cid:1)/(cid:1) neurons. These in vitro
+and the slopes were compared between WT and (cid:1)5(cid:1)/(cid:1) findings are consistent with behavioral studies indicating that
+JNeurophysiol•VOL98•OCTOBER2007•www.jn.org
+Downloaded from journals.physiology.org/journal/jn (142.115.063.086) on April 2, 2025.
+(cid:1)5GABA RECEPTORS REGULATE NEURONAL EXCITABILITY 2251
+A
+TABLE 2. Properties of spontaneous IPSCs recorded in CA1 change in holding current produced by changing the flow was
+pyramidalneuronsinhippocampalslices eliminatedbybicuculline.Fluctuationanalysisshowedthatthe
+variance in the baseline current signal was exponentially dis-
+WT(5) (cid:1)5(cid:1)/(cid:1)(5) tributed with estimated kinetics comparable to those activated
+by submicromolar concentrations of exogenous GABA. The
+ACSF 20(cid:9)ML6 ACSF 20(cid:9)ML6
+kineticsofchannelsactivatedbyendogenousGABAdisplayed
+Peakamplitude,pA 48.4(cid:8)3.1 45.6(cid:8)4.2 52.6(cid:8)4.2 49.6(cid:8)4.2 a potential sensitivity comparable to those activated by exog-
+Risetime,ms 1.4(cid:8)0.2 1.5(cid:8)0.2 1.4(cid:8)0.2 1.6(cid:8)0.6 enous GABA (Bai et al. 2001). Finally, acutely isolated hip-
+Weighteddecaytau,ms 9.4(cid:8)1.4 8.8(cid:8)1.4 9.0(cid:8)1.3 9.0(cid:8)1.2 pocampal pyramidal neurons did not generate a detectable
+Frequency,Hz 2.9(cid:8)1.2 2.8(cid:8)0.5 2.7(cid:8)1.2 2.9(cid:8)0.6
+tonic GABAergic current in the absence of exogenous GABA
+Valuesaremeans(cid:8)SE.Parenthesesenclosenvalues.IPSC,inhibitorypost (Bai et al. 2001).
+synapticcurrent,ACSF,artificialcerebrospinalfluid;L6,L-655,708. As mentioned in the INTRODUCTION, genetic deletion of a
+GABA receptor subunit that contributes to a tonic conduc-
+reduced expression of (cid:1)5GABA receptor is not fully com- tanced A oesnotnecessarilyleadtoalteredneuronalexcitability.
+A
+pensated in (cid:1)5(cid:1)/(cid:1) mice (Cheng et al. 2006; Collinson et al. Targeted deletion of the gene that encodes for the (cid:1)6 subunit
+2002). resulted in complete loss of (cid:1)6(cid:4)subunits expressed on the
+surfaceofcerebellargranuleneurons(Jonesetal.1997)anda
+Adaptive changes in (cid:1)5(cid:1)/(cid:1)neurons reduction in tonic conductance (Brickley et al. 2001). How-
+ever, the leak conductance, neuronal response to depolarizing
+Picrotoxindidnotaltertheexcitabilityof(cid:1)5(cid:1)/(cid:1)neuronsin currentinjection,andexcitatorysynapticinputweresimilarin
+theabsenceofexogenousGABA.Thisresultisunexpected,as (cid:1)6(cid:1)/(cid:1) and WT neurons (Brickley et al. 2001). Adaptive
+itsuggeststhatunderthecurrentexperimentalconditions,tonic changes were attributed to an increase in voltage-independent
+rather than synaptic GABAergic inhibition plays the predom- K(cid:3) conductance generated by TASK-1 channels. As well,
+inantroleinregulatingexcitability.Consistentwithourresults, Northern blot analysis of whole cerebella showed a 20%
+charge transfer attributed to the tonic conductance is several increaseinTASK-1messengerRNAin(cid:1)6(cid:1)/(cid:1)mice.Reduced
+times greater than that attributable to synaptic inhibition expression of postsynaptic GABA receptors also resulted in
+A
+(Caraiscos et al. 2004a; Hamann et al. 2002; Scimemi et al. adaptive changes in subunit expression. GABA receptors
+A
+2005). Furthermore, (cid:1)5(cid:1)/(cid:1) neurons fail to generate a fully containingthe(cid:1)1subunitrepresentnearlyhalfofthereceptors
+compensatory or residual GABAergic conductance sufficient in the brain (Kralic et al. 2002; McKernan and Whiting 1996)
+to depress excitability. The residual tonic conductance in
+(cid:1)5(cid:1)/(cid:1) neurons (Caraiscos et al. 2004a; Glykys and Mody
+2006) could be generated by GABA receptors that contain
+A
+subunits other than (cid:1)5 and or unidentified compensatory
+changes.Itisunlikelytoresultfromanincreaseinthenumber
+of (cid:1)(cid:3)(cid:2)subunit-containing GABA receptors because the ac-
+A
+tivity of [3H]Ro15-1788, a radioligand with high affinity to
+benzodiazepine sites of the (cid:1)1-, (cid:1)2-, (cid:1)3-, and (cid:1)5-containing
+receptorswasreducedby16%moreinhippocampalmembrane
+prepared from (cid:1)5(cid:1)/(cid:1) mice than in the same tissue from WT
+mice (Collinson et al. 2002). This reduction is predicted from
+theproportionof(cid:1)5GABA receptorsrelativetootherbenzo-
+A
+diazepine-sensitive receptors in the hippocampus (Sur et al.
+1999). A pharmacological study of (cid:1)5(cid:1)/(cid:1) neurons showed
+thataresidualtonicconductanceisgeneratedatleastinpartby
+(cid:4)GABA receptors (Glykys and Mody 2006; Scimemi et al.
+A
+2005). GABA receptors that exhibit constitutive opening
+A
+might also contribute to the residual tonic conductance in
+pyramidal neurons (McCartney et al. 2007). However, for
+several reasons, it is unlikely that constitutively active
+(cid:1)5GABA receptors generate a sizeable tonic conductance in
+A
+hippocampal neurons. First, neurons and glia grown in disso-
+ciated co-cultures release a soluble transmitter that activates a
+tonic GABAergic conductance (Valeyev et al. 1993;Vautrin
+etal.2000).Severalreleasemechanisms,includingspilloverof
+GABAfromsynapses,reverseoperationofGABAtransporters
+FIG.6. (cid:1)5GABA
+A
+receptors do not regulate the frequency of action po-
+tentialsinculturedneurons.Theinput-outputrelationshipbetweenthestimulus
+and nonvesicular release mechanisms, and calcium-indepen- intensityandfrequencyofactionpotentialsinWTand(cid:1)5(cid:1)/(cid:1)hippocampal
+dent release of transmitter contribute to the extracellular pyramidalneuronsisshown.A:sampletracesofactionpotentialsrecordedin
+GABA (Kullmann et al. 2005). Second, we and others found
+WTand(cid:1)5(cid:1)/(cid:1)neuronsinresponsetoinjectionofdepolarizingcurrentsteps.
+Thedepolarizingstepswereincreasedin20-pAincrementsafterthefiringof
+thatincreasingtheflowofextracellularsolutiontothesurface
+the1stpotential.B:relationshipbetweentheexcitatoryinputfrequencyand
+of neurons rapidly and reversibly reduced the baseline current
+frequencyofactionpotentialsissimilarforpotentialsrecordedinWTneurons
+and fluctuation in the baseline noise (Bai et al. 2001). This (n(cid:7)12)and(cid:1)5(cid:1)/(cid:1)neurons(n(cid:7)12;P(cid:4)0.05).
+JNeurophysiol•VOL98•OCTOBER2007•www.jn.org
+Downloaded from journals.physiology.org/journal/jn (142.115.063.086) on April 2, 2025.
+2252 R. P. BONIN, L. J. MARTIN, J. F. MacDONALD, AND B. A. ORSER
+and are primarily localized to postsynaptic clusters (Sassoe- activation of GABA receptors on neighboring neurons
+Pognettoetal.2000).Deletionofthe(cid:1)1subunitgeneresulted (Hamann et al. 2002; Scanziani 2000). Also nonvesicular
+in a marked reduction in the expression of GABA receptors release of GABA (Rossi et al. 2003) and reduced activity of
+A
+but only moderate behavioral changes. Adaptive changes in GABA transporters contributes further to extracellular GABA
+(cid:1)1(cid:1)/(cid:1) mice include the reorganization of neuronal circuits (Semyanov et al. 2003). No change in the frequency, ampli-
+andreplacementofthe(cid:1)1subunitwiththe(cid:1)3and(cid:1)4subunits tude, or decay of sIPSCs in the CA1 and CA3 regions of
+(Kralicetal.2006).In(cid:1)1(cid:1)/(cid:1)cerebellargranulecells,atonic hippocampal slices were detected from WT and (cid:1)5(cid:1)/(cid:1) mice
+conductancewasincreasedby62%,whereastheactivityofthe (GlykysandMody2006).Similarly,monosynapticallyevoked
+GABA transporter was reduced (Ortinski et al. 2006). Our IPSPs were similar in CA3 pyramidal neurons in slices from
+results indicate that homeostatic mechanisms fail to fully WT and (cid:1)5(cid:1)/(cid:1) mice (Towers et al. 2004). Contrasting these
+compensate for a reduction in (cid:1)5GABA receptor activity as results,amodestreductionintheamplitudeofevokedIPSCsin
+A
+the excitability of (cid:1)5(cid:1)/(cid:1) neurons is increased. Demonstrable hippocampal slices from (cid:1)5(cid:1)/(cid:1) mice (87% of WT) has been
+compensatorychangesin(cid:1)6(cid:1)/(cid:1)and(cid:1)1(cid:1)/(cid:1)neuronsbutnot reported (Collinson et al. 2002). Also a subpopulation of
+(cid:1)5(cid:1)/(cid:1) pyramidal neurons indicate important regulatory dif- slowly activating sIPSCs that occur at low frequency in CA3
+ferences in the production and trafficking of various GABA and CA1 pyramidal neurons were reported to be more numer-
+A
+receptor subunits. Also (cid:1)5GABA receptors appear to play a ous in WT than in (cid:1)5(cid:1)/(cid:1) neurons (Glykys and Mody 2006).
+A
+unique role in the hippocampus that is not substituted for by A study of diazepine-sensitive receptors that used single-,
+other GABA receptor subtypes. double-,andtriple-mutantmiceshowedthat(cid:1)5GABA recep-
+A A
+Pharmacological compounds that potentiated or inhibited torsdonotcontributetofastsynaptictransmissiononthesoma
+the tonic conductance produced hyperpolarization or depolar- or dendrites of CA1 pyramidal neurons, but perisynaptic
+izationofWTneurons,respectively.Thesecompoundshadno (cid:1)5GABA receptors do contribute to slow IPSCs (Prenosil
+A
+demonstrable effect on (cid:1)5(cid:1)/(cid:1) neurons even though a small etal.2006).Collectively,theseresultsindicatethatalthougha
+residual tonic GABAergic current was present. Despite this small proportion of (cid:1)5GABA receptors are expressed at
+A
+residual conductance, the application of exogenous GABA synapses the total inhibitory charge transfer generated by
+failedtohyperpolarize(cid:1)5(cid:1)/(cid:1)neurons.Thismaybeattributed synaptic (cid:1)5GABA receptors is negligible. Thus synaptic
+A
+tohigh-affinity(cid:4)GABA receptorsthatarethoughttounderlie (cid:1)5GABA receptors may make a small contribution to net-
+A A
+the residual tonic conductance in (cid:1)5(cid:1)/(cid:1) neurons (Scimemi work behavior, whereas extrasynaptic GABA receptors ap-
+A
+et al. 2005). Saturation of a small population of (cid:4)GABA pear to play a significant role.
+A
+receptorsbyambientGABAwouldpreventfurtherdepolariza-
+tion by exogenous GABA. Finally, the resting membrane
+Tonic inhibition and excitability
+potential was similar between genotypes. An inconsistency
+existsbetweenthesimilarityintherestingmembranepotential Activation of (cid:1)5GABA receptors caused only a modest
+A
+and difference in the picrotoxin-induced depolarizing current hyperpolarization of WT pyramidal neurons. A tonic conduc-
+inWTbutnot(cid:1)5(cid:1)/(cid:1)neurons.Severalfactorsmightaccount tancecanreduceexcitabilityviashuntingmechanismsthatare
+for this discrepancy. For example, there might be a difference independentofchangesinmembranepotential(Brickleyetal.
+in the resting membrane potential that we failed to detect 1996;MitchellandSilver2003).Shuntinginhibitioninfluences
+because the difference was small and the sample size inade- the input-output activity of neurons by increasing the excit-
+quate.However,wefavortheexplanationthattheremayhave atorydriverequiredtogenerateanactionpotential.Typically,
+been no detectable difference in V because the permeability shunting inhibition does not change the slope or gain of the
+m
+of the tonic anion channels is low relative to that of other ion input-output relationship when the neurons are stimulated by
+species that determine V . nonfluctuating excitatory input (Chance et al. 2002; Mitchell
+m
+and Silver 2003). We showed that activation of (cid:1)5GABA
+A
+Synaptic inhibition and (cid:1)5GABA receptors receptors did not change the gain of the input-output relation-
+A ship. These results indicate that (cid:1)5GABA receptors cause a
+A
+The contribution of (cid:1)5GABA receptors to synaptic trans- robust shunting inhibition and only modest membrane hyper-
+A
+missionremainscontroversial.Asubpopulationoftheserecep- polarization.However,itshouldbeappreciatedthatweexam-
+tors is expressed in both the synaptic and the extrasynaptic ined the impact of the tonic inhibitory conductance under
+regionsofneurons(Serwanskietal.2006)andmaycontribute experimentalconditionswherethelevelofexcitatoryinputwas
+totonicandphasicGABAergiccurrents.Therewasnodiffer- persistent and low. Under more physiological conditions, ex-
+enceintheamplitudeorkineticsofsIPSCsrecordedinWTor citatory input is greater and fluctuates widely because of
+(cid:1)5(cid:1)/(cid:1) neurons. Consistent with this result, a previous report transientactivationofthepostsynapticreceptors.Theinfluence
+showedthatminiatureIPSCs,whichresultfromthereleaseof ofatonicinhibitoryconductanceonneuronalexcitabilitywith
+single quanta of transmitter and the exclusive activation of a fluctuating or “noisy” excitatory synaptic input has been
+postsynaptic receptors, were not influenced by deletion of the studied previously by others using computer simulations and
+(cid:1)5subunit(Caraiscosetal.2004a;Chengetal.2006).Several an in vitro cerebellar preparation (Mitchell and Silver 2003).
+studies have shown that (cid:1)5GABA receptors in cultured neu- Under these conditions, the effect of tonic inhibition on neu-
+A
+rons do not contribute to synaptic transmission; however, the ronal firing is nonlinear and depends on the nature of the
+low density of neurons and the absence of glia from the excitatory synaptic input. A tonic shunt induced a change in
+cultures may prevent sufficient GABA from accumulating in boththegainandthresholdoftheactionpotentialfiringduring
+the extracellular space. In hippocampal slices, rhythmic activ- noisysynapticinput.Suchachangeinthefiringratehasbeen
+ity may cause the release of GABA from interneurons and proposed to increase the storage capacity of the cerebellum
+JNeurophysiol•VOL98•OCTOBER2007•www.jn.org
+Downloaded from journals.physiology.org/journal/jn (142.115.063.086) on April 2, 2025.
+(cid:1)5GABA RECEPTORS REGULATE NEURONAL EXCITABILITY 2253
+A
+(Hamman et al. 2002). In contrast to the results for the inhibitorypostsynapticcurrentsmediatedbygamma-aminobutyricacid(A)
+cerebellum,anincreaseintonicinhibitioninthehippocampus receptorsinhippocampalneurons.MolPharmacol59:814–824,2001.
+appearstoreducelearning.Ourbehavioralstudiessuggestthat
+BrickleySG,Cull-CandySG,FarrantM.Developmentofatonicformof
+an increase in (cid:1)5GABA receptor activity impairs perfor- synaptic inhibition in rat cerebellar granule cells resulting from persistent
+A activationofGABA receptors.JPhysiol497:753–759,1996.
+manceforhippocampal-dependentmemorytasks(Chengetal. A
+BrickleySG,RevillaV,Cull-CandySG,WisdenW,FarrantM.Adaptive
+2006). regulation of neuronal excitability by a voltage-independent potassium
+Hippocampal gamma frequency oscillations have been pro- conductance.Nature409:88–92,2001.
+posed to underlie the encoding of spatial information and Brunig I, Scotti E, Sidler C, Fritschy JM. Intact sorting, targeting, and
+formationofepisodicmemory(Lisman1999).Inparticular,it clusteringofgamma-aminobutyricacidAreceptorsubtypesinhippocampal
+neuronsinvitro.JCompNeurol443:43–55,2002.
+has been proposed that oscillations originating in CA1 and
+Caraiscos VB, Elliott EM, You T, Cheng VY, Belelli D, Newell JG,
+CA3regionsregulatecognition(Csicsvarietal.2003).Several Jackson MF, Lambert JJ, Rosahl TW, Wafford KA, MacDonald JF,
+studies have investigated the function of tonic inhibition in OrserBA.TonicinhibitioninmousehippocampalCA1pyramidalneurons
+CA1andCA3pyramidalneuronsinregulatingnetworkactiv- is mediated by {alpha}5 subunit-containing {gamma}-aminobutyric acid
+typeAreceptors.ProcNatlAcadSciUSA101:3662–3667,2004a.
+ity (Towers et al. 2004; Whittington et al. 1996). The role of
+CaraiscosVB,NewellJG,YouT,ElliottEM,RosahlTW,WaffordKA,
+(cid:1)5GABA receptors in modifying kainate-induced gamma
+A MacDonald JF, Orser BA. Selective enhancement of tonic GABAergic
+oscillations (20–80 Hz) was investigated using hippocampal inhibition in murine hippocampal neurons by low concentrations of the
+slices from WT and (cid:1)5(cid:1)/(cid:1) mice (Towers et al. 2004). The volatileanestheticisoflurane.JNeurosci24:8454–8458,2004b.
+power of network oscillations in response to increased excita- ChambersMS,AtackJR,BroughtonHB,CollinsonN,CookS,Dawson
+GR, Hobbs SC, Marshall G, Maubach KA, Pillai GV, Reeve AJ,
+tory drive was greater in hippocampal slices prepared from
+MacLeodAM.Identificationofanovel,selectiveGABA(A)alpha5recep-
+(cid:1)5(cid:1)/(cid:1) mice than in those prepared from WT mice. Also the torinverseagonistwhichenhancescognition.JMedChem46:2227–2240,
+frequency range over which the oscillations occurred was 2003.
+lower,whichresultedinverystrongoscillationsoveranarrow Chance FS, Abbott LF, Reyes AD. Gain modulation from background
+bandwidth in the (cid:1)5(cid:1)/(cid:1) slices. In addition, raising the extra- synapticinput.Neuron35:773–782,2002.
+Cheng VY, Martin LJ, Elliott EM, Kim JH, Mount HT, Taverna FA,
+cellular concentration of GABA caused a greater reduction in
+RoderJC,MacDonaldJF,BhambriA,CollinsonN,WaffordKA,Orser
+the power of gamma oscillations in WT slices than in (cid:1)5(cid:1)/(cid:1) BA. Alpha5GABA receptors mediate the amnestic but not sedative-
+A
+slices. Computer simulation of a neuronal network indicated hypnoticeffectsofthegeneralanestheticetomidate.JNeurosci26:3713–
+thatreducedintonicconductanceinthedendriticmembraneof 3720,2006.
+Christie SB, Miralles CP, de Blas AL. GABAergic innervation organizes
+theprincipalcellsaccuratelyreproducedtheincreasedgamma
+synaptic and extrasynaptic GABA receptor clustering in cultured hip-
+power observed in (cid:1)5(cid:1)/(cid:1) slices (Towers et al. 2004). The pocampalneurons.JNeurosci22:6 A 84–697,2002.
+powerofthegammaoscillationswasdependentonmembrane CobbSR,BurlEH,HalasyK,PaulsenO,SomogyiP.Synchronizationof
+resistanceandshuntinginhibition,whichisconsistentwiththe neuronal activity in hippocampus by individual GABAergic interneurons.
+Nature378:75–78,1995.
+resultspresentedhere.Hippocampaloscillationsarecapableof
+CollinsonN,KuenziFM,JarolimekW,MaubachKA,CothliffR,SurC,
+regulating the firing of pyramidal neurons (Cobb et al. 1995).
+SmithA,OtuFM,HowellO,AtackJR,McKernanRM,SeabrookGR,
+Thus a complex interaction of synchronous network activity DawsonGR,WhitingPJ,RosahlTW.Enhancedlearningandmemoryand
+andindividualneuronalactivityexistsinthehippocampuswith altered GABAergic synaptic transmission in mice lacking the alpha 5
+both elements being regulated by tonic inhibition. Our data subunitoftheGABA A receptor.JNeurosci22:5572–5580,2002.
+CrestaniF,KeistR,FritschyJM,BenkeD,VogtK,PrutL,BluthmannH,
+now offer realistic parameters that can be incorporated into
+Mohler H, Rudolph U. Trace fear conditioning involves hippocampal
+computational models that further investigate hippocampal alpha5GABA(A)receptors.ProcNatlAcadSciUSA99:8980–8985,2002.
+network synchrony. Csicsvari J, Jamieson B, Wise KD, Buzsaki G. Mechanisms of gamma
+In summary, we have shown that tonic inhibition in hip- oscillationsinthehippocampusofthebehavingrat.Neuron37:311–322,
+2003.
+pocampal pyramidal neurons regulates spike firing. Together
+CurmiJP,PremkumarLS,BirnirB,GagePW.Theinfluenceofmembrane
+with the results of previous studies, these findings raise the
+potentialonchloridechannelsactivatedbyGABAinratculturedhippocam-
+intriguing possibility that a reduction of tonic inhibition, and palneurons.JMembrBiol136:273–280,1993.
+the simultaneous enhancement of oscillatory activity and neu- DawsonGR,MaubachKA,CollinsonN,CobainM,EverittBJ,MacLeod
+ronalfiring,facilitatesnetworkco-ordinationinthehippocam- AM, Choudhury HI, McDonald LM, Pillai G, Rycroft W, Smith AJ,
+pus in (cid:1)5(cid:1)/(cid:1) slices and improves the performance for learn- SternfeldF,TattersallFD,WaffordKA,ReynoldsDS,SeabrookGR,
+Atack JR. An inverse agonist selective for {alpha}5 subunit-containing
+ing and memory tasks in (cid:1)5(cid:1)/(cid:1) mice. GABAAreceptorsenhancescognition.JPharmacolExpTher316:1335–
+1345,2006.
+ACKNOWLEDGMENTS FritschyJM,MohlerH.GABA -receptorheterogeneityintheadultratbrain:
+A
+differential regional and cellular distribution of seven major subunits.
+The authors thank E. Czerwinski for assistance with the cell cultures and
+JCompNeurol359:54–94,1995.
+Dr.MichaelJacksonforassistancewiththepreparationofthemanuscript.
+Glykys J, Mody I. Hippocampal network hyperactivity following selective
+reductionoftonicinhibitioninGABAAreceptor{alpha}5subunitdeficient
+GRANTS mice.JNeurophysiol95:2796–2807,2006.
+The research was supported by Canadian Institutes of Health Research HamannM,RossiDJ,AttwellD.Tonicandspilloverinhibitionofgranule
+OperatingGrantMOP-38028toB.A.OrserandaCanadaResearchChairto cellscontrolinformationflowthroughcerebellarcortex.Neuron33:625–
+B.A.Orser. 633,2002.
+JonesA,KorpiER,McKernanRM,PelzR,NusserZ,MakelaR,Mellor
+JR, Pollard S, Bahn S, Stephenson FA, Randall AD, Sieghart W,
+REFERENCES
+Somogyi P, Smith AJ, Wisden W. Ligand-gated ion channel subunit
+AttwellD,BarbourB,SzatkowskiM.Nonvesicularreleaseofneurotrans- partnerships: GABAA receptor alpha6 subunit gene inactivation inhibits
+mitter.Neuron11:401–407,1993. deltasubunitexpression.JNeurosci17:1350–1362,1997.
+Bai D, Zhu G, Pennefather P, Jackson MF, MacDonald JF, Orser BA. KhirugS,HuttuK,LudwigA,SmirnovS,VoipioJ,RiveraC,KailaK,
+Distinct functional and pharmacological properties of tonic and quantal KhirougL.DistinctpropertiesoffunctionalKCC2expressioninimmature
+JNeurophysiol•VOL98•OCTOBER2007•www.jn.org
+Downloaded from journals.physiology.org/journal/jn (142.115.063.086) on April 2, 2025.
+2254 R. P. BONIN, L. J. MARTIN, J. F. MacDONALD, AND B. A. ORSER
+mousehippocampalneuronsincultureandinacuteslices.EurJNeurosci ScanzianiM.GABAspilloveractivatespostsynapticGABA(B)receptorsto
+21:899–904,2005. controlrhythmichippocampalactivity.Neuron25:673–681,2000.
+KralicJE,KorpiER,O’BuckleyTK,HomanicsGE,MorrowAL.Molec- ScimemiA,SemyanovA,SperkG,KullmannDM,WalkerMC.Multiple
+ular and pharmacological characterization of GABA(A) receptor alpha1 and plastic receptors mediate tonic GABA A receptor currents in the hip-
+subunitknockoutmice.JPharmacolExpTher302:1037–1045,2002. pocampus.JNeurosci25:10016–10024,2005.
+KralicJE,SidlerC,ParpanF,HomanicsGE,MorrowAL,FritschyJM. SemyanovA,WalkerMC,KullmannDM.GABAuptakeregulatescortical
+excitabilityviacelltype-specifictonicinhibition.NatNeurosci6:484–490,
+Compensatory alteration of inhibitory synaptic circuits in cerebellum and
+2003.
+thalamus of gamma-aminobutyric acid type A receptor alpha1 subunit
+Semyanov A, Walker MC, Kullmann DM, Silver RA. Tonically active
+knockoutmice.JCompNeurol495:408–421,2006.
+GABA receptors: modulating gain and maintaining the tone. Trends
+KullmannDM,RuizA,RusakovDM,ScottR,SemyanovA,WalkerMC. A
+Neurosci27:262–269,2004.
+Presynaptic,extrasynapticandaxonalGABA receptorsintheCNS:where
+A SerwanskiDR,MirallesCP,ChristieSB,MehtaAK,LiX,deBlasAL.
+andwhy?ProgBiophysMolBiol87:33–46,2005.
+SynapticandnonsynapticlocalizationofGABA receptorscontainingthe
+Lacaille JC, Mueller AL, Kunkel DD, Schwartzkroin PA. Local circuit alpha5subunitintheratbrain.JCompNeurol4 A 99:458–470,2006.
+interactionsbetweenoriens/alveusinterneuronsandCA1pyramidalcellsin StellBM,BrickleySG,TangCY,FarrantM,ModyI.Neuroactivesteroids
+hippocampal slices: electrophysiology and morphology. J Neurosci 7: reduce neuronal excitability by selectively enhancing tonic inhibition me-
+1979–1993,1987. diatedby{delta}subunit-containingGABAAreceptors.ProcNatlAcadSci
+Lerma J, Herranz AS, Herreras O, Abraira V, Martin DR. In vivo USA100:14439–14444,2003.
+determination of extracellular concentration of amino acids in the rat StellBM,ModyI.Receptorswithdifferentaffinitiesmediatephasicandtonic
+hippocampus.Amethodbasedonbraindialysisandcomputerizedanalysis. GABA conductancesinhippocampalneurons.JNeurosci22:1–5,2002.
+A
+BrainRes384:145–155,1986. Sternfeld F, Carling RW, Jelley RA, Ladduwahetty T, Merchant KJ,
+Lisman JE. Relating hippocampal circuitry to function: recall of memory MooreKW,ReeveAJ,StreetLJ,O’ConnorD,SohalB,AtackJR,Cook
+sequences by reciprocal dentate-CA3 interactions. Neuron 22: 233–242, S, Seabrook G, Wafford K, Tattersall FD, Collinson N, Dawson GR,
+1999. Castro JL, MacLeod AM. Selective, orally active gamma-aminobutyric
+MacDonald JF, Mody I, Salter MW. Regulation of N-methyl-D-aspartate acidAalpha5receptorinverseagonistsascognitionenhancers.JMedChem
+receptors revealed by intracellular dialysis of murine neurons in culture. 47:2176–2179,2004.
+JPhysiol414:17–34,1989. Sur C, Fresu L, Howell O, McKernan RM, Atack JR. Autoradiographic
+MaguireJL,StellBM,RafizadehM,ModyI.Ovariancycle-linkedchanges localization of alpha5 subunit-containing GABAA receptors in rat brain.
+inGABA(A)receptorsmediatingtonicinhibitionalterseizuresusceptibility BrainRes822:265–270,1999.
+andanxiety.NatNeurosci8:797–804,2005. TossmanU,JonssonG,UngerstedtU.Regionaldistributionandextracellu-
+MarchionniI,OmraniA,CherubiniE.Inthedevelopingrathippocampus larlevelsofaminoacidsinratcentralnervoussystem.ActaPhysiolScand
+atonicGABA -mediatedconductanceselectivelyenhancestheglutamater- 127:533–545,1986.
+A
+gicdriveofprincipalcells.JPhysiol581:515–528,2007. TowersSK,GloveliT,TraubRD,DriverJE,EngelD,FradleyR,Rosahl
+McCartney MR, Deeb TZ, Henderson TN, Hales TG. Tonically active TW,MaubachK,BuhlEH,WhittingtonMA.Alpha5subunit-containing
+GABA receptors in hippocampal pyramidal neurons exhibit constitutive GABA receptorsaffectthedynamicrangeofmousehippocampalkainate-
+A A
+GABA-independentgating.MolPharmacol71:539–548,2007. induced gamma frequency oscillations in vitro. J Physiol 559: 721–728,
+McKernanRM,WhitingPJ.WhichGABA -receptorsubtypesreallyoccur 2004.
+inthebrain?TrendsNeurosci19:139–143 A ,1996. Valeyev AY, Cruciani RA, Lange GD, Smallwood VS, Barker JL. Cl(cid:1)
+MitchellSJ,SilverRA.Shuntinginhibitionmodulatesneuronalgainduring channelsarerandomlyactivatedbycontinuousGABAsecretionincultured
+synapticexcitation.Neuron38:433–445,2003. embryonicrathippocampalneurons.NeurosciLett155:199–203,1993.
+ModyI.DistinguishingbetweenGABA(A)receptorsresponsiblefortonicand Vautrin J, Maric D, Sukhareva M, Schaffner AE, Barker JL. Surface-
+phasicconductances.NeurochemRes26:907–913,2001. accessibleGABAsupportstonicandquantalsynaptictransmission.Synapse
+OrtinskiPI,TurnerJR,BarberisA,MotamediG,YasudaRP,WolfeBB, 37:38–55,2000.
+Kellar KJ, Vicini S. Deletion of the GABA(A) receptor alpha1 subunit WallMJ,UsowiczMM.Developmentofthequantalpropertiesofevokedand
+increasestonicGABA(A)receptorcurrent:aroleforGABAuptaketrans- spontaneoussynapticcurrentsatabrainsynapse.NatNeurosci1:675–682,
+porters.JNeurosci26:9323–9331,2006. 1998.
+PirkerS,SchwarzerC,WieselthalerA,SieghartW,SperkG.GABA(A) Whiting PJ, Bonnert TP, McKernan RM, Farrar S, Le Bourdelles B,
+receptors:immunocytochemicaldistributionof13subunitsintheadultrat Heavens RP, Smith DW, Hewson L, Rigby MR, Sirinathsinghji DJ,
+brain.Neuroscience101:815–850,2000. Thompson SA, Wafford KA. Molecular and functional diversity of the
+Prenosil GA, Schneider Gasser EM, Rudolph U, Keist R, Fritschy JM, expandingGABA-Areceptorgenefamily.AnnNYAcadSci868:645–653,
+VogtKE.SpecificsubtypesofGABA receptorsmediatephasicandtonic 1999.
+A
+formsofinhibitioninhippocampalpyramidalneurons.JNeurophysiol96: WhittingtonMA,JefferysJG,TraubRD.Effectsofintravenousanaesthetic
+846–857,2006. agentsonfastinhibitoryoscillationsintherathippocampusinvitro.BrJ
+Rivera C, Voipio J, Payne JA, Ruusuvuori E, Lahtinen H, Lamsa K, Pharmacol118:1977–1986,1996.
+PirvolaU,SaarmaM,KailaK.TheK(cid:3)/Cl-co-transporterKCC2renders Wisden W, Laurie DJ, Monyer H, Seeburg PH. The distribution of 13
+GABAhyperpolarizingduringneuronalmaturation.Nature397:251–255, GABAA receptor subunit mRNAs in the rat brain. I. Telencephalon,
+1999. diencephalon,mesencephalon.JNeurosci12:1040–1062,1992.
+RossiDJ,HammanM,AttwellD.MultiplemodesofGABAergicinhibition WoodinMA,GangulyK,PooMM.Coincidentpre-andpostsynapticactivity
+ofratcerebellargranulecells.JPhysiol548:97–110,2003. modifies GABAergic synapses by postsynaptic changes in Cl- transporter
+RudolphU,CrestaniF,MohlerH.GABA(A)receptorsubtypes:dissecting activity.Neuron39:807–820,2003.
+theirpharmacologicalfunctions.TrendsPharmacolSci22:188–194,2001. YeungYT,CanningKJ,ZhuG,PennefatherP,MacDonaldJF,OrserBA.
+Sassoe-PognettoM,PanzanelliP,SieghartW,FritschyJM.Colocalization Tonically activated GABA receptors in hippocampal neurons are high-
+A
+ofmultipleGABA(A)receptorsubtypeswithgephyrinatpostsynapticsites. affinity,low-conductancesensorsforextracellularGABA.MolPharm63:
+JCompNeurol420:481–498,2000. 2–8,2003.
+JNeurophysiol•VOL98•OCTOBER2007•www.jn.org
+Downloaded from journals.physiology.org/journal/jn (142.115.063.086) on April 2, 2025.

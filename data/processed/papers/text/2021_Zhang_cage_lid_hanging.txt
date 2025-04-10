@@ -1,0 +1,683 @@
+ResearchPaper
+Cage-lid hanging behavior as a translationally
+relevant measure of pain in mice
+HantaoZhanga,IreneLeckera,ChereenCollymoreb,c,AnastassiaDokovad,MaianChristinePhama,
+SarahF.Rosend,HayleyCrawhall-Dukd,MahamZaina,MeganValenciaa,HelenaFetterFilippinia,JerryLia,
+AbigailJ.D’Souzaa,e,ChulminChof,VassiliaMichailidisf,PaulD.Whissellg,IngitaPatela,HendrikW.Steenlandh,
+Wai-JaneVirginiaLeei,MassiehMoayedii,Toni-LeeSterleyj,JaideepS.Bainsj,JoAnneStrattonk,l,JohnR.Matyasl,
+JeffBiernaskiej,l,DavidDubinsa,IgorVukobradovice,AlexandrBezginove,AnnM.Flennikene,LorenJ.Martinf,g,
+JeffreyS.Mogild,RobertP.Bonina,g,m,*
+Abstract
+Thedevelopmentofnewanalgesicdrugshasbeenhamperedbytheinabilitytotranslatepreclinicalfindingstohumans.Thisfailureis
+due inpart to the weak connection between commonly used pain outcome measures inrodents and the clinical symptoms of
+chronicpain.Mostrodentstudiesrelyontheuseofexperimenter-evokedmeasuresofpainandassessbehaviorunderethologically
+unnaturalconditions,whichlimitsthetranslationalpotentialofpreclinicalresearch.Here,weaddressedthisproblembyconducting
+anunbiased,prospectivestudyofbehavioralchangesinmicewithinanaturalhomecageenvironmentusingconventionalpreclinical
+pain assays. Unexpectedly, we observed that cage-lid hanging, a species-specific elective behavior, was the only homecage
+behaviorreliablyimpactedbypainassays.Noxiousstimulireducedhangingbehaviorinanintensity-dependentmanner,andthe
+reductioninhangingcouldberestoredbyanalgesics.Finally,wedevelopedanautomatedapproachtoassesshangingbehavior.
+Collectively,ourresultsindicatethatthedepressionofhangingbehaviorisanovel,ethologicallyvalid,andtranslationallyrelevant
+painoutcomemeasureinmicethatcouldfacilitatethestudyofpainandanalgesicdevelopment.
+Keywords:Behavior,Mice,Preclinical,Assessment,Analgesia
+1.Introduction
+Despite a growing need for new analgesics, there has been little
+progressintranslatingpreclinicaladvancesintosafeandefficacious
+Sponsorshipsorcompetingintereststhatmayberelevanttocontentaredisclosed
+attheendofthisarticle.
+clinicalinterventionsforchronicpain.48Amajorcontributortothis
+translational gap is the limited relevance of existing preclinical
+H.Zhang,I.Lecker,J.Mogil,andR.Bonincontributedequallytothisstudy.
+aLeslieDanFacultyofPharmacy,UniversityofToronto,Toronto,ON,Canada, outcome measures to the human pain experience.29,33,37 Clinical
+bDivisionofComparativeMedicine,FacultyofMedicine,UniversityofToronto, manifestations of chronic pain include physical, emotional, and
+Toronto,ON,Canada,cAnimalCareandVeterinaryServices,UniversityofOttawa, cognitivechangesthatareoftendifficulttomeasureinrodents.30In
+Ottawa,ON,Canada,dDepartmentsofPsychologyandAnesthesia,McGill
+addition, many behavioral outcome measures in rodents are
+University,Montreal,QC,Canada,eTheCentreforPhenogenomics,Toronto,ON,
+Canada,fDepartmentofPsychology,UniversityofTorontoatMississauga, assessed under ethologically “unnatural” and potentially stress-
+Mississauga,ON,Canada,gCellandSystemsBiology,UniversityofToronto evoking testing conditions.15,21,35,41 Furthermore, preclinical pain
+Toronto,ON,Canada,hNeurotekInnovativeTechnology,Incorporated,Toronto, studies often rely on outcome measures that are experimenter-
+ON,Canada,iCentreforMultimodalSensorimotorandPainResearch,Facultyof
+evoked,suchasnociceptivewithdrawalthresholdstomechanicalor
+Dentistry,UniversityofToronto,Toronto,ON,Canada,jDepartmentofPhysiology
+andPharmacology,HotchkissBrainInstitute,UniversityofCalgary,Calgary,AB,
+thermalstimuli.28,29Besidesthefactthatthehypersensitivitystates
+Canada,kDepartmentofNeurologyandNeurosurgery,McGillUniversity,Montreal, (ie, allodynia and hyperalgesia) being modeled are rather rare
+QC,Canada,lFacultyofVeterinaryMedicine,UniversityofCalgary,Calgary,AB, symptoms of chronic pain in humans,2,39 this approach to pain
+Canada,mCentrefortheStudyofPain,UniversityofToronto,Toronto,ON,Canada
+assessmentcanintroduceconfoundinginfluencessuchasbiasand
+*Correspondingauthor.Address:UniversityofToronto,144CollegeSt,Rm.1004, experimenter-inducedstress.10,17,41Althoughspontaneousbehav-
+Toronto,ONM5S3M2,Canada.Tel.:1-416-978-2716.E-mailaddress:
+rob.bonin@utoronto.ca(R.P.Bonin). iors are increasingly used as outcome measures of pain models,
+manyhavesignificantlimitations.10,28,43Thesebehaviorsareoften
+Supplementaldigitalcontentisavailableforthisarticle.DirectURLcitationsappear
+intheprintedtextandareprovidedintheHTMLandPDFversionsofthisarticleon far more robust under conditions of acute, but not chronic,
+thejournal’sWebsite(www.painjournalonline.com). pain.23,42,47 For example, grimace scales, which quantify facial
+PAIN162(2021)1416–1425 expressionsassociatedwithpain,areprogressivelylesssuitableas
+Copyright©2020TheAuthor(s).PublishedbyWoltersKluwerHealth,Inc.onbehalf thedurationofpainincreases.23,42
+oftheInternationalAssociationfortheStudyofPain.Thisisanopenaccessarticle Nonessential or elective behaviors offer promising avenues for
+distributedunderthetermsoftheCreativeCommonsAttribution-NonCommercial-
+identifyingnovelbehavioralmeasuresofpainthatcanbeobjectively
+NoDerivativesLicense4.0(CCBY-NC-ND),whereitispermissibletodownloadand
+sharetheworkprovideditisproperlycited.Theworkcannotbechangedinanyway quantified under ethologically relevant conditions. These natural,
+orusedcommerciallywithoutpermissionfromthejournal. spontaneous, and often complex homecage behaviors include
+http://dx.doi.org/10.1097/j.pain.0000000000002127
+playing,grooming,socializing,andnestbuilding.19Electivebehaviors,
+·
+1416 H.Zhangetal. 162(2021)1416–1425 PAIN®
+· ·
+May2021 Volume162 Number5 www.painjournalonline.com 1417
+sometimes called “luxury” behaviors, are voluntary and healthy were given one week to acclimatize to the new cycle before
+rodents are motivated to perform them despite possibly limited experiment commencement. The UTM and TCP conducted
+survivalbenefits.19,38Electivebehaviorsinrodentsmaybeindicators experiments during the light period only. In all facilities,
+ofwell-beingandareoftenaffectedbypoorhealth.1,5,19,20Analogous environmental enrichment was provided by placing a cotton
+elective behaviors in humans, such as social interactions and nesting square, cork bedding, and a red, transparent plastic
+participationinextracurricularactivities,areconsistentlyimpactedby mousehouseinsideeachcage,exceptTCP,whereenrichment
+chronicpain.8,11,13Thus,electivebehaviorsmightofferawindowinto was using corncob bedding and shredded paper with no red
+theinnerstateandwell-beingofrodentsandmakethesebehaviors mousehouse.MiceattheUniversityofToronto,UTM,andMcGill
+potentialtranslationallyrelevantmeasuresofpain. were housed in ventilated Allentown Micro-Vent cages with
+To identify novel behavioral measures of pain in mice with automatedwaterdelivery.MiceatTCPwerehousedinTecniplast
+translationalrelevance,weconductedanunbiased,prospective GreenLinecageswithautomaticventilationandwaterdelivery.
+study of mouse behavioral changes in a natural homecage Forallhomecageexperiments,miceweretestedinacleancage
+environmentusingvariousassaysfeaturingsustainedpain.Using ofthesamemanufacturerandmakeastheiroriginalhomecageat
+automated video tracking, we found that cage-lid hanging was weaning.Allmicehadaccesstofoodandwateradlibitum.Forall
+the only homecage behavior reliably impacted by pain over its experiments, animals were randomly assigned into treatment
+duration.Here,wedefinedhangingbehaviorasamouseclimbing groups, and experimenters were blinded to treatment. A new
+ontothemetallidoftheirhomecageandsuspendingthemselves, cohortofmicewasusedforeachexperiment.
+upside-down,offthefloor.Wefoundthathangingbehaviorwas
+reducedinpainassaysinastimulusintensity-dependentmanner
+that could be restored with analgesics. Next, we created an 2.2.Painassays
+ethological profile of hanging across different sexes, ages, and
+2.2.1.Sparednerveinjury
+strainsofmice.Finally,wedevelopedandvalidatednewtoolsto
+facilitate observation and automate quantification of hanging, Sparednerveinjury(SNI)wasperformedaspreviouslydescribed40:
+thusstreamliningpainassessmentinmice.Overall,ourstudyhas Mice were first anesthetized with halothane anesthesia (1.75%-
+demonstratedthathangingisanelectivebehaviorthatcanactas 2.5%).Afterskinandmuscleincision,2ofthe3terminalbranches
+arobustandtranslationallyrelevantmeasureofpaininmice. ofthesciaticnerve(suralandtibial)weretightlyligatedwitha9-
+0silksuture(Ethicon,Somerville,NJ).Next,theligatedbranches
+weretransecteddistaltotheligature,and;2mmofeachdistal
+2.Methods nerve stump was removed. In all animals, overlying muscle and
+skin layers were closed separately by using 6-0 silk sutures
+2.1.Animals
+(Ethicon)and7.5-mmsutureclips(HarvardApparatus,Holliston,
+All experiments were approved by the Downtown Animal Care MA),respectively.40Abaselinerecordingofhangingbehaviorwas
+Committee at McGill University and the Animal Ethics and taken before the surgery (day 21, preoperative) and compared
+ComplianceProgramattheUniversityofTorontoandconducted with recordings taken after surgery (days 1, 4, 7, 14, and 28,
+in accordance with Canadian Council on Animal Care (CCAC) postoperative). In all sessions, mice were filmed for 24 hours,
+guidelines. Male and female C57BL/6N and CD-1 mice were starting immediately after lights off. Mice were returned to their
+tested in 4 different facilities: McGill University (Mogil Lab), homecageinbetweentestingperiods(MogilandMartinlabs).
+UniversityofTorontoSt.Georgecampus(BoninLab),University
+ofTorontoatMississauga(UTM;MartinLab),andTheCentrefor
+2.2.2.PlantarcompleteFreund’sadjuvant
+Phenogenomics (TCP) in Toronto. Mice tested at McGill
+University were all purchased from Charles River Laboratories, Avolumeof15mLofcompleteFreund’sadjuvant(CFA)(0.5mg/mL
+St.Constant,QC(CD-1,n516).MicetestedattheUniversityof heat-killed Mycobacterium) was injected subcutaneously into the
+TorontowereallpurchasedfromCharlesRiverLaboratories(CD- plantarsurfaceoftherighthindpaw.Abaselinerecordingofhanging
+1,n594;C57BL/6N,n594).C57BL/6NmicetestedintheUTM behaviorwastakenbeforeinjection(day21,pre-operative).Ontest
+campuswerebredin-house(n576)orpurchasedfromCharles days(days1,4,7,11,and14,postoperative),micewerefilmedfor
+River(n520).C57BL/6NmicetestedatTCP(n535)werebred 24hours,startingimmediatelyafterlightsoff.Micewerereturnedto
+in-house.AllmicepurchasedfromCharlesRiverwerealloweda theirhomecageinbetweentestingperiods(Mogillab).InsomeCFA
+one-weekhabituationperiodafterarrivalatthefacility.Themice experimentsconductedatTCP(Toronto),cagelidinteractionwas
+were housed in same-sex cages containing 3-4 animals per assessedusinganautomatedcapacitancesensingdevice.Inthese
+cage. Mice bred at the UTM were housed with same-sex experiments,16-week-oldC57BL/6Nmiceweretestedatbaseline
+littermates in groups of 4 to 5 per cage at weaning. For most and3hoursafterintraplantarCFAinjection(20mL)formechanical
+experiments,eithertwo-month-oldCD-1maleandfemalemice sensitivity using the SUDO von Frey filament up-down method,7
+orC57BL/6Nmalemicewereused(detailsforeachexperiment heatsensitivityusingtheHargreaves(radiantheatpaw-withdrawal)
+areprovidedintheResultssection).Inexperimentsexploringthe test,16andtestedagainat1daypostinjectionforcagelidinteraction
+effects of sex and age on hanging behavior, two-month-old inthehomecage(Flennikenlab).
+C57BL/6N male and female mice were used. Mice used to
+assessosteoarthritis(OA)painwere24-to25-weeksoldatthe
+2.2.3.Formalin
+time of assessment. Experiments conducted at TCP to assess
+automateddetectionofcagelidinteractionwereassessedusing Avolumeof10mLof1%formalinwasinjectedsubcutaneously
+four-month-oldC57BL/6Nmaleandfemalemice. intotheplantarsurfaceoftherighthindpaw.Themicewerethen
+All facilities were temperature-controlled (20 6 1˚C) with 12 individually placed in a second homecage for testing, which
+hours:12 hours light: dark cycle at UTM, McGill University, and containedbedding,food,andwater.Micewerefilmedfor2hours
+TCP.ExperimentsinTorontohada14hours:10hourslight:dark aftertheinjection.Theearlyphaseoftheformalintestwasdefined
+cycle(6AM-8PM).Whenareverselightcyclewasused,animals asthefirst5minutesafterinjectionandthelatephaseas15to60
+·
+1418 H.Zhangetal. 162(2021)1416–1425 PAIN®
+minutes after injection. This experiment was conducted during 2.4.Homecagehangingexperiments
+thedarkcycle,andanimalswerehousedinareverselight:dark
+Forhomecagebehaviouraltests,micewereplacedindividuallyin
+cycleforoneweekbeforetesting(Boninlab).
+a clean Allentown Micro-Vent cage (30 3 12 3 13 cm) with
+minimalbeddingandwerecoveredwithastainlesssteelcagelid
+2.2.4.Capsaicin thatcontainedfoodandawaterbottle.Forallexperiments,mice
+weretestedindividually.Acamcorder(SonyCX405)wassetup
+Avolumeof5mLof0.5%,wt/volCAP(dissolvedin80%saline,
+beside the cage allowing for an unobstructed side view. In
+10%Tween80,and10%ethanol)wasinjectedsubcutaneously
+addition,abackgroundwasplacedbehindthecagetocreatea
+intotheplantarsurfaceoftherighthindpaw.Themicewerethen
+contrast that enabled the optimal detection of the mice (CD-1:
+individually placed in a second homecage for testing, which
+dark background, C57BL/6N: white background). The experi-
+contained bedding, food, and water. These experiments were
+menter left the behavioral testing room during video recording.
+conductedduringthelightcycle,andmicewerefilmedfor2hours
+Videos were recorded in MPEG format and then converted to
+aftertheinjection(Boninlab).
+MP4format(3203240)foranalysis.
+2.2.5.Anteriorcruciateligamenttransection
+2.5.HangBoxhangingexperiments
+To model posttraumatic osteoarthritis in male C57BL/6N mice,
+anterior cruciate ligament (ACL) transection was performed as Aholdingchamber,the “HangBox,”wascreated toencourage
+previously described.32 Sham surgery, where all surgical and allowan isolated analysisofthe hanging behaviorof mice.
+procedures were conducted except the ACL transection, was The HangBox was designed as a small, transparent Plexiglas
+chamber(15315312.5-cmheight)enclosedwithamodified
+usedas acontrol. Micewerehoused with cagemates postsur-
+gery, and hanging behavior was assessed between 12 and 13 stainless steel cage lid repurposed from the cage lids used on
+weekspostsurgery,andthen,percenthangingwasnormalizedto Allentown Micro-Vent cages. The steel lid was placed with the
+angle facing upwards tofacilitate mouse interaction and the lid
+age-matched mice that received sham surgery. Behavior was
+recordedovernight,andmicewerefilmedfor9hours(Boninlab). endswerefixedtothesidesoftheHangBox7cmabovethefloor,
+whilethepeakofthelidissuspendedapproximately12cmabove
+thefloor.Micewereplacedintheboxforoneto2hoursatatime
+2.2.6.Cyclophosphamidecystitis without bedding, food, or other environmental enrichment. A
+Cyclophosphamide (CYP) was dissolved in physiological saline camcorder(SonyCX405)wasplacedinfrontoftheHangBoxto
+andwasinjectedi.p.at3differentdoses(30,100,or300mg/kg). recordhanging.Theseexperimentswereconductedduringthe
+Cyclophosphamide is converted to acrolein in the liver and darkcycleandmicewerehousedinareverselight:darkcyclefor
+collectsinthebladder,causingpainfulcystitisandallodyniainthe oneweekbeforetheexperiment(Boninlab).
+lowerabdomenofmice.6Themicewerethenplacedindividually
+in a second homecage for testing, which contained bedding,
+2.6.Video-basedanalysisofhangingandbehavior
+food, and water. Mice were filmed for 9 hours after injection.
+Theseexperiments were conductedduringthedarkcycle,and HomeCageScan (CleverSys Inc, Reston, VA) software program
+mice were housed in a reverse light: dark cycle for one week wasusedtoquantifymousebehaviourinsomeexperiments.The
+beforetheexperiment(Boninlab). software program analyzes and quantifies 38 predetermined
+behaviors that were reclassified into 8 combined categories for
+statisticalanalysisinaccordancewithpreviousstudies14(Supple-
+2.2.7.Systemiclipopolysaccharide
+mentaryTable1,availableathttp://links.lww.com/PAIN/B220).In
+Lipopolysaccharide (LPS) was dissolved in physiological saline other experiments, EthoVision XT 12 (Noldus Information Tech-
+and injected i.p. at 3 different doses (1.5, 15, and 150 mg/kg). nology, Wageningen, the Netherlands) was used to quantify
+Lipopolysaccharide is a proinflammatory mediator that causes hangingbehavioranddistancetraveledbyeachmousethroughout
+sickness behavior in mice12 and causes generalized hyper- theexperiment.UsingEthoVision,hangingbehaviorwasdefined
+algesia.26 The mice were then individually placed in a second as when the center of a mouse’s body was located in the
+designated “Hang Zone” approximately 3 cm from the stainless
+homecagefortesting,whichcontainedbedding,food,andwater.
+steelcagelidandnopawswereincontactwiththecagefloor.This
+Micewerefilmedfor9hoursafterinjection.Theseexperiments
+analysis approach was verified by comparing hanging behavior
+wereconductedduringthedarkcycle,andmicewerehousedina
+measured by automated scoring to that measured by manual
+reverse light: dark cycle for one week before the experiment
+scoring. Zone parameters were validated in pilot studies before
+(Boninlab).
+proceedingwithexperiments.Therewasasignificantcorrelation(r
+50.99,n5101,P,0.001)betweenhangingbehaviorscored
+fromautomatedandmanualmethods.EthoVisionwasusedforall
+2.3.Analgesicdrugs experiments except the initial characterization of homecage
+The following analgesic compounds were used in this study: behaviorsafterSNIandCFAusingHomeCageScan(Mogillab).
+ketoprofen(5mg/kg),tramadol(30mg/kg),gabapentin(10,30,
+and 100 mg/kg) and (6)-trans-U-50,488H (10 and 25 mg/kg).
+2.7.Automateddetectionofcagelidinteraction
+GabapentinwasagiftfromYvesDeKoninck(Universite´ Laval),
+andallotherdrugswereobtainedfromMilliporeSigmaChemical Toautomatethedetectionofmouseinteractionwiththecagelid,
+Co. (Toronto, Canada). Drugs were dissolved in physiological an Arduino-based device was developed to measure the
+saline, and appropriate vehicle-treated groups were assessed capacitance of the cage lid. Mouse contact with the cage lid
+simultaneously. All drugs were administered i.p. in a volume of creates a spike in the measured capacitance with a sustained
+0.01mL/gbodyweight. increase in the capacitance while mice are hanging. Cage lid
+· ·
+May2021 Volume162 Number5 www.painjournalonline.com 1419
+capacitancewascontinuallyassessedatarateof4kHz,digitized anyotherhomecagebehaviorsondayonepostinjection(sleep:
+at28-bitresolution,andoutputtoacomputeratarateof4Hz.Up F 51.4,P50.23;horizontal:F 52.0,P50.08;vertical:
+(6,49) (6,49)
+to4cageswererecordedsimultaneouslyfromeachdevice.For F 51.7,P50.15;stationary:F 51.0,P50.40;groom:
+(6,35) (6,49)
+eachmouse,allmeasuredcapacitancevalueswerevisualizedas F 50.80,P50.62;explore:F 51.1,P50.37;eating/
+(6,49) (6,42)
+ahistogram.Thegeneratedhistogramstypicallyhadabimodal drinking:F 51.9,P50.10).Althoughnotsignificant,there
+(6,49)
+distribution, with a predominant peak at lower values corre- was a trend towards decreased eating/drinking on day one
+sponding to baseline lid capacitance and a second peak postinjection.
+corresponding to the combined capacitance of the lid and An effect on hanging behavior was also found using the SNI
+mouse. Time spent hanging was calculated as the area of the assay,wherehangingwasdecreasedby78%frombaselineon
+second peak over the total histogram area. The experiments day one after surgery (F 5 10.5, P , 0.001) and did not
+(5,40)
+using electronic assessment of CFA-impaired hanging were recoverbyday28(Fig.1).Sparednerveinjuryalsosignificantly
+conductedusingTecniplastGreenLinecagesatTCP.Themetal reduced eating/drinking behavior by 42% (F 5 4.6, P
+(5,40)
+lidsusedinGreenLinecageshadalargenetcapacitancewith 50.002;Fig.1)andexplorationby40%(F 52.5,P50.02;
+(5,40)
+high baseline variability, which prevented the detection of total Fig. 1) one day postsurgery. Although exploration recovered
+hangingtimeusingthehistogramapproachdescribedabove.For backtobaselinebyday28,eating/drinkingremainedsignificantly
+automateddetectionofcagelidinteractioninGreenLinecages, impaired.Therewasnosignificantdifferenceinotherhomecage
+the capacitance data were high-pass filtered by subtracting a behaviorsacrossthetimecourseofthestudy(stationary:F 5
+(5,40)
+moving average of 500 samples to remove baseline variability. 1.1,P50.39;grooming:F 51.1,P50.36;sleeping:F
+(5,40) (5,40)
+Afterfiltering, acontactdetection threshold wasset at.3root 50.60,P 50.69;horizontal: F 50.30, P50.89,Fig. 1).
+(5,40)
+meansquare(RMS)abovebaseline,andthefrequencyofcontact Although not significant, there was a strong trend towards
+eventswasquantifiedasameasureofcagelidinteraction. decreasedverticallocomotionafterSNI(vertical:F 52.4,P5
+(5,40)
+0.053). Collectively, these results suggest that hanging is the
+homecage behavior most reliably impacted by traditional
+2.8.Statisticalanalyses persistentpainassays.
+StatisticalanalyseswereperformedusingGraphPadPrismv.8or We next investigated whether effects on hanging behavior
+IBMSPSSStatisticsforWindowsv.20.Inallfigures,resultsare generalize to other preclinical pain assays, another hanging
+expressed as the mean 6 SEM. In most experiments, results measurement technique, and another mouse strain. First, we
+were analyzed statistically using one-way analysis of variance tested whether assays of shorter-term pain in the hind paw
+(ANOVA) to the saline/control group, followed by a post hoc (formalinandcapsaicin)decreasehanging.Inthisexperiment,we
+Dunnett test. Analgesic reversal of formalin, CYP, and LPS streamlined the analysis process by selectively measuring
+depressed hanging behavior were analyzed statistically using hanging behavior using Ethovision (Noldus) tracking software
+one-way ANOVA to the noxious stimulus group, followed by a (seeMethodsfordetails).Wefoundthatinjectionofformalin(1%,
+post hoc Dunnett test. Two-tailed t-tests or two-way ANOVA 10 mL) or capsaicin (0.5%,5 mL) reduced hanging behavior by
+were used as appropriate. Group differences at the level of 78% and 67%, respectively, compared with baseline hanging
+P,0.05wereconsideredstatisticallysignificant. (formalin:t
+(11)
+515.7,P,0.001,n512;capsaicin:t
+(7)
+54.97,P
+50.002,n58;Fig.2A).Weadditionallyassessedtheimpactof
+osteoarthritis on hanging behavior using the ACL transection
+3.Results model.At12weekspostsurgery,weobserveda61%reductionin
+hangingcomparedwithage-matchedmicethatreceivedasham
+3.1.Hangingbehaviorisimpairedinassaysofpain
+surgery(t 54.43,P50.003,n58;Fig.2A).Wefurtherverified
+(7)
+To identify novel behavioral correlates of pain in mice, we thatSNIreducedhangingbehaviorinC57BL/6Nmicecompared
+evaluated the effect of sustained pain on typical homecage withbaselineactivity(46%reduction;t 56.90,P,0.001,n5
+(11)
+behaviors. Naive, 8- to 12-week old, individually housed, male 12, Fig. 2A), and confirmed that intraplantar CFA impaired
+andfemaleCD-1micewereexposedtooneof2commonlyused hangingbehaviorinC57BL/6Nmice(32%reduction;t 52.86,
+(9)
+pain assays: intraplantar injection of CFA and SNI. Intraplantar P50.02,n510,Fig.2A).Theseresultsindicatedthathanging
+injection of CFA into the mouse hind paw was used to induce behavior is significantly decreased in pain assays targeting the
+persistent inflammatory pain; in our hands and in this strain, hind limbs. Furthermore, the impairment in hanging observed
+mechanical allodynia resolves by approximately 14 days post- afterCFAorSNIisconsistentacross2mousestrains.
+injection.SNIwasusedtoinducechronicneuropathicpaininthe Because targeting the hind limb may impede the physical
+mouse hind limb that in our hands does not resolve even by 3 abilityofthemousetohang,wenextexploredeffectsonhanging
+monthspostsurgery.Mousebehaviorwasrecordedfor24hours behaviorusingassaysthatdonottargetbodypartsinvolvedin
+in a homecage environment at baseline and several 24-hour hanging. We began by investigating the effect of systemic
+periodsaftertheinjury.Automatedvideotrackingandbehavioral inflammation on hanging behavior. To model systemic inflam-
+classification software program was used to determine the mation,weinjectedanimalswithLPS(15mg/kg,i.p.).Lipopoly-
+percentoftimemicespentparticipatingin8distinctbehaviors: saccharide isaproinflammatory mediator thatcausessickness
+hanging, eating or drinking, exploring, vertical locomotion, behavior in mice12 and causes generalized hyperalgesia.26 We
+horizontal locomotion, grooming, stationary or inactivity, and found that LPS significantly reduced the hanging behavior by
+sleeping. 93%(t 538.5,P,0.001,n512,Fig.2A).Next,weuseda
+(11)
+We found that CFA had a significant effect on hanging bladder cystitis model, cyclophosphamide (CYP, 100 mg/kg,
+behavior,whichwasdecreasedby73%frombaselineoneday i.p.), to induce cystitis and allodynia in the lower abdomen of
+after the injection (F 5 3.6, P 5 0.005; Fig 1). Hanging mice.6 Acute injection of CYP decreased hanging behavior by
+(6,42)
+behavior remained significantly reduced through day 7, with 77% (t 5 17.5, P , 0.001, n 5 11, Fig. 2A). These data
+(10)
+evidenceofrecoverybyday14.CompleteFreund’sadjuvanthad suggestthatsystemicmodelsthatdonottargetthehindpawalso
+nosignificanteffectonthepercentoftimemicespentengagingin reducehanginginmice.
+·
+1420 H.Zhangetal. 162(2021)1416–1425 PAIN®
+Figure1.Hangingbehaviorisimpairedinmodelsofinflammatoryandneuropathicpain.(A)TheeffectofinjectionofcompleteFreund’sadjuvant(CFA)orspared
+nerveinjury(SNI)on8distincthomecagebehaviorsofCD-1micewasquantifiedusingautomatedvideoscoring(CleverSysHomeCageScan).Dataareshownas
+thepercentageoftimemiceparticipatedineachbehaviorover24hours(average6SEM).NotethathangingbehaviorisreducedafterbothCFAandSNI,butonly
+recoverstonormallevelsafterCFA,notafterSNI.*P,0.05,**P,0.01,***P,0.001comparedwithbaseline(21).
+3.2.Impairmentsinhangingbehavioraredose-dependent recordedoveronehour.Wefoundasignificantnegativecorrelation
+andreversedbyanalgesics betweenhangingbehaviorandlicking/bitingbehavior(r520.44,
+n518,P50.05,Fig.2D).
+Havingdemonstratedthathangingbehaviorisimpairedinvarious
+We next assessed whether the analgesic gabapentin dose-
+painassays,wenextinvestigatedwhethertheextentofimpairment
+dependently restores hanging behavior after SNI in a manner
+iscorrelatedwiththelikelydegreeofpainexperiencedbymice,and
+correlatedwithhypersensitivewithdrawalresponsesfromvonFrey
+whether it is reduced by analgesic treatments. We first examined
+testsinmice.Thisexperimentusedacrossoverdesign,witha72-
+whetherpainintensityaffectedthedegreetowhichhangingbehavior
+hour washout period between injections. Spared nerve injury
+wasimpaired.WeadministeredCYP(30,100,300mg/kg;i.p.)or
+LPS (1.5, 15, 150 mg/kg; i.p.) to mice and their behavior was robustly decreased hanging behavior and mechanical paw with-
+recordedover9hoursduringtheiractiveperiod.ForbothCYPand drawalthresholdsoneweekaftersurgery(Fig.2E).Theimpairment
+LPS,hangingbehaviordecreasedinadose-dependent(andthus, ofbothhangingandwithdrawalthresholdweresignificantlyreversed
+presumably noxious stimulus intensity-dependent) manner (Figs. bygabapentinatdosesfrom10to100mg/kgcomparedwithsaline
+2B and C). Although 30 mg/kg CYP had no effect on hanging treatment(hanging:F (3,24) 59.2,P,0.0001;pawwithdrawal:F (3,24)
+behavior, 100 and 300 mg/kg CYP caused a 76% and 90%
+536.8,P,0.0001,Fig.2E).Thisresultalsodemonstratesstrong
+reductioninhangingbehavior,respectively(F 57.4,P,0.001, parallelsofbothpaw-withdrawalthresholdandhanginginresponse
+(3,39)
+CYP :n521;CYP :n57,P50.41;CYP :n57,P,0.006; to gabapentin dose. Notably, the time spent hanging correlated
+0 30 100
+CYP :n58,P,0.001,Fig.2B).Evenatalowdose,LPS(1.5mg/ significantlywiththewithdrawalthreshold,indicatingthatincreased
+300
+kg)decreasedhangingbehaviorby73%(F 516.4,P,0.0001, mechanicalallodyniawasassociatedwithdecreasedhanging(r5
+(3,33)
+LPS :n515;LPS :n58,P,0.001,Fig.2C).Higherdosesof 0.45,P50.005,n536,Fig.2F).
+0 1.5
+LPS, 15 mg/kg and 150 mg/kg, almost completely depressed Next, we asked whether the effects of formalin on hanging
+hangingwithdecreasesof87%and92%,respectively(LPS :n5 behaviorcanbereversedbyanalgesics.Weadministeredformalin
+15
+6,P,0.0001;LPS :n58,P,0.0001,Fig.2C). (1%, 10 mL, intraplantar) to mice pretreated with either conven-
+150
+Wefurthertestedthecorrelationbetweenimpairedhangingand tionalanalgesicssuchasketoprofen(5mg/kg,i.p.),tramadol(30
+painbehaviorusingtheformalinassay,measuringthetimespent mg/kg,i.p.),gabapentin(100mg/kg,i.p.),ortheselectivekappa
+lickingorbitingthehindpawafterinjectionofdiluteformalinsolution opioidagonistU50,488H(10mg/kg,i.p.).Centrallyactingkappa
+intoarodent’spaw.44Afterintraplantarformalinadministration(1%, opioid agonists generally induce analgesia in preclinical pain
+10 mL), both hind paw licking/biting and hanging behaviors were assays but have failed to show efficacy as analgesics in clinical
+· ·
+May2021 Volume162 Number5 www.painjournalonline.com 1421
+Figure2.Impairmentsinhangingbehaviorarenoxiousstimulusintensity-dependentandreversedbyanalgesics.(A)Theeffectofnociceptiveassaystargetingthe
+plantarregionorsystemiccirculationonhangingbehaviorofC57BL/6Nmice.Valuesrepresenttimehangingafterdifferentassaysnormalizedtocontrol(saline
+injectionorshamsurgeryasappropriate);intraplantarformalin(1%in10mL);intraplantarcapsaicin(0.5%in5mL);osteoarthritisinducedbyACLtransection;
+sparednerveinjury(SNI);intraplantarCFA;lipopolysaccharide(LPS,15mg/kg);andcyclophosphamide(CYP,100mg/kg).Dose-dependentreductionsin
+hangingbehaviorwereobservedafteri.p.injectionof(B)CYP(30,100,and300mg/kg)and(C)LPS(1.5,15,and150mg/kg).(D)Intraplantarinjectionofformalin
+(1%,10mL)inducednocifensivelickingandbitingbehaviorinC57BL/6Nmice.Thetotalamountoftimespentlickingorbiting45minutesafterinjectionwas
+inverselycorrelatedwiththeamountoftimemiceparticipatedinhangingbehavior(r520.44,P50.05).(E)Dose-dependenteffectofgabapentin(10,30,and100
+mg/kg,i.p.,n59,crossoverdesign)onhangingbehaviorormechanicalpawwithdrawalthreshold(PWT)assessedusingtheSUDOassaywithvonFreyfilaments
+oneweekafterSNI.Dataareshownnormalizedtopresurgeryvalues.(F)TheamountoftimemicespenthangingandpawPWTrelativetopresurgicallevelsforall
+miceingraphEwerecorrelatedsuchthatdecreasedtimehangingwasassociatedwithlowerPWTafterSNI(n536,r50.39,P50.02).(G–I)Analgesicsreversed
+thereductionofhangingbehaviorseenindifferentpainmodels.(G)Theeffectofformalin(1%,10mL,intraplantar)onhangingwasreversedwitheitherketoprofen
+(5mg/kg,i.p.),tramadol(30mg/kg,i.p.),orgabapentin(100mg/kg),butnotreversedwithU50,488H(10mg/kg,i.p.).(H)TheeffectofCYP(100mg/kg,i.p.)on
+hangingwasreversedbyketoprofen(5mg/kg,i.p.)andtramadol(30mg/kg,i.p.)butnotgabapentin(100mg/kg,i.p.).(I)TheeffectofLPS(15mg/kg,i.p.)was
+reversedbyketoprofen(5mg/kg,i.p.).Datarepresentedasmean6SEM.*P,0.05,**P,0.01,***P,0.001comparedwithnoxiousstimulusgroup.CFA,
+completeFreund’sadjuvant;ACL,anteriorcruciateligament.
+trials.24,36 Previous studies showed that U50,488H dose- were coadministered CYP (100 mg/kg, i.p.) with ketoprofen (5
+dependentlyproduced analgesiainthemouse formalin assay,46 mg/kg), tramadol (30 mg/kg), or gabapentin (100 mg/kg). We
+tail-withdrawalassay,27andaceticacidwrithingassay,3butfailed found that ketoprofen and tramadol, but not gabapentin,
+toreverseacid-inducedconditionedplaceaversioninmice.3We reversed the effect of CYP on hanging behavior (F
+(4, 63)
+5 9.5,
+found that ketoprofen, tramadol, and gabapentin reversed the P , 0.001, CYP: n 5 11; vehicle: n 5 21, P , 0.001;
+effectofformalinonhangingbehavior.However,U50,488Hdidnot
+1ketoprofen:n512,P50.03;1tramadol:n512,P50.01;
+significantly reverse formalin-induced depression of hanging
+1gabapentin:n512,P.0.99,Fig.2H).Ourpresentfindings
+behavior(F 57.6,P,0.001,formalin:n521;vehicle:n5 are consistent with previous studies that show that gabapentin
+(5,87)
+23,P,0.001;1ketoprofen:n512,P50.001;1tramadol:n5 doesnotaffectCYP-inducedpain-relatedbehaviors.Finally,we
+12,P,0.001;1gabapentin:n513,P50.005;1U50,488H:n5 coadministered LPS(15mg/kg; i.p.) with ketoprofen (5mg/kg).
+10,P50.50,Fig.2G).Notably,administrationoftheseanalgesics WefoundthatketoprofenreversestheeffectofLPSonhanging
+behavior(F 521.2P,0.001,LPS:n512;vehicle:n515,
+alonehadnosignificanteffectonthetimemicespentengagingin (2,36)
+hangingbehavior(F 50.7,P50.57)(Fig.S1A,availableat
+P,0.001;1ketoprofen:n512,P50.002,Fig.2I).Specifically,
+(4,61)
+our results with analgesics suggest that changes in hanging
+http://links.lww.com/PAIN/B220),indicatingtheanalgesicsdonot
+behavioraredrivenpredominantlybypaininmiceandthus,these
+causesedationormotorimpairmentatthedosesused.Wefurther
+impairmentscanactasasensitivemeasureofpain.
+confirmed that U50,488H at both 10 mg/kg and 25 mg/kg
+significantlyreducedthetotaltimemicespentlickingtheformalin-
+injectedhindpaw(1%,10mL)(Fig.S1B,availableathttp://links.
+3.3.Hangingbehaviorvarieswithageandstrain
+lww.com/PAIN/B220), consistent with the analgesic effects of
+kappa-opioidagonistsseeninreflexivemeasuresofpainbutnot Wenextexaminedtheethologicalbasisofhangingbyevaluating
+observed inmore complex behavioural measures indicative of a thebehaviorfor5monthsinpain-naivemaleandfemaleC57BL/
+pain “state.”33 This suggests that pain likely drives the formalin- 6Nmice,startingwhenthemicewereonemonthold.Micewere
+induced impairment in hanging, and hanging behavior is a assessed for 24 hours once a month and returned to their
+translationallyrelevantoutcomemeasureofpaininmice. homecages between testing sessions. In all groups of mice,
+Weadditionallytestedwhetheranalgesicscouldalsoreverse hangingbehaviorwasgreatestduringthedarkphaseandwhen
+the effect of systemic inflammation on hanging behavior. Mice mice were first introduced into the observation cage (Figs. 3A
+·
+1422 H.Zhangetal. 162(2021)1416–1425 PAIN®
+andB).Micetendtobemoreactiveduringthedarkphaseand associated with weight differences, our findings might also be
+haveanaturaldrivetoexploreanovelcageenvironment,whichis explained by differential weight. We investigated the effect of
+consistentwithourresults.4,18Toinvestigatetheeffectsofage weightonhangingbehaviorbyanalyzingthecombineddatafrom
+andsexonhangingbehavior,weperformedatwo-wayANOVA all the naive 2-month-old male C57BL/6N mice across our
+onhangingbehaviorfrommiceaged2,4,and6monthswithage experimental groups. We found no correlation between the
+andsexasbetween-subjectfactors.Weobservedamaineffect weight of the mouse and hanging behavior in this group of
+of age (F 5 9.9, P , 0.0001) and sex (F 5 42.6, animals(r50.07,P50.28,n565,Fig.3F).
+(5, 84) (1, 84)
+P , 0.0001) but no interaction of age and sex (F 5 0.7,
+(5, 84)
+P50.65,Figs.3CandD).Overall,femalesshowedsignificantly
+3.4.Developmentofautomatedapproachesforassessing
+morehangingbehaviorthanmales,andmiceexhibitedthemost
+hangingbehavior
+hangingbehaviorat2monthsold.
+Because previous studies have shown that strains of mice Inourpreviousexperiments,wemeasuredhangingbehaviorina
+differ in behavior, including pain-related behavior,31 we next standard homecage environment through automated video
+performed a series of experiments investigating the effects of scoring (HomeCageScan and EthoVision). However, a home-
+strainonhanging.Weperformedatwo-wayANOVAwithstrain cage environment is a more complex setting where multiple
+andsexasbetween-subjectfactors.Becausewehadpreviously behaviors may compete with hanging behavior. We reasoned
+observed robust hanging behavior in two-month-old mice, we that a specialized testing environment designed to encourage
+usedthisagegroupexclusivelyforthepresentexperiment.We hanging mightincrease the frequency of behavior andfacilitate
+observedamaineffectofstrain(F 533.9,P,0.0001)and observation of the behavior of interest. Accordingly, we de-
+(1,82)
+sex(F 549.4,P,0.0001)butnosex-by-straininteraction veloped a specialized testing apparatus, the HangBox, to
+(1,82)
+(F 53.1,P50.08,Fig.3E).Asinourpreviousexperiment, measure hanging behavior. The HangBox, measuring 15 3 15
+(1,82)
+female mice showed significantly more hanging behavior than 312.5-cmheight,isconsiderablysmallerthanatypicalmouse
+males(Fig.3E).Furthermore,weobservedthathangingbehavior homecage.TheHangBoxcontainsaslantedgridforhangingand
+wasgreaterinC57BL/6NmicethaninCD-1mice(Fig.3E). does not include any other objects or bedding, which could
+Theseresultsindicate that hangingbehaviorvarieswith age, encourage other behaviors such as burrowing. Using our
+sex, and strain. However, because these 3 variables are automated video scoring method, we compared hanging
+Figure3.Hangingbehaviorisdependentoncircadianandphysiologicalfactorsofage,sex,andstrain.(A)Hangingbehaviorin1-to6-month-oldmale(n58)and
+(B)female(n58)C57BL/6Nmiceovera24-hourperiod.Peakhangingperiodsoccurreduponintroductionofmousetothetestingcageandduringthedark
+phase.(C)Hangingbehaviorofmale(n58)and(D)female(n58)C57BL/6Nmiceexpressedastotalpercentageoftimeofa24-hrperiodatdifferentages.Two-
+month-oldmiceshowsignificantlyhigherhangingbehaviorthanolderandyoungermiceinbothmalesandfemales.(E)Theeffectofsexandstrainonhanging
+behavior.C57BL/6Nmice(n526male,26female)showedsignificantlymorehangingbehaviorthanCD-1mice(n517male,17female).Femalemiceshowed
+morehangingthanage-matchedmalemiceregardlessofstrain.(F)Hangingbehaviorof2-month-oldnaivemaleC57BL/6Nmice(n564)didnotcorrelatewith
+theweightofmice.Datarepresentedasmean6SEM.*P,0.05,**P,0.01,***P,0.001asindicated.
+· ·
+May2021 Volume162 Number5 www.painjournalonline.com 1423
+behaviorintheHangBoxtothatinthehomecageenvironment.As reduction,t 58.9,P,0.0001)andreducedmechanicalpaw
+(34)
+wepredicted,hangingbehaviorwassignificantlymorefrequent withdrawalthreshold(43%reduction,t 510.8,P,0.0001).
+(34)
+whenusingtheHangBox,increasingby52%(homecage:n536; Notably, the change in lid interaction after CFA significantly
+HangBox:n524,t 52.5,P50.02,Fig.4A). correlatedwithboththechangesintheHargreaves(r50.40,P5
+(58)
+Thecurrentapproachtoquantifyinghangingbehaviorrequires 0.02)andvonFrey(r50.36,P50.02)tests.
+videorecordingsandanalysisofeachcage,whichcanbelabor-
+intensive and costly in terms of analysis time and data storage
+4.Discussion
+requirements. To increase the throughput of hanging behavior
+measurement,wenextdevelopedanelectronicdevicethatcould Our study aimed to identify changes in spontaneous behaviors
+automaticallyquantifyhangingbehaviorwithinthemousecage. associatedwithpaininmicethatcouldbemeasuredinnatural
+Becausehanginginvolvesthemousecontactingthemetalcage homecageenvironments.Conductinganunbiased,prospective
+lid, our device can detect hanging by electronically measuring analysisofmousebehavior,wedeterminedthatcage-lidhanging
+changes in the cage lid capacitance associated with mouse istheonlyhomecagebehaviorthatisreliablyimpactedbymultiple
+contact. Using the HangBox, we compared the duration of assays featuring sustained pain. Notably, the impairment in
+hanging assessed electronically with the duration of hanging hangingwasnoxiousstimulusintensity-dependentandcouldbe
+assessedfromvideoscoringintwo-month-oldmaleC57BL/6N reversed by analgesics, indicating that this behavior has broad
+mice. Mice received either systemic saline (n 5 12) or CYP to suitabilityasanoutcomemeasureinpreclinicalpainresearchand
+modelcystitis(n512).Notably,thelidcontacttimemeasuredby analgesic development. In our characterization of cage-lid
+capacitanceincludesbothcontactduringrearingandsniffingas hanging behavior in pain-free mice, we observed that cage-lid
+wellasactualhanging,makingthecontacttimebycapacitance hanging varies with the age, sex, and strain of the mouse. To
+largerthanthehangingtimealonemeasuredbyvideoanalysis. facilitate the automated measurement of hanging behavior, we
+Nevertheless, we observed a significant correlation between developedthe“HangBox,”astandardizedarenathatincreases
+cage lid interaction time measured electronically and by direct theincidenceandfacilitatesobservationofhangingbehavior.We
+videoanalysis(r50.90,P,0.0001,n524,Fig.4B).Wethen alsocreatedacapacitance-sensingdevicethatcanautomatically
+used the capacitance sensing device to quantify hanging quantifyhangingwithouttheuseofvideorecording.Ofcourse,
+behaviorover2hours(withtheHangBox)andobservedarobust one of the main advantages of hanging as a pain outcome
+decrease in hanging after CYP when assessed using both measureisthatthebehaviorcanbeassessedwithoutthestress
+automated video scoring (t (22) 5 2.4, P 5 0.03, Fig. 4C) and ofremovingrodentsfromtheirhomecagefortesting.Useofthe
+electronicassessment(t (22) 52.1,P50.047,Fig.4C). HangBoxobviatesthisadvantage,inexchangeforstreamlining
+Finally, we used the capacitance sensing device to measure assessmentofhanging.Thus,weexpectthatuserswilladoptthe
+hanging behavior in a homecage environment one day after versionthatbestsuitstheirexperimentalpurposes.
+intraplantaradministrationofCFA(Fig.4D).16-week-oldC57BL/ To see whether impairment of cage-lid hanging behavior in
+6N mice were placed in a clean homecage for one hour after miceisgeneralizableacrossdifferenttypesofpain,wemeasured
+injection during which cage lid capacitance was continuously thebehaviorinmultipleassays.In5commonassaysthattarget
+measured. We also assessed thermal and mechanical with- the hind limb (formalin, capsaicin, ACL transection, CFA, and
+drawalthresholdsbeforeandafterinjectionusingtheHargreaves SNI),wefoundthathangingbehaviorwassignificantlyimpaired
+and von Frey tests, respectively (n 5 35). Intraplantar CFA (by as much as 76%). We also found that cage-lid hanging
+reducedcagelidinteractionfrombaseline(t (34) 53.0,P50.005), behaviorwasreducedinassaysthatdidnottargetthehindlimb,
+aswellasreducedlatencytowithdrawfromthermalstimuli(44% including a systemic inflammation assay (LPS) and a model of
+Figure4.Hangingbehaviorcanbyisolatedasameasureofpainusingadedicatedhangingenvironmentandautomateddetectionstrategies.(A)Hanging
+behaviorwasassessedusinganormalhomecageandadedicatedhangingassaycomprisedofasmallboxwithanangledmetalgrid(HangBox).MaleC57BL/6N
+micespentsignificantlymoretimeengagedinhangingintheHangBox(n524)comparedwiththehomecage(n536).(B)LidcontactintheHangBoxwas
+detectedusingacapacitancesensingdeviceforautomaticassessmentofhangingbehavior.Automateddetectionoftheamountoftimemicewereincontactwith
+themetallidthroughcapacitancedetectionstronglycorrelatedwithamountoftimemicewereengagedinhangingasassessedbyvideoscoring(r50.90,n524).
+(C)Theeffectofcyclophosphamide(CYP)onhangingbehaviorofmaleC57BL/6NmiceintheHangBoxmeasuredbybothEthoVisionandthecapacitance
+sensingdevice.CYP(n512)decreasedhangingintheHangBoxassaycomparedwithsalineinjectedmice(n512)whenhangingbehaviorwasassessedby
+eithervideo(EthoVision)orcapacitancesensing.(D)IntraplantarCFA(n535)significantlyreducedcagelidinteractionfrequencyasmeasuredbycapacitance
+sensingonedayafterinjection(comparedwithbaseline).Datarepresentedasmean6SEM.*P,0.05,**P,0.01,***P,0.001comparedwithsaline/baseline.
+CFA,completeFreund’sadjuvant.
+·
+1424 H.Zhangetal. 162(2021)1416–1425 PAIN®
+bladdercystitis(CYP).Thus,ourdatasuggestthatitispainperse, chronic pain, given that the behavior may reflect a mouse’s
+notaphysicalinabilitytohang,thatcausesthereductionincage- internal emotional and/or motivational state.1,5,19,20 Overall, we
+lidhanging.Thisisfurthersupportedbyevidencethatthedegree believe cage-lid hanging is a translationally relevant pain-
+of hanging impairment was stimulus intensity-dependent and associated behavior that can be assessed with minimal stress
+reversedbyconventionalanalgesics.Ofnote,ourdatashowing andexperimenterinteractionandisidealforcaseswherehigh-
+thatgabapentinreversedtheeffectofformalinbutnottheeffectof throughputtestingisrequired.
+CYPoncage-lidhangingbehaviorareconsistentwithprevious Our observation that the depression of cage-lid hanging is a
+studies showing a lack of gabapentin analgesia in the CYP behavioral measure of pain was replicated across 4 different
+model.45 Moreover, we found that the kappa-opioid agonist laboratories, demonstrating the robustness and consistency of
+U50,488H failed to reverse formalin-impaired hanging despite thisnovelpainoutcomemeasure.Thetoolswehavedeveloped,
+reducing formalin-induced hind paw licking. This is consistent includingtheHangBoxandthecapacitance-sensingdevicethat
+withobservationsthatkappa-opioidagonistsareantinociceptive automates hanging quantification, can greatly facilitate the
+inreflexiveorspontaneouspainmeasuresbutfailtorestorepain- assessment of hanging behavior. It is possible that evaluating
+depressed unconditioned behaviourssuchas nestingthat may changes in cage-lid hanging could be useful in other rodent
+havemoreclinicalrelevance.34Asaresultofthisanalgesicprofile, modelsofdisease,suchassensorydisorders,motordisorders
+kappaagonistshavebeensuggestedtobetestedasanegative (such as Huntington disease and ALS), cancer, and diabetes.
+controlinthedevelopmentofnewtranslationalpainassays,given Overall, we have identified and characterized a novel, etholog-
+thelargelyfailedeffortstodevelopthisclassofdrugsintoclinically ically valid pain outcome measure that may improve the trans-
+viable analgesics.33 These findings therefore indicate that the lationalpotentialofpreclinicalpainresearchandthedevelopment
+clinicaleffectsofanalgesicscanberecapitulatedinthecage-lid ofnewanalgesicdrugs.
+hangingassay,andfurthersuggestthisassaymaybeofusefor
+analgesicdrugscreening.Collectively,ourresultsindicatethatan
+impairment in cage-lid hanging behavior can act as a transla- Conflictofintereststatement
+tionallyrelevantandsensitive,ifindirect,measureofongoingpain
+Theauthorshavenoconflictsofinteresttodeclare.R.P.Bonin,
+inmice.
+I.Lecker,A.J.D’Souza,D.Dubins,andJ.S.Mogilhaveapatent
+Theperceptionofpaininhumansiscomplexandvarieswith
+US20180007862A1pendingrelatedtothiswork.
+factorssuchasageandsex/gender.Wefoundthatyoungermice
+exhibitedincreasedcage-lidhangingbehavior,withthepeakof
+hangingbehavioroccurringat2monthsofage.Theage-related Acknowledgments
+decline in hanging may be a function of the decreased overall
+TheauthorsthankGraziellaMolskafortechnicalassistance,
+activity and exploratory drive associated with aging.22,25 In
+JosianeMapplebeckforeditorialassistance,andMayaSelitserfor
+addition,wefoundthatC57BL/6Nmicehangsignificantlymore
+assistancewithvideoanalysis.Thisresearchwassupportedby
+than CD-1 mice. Strain-specific differences in cage-lid hanging
+fundingfromCIHR(FoundationGrant154281toJSM),the
+are not surprising because robust strain differences in other
+UniversityofTorontoConnaughtFund(RPB),NaturalSciences
+complex behaviors, including those related to pain responsive-
+andEngineeringResearchCouncilofCanada(RGPIN-2016-
+ness, have been previously reported.31 It is advantageous that
+05538toRPB,PDFtoIL),theACLAMFoundation(C.Cho,R.P.
+C57BL/6Nmiceexhibithighcage-lidhangingbehaviorbecause
+Bonin),theNationalInstitutesofHealthNIH3UM1OD023221-
+this strain is used as the genetic background of many extant
+07S1(TCP),theUniversityofTorontoCentrefortheStudyofPain
+transgenicmousestrains.
+(M.Zain,R.P.Bonin),theLeslieDanFacultyofPharmacy(R.P.
+It is unclear what physiological or neurological processes
+Bonin),andBlueMountainBotanicalMedicinesInc.(R.P.Bonin).
+regulate hanging behavior, and likewise, what processes are
+altered by pain to reduce hanging. Further research into the
+physiological factors driving hanging behavior is necessary to
+AppendixA.Supplementaldigitalcontent
+understandtheirrelationshiptonociceptiveprocessing.
+Our goal was to identify a novel, spontaneous, and transla- Supplementaldigitalcontentassociatedwiththisarticlecanbe
+tionallyrelevantpainoutcomemeasurethatcouldbemeasuredin foundonlineathttp://links.lww.com/PAIN/B220.
+a natural homecage environment without direct experimenter
+involvement. Current preclinical pain research often uses Articlehistory:
+experimenter-evokedpainoutcomemeasures,andexperiments Received28April2020
+are conducted under highly artificial and potentially stressful Receivedinrevisedform5October2020
+conditions.15,21,28,29,35,41 These factors, along with difficulty in Accepted21October2020
+measuring rodent behaviors relevant to the human pain Availableonline20November2020
+experience,9,30significantlylimittheclinicalrelevance,andthus
+theultimatetranslatability,ofpreclinicalpainresearch.Cage-lid
+References
+hangingbehaviormayrepresentanovelpainoutcomemeasure
+thatcircumventsmanyoftheseproblems.Cage-lidhangingcan [1] ArrasM,RettichA,CinelliP,KasermannHP,BurkiK.Assessmentof
+beassessedwithinahomecageenvironment,obviatingtheneed post-laparotomypaininlaboratorymicebytelemetricrecordingofheart
+rateandheartratevariability.BMCVetRes2007;3:16.
+toremovethemousefromtheirhomecageandbesubjectedto
+[2] BackonjaMM,StaceyB.Neuropathicpainsymptomsrelativetooverall
+handlingandnoveltystress.Furthermore,Cage-lidhangingisa painrating.JPain2004;5:491–7.
+spontaneousbehaviorinwhichmiceengagevoluntarilyandcan [3] Bagdas D, Muldoon PP, AlSharari S, Carroll FI, Negus SS, Damaj MI.
+beassessedobjectivelyandremotely.Hangingbehaviorcanalso Expression and pharmacological modulation of visceral pain-induced
+conditionedplaceaversioninmice.Neuropharmacology2016;102:236–43.
+be measured through wholly automated scoring, which mini-
+[4] BainsRS,WellsS,SillitoRR,ArmstrongJD,CaterHL,BanksG,Nolan
+mizes subjectivity. Finally, hanging may be more aligned than
+PM.Assessingmousebehaviourthroughoutthelight/darkcycleusing
+other common outcome measures with the clinical reality of automatedin-cageanalysistools.JNeurosciMethods2018;300:37–47.
+· ·
+May2021 Volume162 Number5 www.painjournalonline.com 1425
+[5] Boissy A, Manteuffel G, Jensen MB, Moe RO, Spruijt B, Keeling LJ, [29] MogilJS,CragerSE.Whatshouldwebemeasuringinbehavioralstudies
+Winckler C,ForkmanB, Dimitrov I,Langbein J, Bakken M,VeissierI, ofchronicpaininanimals?.PAIN2004;112:12–15.
+AubertA.Assessmentofpositiveemotionsinanimalstoimprovetheir [30] MogilJS,DavisKD,DerbyshireSW.Thenecessityofanimalmodelsin
+welfare.PhysiolBehav2007;92:375–97. painresearch.PAIN2010;151:12–17.
+[6] Bon K, Lichtensteiger CA, Wilson SG, Mogil J. Characterization of [31] MogilJS,WilsonSG,BonK,LeeSE,ChungK,RaberP,PieperJO,Hain
+cyclophosphamidecystitis,amodelofvisceralandreferredpain,inthe HS,BelknapJK,HubertL,ElmerGI,ChungJM,DevorM.Heritabilityof
+mouse:speciesandstraindifferences.JUrol2003;170:1008–12. nociceptionI:responsesof11inbredmousestrainson12measuresof
+[7] BoninRP,BoriesC,DeKoninckY.Asimplifiedup-downmethod(SUDO) nociception.PAIN1999;80:67–82.
+for measuring mechanical nociception in rodents using von Frey [32] MousseauM,BurmaNE,LeeKY,Leduc-PessahH,KwokCHT,ReidAR,
+filaments.MolPain2014;10:26. O’Brien M, Sagalajev B, Stratton JA, Patrick N, Stemkowski PL,
+[8] Breivik H, Collett B, Ventafridda V, Cohen R, Gallacher D. Survey of BiernaskieJ,ZamponiGW,SaloP,McDougallJJ,PrescottSA,Matyas
+chronicpaininEurope:prevalence,impactondailylife,andtreatment.
+JR, Trang T. Microglial pannexin-1 channel activation is a spinal
+EurJPain2006;10:287–333.
+determinantofjointpain.SciAdv2018;4:eaas9846.
+[9] CroffordLJ.Chronicpain:wherethebodymeetsthebrain.TransAmClin
+[33] Negus SS. Core outcome measures in preclinical assessment of
+ClimatolAssoc2015;126:167–83.
+candidateanalgesics.PharmacolRev2019;71:225–66.
+[10] Deuis JR, Dvorakova LS, Vetter I. Methods used to evaluate pain
+[34] NegusSS,NeddenriepB,AltarifiAA,CarrollFI,LeitlMD,MillerLL.Effects
+behaviorsinrodents.FrontMolNeurosci2017;10:284.
+ofketoprofen,morphine,andkappaopioidsonpain-relateddepression
+[11] DuenasM,OjedaB,SalazarA,MicoJA,FaildeI.Areviewofchronicpain
+ofnestinginmice.PAIN2015;156:1153–60.
+impactonpatients,theirsocialenvironmentandthehealthcaresystem.
+[35] OtisC,GervaisJ,GuillotM,GervaisJA,GauvinD,PethelC,AuthierS,
+JPainRes2016;9:457–67.
+Dansereau MA, Sarret P, Martel-Pelletier J, Pelletier JP, Beaudry F,
+[12] FinkMP.Animalmodelsofsepsis.Virulence2014;5:143–53.
+TroncyE.Concurrentvalidityofdifferentfunctionalandneuroproteomic
+[13] FortierMA,ChouJ,MaurerEL,KainZN.Acutetochronicpostoperative
+pain assessment methods in the rat osteoarthritis monosodium
+paininchildren:preliminaryfindings.JPediatrSurg2011;46:1700–5.
+[14] Fuzesi T, Daviu N, Wamsteeker Cusulin JI, Bonin RP, Bains JS. iodoacetate(MIA)model.ArthritisResTher2016;18:150.
+Hypothalamic CRH neurons orchestrate complex behaviours after [36] PandeAC,PykeRE,GreinerM,CooperSA,BenjaminR,PierceMW.
+stress.NatCommun2016;7:11937. Analgesic efficacy of the kappa-receptor agonist, enadoline, in dental
+[15] GonderJC,LaberK.Arenewedlookatlaboratoryrodenthousingand surgerypain.ClinNeuropharmacol1996;19:92–7.
+management.ILARJ2007;48:29–36. [37] RiceAS,Cimino-BrownD,EisenachJC,KontinenVK,Lacroix-Fralish
+[16] HargreavesK,DubnerR,BrownF,FloresC,JorisJ.Anewandsensitive ML,MachinI,PreclinicalPainC,MogilJS,StohrT.Animalmodelsandthe
+methodformeasuringthermalnociceptionincutaneoushyperalgesia. predictionofefficacyinclinicaltrialsofanalgesicdrugs:acriticalappraisal
+PAIN1988;32:77–88. andcallforuniformreportingstandards.PAIN2008;139:243–7.
+[17] Hirst JA, Howick J, Aronson JK, Roberts N, Perera R, Koshiaris C, [38] Richardson CA. The power of automated behavioural homecage
+HeneghanC.Theneedforrandomizationinanimaltrials:anoverviewof technologiesincharacterizingdiseaseprogressioninlaboratorymice:a
+systematicreviews.PLoSOne2014;9:e98856. review.ApplAnimBehavSci2015;163:19–27.
+[18] HughesRN.Intrinsicexplorationinanimals:motivesandmeasurement. [39] ScholzJ,MannionRJ,HordDE,GriffinRS,RawalB,ZhengH,Scoffings
+BehavProcess.1997;41:213–26. D,PhillipsA,GuoJ,LaingRJ,AbdiS,DecosterdI,WoolfCJ.Anoveltool
+[19] JirkofP.Burrowingandnestbuildingbehaviorasindicatorsofwell-being fortheassessmentofpain:validationinlowbackpain.PLoSMed2009;6:
+inmice.JNeurosciMethods2014;234:139–46. e1000047.
+[20] JirkofP,CesarovicN,RettichA,NichollsF,SeifertB,ArrasM.Burrowing [40] ShieldsSD,EckertWA III,BasbaumAI.Sparednerveinjurymodelof
+behaviorasanindicatorofpost-laparotomypaininmice.FrontBehav neuropathicpaininthemouse:abehavioralandanatomicanalysis.JPain
+Neurosci2010;4:165. 2003;4:465–70.
+[21] KlinckMP,MogilJS,MoreauM,LascellesBDX,FlecknellPA,PoitteT, [41] SorgeRE,MartinLJ,Isbester KA,SotocinalSG,Rosen S,Tuttle AH,
+TroncyE.Translationalpainassessment:couldnaturalanimalmodelsbe WieskopfJS,AclandEL,DokovaA,KadouraB,LegerP,MapplebeckJC,
+themissinglink?PAIN2017;158:1633–46. McPhailM,DelaneyA,WigerbladG,SchumannAP,QuinnT,FrasnelliJ,
+[22] LalondeR,BadescuR.Exploratorydrive,frontallobefunctionandadipsia
+Svensson CI, Sternberg WF, Mogil JS. Olfactory exposure to males,
+inaging.Gerontology1995;41:134–44.
+including men, causes stress and related analgesia in rodents. Nat
+[23] LangfordDJ,BaileyAL,ChandaML,ClarkeSE,DrummondTE,EcholsS,
+Methods2014;11:629–32.
+Glick S, Ingrao J, Klassen-Ross T, Lacroix-Fralish ML, Matsumiya L,
+[42] SotocinalSG,SorgeRE,ZaloumA,TuttleAH,MartinLJ,WieskopfJS,
+SorgeRE,SotocinalSG,TabakaJM,WongD,vandenMaagdenberg
+MapplebeckJC,WeiP,ZhanS,ZhangS,McDougallJJ,KingOD,Mogil
+AM,FerrariMD,CraigKD,MogilJS.Codingoffacialexpressionsofpain
+JS.TheRatGrimaceScale:apartiallyautomatedmethodforquantifying
+inthelaboratorymouse.NatMethods2010;7:447–9.
+paininthelaboratoryratviafacialexpressions.MolPain2011;7:55.
+[24] LazenkaML,MoerkeMJ,TownsendEA,FreemanKB,CarrollFI,Negus
+[43] Tappe-TheodorA,KunerR.Studyingongoingandspontaneouspainin
+SS.Dissociableeffectsofthekappaopioidreceptoragonistnalfurafineon
+rodents—challenges and opportunities. Eur J Neurosci 2014;39:
+pain/itch-stimulated and pain/itch-depressed behaviors in male rats.
+Psychopharmacology(Berl)2018;235:203–13. 1881–90.
+[25] MacriS,AdrianiW,ChiarottiF,LaviolaG.Risktakingexplorationofaplus- [44] TjolsenA,BergeOG,HunskaarS,RoslandJH,HoleK.Theformalintest:
+mazeisgreaterinadolescentthaninajuvenileoradultmice.AnimBehav anevaluationofthemethod.PAIN1992;51:5–17.
+2002;64:541–6. [45] WantuchC,PieslaM,LeventhalL.Pharmacologicalvalidationofamodel
+[26] MaierSF,WiertelakEP,MartinD,WatkinsLR.Interleukin-1mediatesthe ofcystitispaininthemouse.NeurosciLett2007;421:250–2.
+behavioral hyperalgesia produced by lithium chloride and endotoxin. [46] Wettstein JG, Grouhel A. Opioid antagonist profile of SC nor-
+BrainRes1993;623:321–4. binaltorphimineintheformalinpawassay.PharmacolBiochemBehav
+[27] McLaughlinJP,LandBB,LiS,PintarJE,ChavkinC.Prioractivationofkappa 1996;53:411–16.
+opioidreceptorsbyU50,488mimicsrepeatedforcedswimstresstopotentiate [47] WhittakerAL,HowarthGS.Useofspontaneousbehaviourmeasuresto
+cocaineplacepreferenceconditioning.Neuropsychopharmacology2006;31: assesspaininlaboratoryratsandmice:howareweprogressing?Appl
+787–94. AnimBehavSci2014;151:1–12.
+[28] Mogil JS. Animal models of pain: progress and challenges. Nat Rev [48] YezierskiRP,HanssonP.Inflammatoryandneuropathicpainfrombench
+Neurosci2009;10:283–94. tobedside:whatwentwrong?JPain2018;19:571–88.

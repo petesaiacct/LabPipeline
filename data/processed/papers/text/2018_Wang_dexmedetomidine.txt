@@ -1,0 +1,711 @@
+Dexmedetomidine Prevents Excessive γ-Aminobutyric
+Acid Type A Receptor Function after Anesthesia
+Perioperative Medicine
+Dian-Shi Wang, M.D., Ph.D., Kirusanthy Kaneshwaran, M.Sc., Gang Lei, M.Sc., M.D.,
+Fariya Mostafa, M.Sc., Junhui Wang, M.D., Ph.D., Irene Lecker, Ph.D., Sinziana Avramescu, M.D., Ph.D.,
+Yu-Feng Xie, M.D., Ph.D., Nathan K. Chan, B.Sc., Alejandro Fernandez-Escobar, M.D.,
+Junsung Woo, Ph.D., Darren Chan, B.Sc., Amy J. Ramsey, Ph.D., Jeremy M. Sivak, Ph.D.,
+C. Justin Lee, Ph.D., Robert P. Bonin, Ph.D., Beverley A. Orser, M.D., Ph.D.
+ABSTRACT
+Background: Postoperative delirium is associated with poor long-term outcomes and increased mortality. General anes-
+thetic drugs may contribute to delirium because they increase cell-surface expression and function of α5 subunit-containing
+γ-aminobutyric acid type A receptors, an effect that persists long after the drugs have been eliminated. Dexmedetomidine, an
+α2 adrenergic receptor agonist, prevents delirium in patients and reduces cognitive deficits in animals. Thus, it was postulated
+that dexmedetomidine prevents excessive function of α5 γ-aminobutyric acid type A receptors.
+Methods: Injectable (etomidate) and inhaled (sevoflurane) anesthetic drugs were studied using cultured murine hippocampal
+neurons, cultured murine and human cortical astrocytes, and ex vivo murine hippocampal slices. γ-Aminobutyric acid type A
+receptor function and cell-signaling pathways were studied using electrophysiologic and biochemical methods. Memory and
+problem-solving behaviors were also studied.
+Results: The etomidate-induced sustained increase in α5 γ-aminobutyric acid type A receptor cell-surface expression was
+reduced by dexmedetomidine (mean ± SD, etomidate: 146.4 ± 51.6% vs. etomidate + dexmedetomidine: 118.4 ± 39.1%
+of control, n = 8 each). Dexmedetomidine also reduced the persistent increase in tonic inhibitory current in hippocam-
+pal neurons (etomidate: 1.44 ± 0.33 pA/pF, n = 10; etomidate + dexmedetomidine: 1.01 ± 0.45 pA/pF, n = 9). Similarly,
+dexmedetomidine prevented a sevoflurane-induced increase in the tonic current. Dexmedetomidine stimulated astrocytes
+to release brain-derived neurotrophic factor, which acted as a paracrine factor to reduce excessive α5 γ-aminobutyric acid
+type A receptor function in neurons. Finally, dexmedetomidine attenuated memory and problem-solving deficits after
+anesthesia.
+Conclusions: Dexmedetomidine prevented excessive α5 γ-aminobutyric acid type A receptor function after anesthesia. This
+novel α2 adrenergic receptor- and brain-derived neurotrophic factor-dependent pathway may be targeted to prevent delirium.
+(Anesthesiology 2018; 129:477-89)
+T HE availability of safe, modern general anesthetic
+What We Already Know about This Topic
+drugs has ensured that most patients now survive sur-
+gery and are discharged from the hospital. However, many • Dexmedetomidine is effective in reducing delirium in the
+patients experience cognitive deficits such as delirium in the postoperative period and in the intensive care unit in
+patients and prevents memory deficits in experimental
+first few days after surgery.1,2 Delirium is associated with
+animals subjected to anesthesia. The mechanism by which
+a loss of independence, a failure to return to work, a sub- dexmedetomidine preserves cognition is not clear.
+stantial increase in healthcare costs and death.1–3 Given that • In experimental models, even a single anesthetic exposure
+more than 312 million patients undergo anesthesia and sur- leads to a sustained increase in the expression of cell-
+surface γ-aminobutyric acid type A receptors that contain α5
+gery each year,4 it is essential to develop strategies to reduce
+subunits. Whether dexmedetomidine reduces this increase
+postoperative delirium. Although nonpharmacologic inter- and preserves cognition was evaluated.
+ventions are somewhat effective, pharmacologic prevention
+What This Article Tells Us That Is New
+and treatments are needed.1
+The pathophysiology underlying postoperative delirium • Dexmedetomidine, by an α2 receptor-mediated release of
+brain-derived neurotrophic factor from astrocytes, reduced
+is complex and multifactorial; however, anesthetic drugs are
+neuronal α5 γ-aminobutyric acid type A receptor expression
+likely a contributing factor. We have previously shown that and prevented cognitive deficits after anesthesia.
+even a single, brief exposure to a commonly used general • The data suggest that suppression of anesthesia-induced
+sustained increase in α5 γ-aminobutyric acid type A receptor
+anesthetic drug can trigger a sustained increase in cell-surface
+expression may be a potential therapeutic target for the
+expression and function of extrasynaptic γ-aminobutyric prevention of postoperative and intensive care unit delirium.
+acid type A (GABA ) receptors containing the α5 subunit
+A
+This article is featured in “This Month in Anesthesiology,” page 1A. This article has a video abstract. D.-S.W., K.K., and G.L. contributed
+equally to this article.
+Copyright © 2018, the American Society of Anesthesiologists, Inc. Wolters Kluwer Health, Inc. All Rights Reserved. Anesthesiology 2018; 129:477-89
+Anesthesiology, V 129 • No 3 477 September 2018
+Copyright © 2018, the American Society of Anesthesiologists, Inc. Wolters Kluwer Health, Inc. Unauthorized reproduction of this article is prohibited.
+<zdoi;10.1097/ALN.0000000000002311>
+Dexmedetomidine, Receptor Cell-surface Expression
+(α5 GABA receptors) in hippocampal neurons.5 These (0.9% w/v of NaCl, intraperitoneally) and propylene glycol
+A
+changes persist long after the anesthetic drugs have been (35% v/v in normal saline) were used as vehicle controls for
+eliminated from the body. To date, no effective strategy has dexmedetomidine and etomidate, respectively. To prevent
+been identified to prevent excessive α5 GABA receptor cell- hypoxia, each mouse was anesthetized in an air-tight acrylic
+A
+surface expression after general anesthesia. chamber that was flushed with oxygen and medical air (70%
+The α2 adrenergic receptor agonist dexmedetomidine air, 30% O ) delivered at a flow of 1 l/min, as described
+2
+lowers the incidence and duration of delirium in patients previously.5 Temperature in the chamber was maintained at
+who have undergone cardiac and noncardiac surgery.6–8 35°C with a heating blanket to prevent hypothermia. A total
+Dexmedetomidine also reduces delirium in patients who of 44 mice were treated with dexmedetomidine and etomi-
+have been sedated for days in intensive care units.9 Stud- date. Four of these mice died 30 to 50 min after treatment.
+ies of laboratory animals have confirmed that dexmedeto- None of the mice treated with etomidate alone (n = 42) or
+midine can prevent cognitive deficits after anesthesia and dexmedetomidine alone (n = 43) died.
+surgery.10–13 Here, we investigated the cellular and molecular
+mechanisms that contribute to the cognition-sparing proper- Cell-surface Biotinylation
+ties of dexmedetomidine. We postulated that dexmedetomi- An anti-GABA receptor antibody for α5 (PhosphoSolu-
+A
+dine reduces the excessive function of α5 GABA receptors tions, USA), an anti-β-actin antibody (GenScript Biotech
+A
+in neurons that persists after general anesthesia and thereby Corporation, USA), and an anti-Na+/K+ ATPase antibody
+attenuates postanesthetic cognitive deficits. (Developmental Studies Hybridoma Bank, USA) were used
+to measure cell-surface expression of α5 GABA receptors,
+A
+Materials and Methods as previously described.5
+Experimental Animals
+Primary Cell Culture
+Experiments were approved by the Animal Care Commit-
+Primary cultures of hippocampal and cortical neurons were
+tee of the University of Toronto. All studies were performed prepared from mice (embryonic days 16 to 18).15,16 For
+in accordance with guidelines from the Canadian Council
+the astrocyte cultures, cortical explants were isolated from
+on Animal Care. The mice were located in a pathogen-free
+mouse embryos, and cell cultures were grown to conflu-
+facility (25 ± 1°C) on a 14-h light/10-h dark cycle (lights
+ence in Dulbecco’s modified Eagle’s medium and 10% fetal
+on 6:00 AM to 8:00 PM). Timed-pregnant CD1 mice were bovine serum for 4 weeks.17–19 The cells were then enzymati-
+used to prepare the cell cultures (Charles River, USA). Male
+cally dissociated with 0.05% trypsin–EDTA (Life Technolo-
+C57BL/6 mice aged 8 to 9 weeks (Charles River) were used
+gies, USA). The astrocyte-containing cell suspension was
+for behavioral studies, which were performed between 10:00
+placed over hippocampal neurons that were cultured for 7
+AM and 5:00 PM. Only male mice were selected for the behav- days. Cocultures were maintained for 7 to 10 days before
+ioral studies because the estrous cycle influences the expres-
+recording from the neurons.
+sion of extrasynaptic GABA receptors.14 Each mouse was
+A
+assigned a random number that was generated by Microsoft Cultured Astrocytes from Human Optic Nerve
+(USA) Excel 2016. The assigned numbers were sorted from
+Human astrocytes were isolated from optic nerve heads
+the smallest to the largest, and then the mice were allocated
+obtained from deceased donors. Such astrocytes grow well in
+to different treatment groups. Researchers were blinded to
+primary cell culture and closely resemble cortical astrocytes.
+the treatment groups for all behavioral experiments and the Their functional properties have been characterized.20,21
+studies using ex vivo brain slices.
+After the fifth passage, the human astrocytes were plated and
+grown to confluence in a monolayer.
+Anesthesia
+The mice were treated with dexmedetomidine (25 μg/ Whole-cell Voltage-clamp Recordings
+kg, intraperitoneally), which was followed immediately by
+Conventional whole-cell voltage-clamp recordings were per-
+etomidate (20 mg/kg, intraperitoneally). Normal saline formed from cultured hippocampal and cortical neurons.5,16
+At the time of recordings, the neurons become polarized,
+Submitted for publication December 19, 2017. Accepted for have extensive axonal and dendritic arbors, and form numer-
+publication May 14, 2018. From the Departments of Physiology (D.-
+ous, functional synapses. Thus, they resemble mature neurons
+S.W., K.K., G.L., F.M., J.W., I.L., Y.-F.X., N.K.C., A.F.-E., A.J.R., B.A.O.),
+Anesthesia (A.S., B.A.O.), Pharmacology and Toxicology (A.J.R.), in vivo.22–24 To record the tonic GABA receptor-mediated
+A
+and Ophthalmology and Vision Science (J.M.S.) and the Leslie Dan current, GABA (0.5 μM) was added to the extracellular
+Faculty of Pharmacy (Y.-F.X., R.P.B.), University of Toronto, Toronto,
+solution. This GABA concentration was selected because it
+Ontario, Canada; the Department of Anesthesia, Sunnybrook Health
+Sciences Centre, Toronto, Ontario, Canada (S.A., B.A.O.); the Center is similar to the extracellular concentration of GABA that
+for Neuroscience and Connectomics, Korea Institute of Science and occurs in vivo.25–27 The competitive GABA receptor antago-
+Technology, Seoul, Korea (J.W., C.J.L.); and the Division of Vision A
+nist bicuculline (20 μM) was used to measure the amplitude
+Sciences, Krembil Research Institute, University Health Network,
+Toronto, Ontario, Canada (D.C., J.M.S.). of the tonic current.5,16,28 Previous studies showed that the
+Anesthesiology 2018; 129:477-89 478 Wang et al.
+Copyright © 2018, the American Society of Anesthesiologists, Inc. Wolters Kluwer Health, Inc. Unauthorized reproduction of this article is prohibited.
+PERIoPERATIvE MEDICINE
+tonic current in hippocampal neurons is generated primarily conditioned medium was collected and analyzed for brain-
+by α5 GABA receptors.5,29 Current was recorded at a hold- derived neurotrophic factor with an enzyme-linked immu-
+A
+ing potential of −60 mV at room temperature. nosorbent assay kit (lot No. 381264701; BosterBio, USA).
+Briefly, 200 μl of medium was loaded in each well of a 96-well
+Western Blotting plate and then coated with mouse monoclonal antibody
+Astrocytes were treated with dexmedetomidine (0.1 μM) or against brain-derived neurotrophic factor. A brain-derived
+vehicle (1 × phosphate-buffered saline) for 1 h. The culture neurotrophic factor-specific biotin-conjugated secondary
+medium was then exchanged with fresh medium without antibody was then added, followed by the avidin–biotin–
+fetal bovine serum. After 2 h, the medium was collected and peroxidase complex enzyme and substrate incubation. The
+then lysed in a cold lysis buffer that contained phosphatase absorbance of each sample was measured at 450 nm using
+and a protease inhibitor cocktail (Sigma–Aldrich, USA). microplate reader (Synergy Mx, BioTek, USA). A standard
+After centrifugation at 10,000 relative centrifugal force curve was created by using the brain-derived neurotrophic
+for 10 min, the protein concentration was measured with factor standard, and then the concentration of brain-derived
+a bicinchoninic acid kit (Thermo Scientific Pierce Protein neurotrophic factor was measured.
+Biology, USA). Proteins were separated by electrophoresis
+with sodium dodecyl sulfate–polyacrylamide gel electropho- Novel Object Recognition to Test Memory
+resis and then transferred onto nitrocellulose membranes. The novel object recognition assay was performed as previ-
+Primary antibodies to detect phosphorylated extracellular ously described.5 An opaque cylinder-shaped arena that mea-
+signal–regulated kinase (1:1,000, Cell Signaling, USA), sured 28.5 cm in diameter and 29 cm in height was housed in
+extracellular signal–regulated kinase (1:1,000, Cell Signal- a dimly lit room. Each mouse was habituated to the cham-
+ing), and the corresponding secondary antibody (1:4,000, ber for 5 min 24 h before testing. The mouse was trained
+Cell Signaling) were used, and the membrane was devel- and tested 24 h after drug treatment. During the train-
+oped with the ECL kit (PerkinElmer, Canada). An antibody ing phase, the mouse was allowed to explore two identical
+against β-actin (1:4,000, Santa Cruz Biotechnology, USA) “sample” objects for 5 min. Interaction time with the objects
+was used as an internal control. was defined when the mouse was sniffing, licking, or touch-
+ing the object with the nose. The time when the mouse was
+Real-time Polymerase Chain Reaction Detection of Brain- approaching, climbing, or sitting on the object was excluded.
+derived Neurotrophic Factor Messenger RNA
+Mouse astrocytes were maintained in culture for 4 weeks. Puzzle Box to Test Problem-solving
+The cells were treated with dexmedetomidine (0.1 μM) or Executive function was assessed using a puzzle box,30 which
+vehicle (1 × phosphate-buffered saline) for 1 h. The culture consisted of an illuminated start box (58 × 28 × 27.5 cm3) and
+medium was exchanged with fresh medium that lacked fetal a dark, enclosed goal box (14 × 28 × 27.5 cm3). A doorway and
+bovine serum and were incubated for 2 h. Astrocytes were an underpass that connected the start box with the goal box
+then lysed with a TRIzol reagent (Thermo Fisher Scientific, allowed the animals to move between the two compartments.
+USA) to extract the total RNA. The first-strand cDNA was The mice were tested during a 3-day period, and the level of
+generated from total RNA with iScript reverse transcription difficulty increased sequentially over day 1 (trials 1 to 3), day
+supermix for quantitative real-time polymerase chain reaction 2 (trials 4 to 6), and day 3 (trials 7 to 8). To assess problem-
+(Bio-Rad Laboratories, Canada). Primer probe sets for mouse solving abilities, the task was made increasingly more difficult
+brain-derived neurotrophic factor were purchased from Bio- by modifying the entrance to the goal box. On day 1, trial
+Rad Laboratories (Unique Assay ID: qMmuCED0050333, 1, the goal box was accessible through both an open door-
+UniGene: Mm.1442). Polymerase chain reaction amplification way and an open underpass. On day 1, trial 2, the doorway
+was done using SsoAdvanced Universal SYBR Green Supermix was closed, and the goal box was accessible only through the
+reagent (Bio-Rad Laboratories). The level of messenger RNA underpass. Trial 3 was conducted 2 min after trial 2 under the
+(mRNA) was measured with a CFX96 real-time polymerase same conditions to assess an ability to recall escape strategies.
+chain reaction detection system (Bio-Rad Laboratories) and Trials 4 to 6 were conducted on day 2. Trial 4 was performed
+normalized to β-actin RNA transcript levels. The comparative under the same conditions as trial 2. During trial 5, the task
+2−ΔΔCT method was used for relative quantification. was rendered more difficult by closing the door and obstruct-
+ing the underpass with corncob bedding. This condition
+Enzyme-linked Immunosorbent Assay Analysis of Brain- required that the mouse burrow through the bedding to gain
+derived Neurotrophic Factor access to the goal box. Trial 6 was performed 2 min after trial
+Mouse astrocytes were cultured in 96-well plates for 4 weeks 5 under the same conditions. Trials 7 to 8 were conducted
+and then treated with dexmedetomidine (0.01 to 10 μM) or on day 3. Trial 7 was performed under the same conditions
+vehicle control for 1 h. Six wells were used for each drug con- as trial 5. During trial 8, the difficulty was increased by
+centration. The culture medium was then changed to 50 μl obstructing the underpass with a cardboard plug, which the
+of fresh medium that lacked fetal bovine serum for 2 h. The mouse had to remove to gain access to the goal box. During
+Anesthesiology 2018; 129:477-89 479 Wang et al.
+Copyright © 2018, the American Society of Anesthesiologists, Inc. Wolters Kluwer Health, Inc. Unauthorized reproduction of this article is prohibited.
+Dexmedetomidine, Receptor Cell-surface Expression
+the 2-min intertrial intervals, the mouse was taken out of the Results
+puzzle box and placed in a cage that was separate from their
+Dexmedetomidine Reduces Cell-surface Expression and
+home cage. Performance was video-recorded, and the time
+Function of α5 GABA Receptors after General Anesthesia
+required for each animal to enter the goal box, which was A
+We first asked whether dexmedetomidine reduced excessive cell-
+defined as having all four paws in the goal compartment, was
+surface expression of α5 GABA receptors in mice that were
+measured. A maximum finish time of 5 min was assigned if A
+treated with an anesthetic drug. Etomidate was selected for these
+the mouse failed to reach the goal box during the trial.
+proof-of-concept studies because it has no active metabolites, it
+is relatively selective for GABA receptors, it is rapidly eliminated
+Drugs and Chemicals A
+in vivo, and it causes minimal depressant effects on cardiac func-
+Tetrodotoxin and brain-derived neurotrophic factor
+tion and respiration. Etomidate is also a structural analog of the
+were purchased from Alomone Labs (Israel). 6-Cyano-7- “next generation” of injectable anesthetic drugs.31,32
+nitroquinoxaline-2,3-dione, (2R)-amino-5-phosphonovaleric,
+The mice were treated with dexmedetomidine (25 μg/kg,
+and bicuculline were obtained from Abcam (United Kingdom).
+intraperitoneally) followed by etomidate (20 mg/kg, intraper-
+GABA, etomidate, clonidine, yohimbine, and PD98059
+itoneally). Twenty-four hours later, the mice were euthanized,
+were obtained from Sigma–Aldrich. Dexmedetomidine was
+and ex vivo hippocampal slices were processed for biotinylation
+obtained from Santa Cruz Biotechnology, sevoflurane was
+analyses of surface proteins. Etomidate triggered a sustained
+obtained from AbbVie Inc. (Canada), and ANA12 was from increase in the cell-surface expression of α5 GABA receptors
+A
+Cedarlane (Canada).
+(146.4 ± 51.6% of control, 95% CI 107.4 to 185.6%; n = 8
+each; fig. 1A) as shown previously.5 Cotreatment with dex-
+Statistical Analysis
+medetomidine reduced this increase (118.4 ± 39.1% of con-
+The data are presented as means ± SD, together with
+trol, 95% CI 89.1 to 147.6%; n = 8). The total expression of
+the 95% CI of the mean. An unpaired Student’s t test α5 subunit protein was not significantly changed by either
+was used to compare two groups, where appropriate. For etomidate or dexmedetomidine (fig. 1B).
+comparing three or more groups, the one-way ANOVA or To determine whether dexmedetomidine prevented the
+two-way ANOVA followed by the Tukey’s multiple com- increase in α5 GABA receptor function that persists after
+A
+parisons post hoc test was used. The normality of datasets the anesthetic has been eliminated, a tonic inhibitory cur-
+was tested with the D’Agostino–Pearson omnibus test (n rent was recorded from hippocampal neurons that were
+≥ 8) or the Kolmogorov–Smirnov test (n < 8). To test for cocultured with cortical astrocytes. The design of these stud-
+homogeneity of variances, the Brown–Forsythe test and ies was based on our previous work showing that astrocytes
+an F test was used for the ANOVA and unpaired Stu- were required to generate the anesthetic-induced persistent
+dent’s t test, respectively. When assumptions were not increase in tonic current in neurons.5 Cocultures of neurons
+met, the nonparametric Mann–Whitney U test was per- and astrocytes were treated with etomidate (1 μM) and/or
+formed instead of the unpaired Student’s t test. Because dexmedetomidine (0.1 μM) for 1 h and then washed, and
+there is a high degree of variation for puzzle box data, 24 h later, the tonic current was recorded. Etomidate alone
+the normality assumptions and homogeneity of variances increased the amplitude of the tonic current, whereas no
+for the log10-transformed data were confirmed with the increase was observed in cultures cotreated with etomidate
+D’Agostino–Pearson omnibus test and the Brown–For- and dexmedetomidine (control: 0.68 ± 0.19 pA/pF, 95%
+sythe test, respectively. The Kaplan–Meier survival analy- CI 0.48 to 0.88, n = 6; etomidate: 1.44 ± 0.33 pA/pF, 95%
+ses of puzzle box data were compared with the log-rank CI 1.20 to 1.67, n = 10; etomidate + dexmedetomidine:
+pairwise comparison test, and right censoring was applied 1.01 ± 0.45 pA/pF, 95% CI 0.66 to 1.36, n = 9; fig. 1C).
+at the cut-off time of 5 min. A linear mixed model was We next asked whether the most commonly used inhaled
+employed for statistical analysis of cell-surface and total general anesthetic, sevoflurane, also increased the tonic current
+expression of the GABA receptor α5 subunit using IBM in hippocampal neurons and, if so, whether dexmedetomidine
+A
+SPSS Statistics for Windows, version 23 (IBM Corp., prevented this increase. Treating the cocultures with a clinically
+USA). All other analyses were performed using GraphPad relevant concentration of sevoflurane (266 μM) increased the
+Prism 6.01 (GraphPad Software Inc., USA). A two-tailed amplitude of the tonic current, and this increase was prevented
+hypothesis test was used, and statistical significance was by cotreatment with dexmedetomidine (fig. 1C).
+set at P < 0.05. No statistical power calculation was con- Cognitive deficits after anesthesia also involve the function
+ducted before the study, and the sample size was based of the cortex. Thus, we studied whether etomidate triggered a
+on our previous experience with this experimental design. persistent increase in tonic current in cortical neurons. Cortical
+During peer review, the sample size for real-time poly- neurons that were cocultured with astrocytes were pretreated
+merase chain reaction detection of brain-derived neuro- with etomidate, as described above. The amplitude of the tonic
+trophic factor mRNA was increased, but no adjustments current measured 24 h after treatment was increased. This
+were made for interim analyses. No outliers were excluded increase did not occur in cortical neurons that were cotreated
+from the statistical analyses. with etomidate and dexmedetomidine (fig. 1D).
+Anesthesiology 2018; 129:477-89 480 Wang et al.
+Copyright © 2018, the American Society of Anesthesiologists, Inc. Wolters Kluwer Health, Inc. Unauthorized reproduction of this article is prohibited.
+PERIoPERATIvE MEDICINE
+Fig. 1. Dexmedetomidine prevents the sustained increase in extrasynaptic γ-aminobutyric acid type A (GABA ) receptor function
+A
+induced by general anesthetics. (A, B) Representative Western blots and summarized data of the cell-surface (A) and total (B)
+expression of α5 subunits. n = 8. A linear mixed model: F = 9.1, P = 0.0005 for (A) and F = 1.9, P = 0.16 for (B). Molecular
+(3, 21) (3, 21)
+weight (MW) is shown as kDa. (C) Representative recordings of tonic current generated by GABA receptors. The summarized
+A
+data show that dexmedetomidine (Dex, 0.1 µM) prevented the sustained increase in a tonic current induced by etomidate
+(Etom, 1 µM) and sevoflurane (Sevo, 266 µM) in hippocampal neurons cocultured with astrocytes. (Middle) n = 6, 10, 9, 9 (left to
+right); one-way ANOVA, F = 8.3, P = 0.0004, Tukey’s multiple comparisons test. (Right) n = 10, 9, 7, 9 (left to right); one-way
+(3,30)
+ANOVA, F = 7.5, P = 0.0007, Tukey’s multiple comparisons test. (D) Quantified data show similar effects of dexmedetomidine
+(3,31)
+(0.1 µM) in cortical neurons cocultured with astrocytes. n = 7, 14, 11, 11 (left to right); one-way ANOVA, F = 13.3, P < 0.0001,
+(3,39)
+Tukey’s multiple comparisons test. The data are means ± SD. *P < 0.05; **P < 0.01; *** P < 0.001. Bic = bicuculline; Ctrl = control;
+NKA = Na/K-ATPase.
+Dexmedetomidine Targets α2 Adrenergic Receptors in neurons, astrocytes alone were treated with etomidate
+Astrocytes (1 μM) or dexmedetomidine (0.1 μM) plus etomidate
+Dexmedetomidine prevented the anesthetic-induced increase for 1 h, washed, and incubated for 2 h. The conditioned
+in tonic current in neurons by acting either: (1) directly on the medium was then transferred to hippocampal neurons,
+neurons or (2) indirectly on the astrocytes to release factors that and 24 h later, the tonic current was recorded in the neu-
+regulate GABA receptors in neurons. To distinguish between rons (fig. 2B). Medium from etomidate-treated, but not
+A
+these two potential mechanisms, astrocytes and hippocampal vehicle-treated, astrocytes increased the amplitude of the
+neurons were cultured separately. First, the astrocytes alone tonic current. Importantly, medium from astrocytes treated
+were treated with etomidate (1 μM), and the neurons were with both dexmedetomidine and etomidate yielded no such
+treated with dexmedetomidine (0.1 μM). After 1 h, the cells increase. Thus, dexmedetomidine treatment of astrocytes
+were washed with drug-free medium, and 2 h later, the con- was sufficient to prevent the etomidate-induced persistent
+ditioned medium from the astrocytes was transferred to the increase in tonic current.
+dexmedetomidine-treated neurons. Neurons were incubated Astrocytes from humans and mice share many pheno-
+for 24 h, and then the tonic current was recorded (fig. 2A). typic properties; however, their transcriptome, structural,
+Under these conditions, dexmedetomidine did not prevent and functional features can differ.33 Therefore, we studied
+the etomidate-induced increase in current. Thus, dexmedeto- human astrocytes obtained from optic nerve heads to deter-
+midine treatment of astrocytes was necessary to prevent the mine whether they also released soluble factors that increased
+anesthetic-induced increase in tonic current in neurons. the tonic current in mouse hippocampal neurons and, if so,
+To determine whether dexmedetomidine treatment whether treatment of human astrocytes with dexmedetomi-
+of astrocytes was sufficient to reduce the tonic current in dine could attenuate such an increase.
+Anesthesiology 2018; 129:477-89 481 Wang et al.
+Copyright © 2018, the American Society of Anesthesiologists, Inc. Wolters Kluwer Health, Inc. Unauthorized reproduction of this article is prohibited.
+Dexmedetomidine, Receptor Cell-surface Expression
+Fig. 2. Dexmedetomidine activation of α2 adrenergic receptors in astrocytes prevents the etomidate-induced increase in ton-
+ic current. (A) Schematic diagrams and summarized data show that astrocytes are necessary for the preventative effects of
+dexmedetomidine (Dex). When neurons alone were treated with dexmedetomidine (0.1 µM), dexmedetomidine did not pre-
+vent etomidate (Etom)-induced sustained increase in tonic current. n = 8, 12, 7, 7 (left to right); one-way ANOVA, F = 9.6,
+(3,30)
+P = 0.0001; Tukey’s multiple comparisons test. (B) Schematic diagrams and summarized data show that treatment of astrocytes
+was sufficient for dexmedetomidine effects. When astrocytes were treated with both dexmedetomidine (0.1 µM) and etomidate
+(1 µM), the etomidate-induced sustained increase in tonic current was abolished. n = 6, 7, 5, 6 (left to right); one-way ANOVA,
+F = 6.7, P = 0.003; Tukey’s multiple comparisons test. Due to the relatively small sample size, a Brown–Forsythe test showed
+(3,20)
+inequality of group variances. Because all other datasets obtained using a similar experimental design showed equal variances,
+we performed one-way ANOVA. (C) Human astrocytes were also sufficient for the protective effects of dexmedetomidine. When
+human astrocytes were treated with both dexmedetomidine (0.1 µM) and etomidate (1 µM), the etomidate-induced sustained
+increase in tonic current was abolished. n = 13, 13, 9, 6 (left to right); one-way ANOVA, F = 11.4, P < 0.0001; Tukey’s multiple
+(3,37)
+comparisons test. (D) The α2 adrenergic receptor antagonist yohimbine (Yoh, 1 µM) blocked dexmedetomidine attenuation of
+sustained increase in tonic current. (Left) n = 6; one-way ANOVA, F = 7.5, P = 0.006; Tukey’s multiple comparisons test.
+(2,15)
+(Right) n = 6; unpaired Student’s t test, P = 0.46. (E) The α2 adrenergic receptor agonist clonidine (Clon, 1 µM) mimicked dexme-
+detomidine effects. n = 6, 6, 6, 7 (left to right); one-way ANOVA, F = 7.5, P = 0.0013; Tukey’s multiple comparisons test. The
+(3,21)
+data are means ± SD. *P < 0.05; **P < 0.01; ***P < 0.001. Ctrl = control; N.S. = not significant.
+Anesthesiology 2018; 129:477-89 482 Wang et al.
+Copyright © 2018, the American Society of Anesthesiologists, Inc. Wolters Kluwer Health, Inc. Unauthorized reproduction of this article is prohibited.
+PERIoPERATIvE MEDICINE
+Fig. 3. Dexmedetomidine acts through phosphorylated extracellular signal–regulated kinase– and brain-derived neurotrophic fac-
+tor (BDNF)–dependent pathways. (A, B) Representative Western blots and summarized data of the phosphorylated extracellular
+signal–regulated kinase (A) and the total extracellular signal–regulated kinase (B). β-Actin was used as a loading control. (A) n = 6;
+P = 0.002; nonparametric Mann–Whitney U test. (B) n = 4; unpaired Student’s t test. The molecular weight (MW) is shown as
+kDa. (C) Extracellular signal–regulated kinase inhibitor PD98059 (PD, 50 µM) blocked dexmedetomidine attenuation of etomidate-
+induced increase in tonic current. Treating astrocytes with PD98059 alone had no effect on the tonic current. (Left) n = 5, 6, 6, 7
+(left to right); one-way ANOVA, F = 12.6, P < 0.0001; Tukey’s multiple comparisons test. (Right) n = 5, 6 (left to right); unpaired
+(3,20)
+Student’s t test, P = 0.29. (D) Conditioned medium from astrocytes treated with dexmedetomidine (0.1 µM) could prevent the
+etomidate-induced increase in tonic current in neurons. Heating the conditioned medium abolished this effect. n = 8, 11, 12 (left
+to right); one-way ANOVA, F = 5.6, P = 0.009; Tukey’s multiple comparisons test. (E) Representative curves and summarized
+(2,28)
+data show that the level of brain-derived neurotrophic factor messenger RNA was increased in the conditioned medium from
+astrocytes treated with dexmedetomidine (0.1 µM). n = 8, *P = 0.042, unpaired Student’s t test. (F) brain-derived neurotrophic fac-
+tor in medium from astrocytes treated with dexmedetomidine (0.1 to 10 µM) was measured with enzyme-linked immunosorbent
+assay. Levels were detected only when astrocytes were treated with dexmedetomidine at concentrations greater than 0.01 µM.
+n = 5. (G) Brain-derived neurotrophic factor mimicked dexmedetomidine and prevented etomidate-induced increase in tonic cur-
+rent. n = 8, 7, 8, 6 (left to right); one-way ANOVA, F = 16.6, P < 0.0001; Tukey’s multiple comparisons test. (H) Brain-derived
+(3,25)
+neurotrophic factor receptor (tropomyosin receptor kinase B [TrkB]) antagonist ANA 12 blocked the effects of dexmedetomidine.
+n = 8, 11, 12, 9, 7 (left to right); one-way ANOVA, F = 7.7, P < 0.0001; Tukey’s multiple comparisons test. The data are means
+(4,42)
+± SD. * = P < 0.05; ** = P < 0.01; *** = P < 0.001. Ctrl = control; Dex = dexmedetomidine; Etom = etomidate; N.S. = not significant.
+Anesthesiology 2018; 129:477-89 483 Wang et al.
+Copyright © 2018, the American Society of Anesthesiologists, Inc. Wolters Kluwer Health, Inc. Unauthorized reproduction of this article is prohibited.
+Dexmedetomidine, Receptor Cell-surface Expression
+Cultured human astrocytes were treated with etomidate because heating the conditioned medium from dexmedeto-
+and dexmedetomidine for 1 h and then washed. The condi- midine-treated astrocytes to 99.9°C for 5 min prevented the
+tioned medium was transferred to the cultured neurons 2 h supernatant from triggering the etomidate-induced increase
+later, and the tonic current was recorded 24 h later (fig. 2B). in tonic current in neurons (fig. 3D).
+The conditioned medium from the etomidate-treated Dexmedetomidine stimulation of phosphorylated extra-
+human astrocytes increased the tonic current; cotreatment cellular signal–regulated kinase could lead to an increase in
+with dexmedetomidine prevented this increase (fig. 2C). the expression of genes that encode for neurotrophic factors
+Dexmedetomidine is a high-affinity α2 adrenergic recep- such as brain-derived neurotrophic factor, which is known
+tor agonist. To determine whether activation of α2 adren- to modulate GABA receptor activity.34–36 Indeed, treating
+A
+ergic receptor was necessary for the protective effects of the astrocytes with dexmedetomidine (0.1 μM) increased
+dexmedetomidine, the antagonist yohimbine (1 μM) was the expression of brain-derived neurotrophic factor mRNA
+coapplied with dexmedetomidine (0.1 μM). Yohimbine (fig. 3E). Dexmedetomidine also increased brain-derived
+blocked the dexmedetomidine attenuation of etomidate- neurotrophic factor protein levels (fig. 3F).
+induced increase in tonic current (fig. 2D). In addition, To test whether brain-derived neurotrophic factor was suf-
+the less potent α2 adrenergic receptor agonist clonidine (1 ficient to mimic the effects of the unidentified soluble factor,
+μM) mimicked the effect of dexmedetomidine, because it exogenous brain-derived neurotrophic factor (200 pg/ml) was
+prevented the etomidate-induced increase in tonic current applied directly to the neurons. Brain-derived neurotrophic
+in hippocampal neurons (fig. 2E). Collectively, these results factor prevented the etomidate-induced increase in tonic cur-
+suggest that dexmedetomidine activates α2 adrenergic recep- rent (fig. 3G). Because brain-derived neurotrophic factor is
+tors in astrocytes to reverse the etomidate-induced persistent known to act on tropomyosin receptor kinase B (TrkB) recep-
+increase in tonic current in neurons. tors, we next tested whether treating the hippocampal neu-
+rons with an antagonist for TrkB receptors (ANA 12, 0.01
+Dexmedetomidine Acts through Phosphorylated μg/ml) abolished dexmedetomidine reduction of the etomi-
+Extracellular Signal–regulated Kinase- and Brain-derived date-enhanced tonic current (fig. 3H). ANA 12 prevented the
+Neurotrophic Factor-dependent Pathways effect of dexmedetomidine, suggesting that dexmedetomidine
+Activation of α2 adrenergic receptors in astrocytes stimulates stimulates astrocytes to release brain-derived neurotrophic fac-
+multiple G protein–coupled receptor signaling pathways, tor, which in turn acted on hippocampal neurons to reduce
+including those involving extracellular signal–regulated protein the etomidate-induced increase in tonic current.
+kinases 1 and 2.34,35 We reasoned that the increase in phos-
+phorylated extracellular signal–regulated kinase could con- Dexmedetomidine Prevents Postanesthetic Cognitive
+tribute to dexmedetomidine reduction of the tonic current in Deficits
+neurons. To investigate whether dexmedetomidine increased Finally, we asked whether dexmedetomidine prevented the
+levels of phosphorylated extracellular signal–regulated kinase behavioral deficits in memory and problem-solving that are
+in astrocytes, cultured murine astrocytes were pretreated with observed in vivo after the anesthetic drug has been elimi-
+dexmedetomidine (0.1 μM, for 1 h) and then washed, and 2 h nated from the body. The novel object recognition task
+later, the cells were processed for Western blotting analysis. The was selected and performed first because this test has been
+results showed that dexmedetomidine increased phosphory- shown to be sensitive to an increase in α5 GABA receptor
+A
+lated extracellular signal–regulated kinase but not total extra- activity.5
+cellular signal–regulated kinase (fig. 3, A and B). The mice were treated with dexmedetomidine (25 μg/
+To determine whether the dexmedetomidine-induced kg, intraperitoneally) or vehicle then etomidate (20 mg/kg,
+increase in phosphorylated extracellular signal–regulated intraperitoneally) and 24 h later were studied using the novel
+kinase was involved in the signaling pathway that prevented object recognition task.30 Notably, dexmedetomidine mark-
+the etomidate-induced increase in tonic current in hippo- edly prolonged the duration of etomidate-induced anesthe-
+campal neurons, cultured astrocytes were cotreated with sia. Specifically, dexmedetomidine alone did not cause the
+dexmedetomidine and PD98059 (50 μM), a compound loss of righting reflex, but cotreatment of dexmedetomidine
+that inhibits the production of phosphorylated extracellular plus etomidate prolonged the duration of the loss of right-
+signal–regulated kinase. Dexmedetomidine failed to prevent ing reflex by 32% (etomidate: 26.8 ± 7.9 min vs. etomidate
+the etomidate-induced increase in tonic current in neurons + dexmedetomidine: 35.3 ± 7.6 min, n = 22; unpaired Stu-
+(fig. 3C), suggesting that dexmedetomidine acted via a phos- dent’s t test, P = 0.0007). These results are consistent with
+phorylated extracellular signal–regulated kinase 1/2–depen- the anesthetic-potentiating effects of dexmedetomidine
+dent pathway. observed in patients.37
+The results show that dexmedetomidine stimulates astro- The novel object recognition task measures the ability
+cytes to release one or more soluble factors that act in a para- of mice to distinguish a novel object from a familiar object
+crine manner to prevent the etomidate-induced increase in (fig. 4A). During the training phase, the interaction time of
+tonic current in neurons. These factor(s) were heat-sensitive the mice was similar for the two objects (data not shown).
+Anesthesiology 2018; 129:477-89 484 Wang et al.
+Copyright © 2018, the American Society of Anesthesiologists, Inc. Wolters Kluwer Health, Inc. Unauthorized reproduction of this article is prohibited.
+PERIoPERATIvE MEDICINE
+Fig. 4. Dexmedetomidine prevents persistent cognitive deficits after general anesthesia. (A) A timeline illustrates the experimental
+design. (B) Memory performance on the novel object recognition task. n = 10, 12, 10, 13 (left to right); one-way ANOVA, F = 4.1,
+(3,41)
+P = 0.01. * = P < 0.05, Tukey’s multiple comparisons test. The discrimination ratio for each treatment group is significantly different
+from the theoretical mean of 0.5 except for the etomidate group (Ctrl: P = 0.003, Etom: P = 0.35, Etom+Dex: P = 0.005, Dex: P = 0.037;
+one-sample t test). (C) Total travel distance (one-way ANOVA, F = 0.39, P = 0.76) and the total interaction time (one-way ANOVA,
+(3,41)
+F = 0.45, P = 0.72) from the same cohort as shown in B. (D) Diagrams show the timeline and various problem-solving tasks for
+(3,41)
+the puzzle box assay. (E, left) After treatment with etomidate, mice exhibited a longer latency to enter the goal box for the plug task
+and dexmedetomidine reduced the latency. n = 22. Two-way ANOVA, effect of tasks: F = 21.0, P < 0.0001; effect of treatment:
+(3,252)
+F = 6.3, P = 0.002; effect of interaction: F = 0.82, P = 0.56. ** = P < 0.01 compared with etomidate + dexmedetomidine,
+(2,252) (6,252)
+Tukey’s multiple comparisons test. (Right) Kaplan–Meier survival plots further illustrate the effects of etomidate and dexmedetomidine
+on the plug task. Log-rank pairwise comparison: P = 0.016 for Etom versus Ctrl, P = 0.022 for Etom versus Etom + DEX, and P = 0.77
+for Etom + DEX versus Ctrl. (F) Similarly, etomidate increased the latency for the mice to complete the task and dexmedetomidine
+abolished the increase. Log-rank pairwise comparison: P = 0.016 for Etom versus Ctrl, P = 0.009 for Etom versus Etom + DEX, and
+P = 0.96 for Etom + DEX versus Ctrl. The data are means ± SD. Ctrl = control; Dex or DEX = dexmedetomidine; Etom = etomidate.
+Anesthesiology 2018; 129:477-89 485 Wang et al.
+Copyright © 2018, the American Society of Anesthesiologists, Inc. Wolters Kluwer Health, Inc. Unauthorized reproduction of this article is prohibited.
+Dexmedetomidine, Receptor Cell-surface Expression
+During the testing phase, the mice that were treated with Discussion
+etomidate failed to distinguish the novel object, as shown
+The goal of this study was to use a reverse translational
+by the low discrimination ratio (i.e., the time spent explor-
+approach to identify the cellular and molecular mechanisms
+ing the novel object relative to time spent exploring both
+that contribute to the cognition-sparing properties of dexme-
+objects; fig. 4B). Dexmedetomidine markedly attenuated
+detomidine. The results show that dexmedetomidine activates
+the etomidate-induced deficits in memory performance. The α2 adrenergic receptors in astrocytes and stimulates the release
+cognition-sparing effect of dexmedetomidine could not be of brain-derived neurotrophic factor, which acts as a paracrine
+attributed to differences in locomotion or overall exploratory factor to prevent excessive cell-surface expression and function
+drive (fig. 4C). of α5 GABA receptors in neurons. Behavioral studies con-
+A
+Next, we used the puzzle box assay to investigate: (1) firmed that cotreatment with dexmedetomidine attenuates the
+whether a single dose of etomidate caused deficits in prob- postanesthetic deficits in memory and problem-solving (fig. 5).
+lem-solving and, if so, (2) whether dexmedetomidine pre- Therefore, administration of dexmedetomidine is a plausible
+vented such deficits. The mouse was placed in a well lit pharmacologic strategy to reduce excessive cell-surface expres-
+environment that offered access to the preferred, darkened sion of α5 GABA receptors in neurons after general anesthesia.
+A
+“goal” box. Admission to the goal box was made progres- Several converging lines of evidence indicate that α2 adren-
+sively more difficult over a series of trials that spanned over ergic receptors in astrocytes, but not those in neurons, mediate
+3 days (fig. 4D). the effects of dexmedetomidine. First, α2 adrenergic receptors
+Performance of simpler tasks, including the underpass and are abundantly expressed in cortical astrocytes.38 Second, our
+burrowing tasks, did not differ between treatment groups current studies of cultured astrocytes and neurons show that
+(fig. 4E). Etomidate caused a deficit for the more difficult dexmedetomidine treatment of isolated astrocytes is both nec-
+plug task, which was performed on day 3 as evidenced by essary and sufficient to prevent the etomidate-induced increase
+an increase in the latency to complete the task (control: in tonic current in neurons. Finally, the α2 adrenergic recep-
+76.4 ± 65.5 s, 95% CI 47.4 to 105.4, n = 22; etomidate: tor agonist clonidine mimics the effects of dexmedetomidine,
+131.4 ± 93.8 s, 95% CI 89.8 to 173.0, n = 22; P = 0.08; but whereas the antagonist yohimbine abolishes these effects.
+P = 0.016 for log-rank pairwise comparison). This deficit was Our results show that dexmedetomidine activation of α2
+prevented in mice cotreated with dexmedetomidine because adrenergic receptors in astrocytes increases the level of phos-
+the latency was significantly reduced to 69.1 ± 86.6 s (95% CI phorylated extracellular signal–regulated kinase 1/2. These
+30.7 to 107.5, n = 22). Etomidate also prolonged the latency kinases can translocate from the cytosol to the nucleus where
+to complete the second burrow task on day 2, which was they activate transcription factors that promote gene expres-
+performed 2 min after the first burrow task (fig. 4F). These sion.39,40 Such changes could lead to an increase in brain-
+results suggest that etomidate impaired problem-solving at derived neurotrophic factor mRNA levels and subsequent
+least in part by reducing short-term memory and that cotreat- release of brain-derived neurotrophic factor. These findings
+ment with dexmedetomidine prevented this impairment. are also supported by previous studies showing an increase in
+Fig. 5. Dexmedetomidine reduces the excessive function of extrasynaptic α5 γ-aminobutyric acid type A (GABA ) receptors in
+A
+neurons after general anesthesia and thereby prevents delirium. Dexmedetomidine activates α2 adrenergic receptors expressed
+in astrocytes and increases the level of phosphorylated extracellular signal–regulated kinase (p-ERK). These events stimulate the
+release of brain-derived neurotrophic factor (BDNF), which acts as a paracrine factor to stimulate tropomyosin receptor kinase B
+(TrkB) receptors expressed in neurons. Activation of TrkB receptors reduces cell-surface expression of extrasynaptic α5 GABA
+A
+receptors in neurons and thereby prevents deficits in memory and problem-solving after general anesthesia.
+Anesthesiology 2018; 129:477-89 486 Wang et al.
+Copyright © 2018, the American Society of Anesthesiologists, Inc. Wolters Kluwer Health, Inc. Unauthorized reproduction of this article is prohibited.
+PERIoPERATIvE MEDICINE
+brain-derived neurotrophic factor in association with dexme- In summary, this study supports a model in which dex-
+detomidine.35,41 Furthermore, exogenous brain-derived neuro- medetomidine prevents postanesthetic cognitive deficits by
+trophic factor mimics the effects of dexmedetomidine in that reducing cell-surface expression and function of α5 GABA
+A
+it reduces the etomidate-induced increase in tonic current in receptors in neurons through the release of brain-derived
+neurons. In contrast, inhibition of TrkB receptors blocks the neurotrophic factor from astrocytes. The implications of
+effects of dexmedetomidine. Collectively, these data support these results extend well beyond the perioperative context,
+a model in which dexmedetomidine stimulates the release of given that increased α5 GABA receptor function has been
+A
+brain-derived neurotrophic factor from astrocytes, and the associated with several neurologic disorders including stroke,
+brain-derived neurotrophic factor acts on hippocampal neu- Alzheimer disease, depression, and inflammation-induced
+rons to prevent a persistent increase in tonic current (fig. 5). brain injury.16,47–49 Dexmedetomidine and related drugs
+The results of this study are important for several reasons. that target similar signaling pathway may help to prevent
+First, dexmedetomidine alone did not cause the loss of the and treat these disorders.
+righting reflex, but it did prolong the duration of etomidate-
+induced anesthesia by 32%. Despite prolonging the hypnotic Research Support
+properties of etomidate, dexmedetomidine had cognition- Supported by foundation grant No. FDN-154312 from
+restoring effects in mice. Second, the data provide a plausible the Canadian Institutes of Health Research, Ottawa, On-
+model to account for the cognition-sparing properties of tario, Canada (to Dr. Orser); by a Kirk Weber Award in
+dexmedetomidine. The results identify both α2 adrenergic Anesthesia from Sunnybrook Health Sciences Center, To-
+ronto, Ontario, Canada (to Ms. Kaneshwaran); by funds
+receptors in astrocytes and α5 GABA receptors in neurons
+A from the Department of Anesthesia at the University of
+as potential therapeutic targets for treatments of postopera- Toronto, Toronto, Ontario, Canada, and from the Canadian
+tive delirium. Dexmedetomidine has limited clinical utility Anesthesia Research Foundation, Toronto, Ontario, Canada
+because of potential adverse cardiorespiratory effects and (to Dr. Avramescu); by Canadian Institutes of Health Re-
+search, Ottawa, Ontario, Canada, operating grant Nos.
+should only be administered by a skilled care provider in a
+119298 (to Dr. Ramsey) and 123448 (to Dr. Sivak); and by a
+highly monitored environment. Other α2 adrenergic recep-
+Natural Sciences and Engineering Research Council, Ottawa,
+tor agonists may mimic the ability of dexmedetomidine to Ontario, Canada, Discovery grant No. RGPIN-2016-05538
+prevent postanesthetic cognitive deficits. For example, cloni- and funds from the Canada Research Chair in Sensory Plas-
+dine can be administered orally for sedation42 and may serve ticity and Reconsolidation and the University of Toronto
+Center for the Study of Pain, Toronto, Ontario, Canada
+as an alternative in some patients. In addition, new drugs
+(to Dr. Bonin). The work was also supported by the Peri-
+that target the expression and/or function of extrasynaptic
+operative Brain Health Centre, Toronto, Ontario, Canada
+α5 GABA receptors may offer additional prevention and (http://www.perioperativebrainhealth.com).
+A
+treatment options. Finally, exogenous brain-derived neuro-
+trophic factor prevents excessive GABA receptor function Competing Interests
+A
+and may be useful for patients who fail to tolerate α2 adren-
+The authors declare no competing interests.
+ergic receptor agonists.6 Interestingly, treatment with brain-
+derived neurotrophic factor was shown to be safe in a study
+Correspondence
+of patients with amyotrophic lateral sclerosis.43
+Address correspondence to Dr. Orser: Department of Physi-
+Our study has several limitations. First, dexmedetomidine
+ology, University of Toronto, Toronto, Ontario M5S 1A8,
+could trigger the release of additional paracrine factors that
+Canada. beverley.orser@utoronto.ca. Information on purchas-
+have not been identified yet regulate extrasynaptic GABA ing reprints may be found at www.anesthesiology.org or on
+A
+receptor activity. Second, we did not compare the effects of the masthead page at the beginning of this issue. ANESTHESI-
+dexmedetomidine on pro–brain-derived neurotrophic fac- OLOGY’s articles are made freely accessible to all readers, for
+personal use only, 6 months from the cover date of the issue.
+tor versus brain-derived neurotrophic factor levels. Astrocytes
+release pro–brain-derived neurotrophic factor, a 32-kDa pre-
+References
+cursor protein that often has effects opposite to those of brain-
+derived neurotrophic factor.44 For example, pro–brain-derived 1. Oh ES, Fong TG, Hshieh TT, Inouye SK: Delirium in older
+persons: Advances in diagnosis and treatment. JAMA 2017;
+neurotrophic factor promotes cell death through activation of
+318:1161–74
+a low-affinity nerve growth factor receptor (p75),45 whereas 2. Saczynski JS, Marcantonio ER, Quach L, Fong TG, Gross A,
+the 14-kDa protein brain-derived neurotrophic factor, pro- Inouye SK, Jones RN: Cognitive trajectories after postopera-
+motes cell survival via activation of TrkB receptors.46 The tive delirium. N Engl J Med 2012; 367:30–9
+3. Abelha FJ, Luís C, Veiga D, Parente D, Fernandes V, Santos P,
+equilibrium between pro–brain-derived neurotrophic factor
+Botelho M, Santos A, Santos C: Outcome and quality of life
+and brain-derived neurotrophic factor may be a determinant in patients with postoperative delirium during an ICU stay
+in the protective effects of dexmedetomidine. In addition, the following major surgery. Crit Care 2013; 17:R257
+effects of other commonly used anesthetic drugs, such as pro- 4. Weiser TG, Haynes AB, Molina G, Lipsitz SR, Esquivel MM,
+Uribe-Leitz T, Fu R, Azad T, Chao TE, Berry WR, Gawande AA:
+pofol or sedative benzodiazepines, were not studied but are of
+Size and distribution of the global volume of surgery in 2012.
+interest for future studies. Bull World Health Organ 2016; 94:201–209F
+Anesthesiology 2018; 129:477-89 487 Wang et al.
+Copyright © 2018, the American Society of Anesthesiologists, Inc. Wolters Kluwer Health, Inc. Unauthorized reproduction of this article is prohibited.
+Dexmedetomidine, Receptor Cell-surface Expression
+5. Zurek AA, Yu J, Wang DS, Haffey SC, Bridgwater EM, Penna 23. Kaech S, Banker G: Culturing hippocampal neurons. Nat
+A, Lecker I, Lei G, Chang T, Salter EW, Orser BA: Sustained Protoc 2006; 1:2406–15
+increase in α5 GABA A receptor function impairs memory 24. Swanwick CC, Murthy NR, Mtchedlishvili Z, Sieghart W,
+after anesthesia. J Clin Invest 2014; 124:5437–41 Kapur J: Development of GABAergic synapses in cultured
+6. Kamibayashi T, Maze M: Clinical uses of α2-adrenergic ago- hippocampal neurons. J Comp Neurol 2006; 495:497–510
+nists. ANESTHESIOLOGY 2000; 93:1345–9 25. Bright DP, Smart TG: Methods for recording and measur-
+7. Djaiani G, Silverton N, Fedorko L, Carroll J, Styra R, Rao V, ing tonic GABA receptor-mediated inhibition. Front Neural
+A
+Katznelson R: Dexmedetomidine versus propofol sedation Circuits 2013; 7:193
+reduces delirium after cardiac surgery: A randomized con- 26. Manyam NV, Katz L, Hare TA, Gerber JC 3rd, Grossman MH:
+trolled trial. ANESTHESIOLOGY 2016; 124:362–8 Levels of γ-aminobutyric acid in cerebrospinal fluid in vari-
+8. Su X, Meng ZT, Wu XH, Cui F, Li HL, Wang DX, Zhu X, Zhu ous neurologic disorders. Arch Neurol 1980; 37:352–5
+SN, Maze M, Ma D: Dexmedetomidine for prevention of 27. Rye DB, Bliwise DL, Parker K, Trotti LM, Saini P, Fairley
+delirium in elderly patients after non-cardiac surgery: A ran- J, Freeman A, Garcia PS, Owens MJ, Ritchie JC, Jenkins A:
+domised, double-blind, placebo-controlled trial. Lancet 2016; Modulation of vigilance in the primary hypersomnias by
+388:1893–902 endogenous enhancement of GABA receptors. Sci Transl
+A
+9. Brummel NE, Girard TD: Preventing delirium in the intensive Med 2012; 4:161ra151
+care unit. Crit Care Clin 2013; 29:51–65 28. Glykys J, Mody I: Activation of GABA receptors: Views from
+A
+10. Sanders RD, Xu J, Shu Y, Januszewski A, Halder S, Fidalgo A, outside the synaptic cleft. Neuron 2007; 56:763–70
+Sun P, Hossain M, Ma D, Maze M: Dexmedetomidine attenu- 29. Caraiscos VB, Elliott EM, You-Ten KE, Cheng VY, Belelli D,
+ates isoflurane-induced neurocognitive impairment in neo- Newell JG, Jackson MF, Lambert JJ, Rosahl TW, Wafford KA,
+natal rats. ANESTHESIOLOGY 2009; 110:1077–85 MacDonald JF, Orser BA: Tonic inhibition in mouse hippo-
+11. Qian XL, Zhang W, Liu MZ, Zhou YB, Zhang JM, Han L, Peng campal CA1 pyramidal neurons is mediated by α5 subunit-
+YM, Jiang JH, Wang QD: Dexmedetomidine improves early containing γ-aminobutyric acid type A receptors. Proc Natl
+postoperative cognitive dysfunction in aged mice. Eur J Acad Sci U S A 2004; 101:3662–7
+Pharmacol 2015; 746:206–12 30. Ben Abdallah NM, Fuss J, Trusel M, Galsworthy MJ, Bobsin K,
+12. Wang Y, Wu C, Han B, Xu F, Mao M, Guo X, Wang J: Colacicco G, Deacon RM, Riva MA, Kellendonk C, Sprengel
+Dexmedetomidine attenuates repeated propofol exposure- R, Lipp HP, Gass P: The puzzle box as a simple and efficient
+induced hippocampal apoptosis, PI3K/Akt/Gsk-3β signaling behavioral test for exploring impairments of general cogni-
+disruption, and juvenile cognitive deficits in neonatal rats. tion and executive functions in mouse models of schizophre-
+Mol Med Rep 2016; 14:769–75 nia. Exp Neurol 2011; 227:42–52
+13. Si Y, Zhang Y, Han L, Chen L, Xu Y, Sun F, Ji M, Yang J, Bao 31. Chitilian HV, Eckenhoff RG, Raines DE: Anesthetic drug
+H: Dexmedetomidine acts via the JAK2/STAT3 pathway to development: Novel drugs and new approaches. Surg Neurol
+attenuate isoflurane-induced neurocognitive deficits in senile Int 2013; 4:S2–10
+mice. PLoS One 2016; 11:e0164763 32. Forman SA: Clinical and molecular pharmacology of etomi-
+14. Maguire JL, Stell BM, Rafizadeh M, Mody I: Ovarian cycle- date. ANESTHESIOLOGY 2011; 114:695–707
+linked changes in GABA receptors mediating tonic inhibi- 33. Zhang Y, Sloan SA, Clarke LE, Caneda C, Plaza CA, Blumenthal
+A
+tion alter seizure susceptibility and anxiety. Nat Neurosci PD, Vogel H, Steinberg GK, Edwards MS, Li G, Duncan JA
+2005; 8:797–804 3rd, Cheshier SH, Shuer LM, Chang EF, Grant GA, Gephart
+15. MacDonald JF, Mody I, Salter MW: Regulation of N-methyl- MG, Barres BA: Purification and characterization of progeni-
+D-aspartate receptors revealed by intracellular dialysis of tor and mature human astrocytes reveals transcriptional and
+murine neurones in culture. J Physiol 1989; 414:17–34 functional differences with mouse. Neuron 2016; 89:37–53
+16. Wang DS, Zurek AA, Lecker I, Yu J, Abramian AM, Avramescu 34. Peng L, Yu AC, Fung KY, Prévot V, Hertz L: α-Adrenergic stim-
+S, Davies PA, Moss SJ, Lu WY, Orser BA: Memory deficits ulation of ERK phosphorylation in astrocytes is α-specific
+2
+induced by inflammation are regulated by α5-subunit- and may be mediated by transactivation. Brain Res 2003;
+containing GABA receptors. Cell Rep 2012; 2:488–96 978:65–71
+A
+17. Albuquerque C, Joseph DJ, Choudhury P, MacDermott AB: 35. Degos V, Charpentier TL, Chhor V, Brissaud O, Lebon S,
+Dissection, plating, and maintenance of cortical astrocyte Schwendimann L, Bednareck N, Passemard S, Mantz J,
+cultures. Cold Spring Harb Protoc 2009; 2009:prot5275 Gressens P: Neuroprotective effects of dexmedetomidine
+against glutamate agonist-induced neuronal cell death are
+18. Qiao J, Wang J, Wang H, Zhang Y, Zhu S, Adilijiang A, Guo H,
+related to increased astrocyte brain-derived neurotrophic
+Zhang R, Guo W, Luo G, Qiu Y, Xu H, Kong J, Huang Q, Li
+XM: Regulation of astrocyte pathology by fluoxetine prevents
+factor expression. ANESTHESIOLOGY 2013; 118:1123–32
+the deterioration of Alzheimer phenotypes in an APP/PS1 36. Gottmann K, Mittmann T, Lessmann V: BDNF signaling in
+mouse model. Glia 2016; 64:240–54 the formation, maturation and plasticity of glutamatergic and
+GABAergic synapses. Exp Brain Res 2009; 199:203–34
+19. Wang J, Zhu S, Wang H, He J, Zhang Y, Adilijiang A, Zhang
+H, Hartle K, Guo H, Kong J, Huang Q, Li XM: Astrocyte- 37. Carollo DS, Nossaman BD, Ramadhyani U: Dexmedetomidine:
+dependent protective effect of quetiapine on GABAergic A review of clinical applications. Curr Opin Anaesthesiol
+neuron is associated with the prevention of anxiety- 2008; 21:457–61
+like behaviors in aging mice after long-term treatment. J 38. Hertz L, Lovatt D, Goldman SA, Nedergaard M: Adrenoceptors
+Neurochem 2014; 130:780–9 in brain: Cellular gene expression and effects on astrocytic
+20. Rogers RS, Dharsee M, Ackloo S, Sivak JM, Flanagan JG: metabolism and [Ca ]. Neurochem Int 2010; 57:411–20
+2+i
+Proteomics analyses of human optic nerve head astrocytes 39. Roskoski R Jr: ERK1/2 MAP kinases: Structure, function, and
+following biomechanical strain. Mol Cell Proteomics 2012; regulation. Pharmacol Res 2012; 66:105–43
+11:M111.012302 40. Wang JQ, Tang Q, Parelkar NK, Liu Z, Samdani S, Choe ES,
+21. Guo X, Dason ES, Zanon-Moreno V, Jiang Q, Nahirnyj A, Yang L, Mao L: Glutamate signaling to Ras-MAPK in stria-
+Chan D, Flanagan JG, Sivak JM: PGC-1α signaling coordi- tal neurons: Mechanisms for inducible gene expression and
+nates susceptibility to metabolic and oxidative injury in the plasticity. Mol Neurobiol 2004; 29:1–14
+inner retina. Am J Pathol 2014; 184:1017–29 41. Hwang L, Choi IY, Kim SE, Ko IG, Shin MS, Kim CJ, Kim
+22. Banker GA, Cowan WM: Rat hippocampal neurons in dis- SH, Jin JJ, Chung JY, Yi JW: Dexmedetomidine ameliorates
+persed cell culture. Brain Res 1977; 126:397–42 intracerebral hemorrhage-induced memory impairment by
+Anesthesiology 2018; 129:477-89 488 Wang et al.
+Copyright © 2018, the American Society of Anesthesiologists, Inc. Wolters Kluwer Health, Inc. Unauthorized reproduction of this article is prohibited.
+PERIoPERATIvE MEDICINE
+inhibiting apoptosis and enhancing brain-derived neuro- 45. Mowla SJ, Farhadi HF, Pareek S, Atwal JK, Morris SJ, Seidah
+trophic factor expression in the rat hippocampus. Int J Mol NG, Murphy RA: Biosynthesis and post-translational process-
+Med 2013; 31:1047–56 ing of the precursor to brain-derived neurotrophic factor. J
+42. Laurito CE, Baughman VL, Becker GL, DeSilva TW, Carranza Biol Chem 2001; 276:12660–6
+CJ: The effectiveness of oral clonidine as a sedative/anxio- 46. Binder DK, Scharfman HE: Brain-derived neurotrophic fac-
+lytic and as a drug to blunt the hemodynamic responses to tor. Growth Factors 2004; 22:123–31
+laryngoscopy. J Clin Anesth 1991; 3:186–93 47. Fischell J, Van Dyke AM, Kvarta MD, LeGates TA,
+43. Ochs G, Penn RD, York M, Giess R, Beck M, Tonn J, Haigh J, Thompson SM: Rapid antidepressant action and restora-
+Malta E, Traub M, Sendtner M, Toyka KV: A phase I/II trial of tion of excitatory synaptic strength after chronic stress by
+recombinant methionyl human brain derived neurotrophic negative modulators of α5-containing GABA receptors.
+A
+factor administered by intrathecal infusion to patients with Neuropsychopharmacology 2015; 40:2499–509
+amyotrophic lateral sclerosis. Amyotroph Lateral Scler Other 48. Wu Z, Guo Z, Gearing M, Chen G: Tonic inhibition in den-
+Motor Neuron Disord 2000; 1:201–6 tate gyrus impairs long-term potentiation and memory in an
+44. Bergami M, Santi S, Formaggio E, Cagnoli C, Verderio C, Alzheimer’s disease model. Nat Commun 2014; 5:4159
+Blum R, Berninger B, Matteoli M, Canossa M: Uptake and 49. Clarkson AN, Huang BS, Macisaac SE, Mody I, Carmichael ST:
+recycling of pro-BDNF for transmitter-induced secretion by Reducing excessive GABA-mediated tonic inhibition promotes
+cortical astrocytes. J Cell Biol 2008; 183:213–21 functional recovery after stroke. Nature 2010; 468:305–9
+ANESTHESIoLoGY REFLECTIoNS FRoM THE WooD LIBRARY-MUSEUM
+J. K. P. Pine Collars New York’s Upstate Market on Nitrous Oxide
+Cylinders
+From the Wood Library-Museum’s Ben Z. Swanson Collection, this notice (above) was extracted from a broadside pub-
+lished by James Knox Polk Pine (1841 to 1919; banker, philanthropist, and collar manufacturer) of Troy, New York. An
+astonishing commercial success at both patenting and producing shirt collars, J. K. P. Pine started a side business of
+selling 100-gallon cylinders of nitrous oxide for $16 or refilling them for $6. Situated about 150 miles north of Manhattan
+on New York’s eastern border with Vermont and Massachusetts, J. K. P. Pine’s Troy could “save the [two-day] delay
+of sending your Cylinder to New York to be re-filled.” (Copyright © the American Society of Anesthesiologists’ Wood
+Library-Museum of Anesthesiology.)
+George S. Bause, M.D., M.P.H., Honorary Curator and Laureate of the History of Anesthesia, Wood Library-Museum
+of Anesthesiology, Schaumburg, Illinois, and Clinical Associate Professor, Case Western Reserve University, Cleveland,
+Ohio. UJYC@aol.com.
+Anesthesiology 2018; 129:477-89 489 Wang et al.
+Copyright © 2018, the American Society of Anesthesiologists, Inc. Wolters Kluwer Health, Inc. Unauthorized reproduction of this article is prohibited.

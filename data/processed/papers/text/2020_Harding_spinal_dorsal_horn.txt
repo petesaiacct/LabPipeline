@@ -1,0 +1,1259 @@
+REVIEW
+published:12June2020
+doi:10.3389/fncir.2020.00031
+Insights Into Spinal Dorsal Horn
+Circuit Function and Dysfunction
+Using Optical Approaches
+ErikaK.Harding1,2,SamuelWanchiFung1andRobertP.Bonin1,3*
+1DepartmentofPharmaceuticalSciences,LeslieDanFacultyofPharmacy,UniversityofToronto,Toronto,ON,Canada,
+2DepartmentofComparativeBiologyandExperimentalMedicine,UniversityofCalgary,Calgary,AB,Canada,3University
+ofTorontoCentrefortheStudyofPain,UniversityofToronto,Toronto,ON,Canada
+Somatosensation encompasses a variety of essential modalities including touch,
+pressure, proprioception, temperature, pain, and itch. These peripheral sensations are
+crucial for all types of behaviors, ranging from social interaction to danger avoidance.
+Somatosensory information is transmitted from primary afferent fibers in the periphery
+into the central nervous system via the dorsal horn of the spinal cord. The dorsal
+horn functions as an intermediary processing center for this information, comprising a
+complexnetworkofexcitatoryand inhibitoryinterneuronsaswellasprojectionneurons
+that transmit the processed somatosensory information from the spinal cord to the
+brain. It is now known that there can be dysfunction within this spinal cord circuitry in
+pathologicalpainconditionsandthattheseperturbationscontributetothedevelopment
+and maintenance of pathological pain. However, the complex and heterogeneous
+network of the spinal dorsal horn has hampered efforts to further elucidate its role
+Editedby: in somatosensory processing. Emerging optical techniques promise to illuminate the
+EdwardS.Ruthazer,
+underlyingorganizationandfunctionofthedorsalhornandprovideinsightsintotherole
+McGillUniversity,Canada
+ofspinalcordsensoryprocessinginshapingthebehavioralresponsetosomatosensory
+Reviewedby:
+AndrewJ.Todd, input that we ultimately observe. This review article will focus on recent advances in
+UniversityofGlasgow, optogenetics and fluorescence imaging techniques in the spinal cord, encompassing
+UnitedKingdom
+findings from both in vivo and in vitro preparations. We will also discuss the current
+RezaSharif-Naeini,
+McGillUniversity,Canada limitations and difficulties of employing these techniques to interrogate the spinal cord
+*Correspondence: andcurrentpracticesandapproachestoovercomethesechallenges.
+RobertP.Bonin
+rob.bonin@utoronto.ca Keywords:spinalcord,dorsalhorn,optogenetics,calciumimaging,invivo,pain,somatosensation
+Received:15March2020
+Accepted:01May2020 INTRODUCTION
+Published:12June2020
+Citation: Ourphysicalconnectiontotheworldthroughsensationisessentialforourhealthandwellbeing.
+HardingEK,FungSWandBoninRP Somatosensation is a broad term encompassing many modalities including touch, pressure,
+(2020)InsightsIntoSpinalDorsal proprioception,temperature,pain,anditch.Itisthroughtheseperipheralsensationsthatwecan
+HornCircuitFunctionand
+recognizeandremoveourselvesfromdanger,tosensewarmthorcoldforthermoregulation,andto
+DysfunctionUsingOptical
+detectandrespondtosociallyrelevantphysicalgesturessuchasagentlecaress.Aninabilitytodetect
+Approaches.
+physicalsensationscanbeseverelydebilitatingandleadtoincreasedriskofinjuryandashortened
+Front.NeuralCircuits14:31.
+doi:10.3389/fncir.2020.00031 lifespan, as can be seen in patients with congenital insensitivity to pain (Nagasako et al., 2003).
+FrontiersinNeuralCircuits | www.frontiersin.org 1 June2020 | Volume14 | Article31
+Hardingetal. InsightsIntoDorsalHornCircuitry
+Somatosensory information is first transduced in the touch to activate nociceptive projection neurons; a possible
+peripheral nervous system by specialized receptors on primary neural correlate for allodynia (Takazawa and MacDermott,
+afferent neurons. This information then travels along primary 2010; Lu et al., 2013; Peirs et al., 2015; Petitjean et al., 2015;
+afferentfibers,whosecellbodiesresideinthedorsalrootganglia, Chengetal.,2017).
+andintothedorsalhornofthespinalcord.Historically,primary Primary afferent fibers may form synapses with excitatory
+afferent fibers have been classified by conduction velocity and and inhibitory neurons within the spinal cord, and with both
+degree of myelination into four types (Aα, Aβ, Aδ, and C), interneurons and projection neurons (Lu and Perl, 2003, 2005;
+anditwasoriginallybelievedthateachtypetransmitsdifferent Takazawa and MacDermott, 2010). The patterns by which
+modalities of sensory information to the spinal dorsal horn different primary afferent fibers synapse onto which type of
+(RobertsandElardo,1986;McGloneandReilly,2010). dorsal horn neuron, or whether a defined pattern exists, is
+C fibers terminate predominantly in laminae I–II, the not definitively known. Part of the reason for this is the high
+outermost laminae, and transmit nociceptive information degree of neuronal heterogeneity in the dorsal horn and a
+including noxious heat and noxious mechanical perturbations lack of information regarding the functional roles of the many
+to tissue (Basbaum et al., 2009), as well as information typesofdorsalhornneurons.Also,nosetclassificationscheme
+related to itch and low threshold, pleasant mechanical stimuli of dorsal horn neurons has been agreed upon. Most early
+(Olausson et al., 2002; Ikoma et al., 2006; Wooten et al., 2014; attempts to classify dorsal horn neurons used a classification
+Huang et al., 2018). Aδ fibers transmit a mixture of noxious scheme based on action potential firing patterns or cellular
+and innocuous tactile and cold information and terminate morphology (Prescott and De Koninck, 2002; Punnakkal et al.,
+predominantlywithinlaminaeIandV,withasubsetofAδfibers 2014). However, there can be considerable overlap across
+corresponding to low-threshold mechanosensation terminating theseparameters.
+within lamina III (Li et al., 2011; Arcourt et al., 2017; Koch Moremodernclassificationschemesbasedontheexpression
+et al., 2018). However, Aβ fibers carry the bulk of innocuous of specific molecular markers have proven more fruitful, with
+tactile information, including touch, vibration, texture, and markers such as somatostatin effectively labeling excitatory
+pressure (Mackenzie et al., 1975; Basbaum et al., 2009). Aβ neurons (Gutierrez-Mecinas et al., 2016, 2019), and markers
+fibers transmit information via the dorsal column into the such as parvalbumin effectively labeling inhibitory neurons
+cuneate and gracile nuclei, and send a branch into the dorsal (Boyle et al., 2017). It has also recently been found that two
+horn, terminating in laminae III–V (Basbaum et al., 2009; classes of neurons, differentiated by expression of substance P
+Niu et al., 2013). Proprioceptive information is transmitted orgastrin-releasingpeptide,correspondtopreviouslyidentified
+predominantlybyAαfibers,whichterminatewidelythroughout morphologically-andelectrophysiologically-distinctpopulations
+lamina IV–VI and the ventral horn, where they contribute of neurons, namely radial cells and transient central cells,
+to sensory-motor loops (Maxwell and Bannatyne, 1983; Mears respectively (Grudt and Perl, 2002; Dickie et al., 2019).
+and Frank, 1997; Maxwell and Riddell, 1999). It should be This provides further evidence that molecular markers can
+notedthatthereisincreasingevidencethatthisclassificationof differentiate functionally distinct populations of neurons.
+primary afferent types by conduction velocity and modality of However, it should be noted that in some cases molecular
+information is not as discrete as once believed, and there are markers label both excitatory and inhibitory neurons, as is
+many exceptions to these general rules. Instead, classification the case with calretinin (Gutierrez-Mecinas et al., 2016; Boyle
+by molecular markers is increasingly used to differentiate et al., 2017), suggesting the need to better understand the
+primary afferent populations, often aligning to specific roles heterogeneity of expression of potential molecular markers
+in somatosensation (Usoskin et al., 2015; Arcourt et al., 2017; within this diverse population, in order to find better
+Huangetal.,2018). candidates that align to functionally distinct populations.
+The dorsal horn is divided into six layers, referred to Recent attempts to use single-cell RNA-sequencing have
+as laminae, and has long been recognized as a key site for begun to offer considerable clarity into the complex neuronal
+somatosensoryprocessing(Rexed,1952;Molanderetal.,1984). heterogeneity in the dorsal horn (Usoskin et al., 2015;
+Integrated processing of different somatosensory modalities is Häring et al., 2018; Sathyamurthy et al., 2018; Zeisel et al.,
+achieved through a combination of organizational specificity 2018), but it is still unknown if these molecularly distinct
+of primary afferent fiber termination (Figure 1), and through populationsaligntodifferentfunctionalpopulationsofneurons
+complex circuitry that allows for communication between the within the dorsal horn, representing an open opportunity
+laminae of the dorsal horn (Dubner and Ren, 1999; Duan forresearch.
+et al., 2014; Bourane et al., 2015; Pagani et al., 2019). The The spinal dorsal horn also receives direct descending
+most famous example of this is the gate control theory, modulationfromseveralbrainstemregionsincludingtherostral
+which was first theorized by Melzack and Wall (1965) over ventromedial medulla (RVM) and locus coeruleus (LC; Ren
+50 years ago, and suggests the presence of a network which and Dubner, 2002; Gebhart, 2004). These connections serve
+allows for innocuous stimuli to affect the transmission of to modulate the excitability of neurons within the spinal
+noxious stimuli to the brain, rather than these stimuli being cord, often by decreasing the excitation of cortically-projecting
+separated in distinct networks. Indeed, connections between neurons (Figure 1). For example, adrenergic, opioidergic,
+the deeper dorsal horn layers and lamina I have been defined, and cannabinergic signaling from the brainstem can directly
+which, under pathological pain conditions, allow for a light inhibit dorsal horn neurons, reduce neurotransmitter release
+FrontiersinNeuralCircuits | www.frontiersin.org 2 June2020 | Volume14 | Article31
+Hardingetal. InsightsIntoDorsalHornCircuitry
+FIGURE1 | Somatosensorycircuitryfromtheperipherytothebrain.Somatosensoryinformationisfirsttransmittedintothespinaldorsalhornbyprimaryafferent
+neuronfibers,whichextendfromperipheraltissueintothespinalcordandsynapseontoneuronswithinthedorsalhorn.Therearefourmaintypesofprimaryafferent
+fiber,separatedbytransductionvelocity,andeachtype(Aα,Aβ,Aδ,C)showssomeselectivityinsomatosensorymodalitytransmittedandsynapsesintodifferent
+laminaeasshownhere(RobertsandElardo,1986;McGloneandReilly,2010;Kochetal.,2018).Thisproducesselectivityinthemodalityprocessedineachlamina
+ofthedorsalhorn.ProjectionneuronswithinlaminaIandVsendaxonsuptothebrainviaascendingtractsincludingthespinothalamictractanddorsal
+column–mediallemniscaltract(notshowninthefigure;Willis,1985;Niuetal.,2013).Briefly,axonsdecussateatthespinallevel,thenascendonthecontralateral
+sidetowardsthethalamus.Someprojectionsterminatewithinotherbrainstemregionsincludingtheparabrachialnucleusandperiaqueductalgray.Descending
+tractsoriginatefromseveralbrainregionsincludingthemedialprefrontalcortex,hypothalamus,andamygdala,andprojectfirsttotheperiaqueductalgray(Gebhart,
+2004;Huangetal.,2019).Fromhere,descendingprojectionsthensynapsewithintherostralventromedialmedulla(RVM),andjoinwithlocuscoeruleus(LC)
+descendingprojections.RVM/LCprojectiontargetsincludingthesuperficialdorsalhornandlaminaV(D’MelloandDickenson,2008;Françoisetal.,2017).
+from primary afferents, and ultimately decrease pain behaviors been implicated in descending pain modulation; however, the
+(Ossipov and Gebhart, 1986; Porreca et al., 2002; Huang et al., completepictureofhowdescendingmodulationofdorsalhorn
+2019).Withinthedorsalhorn,bothpre-andpostsynapticsites sensory processing occurs at a systems-level remains unclear
+ofactionofinhibitoryandexcitatoryneuronalpopulationshave (LauandVaughan,2014).
+FrontiersinNeuralCircuits | www.frontiersin.org 3 June2020 | Volume14 | Article31
+Hardingetal. InsightsIntoDorsalHornCircuitry
+Techniques that allow for manipulation of and recording light to allow protons to efflux from the cell, hyperpolarizing
+from specific neuronal populations are ideal for determining the membrane (Han et al., 2011). Halorhodopsin (NpHr) is
+how the circuitry of the dorsal horn processes and modulates another commonly used inhibitory opsin, which rather than
+somatosensory information in normal and pathological being an ion channel, functions instead by pumping chloride
+conditions. Of increasing utility are recently developed small ions into the cell upon activation with 570 nm (yellow) light
+molecules and genetically-encoded proteins that are activated (Gradinaruetal.,2008).
+by light, which allow for either the optical manipulation or To investigate the circuitry of the dorsal horn as well as
+detection of activity within spatially or genetically-defined its function, opsins may be delivered into primary afferent
+cellular populations;namely optogenetic actuators, andactivity neurons to drive or silence input into the spinal cord, into the
+sensorssuchascalciumindicators.Theadvantagesofthesetools brain or brainstem to control descending modulation, or into
+can be demonstrated by the wide variety of usages they have, the spinal cord itself to manipulate the excitability of specific
+bothinvivoandinvitro,fromthesinglecelltopopulation/circuit molecularly distinct cellular populations (see Table 1 for an
+level; and in the insights that we are deriving from them. They overview of all known usage of opsins for interrogation of
+canbeusedtounderstandhowspecificallydefinedpopulations spinal dorsal horn somatosensation). Since different opsins are
+of neurons or glia are active during or contribute to the activatedbydifferentwavelengths,thisallowsforthepossibility
+various modalities of somatosensation, how they contribute to of bidirectional control of excitability in the same preparation
+crosstalkbetweenthesemodalities,andhowtheyareaffectedby (Iyeretal.,2014;Boninetal.,2016).
+descendingmodulationand/ordisordersofsensationincluding
+Delivery of Opsins Into Neuronal and
+pathologicalpainconditions.
+Here, we will review the current literature on the use of Nonneuronal Targets
+optogenetics for investigation of sensory processing, as well as Throughtheuseofsite-specificrecombinasetechnology,opsins
+calciumimagingofbothneuronalandglialactivityforprobing canbeexpressedinsubsetsofcellsbyusingaspecificpromoter
+spinal cord circuitry, discuss technologies and limitations, and toselectivelyexpressarecombinasesuchascrewithinthatsubset
+newadvancesinboththesetechniquesthatcouldbeemployed (RossantandMcMahon,1999;Nagy,2000).Thistechniquecan
+inthefuturewithinthespinaldorsalhorn. be used to drive expression of opsins in a variety of cell types,
+includingneurons,microglia,andastrocytes.However,thisdoes
+requireaprioriknowledgeofthecelltypethatwillbemodulated,
+APPLYING OPTOGENETIC TECHNIQUES
+which is still difficult in the spinal cord where molecularly
+TO PROBE SPINAL CORD CIRCUITRY
+defined neuronal subtypes are relatively poorly characterized.
+Recent advances in unbiased molecular screening tools such as
+An Overview of Available Optogenetic
+single-cell RNA sequencing are beginning to be used to define
+Tools spinal cord neuronal subtypes and develop atlases of potential
+Optogenetic tools utilize engineered and artificially introduced targetmolecularmarkersforthesegroupings.Thisrepresentsa
+ion channels for rapid non-invasive activation or inactivation powerfultoolforfunctionalcharacterization,wherebyopsinscan
+of specific cellular populations using light (Nagel et al., 2003; be expressed within these newly-defined populations to better
+Zemelman et al., 2003; Banghart et al., 2004; Boyden et al., understand their contributions to dorsal horn circuit function
+2005; Lima and Miesenböck, 2005; Fenno et al., 2011). These andeventualbehavioraloutput(Abrairaetal.,2017;Häringetal.,
+ion channels were first derived from microbial opsins and 2018;Sathyamurthyetal.,2018).
+allow for a wide degree of temporal and spatial sensitivity for Opsins can be delivered into target tissue either through
+manipulationofactivityinspecificpopulationsofmanytypesof viral transduction or by use of transgenic mouse lines, or
+cells,rangingfromneuronstoHEKcells,andevenastrocytesand throughacombinationofbothtechnologies(Fennoetal.,2011).
+microglia.Theyareoftenreferredtoasoptogeneticactuators,or Transgenic lines are typically the least invasive method for
+simply as opsins. The most commonly used excitatory opsin is expression of opsins; however, they are predominantly only
+Channelrhodopsin-2(ChR2),whichuponactivationby488nm available in mice, take time to develop, and are not capable
+(blue) light allows cations into any cell expressing it (Boyden of producing spatially selective expression, save for that given
+et al., 2005). Other excitatory optogenetic ion channels have throughcarefulpromoterselection(Daouetal.,2013;Liskeetal.,
+been developed beyond ChR2 that have different or improved 2013). Conversely, viral injections can be performed in most
+functionality, such as oChIEF and Chronos (can be activated animal models and produce spatial selectivity, but do require
+at high frequency), Chrimson and C1V1 (activated by a red invasive surgery, and may suffer from sparse expression (Iyer
+light),CatCh(permeabletocalciumions),andChloC(permeable et al., 2014). Along the somatosensory pathways, viral-driven
+to anions; see Tye and Deisseroth, 2012; Klapoetke et al., expression of opsins has been achieved with virus injections
+2014, or Lin, 2011 for extensive reviews of different types of in the periphery and directly in the sciatic nerve to transduce
+opsins and their utilities). However, ChR2 remains the most DRG neurons (Christensen et al., 2016; Wang et al., 2018),
+commonly used excitatory opsin, particularly for interrogation by intraperitoneal injection of the virus in neonatal mouse
+ofsomatosensation. pups to achieve a long-lasting and relatively high degree of
+The main inhibitory ionotropic opsin is Archerhodopsin-3 DRG transduction (Machida et al., 2013; Vrontou et al., 2013;
+(ArchT), which is maximally activated by 530 nm (green) Boninetal.,2016;Masudaetal.,2016),byintrathecalinjection
+FrontiersinNeuralCircuits | www.frontiersin.org 4 June2020 | Volume14 | Article31
+Hardingetal. InsightsIntoDorsalHornCircuitry
+(Boada et al., 2014), by direct intraspinal injection after spinal cord explant model (Daou et al., 2013; Bonin and De
+laminectomy (Bonin et al., 2016; Mondello et al., 2018) by Koninck,2014).
+using a less invasive non-laminectomy approach (Kohro et al., A similar technique was used to investigate the effect of
+2015; Petitjean et al., 2019), by injection in the brain to target activation of two other genetically distinct primary afferent
+sensory regions in the brain (Cardin et al., 2009), or through neuronpopulationsonnocifensivebehaviorsinvivo,specifically
+descendingpathways(Françoisetal.,2017;Huangetal.,2019). those that express TrpV1 and those that express MrgD, which
+Other approaches, such as intravenous injection of AAVs, can are thought to be selectively expressed in peptidergic and
+produce low or highly variable transduction efficiencies of the nonpeptidergicCfibers,respectively(Zylkaetal.,2005;Beaudry
+central and peripheral nervous system (Schuster et al., 2014), et al., 2017). Stimulation of the hind paw with 488 nm light in
+making them generally less suitable for the optogenetic study eachofthesetransgenicmouselinesbothresultedinnocifensive
+ofsomatosensation. responses.However,behaviorswereslightlydifferent,suggesting
+that molecularly distinct populations of C fiber either carry
+Advances in Spinal Cord Optogenetics
+slightly different somatosensory information into the brain or
+PeripheralStimulation that there is differential processing of information from these
+Optogenetic interrogation of spinal cord circuitry can be fibers within the spinal cord or brain. Conversely, expression
+achieved by using light delivery at several locations, depending of the inhibitory opsin ArchT in primary sensory neurons that
+on the circuitry that the experimenter is interested in express TrpV1 decreases nocifensive responses in a hind paw
+manipulating (Figure 2). Early optogenetic studies began with during532nmlightstimulation(Lietal.,2015),andactivation
+the insertion of ChR2 into primary afferent neurons, allowing of eNpHR expressed in C fiber afferents with 570 nm light
+for 488 nm light stimulation of the hind paw to indirectly decreased both thermal and mechanical nocifensive responses,
+stimulate circuitry in the spinal cord (Daou et al., 2013). Some both in naive and nerve-injured animals (Iyer et al., 2014;
+of these first sets of experiments targeted ChR2 expression Boninetal.,2016).
+to neurons expressing the sodium channel Nav1.8, which is Expression of ChR2 in the VGLUT3 population of primary
+preferentially found in nociceptive C fiber primary afferent afferents,whichdrivesexpressionwithinlowthresholdCfibers,
+neurons (Agarwal et al., 2004; Daou et al., 2013; Uhelski et al., results in 488 nm light-evoked mechanical hypersensitivity in
+2017, but see Shields et al., 2012). Acute stimulation of the mice with chemotherapy-induced pathological pain but not
+hindpawoftheseanimalswith488nmlightledtonocifensive in naive mice (Seal et al., 2009; Lou et al., 2013; Draxler
+responses such as licking and biting, and enhanced responses et al., 2014). This selective pain phenotype adds to evidence
+to both mechanical and thermal stimuli, suggesting a possible that input from these fibers is normally innocuous, and
+degreeofmultimodalityofthesefibers(Daouetal.,2013;Bonin only contributes to nociception in certain pathological pain
+and De Koninck, 2014; Bonin et al., 2016; Daou et al., 2016; conditions, possibly through the unmasking of otherwise silent
+DeBerryetal.,2018).Repeatedpatternedstimulationofthehind orinhibitedsynapseswithinthespinalcord(LiandZhuo,1998;
+paw led to long-lasting mechanical and thermal hyperalgesia, Lietal.,1999;Sealetal.,2009;Zhangetal.,2018b).Interestingly,
+suggestiveofpotentiationwithinthespinalcordcircuitry.This asimilarphenomenonwasobservedwhenChR2wasexpressed
+wasfurthersupportedbythepresenceoffacilitateddorsalroot selectively in Thy1+ Aβ fibers, suggesting a similar role
+field potentials after persistent 488 nm light stimulation in a (Tashimaetal.,2018).
+FIGURE2 | Techniquesforoptogeneticinterrogationofspinalcircuitry.Opsinsmaybestimulatedinfourmainwaystointerrogatespinalcircuitry.First,opsinscan
+beexpressedinprimaryafferentterminals,andperipheralstimulationcanbeusedtostimulateorsilenceprimarysensoryneuronsandobservereal-timechangesin
+behavioraloutputinvivo.Similarly,opsinscanbeexpressedinneuronalpopulationswithinthespinalcordorbrain,allowingforinvivocentralstimulationofeither
+spinalcordneuronpopulationsorneuronsinvolvedindescendingmodulation,respectively.Finally,opsinsmaybeexpressedwithinprimaryafferentsorspinalcord
+neuronpopulations,andthenstimulationcanoccurinaninvitroslicepreparation,oftencombinedwithelectrophysiologicalrecordingstomeasuretheeffectof
+activationorsilencingofagivenneuronalpopulationontheexcitabilityoftherecordedneuron.
+FrontiersinNeuralCircuits | www.frontiersin.org 5 June2020 | Volume14 | Article31
+Hardingetal. InsightsIntoDorsalHornCircuitry
+While many of these techniques for peripheral optogenetic animal is freely moving, which is difficult to achieve with
+stimulation drive opsin expression in molecularly distinct peripheralstimulation.
+primary sensory neuron populations, some serotypes of AAV Central stimulation of primary afferents has been employed
+have been shown to selectively infect distinct subsets of byBoninetal.(2016),whoexpressedeitherArchTorChR2in
+primary afferent fibers. For example, intrathecal injection of Nav1.8+ primary afferents and delivered light into the spinal
+AAV8encodingArchTundertheubiquitousCAGpromoterwas cord via fiber optic implant. Using this technique, the authors
+found to selectively induce opsin expression in only Aδ fibers were able to bidirectionally control mechanical nocifensive
+(Boadaetal.,2014).Usingthistechnique,Boadaetal.(2014)were reflexsensitivity,asmeasuredbyVonFreyfilaments.Continual
+abletoinhibitAδfibersviaactivationofArchTwith532nmlight, excitation of Nav1.8+ afferents led to long-term changes in
+whichdecreasednocifensiveresponsesbothinnaiveanimalsand mechanical sensitivity, measured up to 3 h after stimulation,
+after nerve injury, indicating a role for Aδ fibers in both acute suggestingthepresenceofcentralsensitization.
+and pathological pain conditions. Similarly, Iyer et al. (2014) However,thegreateststrengthprovidedbythecapabilityto
+usedanintrasciaticinjectionofAAV6encodingArchTunderthe directly illuminate the spinal cord lies in the capacity to target
+CAGpromotertoselectivelytransduceunmyelinatedC-fibers, and either activate or silence specific spinal cord neuronal and
+enablinglight-inducedanalgesia. glial populations, by expressing opsins in molecularly distinct
+Insummary,peripheralstimulationisthemostcost-effective populations. As technology improves, this will prove to be a
+and straightforward method for optogenetic stimulation of veryfruitfultechnique,asmanyofthenewlydefinedmolecularly
+spinal cord circuitry and can be accomplished without the distinct dorsal horn neuronal populations still have unknown
+need for surgical intervention, depending on the method functionsinregardstosomatosensationingeneral,anddisorders
+of opsin expression. Using this technique, the role of of somatosensation such as pathological pain (Häring et al.,
+different primary afferent populations in various modalities 2018).Anearlystudythatexemplifiestheutilityofinvivospinal
+of somatosensation is beginning to be understood and has cord neuron population stimulation using optogenetics found
+demonstrated the capacity for light-activated primary afferent that inhibition of GAD2+ inhibitory spinal cord neurons via
+stimulation to induce central sensitization within the spinal stimulation of ArchT by 530 nm light produces an immediate
+cord. Unfortunately, peripheral stimulation is primarily increase in mechanical but not thermal sensitivity in otherwise
+suitable for the study of the effect of activation or inactivation naïve mice (Bonin et al., 2016). This indicates that inhibitory
+of primary sensory afferents on spinal cord functional neurons within the spinal cord significantly dampen activation
+output in the form of behavioral readouts, and thus central of nociceptive neurons and decrease nociceptive signaling to
+stimulationisrequiredtodissectthecircuitrywithinthespinal the brain, giving evidence for how the loss of inhibition could
+corditself. contribute to increased pain sensitivity in pathological pain
+conditions(Coulletal.,2003,2005).
+CentralStimulation A more selective study of interneuron populations found
+Overthepastdecade,vastimprovementshavebeenmadeinthe a critical role for the somatostatin positive (SOM+) excitatory
+utilityofoptogeneticsformanipulatingcellularactivity.Amajor neuronpopulationinthecircuitryofprocessingofitch,suchthat
+advancementhasbeenthecapabilitytostimulatespecificcellular activationofSOM+neuronsviaChR2increaseditchingbehavior
+populationsinvivo,usingfibreopticimplantsfordeliveryoffixed invivo(Christensenetal.,2016).Similarly,activationofGRP+
+wavelength light, typically via an LED (Aravanis et al., 2007). neurons in the spinal cord via ChR2 revealed that burst firing
+Initially, fibreoptic implants for the rodent brain suffered from withintheseneuronsisrequiredtoinduceitch-relatedbehaviors
+instabilityandrigidity,necessitatingkeepinganimalsinasedated invivo,providingevidencethatabuildupofGRPneuronactivity
+state during experiments (Adamantidis et al., 2007; Aravanis isrequiredforitch(Paganietal.,2019).
+etal.,2007;Gradinaruetal.,2007).However,newhardwarehas Finally,arecentstudyhasdemonstratedaroleforcalretinin
+allowedforawake,invivooptogeneticstimulationofthebrain, positive (CR+) neurons in the intersection between innocuous
+givingreal-timebehavioraloutput(LimaandMiesenböck,2005; touch perception and nociception. CR+ neurons receive input
+Aravanisetal.,2007;Montgomeryetal.,2015). from multiple sensory afferents responsive to innocuous or
+Researchershavenowadaptedthisfibreoptictechnologyfor noxious stimuli and synapse onto projection neurons within
+direct central stimulation of the spinal cord. Though an initial lamina I, providing a direct pathway for elicitation of
+techniquewastouseafibreopticimplantthatthreadsdownfrom pain behaviors (Petitjean et al., 2019). Indeed, optogenetic
+theheadtothespinalcord(Boninetal.,2016),amorecommonly activation of this pathway alone is sufficient to result in
+usedapproachutilizesachronicspinalimplantinwhichashort mechanical nocifensive responses, without changing thermal
+fibreoptic filament and ferrule are cemented into a burr hole sensitivity,suggestingaselectiveroleinmechanicalnociception
+in the T13 or L1 vertebre above the L4/L5 spinal segments (Petitjeanetal.,2019).
+(Christensenetal.,2016;Paganietal.,2019).Afibreopticcable Itshouldalsobenotedthatthesetechniquesarenotlimited
+canthenbeattachedtotheceramicferrulewithaferrulesleeve to the expression of opsins within neurons, and opsins can
+for stimulation sessions (Figure 2). Using this methodology, also be expressed in nonneuronal cells including astrocytes,
+one can either directly stimulate primary afferents within the for example using the GFAP promoter as done by Nam et al.
+dorsalrootgangliaorstimulatespinalcordneuronsthemselves, (2016). By expressing ChR2 in astrocytes in this manner, the
+with the added benefit of being able to stimulate while the authors were able to selectively stimulate spinal astrocytes
+FrontiersinNeuralCircuits | www.frontiersin.org 6 June2020 | Volume14 | Article31
+Hardingetal. InsightsIntoDorsalHornCircuitry
+invivo,findingthatastrocyteactivationviaChR2leadstopain cord parenchyma without severe damage to the spinal cord
+hypersensitivity, demonstrating a clear link between astrocyte that can lead to paralysis. Thus, light must be delivered from
+activity and behavioral pain output, possibly through activity- above the spinal cord, as seen with a vertebral lens or epidural
+dependentATPrelease(Bardonietal.,2010;Nametal.,2016). optic fiber implants (Bonin et al., 2016). Also, the spinal cord
+In the above studies, the light was delivered to the spinal containshighlymyelinateddorsalwhitematterthatcanpotently
+cord via a fibreoptic wire attached to a light source external to scatter light and greatly reduce intensity beyond depths of
+the animal, such that the wire may interfere with an animal’s approximately 100 µm below the surface of the spinal cord
+native behavior, through the weight or tension of the wire, or (Sekiguchi et al., 2016). The scattering of light by myelin is
+through movement restriction (Daou et al., 2013; Towne et al., much greater with short wavelengths (e.g., 488 nm) than long
+2013;Iyeretal.,2014).Therefore,itisofgreatinteresttodevelop wavelengths of light (e.g., 594 nm), allowing long wavelengths
+technologies that allow for wireless optogenetic activation, to oflighttopenetratedeeperintothetissue,providingapotential
+allow for truly free moving behavior. Wireless light delivery meanstomitigatethisissue(Zhangetal.,2008;Linetal.,2013;
+to the spinal cord is still an early technology with only a few Chuong et al., 2014; Inoue et al., 2019). Moreover, the degree
+successful examples of central modulation of primary afferent oflightscatteringistwiceasgreatwhenlightisdeliveredfrom
+terminalsinthedorsalhorn(Montgomeryetal.,2015;Parketal., above the spinal cord and perpendicularly to the longitudinal
+2015;Saminenietal.,2017b).However,wirelessapproachesare orientationofmyelintractsthanifthelightisdeliveredparallel
+thusfarunabletoconsistentlydeliversufficientlightintensityto tothetracts(DePaolietal.,2020).Anothercomplicationtolight
+activateopsinsexpressedinthespinalcordparenchymabeneath delivery in the spinal cord is that it is much more mobile than
+themyelinanddorsalrootentryzone.Continueddevelopment the brain and can move up to 50 µm along the rostral-caudal
+of this technology to improve the efficiency of wireless power axis during locomotion in mice (Sekiguchi et al., 2016). This
+delivery over larger distances from the power transmitterarray necessitatesalargerareaofilluminationtoensurethatthelight
+and the incorporation of brighter LEDs that can deliver light intensitywithinthespinalregionofinterestremainssufficiently
+to deeper laminae will allow this approach to be more broadly hightoactivateopsinsastheregionmovesthroughthespotof
+appliedtothestudyofspinalsomatosensoryprocessing. light.Therefore,theintensityofspinallydeliveredlightrequired
+A potential complication of utilizing optogenetic tools that to activate opsins expressed by intrinsic spinal cord neurons
+must be considered is that there is a risk of exciting not just is higher than that required to activate opsins expressed by
+a desired target cell population, but also neurons or other sensoryafferents,andmuchhigherthanthatrequiredforopsin
+cell types within the spinal cord itself that also express the activationviaproximityGRINlensimplantationinthebrain.
+chosenmoleculartarget.Forexample,therearesomeTRPV1+ An alternative method to investigate spinal cord function
+neurons within the spinal cord, that could be stimulated in vivo using optogenetics is through stimulation of the
+during the central stimulation of TRPV1+ primary afferents brainstem or brain to determine the effects of descending
+(Valtschanoff et al., 2001; Roberts et al., 2004; Cristino et al., modulation on behavioral output. The spinal cord receives a
+2006). Another possibility is that there may be developmental greatdealofdescendinginputviatractsfrommanykeybrainand
+changes in the expression of proteins, resulting in the opsin brainstemareas,includingtheprefrontalcortex,hypothalamus,
+being expressed in populations of a neuron that previously amygdala,andperiaqueductalgray(PAG;HopkinsandHolstege,
+expressedthemolecularmarkerofinterestduringanunknown 1978; Gebhart, 2004; François et al., 2017; Huang et al.,
+developmental time point, but do not normally express the 2019). These inputs converge at the LC and RVM, which
+molecularmarkerofinterestatadulttimepoints(Heffneretal., synapsedirectlyintothespinalcord(ProudfitandClark,1991;
+2012;SongandPalmiter,2018).Therefore,careshouldbeused D’Mello and Dickenson, 2008; François et al., 2017). Input
+both in choosing a genetic marker for a population and in the from the LC and RVM is thought to modulate excitability
+interpretationofresults(NimmerjahnandBergles,2015;Otchy through both facilitation and inhibition, depending on the
+et al., 2015). Another potential strategy to avoid expression neuronal populations involved. To dissect out these roles,
+in populations with transient, developmental expression would opsins can be selectively expressed in the spinally-projecting
+be to only perform viral transfection in adult animals, or to brainstem or brain neurons. Using this technique, a novel
+drive recombination only once adulthood has been reached, basolateral amygdala—medial prefrontal cortex—PAG—spinal
+suchascanbeachievedwiththeCreERT2tamoxifen-dependent cord pathway has been identified, that when optogenetically
+recombinationsystem. activated, inhibits nocifensive behaviors in mice with a
+Thusfar,theresultsobtainedbybothcentralandperipheral pathological pain condition (Huang et al., 2019). Conversely,
+stimulation of primary afferent fibers are largely similar, rostral ventromedial medulla GABAergic interneurons appear
+providing encouraging evidence that the location of optical to function to increase nocifensive behaviors in mice, with
+stimulationdoesnotaffecttheobtainedexperimentalresults,and activation of ChR2 increasing nocifensive behaviors, and
+thatthesepotentialcomplicationsareminimal(Iyeretal.,2014; activation of NpHR decreasing nocifensive behaviors in vivo
+Nametal.,2016;Françoisetal.,2017;Saminenietal.,2017a). (Françoisetal.,2017).
+Finally,thedeliveryoflighttothespinalcordatanadequate
+intensity to activate opsins is a major hurdle of spinal cord InvitroSpinalCordOptogenetics
+optogenetics. Unlike the brain, it is not possible to insert a In addition to observing the effect of stimulation or inhibition
+GRIN lens or other optical material directly into the spinal of neuronal populations on behavioral output in vivo, valuable
+FrontiersinNeuralCircuits | www.frontiersin.org 7 June2020 | Volume14 | Article31
+Hardingetal. InsightsIntoDorsalHornCircuitry
+information can be gained from combining optogenetic andhowtheseconnectionshavebeenhypothesizedtobealtered
+stimulationwiththerecordingoftheelectricalactivityofdorsal inpathologicalpainconditions.
+horn neurons, either through field or patch-clamp recordings.
+While a few labs have successfully been able to perform
+FLUORESCENCE IMAGING FOR
+electrophysiology from the spinal cord in vivo, albeit under
+MEASUREMENT OF SPINAL DORSAL
+anesthesia (Light and Willcockson, 1999; Sokal and Chapman,
+2003; Urch and Dickenson, 2003; Keller et al., 2007), for HORN NEURONAL AND GLIAL ACTIVITY
+most practical applications either a semi-intact preparation
+Tools for Fluorescence Imaging
+(Hachisuka et al., 2016), spinal cord explant (Bonin and De
+Koninck, 2014), or spinal cord slices are used (Figure 2; Daou of Neuronal and Glial Activity
+etal.,2013;Christensenetal.,2016;Paganietal.,2019). Historically, the only way to measure the activity of
+Though the semi-intact and explant preparations allow for individual neurons has been through electrophysiology.
+dorsal roots to remain intact, in some cases dorsal roots are However, fluorophores have now been engineered to undergo
+removedduringthepreparationofspinalcordslices.However, conformationalchangesleadingtoincreasedfluorescenceinthe
+evenwithdorsalrootsremoved,optogeneticexcitationofcentral presence of biologically relevant stimuli, such as a change in
+terminals of primary afferent neurons is sufficient to produce voltage or calcium concentration. This allows for non-invasive
+postsynapticresponsesinspinalcordneurons(WangandZylka, monitoring of relative cellular activity with single-neuron
+2009; Foster et al., 2015). For an investigation of primary precision;withtheadditionalbenefitofthecapabilitytorecord
+afferent-evoked responses within the spinal cord, optogenetic fromuptohundredsofneuronssimultaneously.Thesepowerful
+stimulation provides the benefit of selectively stimulating a tools give insight into the activity of ensembles of neurons, to
+genetically distinct subset of primary afferents, as compared to better understand their function within complex circuitry such
+electricalstimulation(Tashimaetal.,2018;Kubotaetal.,2019). asthespinalcord.
+This provides unparalleled specificity to define circuitry within Themostcommonactivity-sensingfluorophoresarecalcium
+thespinalcord.Forexample,WangandZylka(2009)expressed and voltage indicators, which upon binding of calcium ions
+ChR2 in MrgD+ primary afferents that are nonpeptidergic or a change in voltage across the membrane, respectively,
+multimodalCfiberprimaryafferents(Rauetal.,2009)andthen proportionallyincreasefluorescenceintensitywithinasetlinear
+recordedfromalargenumberofsubstantiagelatinosaneurons. dynamicrange(Grynkiewiczetal.,1985;Mintaetal.,1989;Tsien,
+Theauthorsfoundthat50%ofallrecordedsubstantiagelatinosa 1989; Chanda et al., 2005; Fromherz et al., 2008; Bradley et al.,
+neuronsreceivemonosynapticinputfromMrgD+afferentsand 2009). These fluorophores may either be chemical indicators
+thatallmorphologicallydefinedclassesofsubstantiagelatinosa or genetically-encoded proteins; and the degree of increase in
+neurons receive these inputs, as evidenced by light-evoked fluorescence intensity upon binding, the wavelength of light
+excitatorypostsynapticpotentials(EPSCs). requiredtocausethisconformationalchange,andthesensitivity
+As described earlier, opsins can also be expressed directly offluorophoresdifferswidely,creatingavasttoolboxofpossible
+withinmolecularlydistinctspinalcordpopulations,forexample indicators for any desired application (see Grienberger and
+withininhibitoryVGAT+orGAD2+neurons(Fosteretal.,2015; Konnerth, 2012 for the table of common chemical indicators,
+Boninetal.,2016).Inaspinalcordslicepreparation,thisallows see Lin and Schnitzer, 2016 for a table of common genetically-
+for dissection of circuitry through activation or suppression encodedcalciumindicators).
+of neuronal populations during patch-clamp electrophysiology, It should be noted that fluorophores have also been created
+or possibly in combination with calcium imaging. The former forimagingofothermoleculesrelevanttocellularactivity,such
+techniquehasbeenemployedtodeterminetheconnectionsfrom as the fluorescent chemical indicator MQAE and genetically-
+pruritogenicprimaryafferentstothespinalcord,whichsynapse encodedproteinChlomeleonforchloridemeasurement(Arosio
+onto GRP+ neurons, then on to GRP receptor-containing and Ratto, 2014), iGluSnFr for fluorescent measurement
+neurons, and finally onto glutamatergic parabrachial nucleus- of glutamate (Marvin et al., 2013, 2018), and Epac-based
+projecting neurons (Mu et al., 2017; Pagani et al., 2019), FRET sensors for cAMP measurement (Ponsioen et al., 2004;
+elucidating a full circuit from the periphery to the brain for Klarenbeek and Jalink, 2014). Additionally, fluorescent false
+the flow of itch information. This technique has also been neurotransmittershavebeendevelopedtostudythereleaseand
+employed in conjunction with in vivo optogenetics extensively, recycling of neurotransmitters such as dopamine (Gubernator
+todeterminepresynapticandpostsynapticconnectionsbetween et al., 2009). However, imaging data obtained using these
+populations like CR+ and SOM+ neurons (Daou et al., 2013; moleculesarenotasstronglyassociatedwiththecellularactivity
+BoninandDeKoninck,2014;Christensenetal.,2016;François as calcium or voltage imaging and thus will not be discussed
+etal.,2017;Petitjeanetal.,2019). furtherinthisreview.
+Overall,theseinsightsarebeginningtounravelthecomplex The best proxy for electrophysiology currently available is
+circuitry of the spinal cord and allow for dissection of the theimagingofvoltage-sensitivefluorophores,whicharecapable
+contributionsofspecificneuronalpopulationstosomatosensory ofdetectingbothactionpotentialsandsubthresholdchangesin
+processing,andespeciallythatinvolvedinacuteandpathological voltage(Xuetal.,2017).Unfortunately,mostvoltageindicators
+pain conditions. In the future, it will also be of interest to sufferfrompoorsignal-to-noiseratios(SNRs)andrequireahigh
+investigatetheintersectionbetweeninnocuoustouchandpain, intensity of light for stimulation, which is particularly difficult
+FrontiersinNeuralCircuits | www.frontiersin.org 8 June2020 | Volume14 | Article31
+Hardingetal. InsightsIntoDorsalHornCircuitry
+toovercomeinthespinalcord.Partofthenecessityforhigher
+intensitylightisbecausevoltageindicatorsareonlyexpressedon
+thecellmembrane,whichaccountsforonlyasmallportionofthe
+overall volume of a neuron. Newer indicators such as Voltron
+(Abdelfattah et al., 2019), QuasAR2 (Hochbaum et al., 2014),
+andASAP3(Villetteetal.,2019)providebetterSNRandshow
+greaterpromiseforuseinlivingtissue.Allthreeofthesenewer
+generation voltage indicators have successfully been expressed
+invivointhemousecortex,withASAP3andVoltroncapableof
+discerningsingleactionpotentialsonthemillisecondtimescale
+(Lou et al., 2016; Bando et al., 2019). Unfortunately, there has
+onlybeenonepublicationperformingvoltageimagingwithinthe
+spinalcord,usingthevoltage-sensitivedyeDi-4-ANEPPS,which
+lacked single-neuron resolution (Mizuno et al., 2019), leaving
+voltageimaginginthespinalcordanopenavenueforinnovation.
+Instead, most researchers use calcium imaging as a proxy to
+estimateneuronalactivity.
+Considerations When Using Calcium
+Imaging as a Proxy for Neuronal Activity
+Calcium imaging takes advantage of the large, rapid flow of
+calciumintoneuronsasaresultofvoltage-gatedcalciumchannel
+(VGCC) opening during action potential firing (Grynkiewicz
+et al., 1985; Minta et al., 1989; Tsien, 1989; Hahn et al., 1990).
+Because calcium concentration within neurons rises from the
+nanomolartothemicromolarrangeafterfiringofasingleaction
+potential,andbecausecalciumindicatorscanbeexpressedwithin
+the entire cytosol rather than just on the cellular membrane,
+FIGURE3 | Comparisonofactionpotentialkineticsandcalciumimaging
+calcium imaging has typically provided an intrinsically higher responses.Calciumindicatorsareusedtomeasurerelativecalcium
+SNR than voltage imaging (Grienberger and Konnerth, 2012; concentration,andthisisoftenusedasaproxyforactionpotentialfiring.
+Kulkarni and Miller, 2017). As a result, calcium imaging has Actionpotentialsconsistofaninitialdepolarizationtoactionpotential
+threshold,whichopensvoltage-gatedsodiumchannels,causingrapid
+become the gold standard for fluorescence imaging of both
+depolarizationofmembranepotential.Themembranepotentialisthenrapidly
+neuronalandglialactivity.
+repolarizedbytheopeningofvoltage-gatedpotassiumchannels.Asaresult,
+Using calcium imaging as an indirect readout of action atypicalactionpotentialmayonlylastfrom2to5ms.Conversely,observed
+potential firing in a neuron requires consideration of several calciumresponseswithinthesomaticcytosolofneuronsduringaction
+factors regarding the time course of calcium signals. First, the potentialfiringmayrequireanywherefrom500to1000mstoreturnto
+baselinefluorescence(Rahmatietal.,2016).Thekineticsoftheresponseis
+kinetics of calcium concentration changes within a neuron
+determinedinpartbythecalciumbufferingoftheneuronitselfaswellasthe
+during action potential firing differ widely from the kinetics of affinityandconcentrationofthecalciumindicatorpresent(Borstand
+theactionpotentialitself.Whereasanactionpotentialoccurson Abarbanel,2007;Hiresetal.,2008).
+a millisecond time scale—with voltage rapidly depolarizing via
+sodium entry and subsequently hyperpolarizing via potassium
+exodusfromtheneuron—calciumresponsestoactionpotential isalsoacalciumbuffer,andincreasedbufferingwillsubsequently
+firingarebothmuchslowertoriseandmuchslowertoreturnto increasethedurationformoleculesofacalciumindicatortobind
+basalconcentrationafteractionpotentialfiring(Figure3;Yang toallavailablecalciumions,andreachpeakfluorescence(Borst
+and Wang, 2006; Bean, 2007). The rise in calcium is delayed andAbarbanel,2007;Hiresetal.,2008).
+becausecalciumentryistypicallythroughactivationofVGCCs, In addition to slower rise times as compared to the native
+which will only open once a threshold depolarization has been actionpotentialtheyarereportingon,calciumindicatorsarealso
+reached,andwhichhavesloweractivationkineticsthanvoltage- muchslowertodecayandreturntobasalcalciumconcentration.
+gated sodium channels (Carbone and Swandulla, 1989; Bean, Typically, the calcium response to a single action potential will
+2007). The voltage threshold for activation can vary depending decaywithinaneuronoverhundredsofmilliseconds,orperhaps
+on VGCC subtype, but typically would be near the end of the evensecondswithhigh-affinityindicators(Rahmatietal.,2016).
+rising phase of the action potential itself; as is the case for This slow decay time becomes especially problematic with
+the highly abundant L-type VGCCs, which have an activation high-frequencyfiring,whereitcanbecomeimpossibletoresolve
+thresholdaround−20to0mV(Catterall,2011;Striessnigetal., thepeaksofindividualactionpotentials(Smettersetal.,1999).
+2014). Slower rise times in intracellular calcium concentration Thecapacityofagivencalciumindicatortoaccuratelyreporton
+willalsobeobserveddependingontheaffinityandconcentration the number of action potentials fired in the sequence depends
+ofthecalciumindicator.Thisisbecauseeverycalciumindicator on a multitude of factors, including the calcium indicator’s
+FrontiersinNeuralCircuits | www.frontiersin.org 9 June2020 | Volume14 | Article31
+Hardingetal. InsightsIntoDorsalHornCircuitry
+affinityforcalcium,thenativecalciumbufferingpresentwithin Finally,asdescribedabove,theaffinityofthechosenindicator
+the neuron, and extrusion rates present within that neuronal willdeterminethekineticsofthemeasuredcalciumresponse.For
+cell type (Mank and Griesbeck, 2008; Paredes et al., 2008; Tian experimentswheresingleactionpotentialsneedtoberesolved,a
+et al., 2009; Akerboom et al., 2013; Podor et al., 2015). A final high-affinity indicator should be used, with the caveat that the
+technical consideration is the frequency of image collection. decayoftheresponsewillbelonger.However,forexperiments
+For example, if one is measuring action potentials at 100 Hz, whereatrainofactionpotentialsneedtoberesolved—especially
+the frame sampling rate must at minimum exceed 200 Hz to withahigh-frequencytrain—aloweraffinityindicatorshouldbe
+resolveindividualpeaks,aspertheNyquisttheorem.Aninability usedtoimprovethekineticsoftheresponse,andfortheindicator
+to resolve individual peaks can also be an issue even at lower tobeperformingwithinitslineardynamicrangefortheduration
+firingfrequenciesifthereisalargetrainofactionpotentials,as ofthestimulus(Pologrutoetal.,2004;Hollingworthetal.,2009).
+calciumcanbegintoaccumulatequicklywithintheintracellular
+spaceandexceedthelinearrangeofthegivencalciumindicator Advances in Spinal Cord Fluorescence
+(Hiresetal.,2008).Thus,onemustputcarefulconsiderationinto
+Imaging of Activity
+the choice of calcium indicator and pick one optimal for their
+researchparameters. CalciumImagingofSpinalCordNeuronsinvitro
+Calciumimaginghasthusfarnotbeenemployedaswidelywithin
+Choosing a Calcium Indicator thespinaldorsalhornasinthebrain,largelybecauseoftechnical
+Three main considerations determine the type of calcium limitations that have hindered its utility. This is especially true
+indicatortoemployinanexperimentalparadigm:thewavelength forinvivostudies,ofwhichonlyahandfulhavebeenconducted
+of activation, the method of delivery into the tissue, and the inthespinalcord.Oneofthefirstcalciumimagingexperiments
+affinity of the indicator. Indicators activated by blue light still used epifluorescence microscopy to show that overall basal
+havethebestsignaltonoiseratio(SNR)propertiesandshould calciumindicatorfluorescencewashigherontheipsilateralside
+beconsideredfirst(Danaetal.,2019).However,theseindicators ofatransversespinalcordslicefromananimalwiththechronic
+maynotbepossibleforcertainapplications;forexample,when constriction injury model of pathological pain, suggestive of
+combining calcium imaging with optogenetics, a red-shifted either increased resting calcium concentration or increased
+calcium indicator would be required to avoid activation of neuronal activity in the absence of external stimulation within
+ChR2 during imaging of the calcium-sensitive fluorophore. A theipsilateraldorsalhorn(KawamataandOmote,1996).Usinga
+red-shiftedcalciumindicatormayalsobepreferableforimaging similartechnique,itwasalsofoundthatthecalciumresponseto
+at depths below 100 µm, whenever two-photon imaging is not dorsalrootstimulationonthesuperficialdorsalhornipsilateral
+possible,aslongerwavelengthsarecapableofpenetratingdeeper to nerve injury was larger, indicative of increased neuronal
+intotissue(Sandersonetal.,2014). activity for the same stimulation, mirroring the hyperalgesia
+Next, one must consider the method of delivery of the presentinpathologicalpainconditions(Luoetal.,2008).
+calciumindicatorintotissue(Figure4).Transgenicmouselines Since these first studies, improvements both in calcium
+and viral injections of genetically-encoded calcium indicators indicators and in microscope technology now allow for single
+(GECIs)arebecomingincreasinglycommon,especiallywiththe neuron and single event resolution. This provides the capacity
+significant advances in the caliber of GECIs in recent years; tousecalciumimagingforthemeasurementofdiscretecalcium
+particularly the GCaMP6 line of GECIs, which have SNRs signalswithindorsalhornneurons,suchasthoseduetoaction
+similar to the best chemical calcium indicators (Chen et al., potential firing, and neuronal responses to an applied stimulus
+2013b). The new jGCaMP7 line promises even better SNR, like capsaicin (Merighi et al., 2008), or electrical stimulation
+exceeding the capability of traditional chemical indicators like (Kimetal.,2015; see Table 2 for a full list of all known
+Fura-2 or OGB-1 (Dana et al., 2019). For red-shifted GECIs, applicationsofcalciumimagingwithinthespinaldorsalhorn).
+jrGECO1a (Dana et al., 2016) or KGECO1 (Shen et al., 2018) Calcium imaging can also be used to investigate the relative
+couldbeemployed. functionofcalcium-permeableionchannels,includingcalcium-
+Forsomeapplications,chemicalcalciumindicatorsmaystill permeable AMPA receptors, NMDA receptors, and VGCCs
+be preferred. These include experiments involving animals in within the spinal dorsal horn, especially concerning the spatial
+which transgenic lines are less common or not possible, such distribution of calcium. Recent investigations have utilized
+asratsorprimates,orsituationsinwhichaviralinjectionmay calcium imaging to study how calcium enters into neurons
+not be possible. For these types of experiments, bulk loading during activity. Using a bulk-loaded calcium indicator and
+ofamembrane-permeableAMester-attachedcalciumindicator high-resolution epifluorescence imaging, Doolen et al. (2012)
+maybeemployed.Intheseexperiments,theindicatorwillload were able to measure spontaneous action potentials as calcium
+into many neurons simultaneously and remain trapped within responses in single dorsal horn neurons. They subsequently
+the neuron for hours afterward upon cleaving of the AM ester developedatechniquetousecalciumimagingtoquantifyrelative
+bynativeesterases.Oneothermethodthatmaybeemployedis glutamate receptor function by measuring glutamate-evoked
+single-cellloadingviaapatchpipette,whichisoftenpreferredfor calcium events in single superficial dorsal horn neurons from
+detailed investigation of dendritic arbor as it provides superior transverseslices.Usingthistechnique,theyfoundthatcalcium
+SNR because of reduced background (Helmchen et al., 1999; events to the same glutamate stimulus were larger on the side
+GrienbergerandKonnerth,2012). ipsilateral to nerve injury, indicative of either upregulation of
+FrontiersinNeuralCircuits | www.frontiersin.org 10 June2020 | Volume14 | Article31
+Hardingetal. InsightsIntoDorsalHornCircuitry
+FIGURE4 | Commontechniquesforloadingofcalciumindicators.Calciumindicatorscanbroadlybecategorizedintogenetically-encoded(GECIs)orchemical
+calciumindicators.GECIscanbeintroducedviatransgenicmouselinesorthroughtheinjectionofaviralvectorcontainingaGECIintothetargettissue.Chemical
+calciumindicatorscanbeintroducedinseveralways,however,themostcommonisthroughbulkloadingwithanAM-esterboundindicator,orviasingle-cellpipette
+loading.Bothofthesetechniquescanbeperformedinvitroorinvivo.
+glutamatereceptordensityoranincreaseinglutamatereceptor Lee et al., 2009; Zito et al., 2009), dendritic calcium signaling
+conductance.Later,theyfoundthatthesecalciumeventscould (Spruston et al., 1995; Gulledge et al., 2005; Larkum et al.,
+befurtherboostedinapainmodelbyblockingopioidreceptors 2009; Harnett et al., 2012), and nuclear calcium dynamics
+(Corder et al., 2013). A similar study by Skorput et al. (2018) (Eder and Bading, 2007; Bengtson and Bading, 2012) using
+found that glutamate-evoked calcium responses in superficial two-photoncalciumimaging.Insuperficialdorsalhornneurons,
+dorsalhornneuronsweresignificantlyhigheruponapplication calcium imaging has been used to observe calcium entering
+of a peptide derived from VGF nerve growth factor, indicating into the nuclei of neurons during repetitive primary afferent
+that VGF is capable of potentiating glutamatergic signaling in stimulation (Simonetti et al., 2013). Inhibiting nuclear calcium
+thespinalcord. signaling through the expression of CaMBP4, which binds
+In addition to measuring the activity of calcium-permeable calcium-bound calmodulin and thereby prevents calmodulin-
+glutamate receptors, calcium imaging has also been used to dependentdownstreamsignalingcascades,significantlyreduced
+define relative contributions of VGCC subtypes to activity- hypersensitivity in mice exposed to a Complete Freund’s
+evoked calcium responses. The first study to investigate this Adjuvant model of chronic inflammatory pain, suggesting that
+introducedthecalciumindicatorFura-2intospinalcordlamina the development of pathological pain requires calcium to enter
+I neurons via a patch pipette and measured calcium responses intothenucleustoinitiatedownstreamsignalingcascades.Thus
+withinthesomainresponsetocurrentinjection-evoked40Hz far,therehavebeennootherstudiesinvestigatingthesubcellular
+action potential firing (Ikeda et al., 2003). However, the calcium dynamics of dorsal horn spinal cord neurons, and this
+authors were not able to identify discrete intracellular action representsanopenfieldofstudy.
+potential-inducedcalciumresponsesduetothefiringfrequency Together, these studies demonstrate the utility of calcium
+and properties of Fura-2, which has a high calcium-binding imaging for more than measuring neuronal activity, but also
+affinity and reaches saturation below a calcium concentration for the visualization and measurement of calcium itself within
+of 1 µM (Paredes et al., 2008). Rather, it was observed that cells, including both neurons and glia. As demonstrated above,
+subcellularcalciumimagingcanprovideimportantinformation
+the total calcium response to the stimulation protocol was
+on calcium’s role as a critical second messenger for initiating
+larger in projection neurons, largely due to the expression
+downstream signaling cascades that lead to changes in protein
+of additional T-type VGCC channels in these neurons that
+expressionandcellularfunction.Anotheremergingopportunity
+enhanced depolarization and increased total calcium influx
+involves combining optogenetics to drive specific neuronal
+component. This finding was then expanded to determine
+populations with calcium imaging to monitor resultant cellular
+the relative contributions of various VGCCs to the somatic
+activity within the spinal cord. This combination would be
+calcium response induced by the burst of action potentials. In
+especiallyhelpfulwhenmeasuringpopulationensembleactivity
+unlabeled lamina-I neurons, of which the majority are likely
+(Ruscheweyh and Sandkuhler, 2005), or when animals are
+interneurons,themajorcontributortothiscalciumresponsewas
+freely moving and electrophysiological recordings would not
+L-typeVGCCswithsignificantT-typeandN-typecontributions
+bepossible.
+(Heinkeetal.,2004).
+Akeystrengthofcalciumimagingistheabilitytoinvestigate ChallengestoAchievingFreelyBehavinginvivo
+the spatial dynamics of calcium with subcellular resolution. CalciumImagingintheSpinalCord
+Within the brain, calcium imaging has been extensively used Effectivecalciumimagingrequiresprecisespatialandtemporal
+to investigate postsynaptic calcium entry (Harvey et al., 2008; resolution,whichcanbedifficulttoachieveinvivointhespinal
+FrontiersinNeuralCircuits | www.frontiersin.org 11 June2020 | Volume14 | Article31
+Hardingetal. InsightsIntoDorsalHornCircuitry
+TABLE1 | Summaryofallpublicationsutilizingoptogeneticsforinterrogationofspinalcordsomatosensorycircuitry.
+Opticalstimulationmethod
+Invitro Peripheral Centralstimulation Centralstimulation
+ofspinalcord ofdescending
+pathways
+Methodofopsin Transgenic • WangandZylka(2009) • Jietal.(2012) • BoninandDeKoninck • Chenetal.(2018)
+expressionintissue • Fosteretal.(2015) • Daouetal.(2013) (2014)
+• Honseketal.(2015) • BoninandDeKoninck • Montgomeryetal.(2015)
+• Hachisukaetal.(2016) (2014) • Parketal.(2015)
+• Bellarditaetal.(2017) • Draxleretal.(2014) • Boninetal.(2016)
+• Uhelskietal.(2017) • Boninetal.(2016) • Bellarditaetal.(2017)
+• Paganietal.(2019) • Christensenetal.(2016) • Luetal.(2017)
+• Smith-Edwardsetal.(2019) • Daouetal.(2016) • Saminenietal.(2017b)
+• Hachisukaetal.(2020) • Stemkowskietal.(2016) • Chenetal.(2018)
+• Beaudryetal.(2017) • Paganietal.(2019)
+• Ghitanietal.(2017) • Petitjeanetal.(2019)
+• Saminenietal.(2017a)
+• Sunetal.(2017)
+• DeBerryetal.(2018)
+• Tashimaetal.(2018)
+Viralvector • Boadaetal.(2014) • Boadaetal.(2014) • Iyeretal.(2014) • Françoisetal.(2017)
+• Yangetal.(2015) • Iyeretal.(2014) • Montgomeryetal.(2015) • Gaoetal.(2019)
+• Christensenetal.(2016) • Lietal.(2015) • Boninetal.(2016) • Huangetal.(2019)
+• Hachisukaetal.(2016) • Bariketal.(2018) • Christensenetal.(2016)
+• Mayeretal.(2019) • Nametal.(2016)
+• Françoisetal.(2017)
+• Muetal.(2017)
+• Chenetal.(2018)
+• Mondelloetal.(2018)
+• Wangetal.(2018)
+Thistablecombinesallexamplesofoptogeneticinterrogationinthedorsalhornonthespinalcord,groupedbythesiteofstimulationandbythemethodofopsindelivery.
+cord, and considerably more difficult to achieve in a freely thesetechniquestothespinalcordhasbeenmetwithmiddling
+movinganimal.Severalattemptstoachievethisgoalhaveutilized success,partiallybecauseitissignificantlymoredifficulttofixthe
+miniscope or endoscope systems (Johannssen and Helmchen, spinalcordinplaceforimaging,withbreathingandmovement
+2010; Sekiguchi et al., 2016). These types of systems allow for producing significant imaging artifacts that are difficult to
+freemovementinthemouse,restrictedonlybyacableleading compensate for while allowing for enough spinal flexibility for
+toacomputer,andtheconnectedminiscopeorendoscopeitself, freemovement.
+which often weighs only a few grams (Yang and Yuste, 2017; This fine yet necessary balance of movement and fixation
+Zhangetal.,2018b).However,thistypeofsystemsuffersfrom that must be achieved for in vivo two-photon calcium imaging
+lackoftissuepenetrationanddecreasedresolutionascompared representssuchanobstaclethatonlyoneresearchgrouphasthus
+to imaging under a two-photon microscope. This resolution is farsuccessfullyachievedthis,byplacingamousemountedona
+likely not sufficient for the monitoring of subcellular events, spherical treadmill under a two-photon microscope (Sekiguchi
+and in the case of endoscope systems, is often insufficient to et al., 2016). For this study, the authors tested several methods
+differentiate and record from individual neurons. Additionally, of headand vertebralrestraint tooptimize imaging conditions,
+as described earlier, light scattering in the spinal cord due finding that a dual head and vertebral restraint provided a
+to myelination can prevent epifluorescent and single-photon maximum reduction in motion artifacts while maintaining
+imaging from detecting fluorescent cell bodies deeper than locomotor activity, and demonstrating the feasibility of
+the outer part of lamina II (Sekiguchi et al., 2016), making thetechnique.
+two-photonimaginganecessityforinvestigatingdeeperlaminae. The authors then performed two-photon imaging of axonal
+Two-photon microscopy also benefits from superior spatial arbor, as well as calcium imaging of astrocytic processes,
+resolution, reduced phototoxicity, and can be used to achieve and importantly found that pinch-evoked astrocytic calcium
+subcellularresolutionofcalciumdynamics(Danaetal.,2019). responses were depressed under anesthesia (Sekiguchi et al.,
+Unfortunately, with greater spatial resolution comes the 2016). This finding provides crucial evidence that within
+need for stability in the imaging field. Therefore, with current the spinal cord, there is a necessity for further refining
+technology, almost all in vivo two-photon calcium imaging in techniquestoallowfortwo-photonimagingthatdoesnotrequire
+the brain has been performed on head-fixed animals (Chen anesthesia. The potential impact of anesthesia is of special
+et al., 2013a; Leinweber et al., 2014; Yang and Yuste, 2017; but interest in the context of another recent study that expressed
+see Helmchen et al., 2013 and Zong et al., 2017). Translating GCaMP6minspinalcordastrocytesusingaviralvectorinjection
+FrontiersinNeuralCircuits | www.frontiersin.org 12 June2020 | Volume14 | Article31
+Hardingetal. InsightsIntoDorsalHornCircuitry
+TABLE2 | Summaryofallpublicationsutilizingcalciumimagingforinterrogationofspinalcordsomatosensorycircuitry.
+Imagingmethod
+Epifluorescence 1-photon 2-photon
+Methodofdelivery Transgenic • Bellarditaetal.(2017) • Sunetal.(2017) • Tangetal.(2015)∗
+ofthe • Zhangetal.(2018a)∗
+calcium-sensitive • Olivares-Morenoetal.(2019)
+indicator
+ViralVector • Simonettietal.(2013) • Nishidaetal.,2014* • Yoshiharaetal.(2018)*
+• Areshetal.(2017) • Sekiguchietal.,2016* • Sekiguchietal.(2016)*
+• Freitagetal.(2019) • Chenetal.(2018)*
+BulkLoading • Kyrozisetal.(1995) • Gustafson-Vickersetal.(2008) • Wilsonetal.(2007)
+• KawamataandOmote(1996) • Merighietal.(2008) • JohannssenandHelmchen(2010)*
+• Coulletal.(2003) • Bardonietal.(2010) • Laffrayetal.(2011)
+• Tsuzukietal.(2004) • Luetal.(2018) • Cirilloetal.(2012)*
+• Cordero-Erausquinetal.(2005) • Cirilloetal.(2015)*
+• Coulletal.(2005) • Ranetal.(2016)*
+• RuscheweyhandSandkuhler(2005) • Skorputetal.(2018)
+• Shutovetal.(2006)
+• Luoetal.(2008)
+• Schoffneggeretal.(2008)
+• Miyanoetal.(2010)
+• Flynnetal.(2011)
+• Doolenetal.(2012)
+• Corderetal.(2013)
+• Petitjeanetal.(2014)
+• Babaetal.(2016)
+• Gaoetal.(2016)
+• Doolenetal.(2017)
+• Potteretal.(2018)
+• Skorputetal.(2018)
+• Tayloretal.(2019)
+SingleCellPipette • Isaevetal.(2000) • Drdlaetal.(2009)* • Ikedaetal.(2006)*
+Loading • Ikedaetal.(2003) • Drdlaetal.(2009)
+• Heinkeetal.(2004)
+• Kopachetal.(2011)
+• Yanetal.(2014)
+• Kimetal.(2015)
+• Yanetal.(2019)
+Thistableamalgamatesallexamplesofcalciumimaginginthespinaldorsalhorn,withreferencesgroupedbyimagingtechniqueandbythemethodofdeliveryofthecalcium-sensitive
+indicator.*Besideacitationindicatesthatsomeoralloftheexperimentswereperformedinvivo.
+and performed in vivo two-photon calcium imaging under However, due to the many difficulties outlined above, the
+anesthesia. Here, the authors found no astrocytic calcium majority of in vivo two-photon imaging experiments in the
+responses to pinch or brush in naive animals but surprisingly spinal cord have thus far been performed under anesthesia
+found astrocytic calcium responses to these innocuous stimuli (Ikeda et al., 2006; Davalos et al., 2008; Drdla et al., 2009;
+after animals received a formalin injection (Yoshihara et al., Laffray et al., 2011; Cirillo et al., 2012; Farrar et al., 2012;
+2018).Itistherefore,possiblethatthesefindingscouldbeeven Fenrichetal.,2013;Nishidaetal.,2014;Cirilloetal.,2015;Ran
+morepronouncedinawakeanimals. et al., 2016; Chen et al., 2018; Wang et al., 2018). Several early
+Additionally, through the implantation of a spinal imaging studiesfocusedontechniquedevelopmenttodeterminethebest
+chamber attached to a miniscope, it has been found that approaches for exposing spinal cord tissue to the microscope
+anesthesia decreases spontaneous calcium events in superficial and for limiting breathing artifacts. One of the first such
+dorsal horn neurons from 0.52 Hz to 0.08 Hz, representing a studiesexpressedfluorescentmoleculesintheaxons,microglia,
+marked depression in circuit activity (Sekiguchi et al., 2016). and blood vessels of mouse spinal cord to monitor structural
+This calcium event rate measured using calcium imaging is changes over time, and developed a spinal stabilization device
+remarkably close to the average action potential firing rate that provided a high degree of stability for imaging (Davalos
+measured using in vivo extracellular single-unit recordings of et al., 2008). This method was utilized to perform the first
+superficialdorsalhornneuronsunderanesthesia(0.05Hz;Keller two-photoninvivocalciumimagingwithinthesuperficialdorsal
+etal.,2007),andprovidesfurthersupportthatasystemofactivity horn in which OGB-1 AM was injected into the dorsal horn
+measurementnotrequiringanesthesiarepresentsafundamental and bulk loaded into superficial dorsal horn cells (Johannssen
+advance for decoding and understanding the circuitry of the and Helmchen, 2010). In this study, the authors found many
+spinalcord. cells to have spontaneous calcium responses, as well as evoked
+FrontiersinNeuralCircuits | www.frontiersin.org 13 June2020 | Volume14 | Article31
+Hardingetal. InsightsIntoDorsalHornCircuitry
+calciumresponsestoelectricalandmechanicalstimulationofthe encoding. In the future, it is hopeful that these types of study
+hindpaw. will also be performed within the spinal cord, and without the
+In vivo two-photon calcium imaging has also been used to necessityforanesthesia.
+monitorlong-termpotentiation(LTP)insuperficialdorsalhorn Insummary,fluorescenceimagingisapowerfultoolforthe
+neurons,usingcalciumresponsesasaproxyforneuronalactivity. monitoring ofcellular activity.Although severalconsiderations
+Interestingly, the authors found that calcium responses were must be taken into account to most effectively employ this
+slowertoriseandfallinPAG-projectingspinalcordneurons,as technology,imagingremainsanidealwaytomonitortheactivity
+opposedtoPBN-projectingneurons,andthatthisslower,longer of hundreds of neurons or glial cells simultaneously at the
+calciumresponsewascorrelatedwithagreaterdegreeofLTPin overall network level or in genetically defined subpopulations,
+thatneuron(Ikedaetal.,2006). providing invaluable information about neuronal circuitry
+Unfortunately, all of these studies required a head-support, and function. Calcium imaging can effectively be adapted
+spinalcolumn,andtail-clamping,aswellasdeepanesthesia.Asa for a wide variety of paradigms, owing to the multitude of
+result,theseimagingsessionswereterminalandprecludedlong ways that calcium indicators can be introduced into cells,
+termimagingofcellularchangesaccompanyingchronificationof and the many experimental paradigms in which it can be
+hyperalgesia.Newertechniqueshavebeendevelopedinwhicha employed; ranging from single-cell patch pipette loading to
+glasschronicspinalimagingwindowisimplanted,whichallows two-photon in vivo imaging of genetically-encoded calcium
+for chronic imaging at multiple time points over the course of indicators. While there are fewer examples of imaging with
+months(Farraretal.,2012;Fenrichetal.,2013;Chenetal.,2018). voltage-sensitive indicators, likely owing to the relatively new
+Anaddedbenefitofachronicspinalimagingwindowisthatafter development of indicators with sufficient SNR for use in
+implantation,andatlatertimepoints,theinflammatoryresponse tissue, advances in imaging technology and novel voltage
+is minimal, giving better insight into the native function of the indicatordevelopmenthavepavedthewayforwideruseofthis
+spinalcord(Fenrichetal.,2013). imagingmodality.
+Three recent studies have investigated in vivo dorsal horn
+neuroncalciumresponsestoseveraldifferentmodalitiesofhind SUMMARY AND OUTLOOK
+paw stimuli, including pinch, brush, cold, and heat (Nishida
+et al., 2014; Ran et al., 2016; Chen et al., 2018). These studies Optical approaches allow for less invasive and highly selective
+havefoundsignificantoverlapinthemodalitiesthatcanactivate manipulation and measurement of cellular activity. Given
+individual neurons, as well as grading in both the percentage the complexity of the circuitry involved in the processing
+of neurons active and the amplitude of the ultimate measured of somatosensory information, these tools promise to aid in
+calciumresponse.Notably,onestudyfoundthatstimulatingthe unraveling how somatosensory information is encoded and
+anteriorcingulatecortexresultedinpotentiationofthecalcium integrated within the spinal cord, and how these processes
+responseinover50%ofpinch-respondingneuronsinthedorsal changeinconditionssuchaspathologicalpain.
+horn, indicating rapid descending modulation of spinal cord Optogenetic tools such as ChR2 and ArchT have been
+neuronexcitability(Chenetal.,2018).Theseinitialresultswillbe effectively utilized to rapidly and non-invasively activate and
+incrediblyinterestingtoinvestigatefurtherthroughcombination inactivatespecificneuronalpopulations,respectively.Molecular
+withoptogeneticstimulation,orwiththelabelingofgenetically genetic approaches have allowed for directed, tissue-specific
+distinct neuronal populations, to begin to delineate which opsinexpressionwiththecre-loxsystem,andsurgicaladvances
+spinal cord cell types contribute to the processing of different havepavedthewayforprecise,stereotaxicinjectionsforvirally-
+sensorymodalities. mediated transduction. The ability to transgenically or virally
+Although not strictly within the spinal cord, two introduce both excitatory and inhibitory opsins to the same
+complementary studies to the ones above were recently population of neurons has opened new possibilities to study
+performed for primary afferent neuron cell bodies within the the role of discrete spinal cord neuronal populations with
+dorsalrootganglia(DRG),measuringinvivocalciumresponses remarkable resolution. Using these techniques, optogenetics
+in DRG cell bodies to various stimuli (Chisholm et al., 2018; has been used in a multitude of studies, from defining the
+Wangetal.,2018).Inthesestudies,GCaMP6wasintroducedinto contributions of various distinct primary afferent fibers in
+DRGcellbodiesthroughinjectionoftheAAV9orAAV8viral somatosensationtosingle-neuroninterrogationofspinaldorsal
+vectors, respectively, under a general CAG promoter. Various horncircuitry.
+thermalandmechanicalstimuliwerepresentedtothehindpaw As the gold standard for fluorescence imaging of cellular
+while the mice were under anesthesia and spinal restraint. By activity,calciumimagingprovidesthecapacitytodetectdiscrete
+studyingtheresponsesofalargepopulationofcellstomultiple events within single cells, while simultaneously recording from
+stimuli, both studies concluded that many primary afferent ensembles of neurons in the spinal cord. This is especially
+neurons were polymodal, responding both to thermal and powerfulwhenutilizinggenetically-encodedcalciumindicators
+noxiousmechanicalstimulation.Wangetal.additionallyfound thatcanbedriventomolecularlydistinctpopulationsofneurons
+that heat and cold are differentially encoded by DRG activity, orglia,andcanbeusedtoanswermanyoutstandingquestions
+suchthatincreasingheatproducedagradedresponseinasubset in the field, including the possibility of neuronal synchrony,
+of heat-sensitive neurons, while increasingly cold temperatures andhowactivityinpopulationsofspinalcordneuronsandglia
+activate distinct subsets of cells to reveal a population level determinefreelymovingbehaviorsinreal-time.
+FrontiersinNeuralCircuits | www.frontiersin.org 14 June2020 | Volume14 | Article31
+Hardingetal. InsightsIntoDorsalHornCircuitry
+Given the high diversity of calcium indicators, we have the combination of ChR2 with jrGECO1a or Chrimson with
+presented three major considerations in choosing a calcium GCaMP7, experimenters will be able to activate or silence
+indicator: the desired activation wavelength, tissue delivery one population of cells at one wavelength and measure the
+technique,andindicatoraffinity.Byconsideringthesevariables, changes in the activity of another population, all in vivo,
+calciumimagingexperimentscanbeutilizedoptimallywithinthe allowingforsimultaneousreadoutofbehavior(Rickgaueretal.,
+spinal cord. Technological advances in both calcium indicators 2014; Packer et al., 2015; Stamatakis et al., 2018; Zhang et al.,
+and microscopy now allow for single-cell, and subcellular 2018c). Together, these tools provide the future possibility for
+resolution with an in vivo approach, but major challenges closed-loop interrogation of spinal cord circuitry and function
+concerning microscope stability and anesthetic conditions in vivo, to understand how somatosensory information is
+remain.Nonetheless,theutilityofcalciumimagingasameasure processedinthisincrediblycomplexnetwork.
+of cellular activity, and the relative degree of non-invasiveness
+comparedtoelectrophysiology,makesthistechniqueinvaluable
+AUTHOR CONTRIBUTIONS
+forelucidatingspinalcordcircuitryfunctionatbothsingle-cell
+andnetwork-levelresolution.
+Allauthorsplannedthestructureofthemanuscript.Allauthors
+The determination of brain circuitry in behavior is
+wroteandeditedthemanuscript.
+moving towards all-optical interrogation, which combines the
+comprehensive readout of cellular activity via calcium imaging
+with the spatial and temporal precision of neuronal activation FUNDING
+viaoptogenetics.Whilethetechnicaldifficultiesaresubstantial,
+and especially so within the spinal cord, this approach could This work was supported by a Brain and Behavior Foundation
+provide the opportunity to define somatosensory circuitry NARSAD Young Investigator Grant and a Natural Sciences
+with unprecedented detail. Through combining expression and Engineering Research Council of Canada (NSERC) grant
+of blue-shifted and red-shifted indicators and opsins, such as (RGPIN-2016-05538)toRB.
+REFERENCES
+of dorsal horn neurons under normal or neuropathic pain conditions: an
+intracellularcalcium-imagingstudyinspinalcordslicesfromadultrats.Brain
+Abdelfattah,A.S.,Kawashima,T.,Singh,A.,Novak,O.,Liu,H.,Shuai,Y.,etal. Res.1648,445–458.doi:10.1016/j.brainres.2016.08.018
+(2019).Brightandphotostablechemigeneticindicatorsforextendedinvivo Bando, Y., Sakamoto, M., Kim, S., Ayzenshtat, I., and Yuste, R. (2019).
+voltageimaging.Science365,699–704.doi:10.1126/science.aav6416 Comparativeevaluationofgeneticallyencodedvoltageindicators.CellRep.26,
+Abraira, V. E., Kuehn, E. D., Chirila, A. M., Springel, M. W., Toliver, A. A., 802.e4–813.e4.doi:10.1016/j.celrep.2018.12.088
+Zimmerman, A. L., et al. (2017). The cellular and synaptic architecture of Banghart,M.,Borges,K.,Isacoff,E.,Trauner,D.,andKramer,R.H.(2004).Light-
+themechanosensorydorsalhorn.Cell168,295.e19–310.e19.doi:10.1016/j.cell. activatedionchannelsforremotecontrolofneuronalfiring.Nat.Neurosci.7,
+2016.12.010 1381–1386.doi:10.1038/nn1356
+Adamantidis, A. R., Zhang, F., Aravanis, A. M., Deisseroth, K., and de Bardoni, R., Ghirri, A., Zonta, M., Betelli, C., Vitale, G., Ruggieri, V.,
+Lecea, L. (2007). Neural substrates of awakening probed with optogenetic et al. (2010). Glutamate-mediated astrocyte-to-neuron signalling in the
+control of hypocretin neurons. Nature 450, 420–424. doi: 10.1038/nature rat dorsal horn. J. Physiol. 588, 831–846. doi: 10.1113/jphysiol.2009.
+06310 180570
+Agarwal,N.,Offermanns,S.,andKuner,R.(2004).Conditionalgenedeletion Barik,A.,Thompson,J.H.,Seltzer,M.,Ghitani,N.,andChesler,A.T.(2018).
+inprimarynociceptiveneuronsoftrigeminalgangliaanddorsalrootganglia. A brainstem-spinal circuit controlling nocifensive behavior. Neuron 100,
+Genesis38,122–129.doi:10.1002/gene.20010 1491.e3–1503.e3.doi:10.1016/j.neuron.2018.10.037
+Akerboom,J.,CarrerasCalderon,N.,Tian,L.,Wabnig,S.,Prigge,M.,Tolo,J., Basbaum, A., Bautista, D., Scherrer, G., and Julius, D. (2009). Cellular and
+etal.(2013).Geneticallyencodedcalciumindicatorsformulti-colorneural molecular mechanisms of pain. Cell 139, 267–284. doi: 10.1016/j.cell.2009.
+activityimagingandcombinationwithoptogenetics.Front.Mol.Neurosci.6:2. 09.028
+doi:10.3389/fnmol.2013.00002 Bean,B.P.(2007).Theactionpotentialinmammaliancentralneurons.Nat.Rev.
+Aravanis, A. M., Wang, L. P., Zhang, F., Meltzer, L. A., Mogri, M. Z., Neurosci.8,451–465.doi:10.1038/nrn2148
+Schneider, M. B., et al. (2007). An optical neural interface: in vivo Beaudry,H.,Daou,I.,Ase,A.R.,Ribeiro-da-Silva,A.,andSéguéla,P.(2017).
+control of rodent motor cortex with integrated fiberoptic and optogenetic Distinctbehavioralresponsesevokedbyselectiveoptogeneticstimulationof
+technology. J. Neural Eng. 4, S143–S156. doi: 10.1088/1741-2560/4/ the major TRPV1+ and MrgD+ subsets of C-fibers. Pain 158, 2329–2339.
+3/s02 doi:10.1097/j.pain.0000000000001016
+Arcourt,A.,Gorham,L.,Dhandapani,R.,Prato,V.,Taberner,F.J.,Wende,H., Bellardita,C.,Caggiano,V.,Leiras,R.,Caldeira,V.,Fuchs,A.,Bouvier,J.,etal.
+etal.(2017).Touchreceptor-derivedsensoryinformationalleviatesacutepain (2017). Spatiotemporal correlation of spinal network dynamics underlying
+signalingandfine-tunesnociceptivereflexcoordination.Neuron93,179–193. spasms in chronic spinalized mice. Elife 6:e23011. doi: 10.7554/eLife.
+doi:10.1016/j.neuron.2016.11.027 23011
+Aresh,B.,Freitag,F.B.,Perry,S.,Blümel,E.,Lau,J.,Franck,M.C.M.,etal. Bengtson,C.P.,andBading,H.(2012).Nuclearcalciumsignaling.Adv.Exp.Med.
+(2017). Spinal cord interneurons expressing the gastrin-releasing peptide Biol.970,377–405.doi:10.1007/978-3-7091-0932-8_17
+receptorconveyitchthroughvglut2-mediatedsignaling.Pain158,945–961. Boada, M. D., Martin, T. J., Peters, C. M., Hayashida, K., Harris, M. H.,
+doi:10.1097/j.pain.0000000000000861 Houle,T.T.,etal.(2014).Fast-conductingmechanoreceptorscontributeto
+Arosio,D.,andRatto,G.M.(2014).Twentyyearsoffluorescenceimagingof withdrawalbehaviorinnormalandnerveinjuredrats.Pain155,2646–2655.
+intracellular chloride. Front. Cell. Neurosci. 8:258. doi: 10.3389/fncel.2014. doi:10.1016/j.pain.2014.09.030
+00258 Bonin, R. P., and De Koninck, Y. (2014). A spinal analog of memory
+Baba, H., Petrenko, A. B., and Fujiwara, N. (2016). Clinically relevant reconsolidationenablesreversalofhyperalgesia.Nat.Neurosci.17,1043–1045.
+concentration of pregabalin has no acute inhibitory effect on excitation doi:10.1038/nn.3758
+FrontiersinNeuralCircuits | www.frontiersin.org 15 June2020 | Volume14 | Article31
+Hardingetal. InsightsIntoDorsalHornCircuitry
+Bonin,R.P.,Wang,F.,Desrochers-Couture,M.,GaSecka,A.,Boulanger,M.E., potentialinspinallaminaineurons:impactofchlorideextrusioncapacity.
+Cote,D.C.,etal.(2016).Epiduraloptogeneticsforcontrolledanalgesia.Mol. J.Neurosci.25,9613–9623.doi:10.1523/jneurosci.1488-05.2005
+Pain12:1744806916629051.doi:10.1177/1744806916629051 Coull,J.,Beggs,S.,Boudreau,D.,Boivin,D.,Tsuda,M.,Inoue,K.,etal.(2005).
+Borst,A.,andAbarbanel,H.D.(2007).Relatingacalciumindicatorsignaltothe Bdnffrommicrogliacausestheshiftinneuronalaniongradientunderlying
+unperturbedcalciumconcentrationtime-course.Theor.Biol.Med.Model.4:7. neuropathicpain.Nature438,1017–1021.doi:10.1038/nature04223
+doi:10.1186/1742-4682-4-7 Coull, J., Boudreau, D., Bachand, K., Prescott, S., Nault, F., Sik, A.,
+Bourane,S.,Duan,B.,Koch,S.C.,Dalet,A.,Britz,O.,Garcia-Campmany,L., et al. (2003). Trans-synaptic shift in anion gradient in spinal lamina
+etal.(2015).Gatecontrolofmechanicalitchbyasubpopulationofspinalcord I neurons as a mechanism of neuropathic pain. Nature 424, 938–942.
+interneurons.Science350,550–554.doi:10.1126/science.aac8653 doi:10.1038/nature01868
+Boyden, E. S., Zhang, F., Bamberg, E., Nagel, G., and Deisseroth, K. (2005). Cristino, L., de Petrocellis, L., Pryce, G., Baker, D., Guglielmotti, V., and Di
+Millisecond-timescale,geneticallytargetedopticalcontrolofneuralactivity. Marzo, V. (2006). Immunohistochemical localization of cannabinoid type
+Nat.Neurosci.8,1263–1268.doi:10.1038/nn1525 1andvanilloidtransientreceptorpotentialvanilloidtype1receptorsinthe
+Boyle, K. A., Gutierrez-Mecinas, M., Polgár, E., Mooney, N., O’Connor, E., mousebrain.Neuroscience139,1405–1415.doi:10.1016/j.neuroscience.2006.
+Furuta, T., et al. (2017). A quantitative study of neurochemically defined 02.074
+populationsofinhibitoryinterneuronsinthesuperficialdorsalhornofthe Dana,H.,Mohar, B.,Sun,Y.,Narayan,S., Gordus,A.,Hasseman,J.P., etal.
+mouse spinal cord. Neuroscience 363, 120–133. doi: 10.1016/j.neuroscience. (2016).Sensitiveredproteincalciumindicatorsforimagingneuralactivity.
+2017.08.044 Elife5:e12727.doi:10.7554/eLife.12727
+Bradley,J.,Luo,R.,Otis,T.S.,andDiGregorio,D.A.(2009).Submillisecond Dana, H., Sun, Y., Mohar, B., Hulse, B. K., Kerlin, A. M., Hasseman, J. P.,
+opticalreportingofmembranepotentialinsituusinganeuronaltracerdye. et al. (2019). High-performance calcium sensors for imaging activity in
+J.Neurosci.29,9197–9209.doi:10.1523/jneurosci.1240-09.2009 neuronal populations and microcompartments. Nat. Methods 16, 649–657.
+Carbone, E., and Swandulla, D. (1989). Neuronal calcium channels: doi:10.1038/s41592-019-0435-6
+kinetics, blockade and modulation. Prog. Biophys. Mol. Biol. 54, 31–58. Daou, I., Beaudry, H., Ase, A. R., Wieskopf, J. S., Ribeiro-da-Silva, A.,
+doi:10.1016/0079-6107(89)90008-4 Mogil,J.S.,etal.(2016).Optogeneticsilencingofnav1.8-positiveafferents
+Cardin,J.A.,Carlen,M.,Meletis,K.,Knoblich,U.,Zhang,F.,Deisseroth,K.,etal. alleviates inflammatory and neuropathic pain. eNeuro 3:ENEURO.0140-
+(2009).Drivingfast-spikingcellsinducesgammarhythmandcontrolssensory 15.2016.doi:10.1523/eneuro.0140-15.2016
+responses.Nature459,663–667.doi:10.1038/nature08002 Daou,I.,Tuttle,A.H.,Longo,G.,Wieskopf,J.S.,Bonin,R.P.,Ase,A.R.,etal.
+Catterall,W.(2011).Voltage-gatedcalciumchannels.ColdSpringHarb.Perspect. (2013).Remoteoptogeneticactivationandsensitizationofpainpathwaysin
+Biol.3:a003947.doi:10.1101/cshperspect.a003947 freelymovingmice.J.Neurosci.33,18631–18640.doi:10.1523/JNEUROSCI.
+Chanda,B.,Blunck,R.,Faria,L.C.,Schweizer,F.E.,Mody,I.,andBezanilla,F. 2424-13.2013
+(2005). A hybrid approach to measuring electrical activity in genetically Davalos,D.,Lee,J.K.,Smith,W.B.,Brinkman,B.,Ellisman,M.H.,Zheng,B.,etal.
+specifiedneurons.Nat.Neurosci.8,1619–1626.doi:10.1038/nn1558 (2008).Stableinvivoimagingofdenselypopulatedglia,axonsandbloodvessels
+Chen, J. L., Andermann, M. L., Keck, T., Xu, N. L., and Ziv, Y. (2013a). inthemousespinalcordusingtwo-photonmicroscopy.J.Neurosci.Methods
+Imagingneuronalpopulationsinbehavingrodents:paradigmsforstudying 169,1–7.doi:10.1016/j.jneumeth.2007.11.011
+neuralcircuitsunderlyingbehaviorinthemammaliancortex.J.Neurosci.33, DeBerry, J. J., Samineni, V. K., Copits, B. A., Sullivan, C. J., Vogt, S. K.,
+17631–17640.doi:10.1523/jneurosci.3255-13.2013 Albers,K.M.,etal.(2018).Differentialregulationofbladderpainandvoiding
+Chen,T.,Taniguchi,W.,Chen,Q.Y.,Tozaki-Saitoh,H.,Song,Q.,Liu,R.H., function by sensory afferent populations revealed by selective optogenetic
+et al. (2018). Top-down descending facilitation of spinal sensory excitatory activation.Front.Integr.Neurosci.12:5.doi:10.3389/fnint.2018.00005
+transmission from the anterior cingulate cortex. Nat. Commun. 9:1886. DePaoli, D., Gasecka, A., Bahdine, M., Deschenes, J. M., Goetz, L., Perez-
+doi:10.1038/s41467-018-04309-2 Sanchez,J.,etal.(2020).Anisotropiclightscatteringfrommyelinatedaxons
+Chen,T.,Wardill,T.,Sun,Y.,Pulver,S.,Renninger,S.,Baohan,A.,etal.(2013b). inthespinalcord.Neurophotonics7:015011.doi:10.1117/1.nph.7.1.015011
+Ultrasensitivefluorescentproteinsforimagingneuronalactivity.Nature498, Dickie, A. C., Bell, A. M., Iwagaki, N., Polgár, E., Gutierrez-Mecinas, M.,
+295–300.doi:10.1038/nature12354 Kelly,R.,etal.(2019).Morphologicalandfunctionalpropertiesdistinguishthe
+Cheng, L., Duan, B., Huang, T., Zhang, Y., Chen, Y., Britz, O., et al. (2017). substance,P.andgastrin-releasingpeptidesubsetsofexcitatoryinterneuron
+Identificationofspinalcircuitsinvolvedintouch-evokeddynamicmechanical in the spinal cord dorsal horn. Pain 160, 442–462. doi: 10.1097/j.pain.
+pain.Nat.Neurosci.20,804–814.doi:10.1038/nn.4549 0000000000001406
+Chisholm,K.I.,Khovanov,N.,Lopes,D.M.,LaRussa,F.,andMcMahon,S.B. D’Mello,R.,andDickenson,A.H.(2008).Spinalcordmechanismsofpain.Br.
+(2018).Largescaleinvivorecordingofsensoryneuronactivitywithgcamp6. J.Anaesth.101,8–16.doi:10.1093/bja/aen088
+eNeuro5:ENEURO.0417-17.2018.doi:10.1523/eneuro.0417-17.2018 Doolen,S.,Blake,C.B.,Smith,B.N.,andTaylor,B.K.(2012).Peripheralnerve
+Christensen,A.J.,Iyer,S.M.,Francois,A.,Vyas,S.,Ramakrishnan,C.,Vesuna,S., injuryincreasesglutamate-evokedcalciummobilizationinadultspinalcord
+etal.(2016).Invivointerrogationofspinalmechanosensorycircuits.CellRep. neurons.Mol.Pain8:56.doi:10.1186/1744-8069-8-56
+17,1699–1710.doi:10.1016/j.celrep.2016.10.010 Doolen,S.,Cook,J.,Riedl,M.,Kitto,K.,Kohsaka,S.,Honda,C.N.,etal.(2017).
+Chuong, A. S., Miri, M. L., Busskamp, V., Matthews, G. A., Acker, L. C., Complement 3a receptor in dorsal horn microglia mediates pronociceptive
+Sorensen, A. T., et al. (2014). Noninvasive optical inhibition with a neuropeptidesignaling.Glia65,1976–1989.doi:10.1002/glia.23208
+red-shiftedmicrobialrhodopsin.Nat.Neurosci.17,1123–1129.doi:10.1038/ Draxler, P., Honsek, S. D., Forsthuber, L., Hadschieff, V., and Sandkuhler, J.
+nn.3752 (2014).Vglut3+primaryafferentsplaydistinctrolesinmechanicalandcold
+Cirillo, G., Colangelo, A. M., Berbenni, M., Ippolito, V. M., De Luca, C., hypersensitivity depending on pain etiology. J. Neurosci. 34, 12015–12028.
+Verdesca, F., et al. (2015). Purinergic modulation of spinal neuroglial doi:10.1523/jneurosci.2157-14.2014
+maladaptiveplasticityfollowingperipheralnerveinjury.Mol.Neurobiol.52, Drdla, R., Gassner, M., Gingl, E., and Sandkühler, J. (2009). Induction of
+1440–1457.doi:10.1007/s12035-014-8943-y synapticlong-termpotentiationafteropioidwithdrawal.Science325,207–210.
+Cirillo, G., De Luca, D., and Papa, M. (2012). Calcium imaging of living doi:10.1126/science.1171759
+astrocytesinthemousespinalcordfollowingsensorystimulation.NeuralPlast. Duan,B.,Cheng,L.,Bourane,S.,Britz,O.,Padilla,C.,Garcia-Campmany,L.,
+2012:425818.doi:10.1155/2012/425818 etal.(2014).Identificationofspinalcircuitstransmittingandgatingmechanical
+Corder, G., Doolen, S., Donahue, R. R., Winter, M. K., Jutras, B. L., pain.Cell159,1417–1432.doi:10.1016/j.cell.2014.11.003
+He, Y., et al. (2013). Constitutive mu-opioid receptor activity leads to Dubner,R.,andRen,K.(1999).Endogenousmechanismsofsensorymodulation.
+long-term endogenous analgesia and dependence. Science 341, 1394–1399. Pain6,S45–S53.doi:10.1016/s0304-3959(99)00137-2
+doi:10.1126/science.1239403 Eder, A., and Bading, H. (2007). Calcium signals can freely cross the nuclear
+Cordero-Erausquin, M., Coull, J. A., Boudreau, D., Rolland, M., and De envelopeinhippocampalneurons:somaticcalciumincreasesgeneratenuclear
+Koninck,Y.(2005).Differentialmaturationofgabaactionandanionreversal calciumtransients.BMCNeurosci.8:57.doi:10.1186/1471-2202-8-57
+FrontiersinNeuralCircuits | www.frontiersin.org 16 June2020 | Volume14 | Article31
+Hardingetal. InsightsIntoDorsalHornCircuitry
+Farrar,M.J.,Bernstein,I.M.,Schlafer,D.H.,Cleland,T.A.,Fetcho,J.R.,and andpruriticstimuli.Neuroscience416,281–293.doi:10.1016/j.neuroscience.
+Schaffer,C.B.(2012).Chronicinvivoimaginginthemousespinalcordusing 2019.08.013
+animplantedchamber.Nat.Methods9,297–302.doi:10.1038/nmeth.1856 Gutierrez-Mecinas, M., Furuta, T., Watanabe, M., and Todd, A. J. (2016).
+Fenno,L.,Yizhar,O.,andDeisseroth,K.(2011).Thedevelopmentandapplication A quantitative study of neurochemically defined excitatory interneuron
+of optogenetics. Annu. Rev. Neurosci. 34, 389–412. doi: 10.1146/annurev- populations in laminae i-iii of the mouse spinal cord. Mol. Pain
+neuro-061010-113817 12:1744806916629065.doi:10.1177/1744806916629065
+Fenrich,K.K.,Weber,P.,Rougon,G.,andDebarbieux,F.(2013).Implanting Hachisuka, J., Baumbauer, K. M., Omori, Y., Snyder, L. M., Koerber, H. R.,
+glass spinal cord windows in adult mice with experimental autoimmune and Ross, S. E. (2016). Semi-intact ex vivo approach to investigate spinal
+encephalomyelitis.J.Vis.Exp.82:e50826.doi:10.3791/50826 somatosensorycircuits.Elife5:e22866.doi:10.7554/eLife.22866
+Flynn,J.R.,Brichta,A.M.,Galea,M.P.,Callister,R.J.,andGraham,B.A.(2011). Hachisuka,J.,Koerber,H.R.,andRoss,S.E.(2020).Selective-coldoutputthrough
+Ahorizontalslicepreparationforexaminingthefunctionalconnectivityof adistinctsubsetoflaminaispinoparabrachialneurons.Pain161,185–194.
+dorsalcolumnfibresinmousespinalcord.J.Neurosci.Methods200,113–120. doi:10.1097/j.pain.0000000000001710
+doi:10.1016/j.jneumeth.2011.06.017 Hahn, K. M., Waggoner, A. S., and Taylor, D. L. (1990). A calcium-sensitive
+Foster,E.,Wildner,H.,Tudeau,L.,Haueter,S.,Ralvenius,W.T.,Jegen,M.,etal. fluorescent analog of calmodulin based on a novel calmodulin-binding
+(2015).Targetedablation,silencing,andactivationestablishglycinergicdorsal fluorophore.J.Biol.Chem.265,20335–20345.
+hornneuronsaskeycomponentsofaspinalgateforpainanditch.Neuron85, Han, X., Chow, B. Y., Zhou, H., Klapoetke, N. C., Chuong, A., Rajimehr, R.,
+1289–1304.doi:10.1016/j.neuron.2015.02.028 etal.(2011).Ahigh-lightsensitivityopticalneuralsilencer:developmentand
+François,A.,Low,S.A.,Sypek,E.I.,Christensen,A.J.,Sotoudeh,C.,Beier,K.T., applicationtooptogeneticcontrolofnon-humanprimatecortex.Front.Syst.
+etal.(2017).Abrainstem-spinalcordinhibitorycircuitformechanicalpain Neurosci.5:18.doi:10.3389/fnsys.2011.00018
+modulationbygabaandenkephalins.Neuron93,822.e6–839.e6.doi:10.1016/j. Häring, M., Zeisel, A., Hochgerner, H., Rinwa, P., Jakobsson, J. E. T.,
+neuron.2017.01.008 Lönnerberg, P., et al. (2018). Neuronal atlas of the dorsal horn defines its
+Freitag, F. B., Ahemaiti, A., Jakobsson, J. E. T., Weman, H. M., and architectureandlinkssensoryinputtotranscriptionalcelltypes.Nat.Neurosci.
+Lagerstrom,M.C.(2019).Spinalgastrinreleasingpeptidereceptorexpressing 21,869–880.doi:10.1038/s41593-018-0141-1
+interneurons are controlled by local phasic and tonic inhibition. Sci. Rep. Harnett,M.T.,Makara,J.K.,Spruston,N.,Kath,W.L.,andMagee,J.C.(2012).
+9:16573.doi:10.1038/s41598-019-52642-3 Synaptic amplification by dendritic spines enhances input cooperativity.
+Fromherz,P.,Hübener,G.,Kuhn,B.,andHinner,M.J.(2008).Annine-6plus,a Nature491,599–602.doi:10.1038/nature11554
+voltage-sensitivedyewithgoodsolubility,strongmembranebindingandhigh Harvey,C.D.,Yasuda,R.,Zhong,H.,andSvoboda,K.(2008).Thespreadofras
+sensitivity.Eur.Biophys.J.37,509–514.doi:10.1007/s00249-007-0210-y activitytriggeredbyactivationofasingledendriticspine.Science321,136–140.
+Gao, Z. R., Chen, W. Z., Liu, M. Z., Chen, X. J., Wan, L., Zhang, X. Y., doi:10.1126/science.1159675
+et al. (2019). Tac1-expressing neurons in the periaqueductal gray facilitate Heffner, C. S., Herbert Pratt, C., Babiuk, R. P., Sharma, Y., Rockwood, S. F.,
+theitch-scratchingcycleviadescendingregulation.Neuron101,45.e9–59.e9. Donahue, L. R., et al. (2012). Supporting conditional mouse mutagenesis
+doi:10.1016/j.neuron.2018.11.010 withacomprehensivecrecharacterizationresource.Nat. Commun.3:1218.
+Gao, X., Xia, J., Munoz, F. M., Manners, M. T., Pan, R., Meucci, O., et al. doi:10.1038/ncomms2186
+(2016). Stims and orai1 regulate cytokine production in spinal astrocytes. Heinke, B., Balzer, E., and Sandkühler, J. (2004). Pre- and postsynaptic
+J.Neuroinflammation13:126.doi:10.1186/s12974-016-0594-7 contributionsofvoltage-dependentCa2+channelstonociceptivetransmission
+Gebhart,G.F.(2004).Descendingmodulationofpain.Neurosci.Biobehav.Rev. inratspinallaminaineurons.Eur.J.Neurosci.19,103–111.doi:10.1046/j.
+27,729–737.doi:10.1016/j.neubiorev.2003.11.008 1460-9568.2003.03083.x
+Ghitani,N.,Barik,A.,Szczot,M.,Thompson,J.H.,Li,C.,LePichon,C.E.,etal. Helmchen,F.,Denk,W.,andKerr,J.N.(2013).Miniaturizationoftwo-photon
+(2017).Specializedmechanosensorynociceptorsmediatingrapidresponsesto microscopyforimaginginfreelymovinganimals.ColdSpringHarb.Protoc.
+hairpull.Neuron95,944.e4–954.e4.doi:10.1016/j.neuron.2017.07.024 2013,904–913.doi:10.1101/pdb.top078147
+Gradinaru, V., Thompson, K. R., and Deisseroth, K. (2008). Enphr: a Helmchen,F.,Svoboda,K.,Denk,W.,andTank,D.W.(1999).Invivodendritic
+natronomonas halorhodopsin enhanced for optogenetic applications. Brain calciumdynamicsindeep-layercorticalpyramidalneurons.Nat.Neurosci.2,
+CellBiol.36,129–139.doi:10.1007/s11068-008-9027-6 989–996.doi:10.1038/14788
+Gradinaru,V.,Thompson,K.R.,Zhang,F.,Mogri,M.,Kay,K.,Schneider,M.B., Hires, S. A., Tian, L., and Looger, L. L. (2008). Reporting neural activity
+etal.(2007).Targetingandreadoutstrategiesforfastopticalneuralcontrol with genetically encoded calcium indicators. Brain Cell Biol. 36, 69–86.
+invitroandinvivo.J.Neurosci.27,14231–14238.doi:10.1523/jneurosci.3578- doi:10.1007/s11068-008-9029-4
+07.2007 Hochbaum, D. R., Zhao, Y., Farhi, S. L., Klapoetke, N., Werley, C. A.,
+Grienberger,C.,andKonnerth,A.(2012).Imagingcalciuminneurons.Neuron Kapoor, V., et al. (2014). All-optical electrophysiology in mammalian
+73,862–885.doi:10.1016/j.neuron.2012.02.011 neuronsusingengineeredmicrobialrhodopsins.Nat.Methods11,825–833.
+Grudt,T.J.,andPerl,E.R.(2002).Correlationsbetweenneuronalmorphologyand doi:10.1038/nmeth.3000
+electrophysiologicalfeaturesintherodentsuperficialdorsalhorn.J.Physiol. Hollingworth,S.,Gee,K.R.,andBaylor,S.M.(2009).Low-affinityCa2+indicators
+540,189–207.doi:10.1113/jphysiol.2001.012890 comparedinmeasurementsofskeletalmuscleCa2+transients.BiophysJ.97,
+Grynkiewicz,G.,Poenie,M.,andTsien,R.Y.(1985).AnewgenerationofCa2+ 1864–1872.doi:10.1016/j.bpj.2009.07.021
+indicatorswithgreatlyimprovedfluorescenceproperties.J.Biol.Chem.260, Honsek,S.D.,Seal,R.P.,andSandkühler,J.(2015).Presynapticinhibitionof
+3440–3450. optogenetically identified VGluT3+ sensory fibres by opioids and baclofen.
+Gubernator, N. G., Zhang, H., Staal, R. G., Mosharov, E. V., Pereira, D. B., Pain156,243–251.doi:10.1097/01.j.pain.0000460304.63948.40
+Yue,M.,etal.(2009).Fluorescentfalseneurotransmittersvisualizedopamine Hopkins, D. A., and Holstege, G. (1978). Amygdaloid projections to the
+release from individual presynaptic terminals. Science 324, 1441–1444. mesencephalon,ponsandmedullaoblongatainthecat.Exp.BrainRes.32,
+doi:10.1126/science.1172278 529–547.doi:10.1007/bf00239551
+Gulledge,A.,Kampa,B.,andStuart,G.(2005).Synapticintegrationindendritic Huang,J.,Gadotti,V.M.,Chen,L.,Souza,I.A.,Huang,S.,Wang,D.,etal.(2019).
+trees.J.Neurobiol.64,75–90.doi:10.1002/neu.20207 Aneuronalcircuitforactivatingdescendingmodulationofneuropathicpain.
+Gustafson-Vickers, S. L., Lu, V. B., Lai, A. Y., Todd, K. G., Ballanyi, K., and Nat.Neurosci.22,1659–1668.doi:10.1038/s41593-019-0481-5
+Smith,P.A.(2008).Long-termactionsofinterleukin-1betaondelayandtonic Huang,J.,Polgár,E.,Solinski,H.J.,Mishra,S.K.,Tseng,P.Y.,Iwagaki,N.,etal.
+firing neurons in rat superficial dorsal horn and their relevance to central (2018).Circuitdissectionoftheroleofsomatostatininitchandpain.Nat.
+sensitization.Mol.Pain4:63.doi:10.1186/1744-8069-4-63 Neurosci.21,707–716.doi:10.1038/s41593-018-0119-z
+Gutierrez-Mecinas,M.,Bell,A.,Polgar,E.,Watanabe,M.,andTodd,A.J.(2019). Ikeda, H., Heinke, B., Ruscheweyh, R., and Sandkühler, J. (2003). Synaptic
+Expressionofneuropeptideffdefinesapopulationofexcitatoryinterneurons plasticity in spinal lamina I projection neurons that mediate hyperalgesia.
+inthesuperficialdorsalhornofthemousespinalcordthatrespondtonoxious Science299,1237–1241.doi:10.1126/science.1080659
+FrontiersinNeuralCircuits | www.frontiersin.org 17 June2020 | Volume14 | Article31
+Hardingetal. InsightsIntoDorsalHornCircuitry
+Ikeda,H.,Stark,J.,Fischer,H.,Wagner,M.,Drdla,R.,Jäger,T.,etal.(2006). Larkum, M., Nevian, T., Sandler, M., Polsky, A., and Schiller, J. (2009).
+Synapticamplifierofinflammatorypaininthespinaldorsalhorn.Science312, Synaptic integration in tuft dendrites of layer 5 pyramidal neurons:
+1659–1662.doi:10.1126/science.1127233 a new unifying principle. Science 325, 756–760. doi: 10.1126/science.11
+Ikoma,A.,Steinhoff,M.,Ständer,S.,Yosipovitch,G.,andSchmelz,M.(2006).The 71958
+neurobiologyofitch.Nat.Rev.Neurosci.7,535–547.doi:10.1038/nrn1950 Lau, B. K., and Vaughan, C. W. (2014). Descending modulation of pain: the
+Inoue,M.,Takeuchi,A.,Manita,S.,Horigane,S.I.,Sakamoto,M.,Kawakami,R., gabadisinhibitionhypothesisofanalgesia.Curr.Opin.Neurobiol.29,159–164.
+et al. (2019). Rational engineering of XCaMPS, a multicolor GECI doi:10.1016/j.conb.2014.07.010
+suite for in vivo imaging of complex brain circuit dynamics. Cell 177, Lee,S.,Escobedo-Lozoya,Y.,Szatmari,E.,andYasuda,R.(2009).Activationof
+1346.e24–1360.e24.doi:10.1016/j.cell.2019.04.007 camkiiinsingledendriticspinesduringlong-termpotentiation.Nature458,
+Isaev,D.,Gerber,G.,Park,S.K.,Chung,J.M.,andRandik,M.(2000).Facilitation 299–304.doi:10.1038/nature07842
+ofnmda-inducedcurrentsandca2+transientsintheratsubstantiagelatinosa Leinweber,M.,Zmarz,P.,Buchmann,P.,Argast,P.,Hubener,M.,Bonhoeffer,T.,
+neurons after ligation of l5–l6 spinal nerves. Neuroreport 11, 4055–4061. etal.(2014).Two-photoncalciumimaginginmicenavigatingavirtualreality
+doi:10.1097/00001756-200012180-00030 environment.J.Vis.Exp.84:e50885.doi:10.3791/50885
+Iyer, S. M., Montgomery, K. L., Towne, C., Lee, S. Y., Ramakrishnan, C., Li,P.,Kerchner,G.A.,Sala,C.,Wei,F.,Huettner,J.E.,Sheng,M.,etal.(1999).
+Deisseroth, K., et al. (2014). Virally mediated optogenetic excitation and Ampareceptor-pdzinteractionsinfacilitationofspinalsensorysynapses.Nat.
+inhibitionofpaininfreelymovingnontransgenicmice.Nat.Biotechnol.32, Neurosci.2,972–977.doi:10.1038/14771
+274–278.doi:10.1038/nbt.2834 Li,L.,Rutlin,M.,Abraira,V.E.,Cassidy,C.,Kus,L.,Gong,S.,etal.(2011).The
+Ji, Z. G., Ito, S., Honjoh, T., Ohta, H., Ishizuka, T., Fukazawa, Y., et al. functionalorganizationofcutaneouslow-thresholdmechanosensoryneurons.
+(2012).Light-evokedsomatosensoryperceptionoftransgenicratsthatexpress Cell147,1615–1627.doi:10.1016/j.cell.2011.11.027
+channelrhodopsin-2 in dorsal root ganglion cells. PLoS One 7:e32699. Li,B.,Yang,X.Y.,Qian,F.P.,Tang,M.,Ma,C.,andChiang,L.Y.(2015).Anovel
+doi:10.1371/journal.pone.0032699 analgesicapproachtooptogeneticallyandspecificallyinhibitpaintransmission
+Johannssen, H., and Helmchen, F. (2010). In vivo calcium imaging of dorsal using trpv1 promoter. Brain Res. 1609, 12–20. doi: 10.1016/j.brainres.2015.
+hornneuronalpopulationsinmousespinalcord.J.Physiol.588,3397–3404. 03.008
+doi:10.1113/jphysiol.2010.191833 Li, P., and Zhuo, M. (1998). Silent glutamatergic synapses and nociception in
+Kawamata, M., and Omote, K. (1996). Involvement of increased excitatory mammalianspinalcord.Nature393,695–698.doi:10.1038/31496
+aminoacidsandintracellularCa2+ concentrationinthespinaldorsalhorn Light,A.R.,andWillcockson,H.H.(1999).Spinallaminaei-iineuronsinrat
+inananimalmodelofneuropathicpain.Pain68,85–96.doi:10.1016/s0304- recordedinvivoinwholecell,tightsealconfiguration:propertiesandopioid
+3959(96)03222-8 responses.J.Neurophysiol.82,3316–3326.doi:10.1152/jn.1999.82.6.3316
+Keller,A.F.,Beggs,S.,Salter,M.W.,andDeKoninck,Y.(2007).Transformation Lima, S. Q., and Miesenböck, G. (2005). Remote control of behavior
+of the output of spinal lamina i neurons after nerve injury and microglia throughgeneticallytargetedphotostimulationofneurons.Cell121,141–152.
+stimulationunderlyingneuropathicpain.Mol.Pain3:27.doi:10.1186/1744- doi:10.1016/j.cell.2005.02.004
+8069-3-27 Lin,J.Y.(2011).Auser’sguidetochannelrhodopsinvariants:features,limitations
+Kim,H.,Jun,J.,Wang,J.,Bittar,A.,Chung,K.,andChung,J.(2015).Induction and future developments. Exp. Physiol. 96, 19–25. doi: 10.1113/expphysiol.
+of long-term potentiation and long-term depression is cell-type specific 2009.051961
+in the spinal cord. Pain 156, 618–625. doi: 10.1097/01.j.pain.0000460354. Lin, J. Y., Knutsen, P. M., Muller, A., Kleinfeld, D., and Tsien, R. Y. (2013).
+09622.ec Reachr:ared-shiftedvariantofchannelrhodopsinenablesdeeptranscranial
+Klapoetke, N. C., Murata, Y., Kim, S. S., Pulver, S. R., Birdsey-Benson, A., optogeneticexcitation.Nat.Neurosci.16,1499–1508.doi:10.1038/nn.3502
+Cho, Y. K., et al. (2014). Independent optical excitation of distinct neural Lin,M.Z.,andSchnitzer,M.J.(2016).Geneticallyencodedindicatorsofneuronal
+populations.Nat.Methods11,338–346.doi:10.1038/nmeth.2836 activity.Nat.Neurosci.19,1142–1153.doi:10.1038/nn.4359
+Klarenbeek, J., and Jalink, K. (2014). Detecting camp with an epac-based fret Liske, H., Qian, X., Anikeeva, P., Deisseroth, K., and Delp, S. (2013). Optical
+sensorinsinglelivingcells.MethodsMol.Biol.1071,49–58.doi:10.1007/978- controlofneuronalexcitationandinhibitionusingasingleopsinprotein,chr2.
+1-62703-622-1_4 Sci.Rep.3:3110.doi:10.1038/srep03110
+Koch,S.C.,Acton,D.,andGoulding,M.(2018).Spinalcircuitsfortouch,pain,and Lou, S., Adam, Y., Weinstein, E. N., Williams, E., Williams, K., Parot, V.,
+itch.Annu.Rev.Physiol.80,189–217.doi:10.1146/annurev-physiol-022516- et al. (2016). Genetically targeted all-optical electrophysiology with a
+034303 transgenic cre-dependent optopatch mouse. J. Neurosci. 36, 11059–11073.
+Kohro,Y.,Sakaguchi,E.,Tashima,R.,Tozaki-Saitoh,H.,Okano,H.,Inoue,K., doi:10.1523/JNEUROSCI.1582-16.2016
+et al. (2015). A new minimally-invasive method for microinjection Lou,S.,Duan,B.,Vong,L.,Lowell,B.B.,andMa,Q.(2013).Runx1controls
+into the mouse spinal dorsal horn. Sci. Rep. 5:14306. doi: 10.1038/srep terminal morphology and mechanosensitivity of vglut3-expressing
+14306 c-mechanoreceptors. J. Neurosci. 33, 870–882. doi: 10.1523/jneurosci.3942-
+Kopach,O.,Kao,S.C.,Petralia,R.S.,Belan,P.,Tao,Y.X.,andVoitenko,N.(2011). 12.2013
+Inflammationalterstraffickingofextrasynapticampareceptorsintonically Lu,Y.,Dong,H.,Gao,Y.,Gong,Y.,Ren,Y.,Gu,N.,etal.(2013).Afeed-forward
+firing lamina ii neurons of the rat spinal dorsal horn. Pain 152, 912–923. spinalcordglycinergicneuralcircuitgatesmechanicalallodynia.J.Clin.Invest.
+doi:10.1016/j.pain.2011.01.016 123,4050–4062.doi:10.1172/jci70026
+Kubota, S., Sidikejiang, W., Kudo, M., Inoue, K. I., Umeda, T., Takada, M., Lu, A., Lei, H., Li, L., Lai, L., Liang, W., and Xu, S. (2018). Role
+et al. (2019). Optogenetic recruitment of spinal reflex pathways from of mitochondrial Ca2+ uniporter in remifentanil-induced postoperative
+large-diameter primary afferents in non-transgenic rats transduced with allodynia.Eur.J.Neurosci.47,305–313.doi:10.1111/ejn.13842
+aav9/channelrhodopsin 2. J. Physiol. 597, 5025–5040. doi: 10.1113/jp Lu,C.,Park,S.,Richner,T.J.,Derry,A.,Brown,I.,Hou,C.,etal.(2017).Flexible
+278292 andstretchablenanowire-coatedfibersforoptoelectronicprobingofspinal
+Kulkarni,R.U.,andMiller,E.W.(2017).Voltageimaging:pitfallsandpotential. cordcircuits.Sci.Adv.3:e1600955.doi:10.1126/sciadv.1600955
+Biochemistry56,5171–5177.doi:10.1021/acs.biochem.7b00490 Lu,Y.,andPerl,E.R.(2003).Aspecificinhibitorypathwaybetweensubstantia
+Kyrozis, A., Goldstein, P. A., Heath, M. J., and MacDermott, A. B. (1995). gelatinosaneuronsreceivingdirectc-fiberinput.J.Neurosci.23,8752–8758.
+Calcium entry through a subpopulation of ampa receptors desensitized doi:10.1523/jneurosci.23-25-08752.2003
+neighbouring nmda receptors in rat dorsal horn neurons. J. Physiol. 485, Lu,Y.,andPerl,E.R.(2005).Modularorganizationofexcitatorycircuitsbetween
+373–381.doi:10.1113/jphysiol.1995.sp020736 neuronsofthespinalsuperficialdorsalhorn(laminaeIandII).J.Neurosci.25,
+Laffray,S.,Pagès,S.,Dufour,H.,DeKoninck,P.,DeKoninck,Y.,andCote,D. 3900–3907.doi:10.1523/JNEUROSCI.0102-05.2005
+(2011).Adaptivemovementcompensationforinvivoimagingoffastcellular Luo,C.,Seeburg,P.H.,Sprengel,R.,andKuner,R.(2008).Activity-dependent
+dynamicswithinamovingtissue.PLoSOne6:e19928.doi:10.1371/journal. potentiationofcalciumsignalsinspinalsensorynetworksininflammatorypain
+pone.0019928 states.Pain140,358–367.doi:10.1016/j.pain.2008.09.008
+FrontiersinNeuralCircuits | www.frontiersin.org 18 June2020 | Volume14 | Article31
+Hardingetal. InsightsIntoDorsalHornCircuitry
+Machida, A., Kuwahara, H., Mayra, A., Kubodera, T., Hirai, E., Sunaga, F., Nagasako, E. M., Oaklander, A. L., and Dworkin, R. H. (2003). Congenital
+etal.(2013).IntraperitonealadministrationofAAV9-shRNAinhibitstarget insensitivity to pain: an update. Pain 101, 213–219. doi: 10.1016/s0304-
+geneexpressioninthedorsalrootgangliaofneonatalmice.Mol.Pain9:36. 3959(02)00482-7
+doi:10.1186/1744-8069-9-36 Nagel,G.,Szellas,T.,Huhn,W.,Kateriya,S.,Adeishvili,N.,Berthold,P.,etal.
+Mackenzie,R.A.,Burke,D.,Skuse,N.F.,andLethlean,A.K.(1975).Fibrefunction (2003).Channelrhodopsin-2,adirectlylight-gatedcation-selectivemembrane
+and perception during cutaneous nerve block. Proc. Aust. Assoc. Neurol. channel.Proc.Natl.Acad.Sci.USA100,13940–13945.doi:10.1073/pnas.
+12,65–73. 1936192100
+Mank, M., and Griesbeck, O. (2008). Genetically encoded calcium indicators. Nagy,A.(2000).Crerecombinase:theuniversalreagentforgenometailoring.
+Chem.Rev.108,1550–1564.doi:10.1021/cr078213v Genesis 26, 99–109. doi: 10.1002/(sici)1526-968x(200002)26:2<99::aid-
+Marvin, J. S., Borghuis, B. G., Tian, L., Cichon, J., Harnett, M. T., gene1>3.0.co;2-b
+Akerboom, J., et al. (2013). An optimized fluorescent probe for visualizing Nam,Y.,Kim,J.H.,Kim,J.H.,Jha,M.K.,Jung,J.Y.,Lee,M.G.,etal.(2016).
+glutamate neurotransmission. Nat. Methods 10, 162–170. doi: 10.1038/ Reversibleinductionofpainhypersensitivityfollowingoptogeneticstimulation
+nmeth.2333 ofspinalastrocytes.CellRep.17,3049–3061.doi:10.1016/j.celrep.2016.11.043
+Marvin, J. S., Scholl, B., Wilson, D. E., Podgorski, K., Kazemipour, A., Nimmerjahn, A., and Bergles, D. E. (2015). Large-scale recording of astrocyte
+Müller, J. A., et al. (2018). Stability, affinity, and chromatic variants of the activity.Curr.Opin.Neurobiol.32,95–106.doi:10.1016/j.conb.2015.01.015
+glutamatesensoriglusnfr.Nat.Methods15,936–939.doi:10.1038/s41592-018- Nishida,K.,Matsumura,S.,Taniguchi,W.,Uta,D.,Furue,H.,andIto,S.(2014).
+0171-3 Three-dimensional distribution of sensory stimulation-evoked neuronal
+Masuda,T.,Ozono,Y.,Mikuriya,S.,Kohro,Y.,Tozaki-Saitoh,H.,Iwatsuki,K., activityofspinaldorsalhornneuronsanalyzedbyinvivocalciumimaging.
+et al. (2016). Dorsal horn neurons release extracellular ATP in a PLoSOne9:e103321.doi:10.1371/journal.pone.0103321
+VNUT-dependent manner that underlies neuropathic pain. Nat. Commun. Niu,J.,Ding,L.,Li,J.J.,Kim,H.,Liu,J.,Li,H.,etal.(2013).Modality-based
+7:12529.doi:10.1038/ncomms12529 organizationofascendingsomatosensoryaxonsinthedirectdorsalcolumn
+Maxwell, D. J., and Bannatyne, B. A. (1983). Ultrastructure of muscle spindle pathway.J.Neurosci.33,17691–17709.doi:10.1523/jneurosci.3429-13.2013
+afferent terminations in lamina vi of the cat spinal cord. Brain Res. 288, Olausson,H.,Lamarre,Y.,Backlund,H.,Morin,C.,Wallin,B.G.,Starck,G.,
+297–301.doi:10.1016/0006-8993(83)90106-3 etal.(2002).Unmyelinatedtactileafferentssignaltouchandprojecttoinsular
+Maxwell,D.J.,andRiddell,J.S.(1999).Axoaxonicsynapsesonterminalsofgroup cortex.Nat.Neurosci.5,900–904.doi:10.1038/nn896
+iimusclespindleafferentaxonsinthespinalcordofthecat.Eur.J.Neurosci. Olivares-Moreno, R., López-Hidalgo, M., Altamirano-Espinoza, A., González-
+11,2151–2159.doi:10.1046/j.1460-9568.1999.00632.x Gallardo, A., Antaramian, A., Lopez-Virgen, V., et al. (2019). Mouse
+Mayer, P., Sivakumar, N., Pritz, M., Varga, M., Mehmann, A., Lee, S., et al. corticospinal system comprises different functional neuronal ensembles
+(2019).Flexibleandlightweightdevicesforwirelessmulti-coloroptogenetic dependingontheirhodology.BMCNeurosci.20:50.doi:10.1186/s12868-019-
+experimentscontrollableviacommercialcellphones.Front.Neurosci.13:819. 0533-5
+doi:10.3389/fnins.2019.00819 Ossipov, M. H., and Gebhart, G. F. (1986). Opioid, cholinergic and alpha-
+McGlone, F., and Reilly, D. (2010). The cutaneous sensory system. Neurosci. adrenergic influences on the modulation of nociception from the lateral
+Biobehav.Rev.34,148–159.doi:10.1016/j.neubiorev.2009.08.004 reticular nucleus of the rat. Brain Res. 384, 282–293. doi: 10.1016/0006-
+Mears, S. C., and Frank, E. (1997). Formation of specific monosynaptic 8993(86)91164-9
+connectionsbetweenmusclespindleafferentsandmotoneuronsinthemouse. Otchy,T.M.,Wolff,S.B.,Rhee,J.Y.,Pehlevan,C.,Kawai,R.,Kempf,A.,etal.
+J.Neurosci.17,3128–3135.doi:10.1523/jneurosci.17-09-03128.1997 (2015).Acuteoff-targeteffectsofneuralcircuitmanipulations.Nature528,
+Melzack,R.,andWall,P.D.(1965).Painmechanisms:anewtheory.Science150, 358–363.doi:10.1038/nature16442
+971–979.doi:10.1126/science.150.3699.971 Packer, A. M., Russell, L. E., Dalgleish, H. W., and Häusser, M. (2015).
+Merighi, A., Bardoni, R., Salio, C., Lossi, L., Ferrini, F., Prandini, M., et al. Simultaneousall-opticalmanipulationandrecordingofneuralcircuitactivity
+(2008).Presynapticfunctionaltrkbreceptorsmediatethereleaseofexcitatory with cellular resolution in vivo. Nat. Methods 12, 140–146. doi: 10.1038/
+neurotransmitters from primary afferent terminals in lamina ii (substantia nmeth.3217
+gelatinosa) of postnatal rat spinal cord. Dev. Neurobiol. 68, 457–475. Pagani, M., Albisetti, G. W., Sivakumar, N., Wildner, H., Santello, M.,
+doi:10.1002/dneu.20605 Johannssen,H.C.,etal.(2019).Howgastrin-releasingpeptideopensthespinal
+Minta,A.,Kao,J.P.,andTsien,R.Y.(1989).Fluorescentindicatorsforcytosolic gateforitch.Neuron103,102.e5–117.e5.doi:10.1016/j.neuron.2019.04.022
+calciumbasedonrhodamineandfluoresceinchromophores.J.Biol.Chem.264, Paredes,R.M.,Etzler,J.C.,Watts,L.T.,Zheng,W.,andLechleiter,J.D.(2008).
+8171–8178. Chemicalcalciumindicators.Methods46,143–151.doi:10.1016/j.ymeth.2008.
+Miyano,K.,Morioka,N.,Sugimoto,T.,Shiraishi,S.,Uezono,Y.,andNakata,Y. 09.025
+(2010).Activationoftheneurokinin-1receptorinratspinalastrocytesinduces Park,S.I.,Brenner,D.S.,Shin,G.,Morgan,C.D.,Copits,B.A.,Chung,H.U.,etal.
+Ca2+ release from IP3-sensitive Ca2+ stores and extracellular Ca2+ influx (2015).Soft,stretchable,fullyimplantableminiaturizedoptoelectronicsystems
+through TRPC3. Neurochem. Int. 57, 923–934. doi: 10.1016/j.neuint.2010. forwirelessoptogenetics.Nat.Biotechnol.33,1280–1286.doi:10.1038/nbt.3415
+09.012 Peirs,C.,Williams,S.,Zhao,X.,Walsh,C.,Gedeon,J.,Cagle,N.,etal.(2015).
+Mizuno,M.,Kato,G.,andStrassman,A.M.(2019).Spatialorganizationofactivity Dorsal horn circuits for persistent mechanical pain. Neuron 87, 797–812.
+evoked by focal stimulation within the rat spinal dorsal horn as visualized doi:10.1016/j.neuron.2015.07.029
+byvoltage-sensitivedyeimagingintheslice.J.Neurophysiol.122,1697–1707. Petitjean,H.,Bourojeni,F.B.,Tsao,D.,Davidova,A.,Sotocinal,S.G.,Mogil,J.S.,
+doi:10.1152/jn.00697.2018 et al. (2019). Recruitment of spinoparabrachial neurons by dorsal horn
+Molander,C.,Xu,Q.,andGrant,G.(1984).Thecytoarchitectonicorganizationof calretininneurons.CellRep.28,1429.e4–1438.e4.doi:10.1016/j.celrep.2019.
+thespinalcordintherat.I.Thelowerthoracicandlumbosacralcord.J.Comp. 07.048
+Neurol.230,133–141.doi:10.1002/cne.902300112 Petitjean,H.,Hugel,S.,Barthas,F.,Bohren,Y.,Barrot,M.,Yalcin,I.,etal.(2014).
+Mondello,S.E.,Sunshine,M.D.,Fischedick,A.E.,Dreyer,S.J.,Horwitz,G.D., Activation of transient receptor potential vanilloid 2-expressing primary
+Anikeeva,P.,etal.(2018).Optogeneticsurfacestimulationoftheratcervical afferentsstimulatessynaptictransmissioninthedeepdorsalhornoftherat
+spinalcord.J.Neurophysiol.120,795–811.doi:10.1152/jn.00461.2017 spinalcordandelicitsmechanicalhyperalgesia.Eur.J.Neurosci.40,3189–3201.
+Montgomery,K.L.,Yeh,A.J.,Ho,J.S.,Tsao,V.,MohanIyer,S.,Grosenick,L., doi:10.1111/ejn.12688
+etal.(2015).Wirelesslypowered,fullyinternaloptogeneticsforbrain,spinal Petitjean,H.,Pawlowski,S.A.,Fraine,S.L.,Sharif,B.,Hamad,D.,Fatima,T.,etal.
+and peripheral circuits in mice. Nat. Methods 12, 969–974. doi: 10.1038/ (2015).Dorsalhornparvalbuminneuronsaregate-keepersoftouch-evoked
+nmeth.3536 pain after nerve injury. Cell Rep. 13, 1246–1257. doi: 10.1016/j.celrep.2015.
+Mu,D.,Deng,J.,Liu,K.F.,Wu,Z.Y.,Shi,Y.F.,Guo,W.M.,etal.(2017).Acentral 09.080
+neuralcircuitforitchsensation.Science357,695–699.doi:10.1126/science. Podor, B., Hu, Y. L., Ohkura, M., Nakai, J., Croll, R., and Fine, A. (2015).
+aaf4918 Comparison of genetically encoded calcium indicators for monitoring
+FrontiersinNeuralCircuits | www.frontiersin.org 19 June2020 | Volume14 | Article31
+Hardingetal. InsightsIntoDorsalHornCircuitry
+actionpotentialsinmammalianbrainbytwo-photonexcitationfluorescence Sathyamurthy,A.,Johnson,K.R.,Matson,K.J.E.,Dobrott,C.I.,Li,L.,Ryba,A.R.,
+microscopy.Neurophotonics2:021014.doi:10.1117/1.nph.2.2.021014 etal.(2018).Massivelyparallelsinglenucleustranscriptionalprofilingdefines
+Pologruto, T. A., Yasuda, R., and Svoboda, K. (2004). Monitoring neural spinalcordneuronsandtheiractivityduringbehavior.CellRep.22,2216–2225.
+activityand[Ca2+]withgeneticallyencodedCa2+indicators.J.Neurosci.24, doi:10.1016/j.celrep.2018.02.003
+9572–9579.doi:10.1523/JNEUROSCI.2854-04.2004 Schoffnegger,D.,Ruscheweyh,R.,andSandkühler,J.(2008).Spreadofexcitation
+Ponsioen,B.,Zhao,J.,Riedl,J.,Zwartkruis,F.,vanderKrogt,G.,Zaccolo,M.,etal. acrossmodalitybordersinspinaldorsalhornofneuropathicrats.Pain135,
+(2004).DetectingcAMP-inducedepacactivationbyfluorescenceresonance 300–310.doi:10.1016/j.pain.2007.12.016
+energytransfer:EpacasanovelcAMPindicator.EMBORep.5,1176–1180. Schuster,D.J.,Dykstra,J.A.,Riedl,M.S.,Kitto,K.F.,Belur,L.R.,McIvor,R.S.,
+doi:10.1038/sj.embor.7400290 etal.(2014).Biodistributionofadeno-associatedvirusserotype9(aav9)vector
+Porreca,F.,Ossipov,M.H.,andGebhart,G.F.(2002).Chronicpainandmedullary afterintrathecalandintravenousdeliveryinmouse.Front.Neuroanat.8:42.
+descending facilitation. Trends Neurosci. 25, 319–325. doi: 10.1016/s0166- doi:10.3389/fnana.2014.00042
+2236(02)02157-4 Seal,R.P.,Wang,X.,Guan,Y.,Raja,S.N.,Woodbury,C.J.,Basbaum,A.I.,
+Potter,L.E.,Doolen,S.,Mifflin,K.,Tenorio,G.,Baker,G.,Taylor,B.K.,etal. et al. (2009). Injury-induced mechanical hypersensitivity requires C-low
+(2018).Antinociceptiveeffectsoftheantidepressantphenelzinearemediated threshold mechanoreceptors. Nature 462, 651–655. doi: 10.1038/nature
+by context-dependent inhibition of neuronal responses in the dorsal horn. 08505
+Neuroscience383,205–215.doi:10.1016/j.neuroscience.2018.04.047 Sekiguchi,K.,Shekhmeyster,P.,Merten,K.,Arena,A.,Cook,D.,Hoffman,E.,etal.
+Prescott, S. A., and De Koninck, Y. (2002). Four cell types with distinctive (2016).Imaginglarge-scalecellularactivityinspinalcordoffreelybehaving
+membrane properties and morphologies in lamina i of the spinal dorsal mice.Nat.Commun.7:11450.doi:10.1038/ncomms11450
+horn of the adult rat. J. Physiol. 539, 817–836. doi: 10.1113/jphysiol.2001. Shen, Y., Dana, H., Abdelfattah, A. S., Patel, R., Shea, J., Molina, R. S.,
+013437 et al. (2018). A genetically encoded Ca2+ indicator based on circularly
+Proudfit, H. K., and Clark, F. M. (1991). The projections of locus coeruleus permutated sea anemone red fluorescent protein eqFP578. BMC Biol. 16:9.
+neuronstothespinalcord.Prog.BrainRes.88,123–141.doi:10.1016/s0079- doi:10.1186/s12915-018-0480-0
+6123(08)63803-0 Shields,S.D.,Ahn,H.S.,Yang,Y.,Han,C.,Seal,R.P.,Wood,J.N.,etal.(2012).
+Punnakkal,P.,vonSchoultz,C.,Haenraets,K.,Wildner,H.,andZeilhofer,H.U. Nav1.8expressionisnotrestrictedtonociceptorsinmouseperipheralnervous
+(2014).Morphological,biophysicalandsynapticpropertiesofglutamatergic system.Pain153,2017–2030.doi:10.1016/j.pain.2012.04.022
+neurons of the mouse spinal dorsal horn. J. Physiol. 592, 759–776. Shutov, L., Kruglikov, I., Gryshchenko, O., Khomula, E., Viatchenko-
+doi:10.1113/jphysiol.2013.264937 Karpinski,V.,Belan,P.,etal.(2006).Theeffectofnimodipineoncalcium
+Rahmati, V., Kirmse, K., Markovic, D., Holthoff, K., and Kiebel, S. J. homeostasis and pain sensitivity in diabetic rats. Cell. Mol. Neurobiol. 26,
+(2016). Inferring neuronal dynamics from calcium imaging data using 1541–1557.doi:10.1007/s10571-006-9107-z
+biophysicalmodelsandbayesianinference.PLoSComput.Biol.12:e1004736. Simonetti,M.,Hagenston,A.,Vardeh,D.,Freitag,H.,Mauceri,D.,Lu,J.,etal.
+doi:10.1371/journal.pcbi.1004736 (2013).Nuclearcalciumsignalinginspinalneuronsdrivesagenomicprogram
+Ran,C.,Hoon,M.A.,andChen,X.(2016).Thecodingofcutaneoustemperature requiredforpersistentinflammatorypain.Neuron77,43–57.doi:10.1016/j.
+inthespinalcord.Nat.Neurosci.19,1201–1209.doi:10.1038/nn.4350 neuron.2012.10.037
+Rau, K. K., McIlwrath, S. L., Wang, H., Lawson, J. J., Jankowski, M. P., Skorput,A.G.J.,Zhang,X.,Waataja,J.J.,Peterson,C.D.,Riedl,M.S.,Kitto,K.F.,
+Zylka,M.J.,etal.(2009).Mrgprdenhancesexcitabilityinspecificpopulations etal.(2018).Involvementofthevgf-derivedpeptidetlqp-62innerveinjury-
+of cutaneous murine polymodal nociceptors. J. Neurosci. 29, 8612–8619. induced hypersensitivity and spinal neuroplasticity. Pain 159, 1802–1813.
+doi:10.1523/jneurosci.1057-09.2009 doi:10.1097/j.pain.0000000000001277
+Ren,K.,andDubner,R.(2002).Descendingmodulationinpersistentpain:an Smetters, D., Majewska, A., and Yuste, R. (1999). Detecting action potentials
+update.Pain100,1–6.doi:10.1016/s0304-3959(02)00368-8 in neuronal populations with calcium imaging. Methods 18, 215–221.
+Rexed,B.(1952).Thecytoarchitectonicorganizationofthespinalcordinthecat. doi:10.1006/meth.1999.0774
+J.Comp.Neurol.96,414–495.doi:10.1002/cne.900960303 Smith-Edwards,K.M.,Najjar,S.A.,Edwards,B.S.,Howard,M.J.,Albers,K.M.,
+Rickgauer,J.P.,Deisseroth,K.,andTank,D.W.(2014).Simultaneouscellular- and Davis, B. M. (2019). Extrinsic primary afferent neurons link visceral
+resolution optical perturbation and imaging of place cell firing fields. Nat. paintocolonmotilitythroughaspinalreflexinmice.Gastroenterology157,
+Neurosci.17,1816–1824.doi:10.1038/nn.3866 522.e2–536.e2.doi:10.1053/j.gastro.2019.04.034
+Roberts, J. C., Davis, J. B., and Benham, C. D. (2004). [3H]resiniferatoxin Sokal, D. M., and Chapman, V. (2003). Effects of spinal administration of
+autoradiographyinthecnsofwild-typeandTRPV1nullmicedefinestrpv1 muscimol on c- and a-fibre evoked neuronal responses of spinal dorsal
+(VR-1)proteindistribution.BrainRes.995,176–183.doi:10.1016/j.brainres. horn neurones in control and nerve injured rats. Brain Res. 962, 213–220.
+2003.10.001 doi:10.1016/s0006-8993(02)04057-x
+Roberts,W.J.,andElardo,S.M.(1986).Clusteringofprimaryafferentfibers Song,A.J.,andPalmiter,R.D.(2018).Detectingandavoidingproblemswhen
+in peripheral nerve fascicles by sensory modality. Brain Res. 370, 149–152. usingthecre-loxsystem.TrendsGenet.34,333–340.doi:10.1016/j.tig.2017.
+doi:10.1016/0006-8993(86)91115-7 12.008
+Rossant, J., and McMahon, A. (1999). ‘‘Cre’’-ating mouse mutants-a Spruston,N.,Schiller,Y.,Stuart,G.,andSakmann,B.(1995).Activity-dependent
+meeting review on conditional mouse genetics. Genes Dev. 13, 142–145. actionpotentialinvasionandcalciuminfluxintohippocampalca1dendrites.
+doi:10.1101/gad.13.2.142 Science268,297–300.doi:10.1126/science.7716524
+Ruscheweyh,R.,andSandkuhler,J.(2005).Long-rangeoscillatorycalciumwaves Stamatakis, A. M., Schachter, M. J., Gulati, S., Zitelli, K. T., Malanowski, S.,
+inratspinaldorsalhorn.Eur.J.Neurosci.22,1967–1976.doi:10.1111/j.1460- Tajik, A., et al. (2018). Simultaneous optogenetics and cellular resolution
+9568.2005.04393.x calcium imaging during active behavior using a miniaturized microscope.
+Samineni, V. K., Mickle, A. D., Yoon, J., Grajales-Reyes, J. G., Pullen, M. Y., Front.Neurosci.12:496.doi:10.3389/fnins.2018.00496
+Crawford,K.E.,etal.(2017a).Optogeneticsilencingofnociceptiveprimary Stemkowski,P.,García-Caballero,A.,Gadotti,V.M.,M’Dahoma,S.,Huang,S.,
+afferents reduces evoked and ongoing bladder pain. Sci. Rep. 7:15865. Black,S.A.G.,etal.(2016).Trpv1nociceptoractivityinitiatesusp5/t-type
+doi:10.1038/s41598-017-16129-3 channel-mediated plasticity. Cell Rep. 17, 2901–2912. doi: 10.1016/j.celrep.
+Samineni, V. K., Yoon, J., Crawford, K. E., Jeong, Y. R., McKenzie, K. C., 2016.11.047
+Shin,G.,etal.(2017b).Fullyimplantable,battery-freewirelessoptoelectronic Striessnig,J.,Pinggera,A.,Kaur,G.,Bock,G.,andTuluc,P.(2014).L-typeCa2+
+devices for spinal optogenetics. Pain 158, 2108–2116. doi: 10.1097/j.pain. channelsinheartandbrain.WileyInterdiscip.Rev.Membr.Transp.Signal.3,
+0000000000000968 15–38.doi:10.1002/wmts.102
+Sanderson,M.J.,Smith,I.,Parker,I.,andBootman,M.D.(2014).Fluorescence Sun,S.,Xu,Q.,Guo,C.,Guan,Y.,Liu,Q.,andDong,X.(2017).Leakygatemodel:
+microscopy.ColdSpringHarb.Protoc.2014:pdb.top071795.doi:10.1101/pdb. intensity-dependentcodingofpainanditchinthespinalcord.Neuron93,
+top071795 840.e5–853.e5.doi:10.1016/j.neuron.2017.01.012
+FrontiersinNeuralCircuits | www.frontiersin.org 20 June2020 | Volume14 | Article31
+Hardingetal. InsightsIntoDorsalHornCircuitry
+Takazawa,T.,andMacDermott,A.B.(2010).Synapticpathwaysandinhibitory Xu, Y., Zou, P., and Cohen, A. E. (2017). Voltage imaging with genetically
+gates in the spinal cord dorsal horn. Ann. N Y Acad. Sci. 1198, 153–158. encodedindicators.Curr.Opin.Chem.Biol.39,1–10.doi:10.1016/j.cbpa.2017.
+doi:10.1111/j.1749-6632.2010.05501.x 04.005
+Tang, P., Zhang, Y., Chen, C., Ji, X., Ju, F., Liu, X., et al. (2015). In vivo Yan,X.,Li,F.,Maixner,D.W.,Yadav,R.,Gao,M.,Ali,M.W.,etal.(2019).
+two-photon imaging of axonal dieback, blood flow and calcium influx Interleukin-1β released by microglia initiates the enhanced glutamatergic
+with methylprednisolone therapy after spinal cord injury. Sci. Rep. 5:9691. activity in the spinal dorsal horn during paclitaxel-associated acute pain
+doi:10.1038/srep09691 syndrome.Glia67,482–497.doi:10.1002/glia.23557
+Tashima, R., Koga, K., Sekine, M., Kanehisa, K., Kohro, Y., Tominaga, K., Yan,X.,Yadav,R.,Gao,M.,andWeng,H.R.(2014).Interleukin-1betaenhances
+etal.(2018).Optogeneticactivationofnon-nociceptiveabetafibersinduces endocytosisofglialglutamatetransportersinthespinaldorsalhornthrough
+neuropathicpain-likesensoryandemotionalbehaviorsafternerveinjuryin activatingproteinkinasec.Glia62,1093–1109.doi:10.1002/glia.22665
+rats.eNeuro5:ENEURO.0450-17.2018.doi:10.1523/eneuro.0450-17.2018 Yang, K., Ma, R., Wang, Q., Jiang, P., and Li, Y. Q. (2015). Optoactivation
+Taylor,B.K.,Sinha,G.P.,Donahue,R.R.,Grachen,C.M.,Morón,J.A.,and of parvalbumin neurons in the spinal dorsal horn evokes gaba release that
+Doolen, S. (2019). Opioid receptors inhibit the spinal ampa receptor Ca2+ is regulated by presynaptic gabab receptors. Neurosci. Lett. 594, 55–59.
+permeabilitythatmediateslatentpainsensitization.Exp.Neurol.314,58–66. doi:10.1016/j.neulet.2015.03.050
+doi:10.1016/j.expneurol.2019.01.003 Yang,W.,andYuste,R.(2017).Invivoimagingofneuralactivity.Nat.Methods
+Tian,L.,Hires,S.A.,Mao,T.,Huber,D.,Chiappe,M.E.,Chalasani,S.H.,etal. 14,349–359.doi:10.1038/nmeth.4230
+(2009).Imagingneuralactivityinworms,fliesandmicewithimprovedgcamp Yang, Y. M., and Wang, L. Y. (2006). Amplitude and kinetics of action
+calciumindicators.Nat.Methods6,875–881.doi:10.1038/nmeth.1398 potential-evoked ca2+ current and its efficacy in triggering transmitter
+Towne,C.,Montgomery,K.L.,Iyer,S.M.,Deisseroth,K.,andDelp,S.L.(2013). releaseatthedevelopingcalyxofheldsynapse.J.Neurosci.26,5698–5708.
+Optogeneticcontroloftargetedperipheralaxonsinfreelymovinganimals. doi:10.1523/jneurosci.4889-05.2006
+PLoSOne8:e72691.doi:10.1371/journal.pone.0072691 Yoshihara,K.,Matsuda,T.,Kohro,Y.,Tozaki-Saitoh,H.,Inoue,K.,andTsuda,M.
+Tsien,R.Y.(1989).Fluorescentindicatorsofionconcentrations.MethodsCellBiol. (2018). Astrocytic Ca2+ responses in the spinal dorsal horn by noxious
+30,127–156.doi:10.1016/s0091-679x(08)60978-4 stimulitotheskin.J.Pharmacol.Sci.137,101–104.doi:10.1016/j.jphs.2018.
+Tsuzuki, K., Xing, H., Ling, J., and Gu, J. G. (2004). Menthol-induced Ca2+ 04.007
+releasefrompresynapticCa2+storespotentiatessensorysynaptictransmission. Zeisel, A., Hochgerner, H., Lonnerberg, P., Johnsson, A., Memic, F., van der
+J.Neurosci.24,762–771.doi:10.1523/jneurosci.4658-03.2004 Zwan,J.,etal.(2018).Moleculararchitectureofthemousenervoussystem.
+Tye,K.M.,andDeisseroth,K.(2012).Optogeneticinvestigationofneuralcircuits Cell174,999.e22–1014.e22.doi:10.1016/j.cell.2018.06.021
+underlyingbraindiseaseinanimalmodels.Nat.Rev.Neurosci.13,251–266. Zemelman, B. V., Nesnas, N., Lee, G. A., and Miesenbock, G. (2003).
+doi:10.1038/nrn3171 Photochemical gating of heterologous ion channels: remote control over
+Uhelski,M.L.,Bruce,D.J.,Séguéla,P.,Wilcox,G.L.,andSimone,D.A.(2017). geneticallydesignatedpopulationsofneurons.Proc.Natl.Acad.Sci.USA100,
+In vivo optogenetic activation of Nav1.8+ cutaneous nociceptors and their 1352–1357.doi:10.1073/pnas.242738899
+responsestonaturalstimuli.J.Neurophysiol.117,2218–2223.doi:10.1152/jn. Zhang, J., Liu, X., Xu, W., Luo, W., Li, M., Chu, F., et al. (2018a).
+00083.2017 Stretchable transparent electrode arrays for simultaneous electrical and
+Urch, C. E., and Dickenson, A. H. (2003). In vivo single unit extracellular optical interrogation of neural circuits in vivo. Nano Lett. 18, 2903–2911.
+recordingsfromspinalcordneuronesofrats.BrainRes.Protoc.12,26–34. doi:10.1021/acs.nanolett.8b00087
+doi:10.1016/s1385-299x(03)00068-0 Zhang,Y.,Liu,S.,Zhang,Y.Q.,Goulding,M.,Wang,Y.Q.,andMa,Q.(2018b).
+Usoskin,D.,Furlan,A.,Islam,S.,Abdo,H.,Lönnerberg,P.,Lou,D.,etal.(2015). Timingmechanismsunderlyinggatecontrolbyfeedforwardinhibition.Neuron
+Unbiasedclassificationofsensoryneurontypesbylarge-scalesingle-cellrna 99,941.e4–955.e4.doi:10.1016/j.neuron.2018.07.026
+sequencing.Nat.Neurosci.18,145–153.doi:10.1038/nn.3881 Zhang,F.,Prigge,M.,Beyrière,F.,Tsunoda,S.P.,Mattis,J.,Yizhar,O.,etal.
+Valtschanoff, J. G., Rustioni, A., Guo, A., and Hwang, S. J. (2001). Vanilloid (2008). Red-shifted optogenetic excitation: a tool for fast neural control
+receptorvr1isbothpresynapticandpostsynapticinthesuperficiallaminae derived from volvox carteri. Nat. Neurosci. 11, 631–633. doi: 10.1038/
+of the rat dorsal horn. J. Comp. Neurol. 436, 225–235. doi: 10.1002/ nn.2120
+cne.1063 Zhang,Z.,Russell,L.E.,Packer,A.M.,Gauld,O.M.,andHäusser,M.(2018c).
+Villette, V., Chavarha, M., Dimov, I. K., Bradley, J., Pradhan, L., Mathieu, B., Closed-loopall-opticalinterrogationofneuralcircuitsinvivo.Nat.Methods
+etal.(2019).Ultrafasttwo-photonimagingofahigh-gainvoltageindicator 15,1037–1040.doi:10.1038/s41592-018-0183-z
+inawakebehavingmice.Cell179,1590.e23–1608.e23.doi:10.1016/j.cell.2019. Zito,K.,Scheuss,V.,Knott,G.,Hill,T.,andSvoboda,K.(2009).Rapidfunctional
+11.004 maturationofnascentdendriticspines.Neuron61,247–258.doi:10.1016/j.
+Vrontou,S.,Wong,A.M.,Rau,K.K.,Koerber,H.R.,andAnderson,D.J.(2013). neuron.2008.10.054
+Geneticidentificationofcfibresthatdetectmassage-likestrokingofhairyskin Zong,W.,Wu,R.,Li,M.,Hu,Y.,Li,Y.,Li,J.,etal.(2017).Fasthigh-resolution
+invivo.Nature493,669–673.doi:10.1038/nature11810 miniaturetwo-photonmicroscopyforbrainimaginginfreelybehavingmice.
+Wang,F.,Bélanger,E.,Côté,S.L.,Desrosiers,P.,Prescott,S.A.,Côté,D.C.,etal. Nat.Methods14,713–719.doi:10.1038/nmeth.4305
+(2018).Sensoryafferentsusedifferentcodingstrategiesforheatandcold.Cell Zylka, M. J., Rice, F. L., and Anderson, D. J. (2005). Topographically distinct
+Rep.23,2001–2013.doi:10.1016/j.celrep.2018.04.065 epidermalnociceptivecircuitsrevealedbyaxonaltracerstargetedtomrgprd.
+Wang, H., and Zylka, M. J. (2009). Mrgprd-expressing polymodal nociceptive Neuron45,17–25.doi:10.1016/j.neuron.2004.12.015
+neurons innervate most known classes of substantia gelatinosa neurons.
+J.Neurosci.29,13202–13209.doi:10.1523/jneurosci.3248-09.2009 ConflictofInterest:Theauthorsdeclarethattheresearchwasconductedinthe
+Willis, W. D. (1985). Nociceptive pathways: anatomy and physiology of absenceofanycommercialorfinancialrelationshipsthatcouldbeconstruedasa
+nociceptiveascendingpathways.Philos.Trans.R.Soc.Lond.BBiol.Sci.308, potentialconflictofinterest.
+253–270.doi:10.1098/rstb.1985.0025
+Wilson,J.,Dombeck,D.,Diaz-Ross,M.,Harris-Warrick,R.,andBrownstone,R. Copyright © 2020 Harding, Fung and Bonin. This is an open-access article
+(2007). Two-photon calcium imaging of network activity in xfp-expressing distributedunderthetermsoftheCreativeCommonsAttributionLicense(CCBY).
+neurons in the mouse. J. Physiol. 97, 3118–3127. doi: 10.1152/jn.012 Theuse,distributionorreproductioninotherforumsispermitted,providedthe
+07.2006 originalauthor(s)andthecopyrightowner(s)arecreditedandthattheoriginal
+Wooten,M.,Weng,H.J.,Hartke,T.V.,Borzan,J.,Klein,A.H.,Turnquist,B.,etal. publicationinthisjournaliscited,inaccordancewithacceptedacademicpractice.
+(2014).Threefunctionallydistinctclassesofc-fibrenociceptorsinprimates. No use, distribution or reproduction is permitted which does not comply with
+Nat.Commun.5:4122.doi:10.1038/ncomms5122 theseterms.
+FrontiersinNeuralCircuits | www.frontiersin.org 21 June2020 | Volume14 | Article31

@@ -1,0 +1,844 @@
+NewResearch
+Cognition and Behavior
+Selective Activation of Cholecystokinin-
+Expressing GABA (CCK-GABA) Neurons
+Enhances Memory and Cognition
+Paul D. Whissell,1^ Jee Yoon Bang,2^ Ikram Khan,2 Yu-Feng Xie,3 Gustavo M. Parfitt,1 Martine
+Grenon,2 Nicholas W. Plummer,4 Patricia Jensen,4 Robert P. Bonin,3 and Jun Chul Kim1,2
+https://doi.org/10.1523/ENEURO.0360-18.2019
+1Psychology, 2Cell and Systems Biology, University of Toronto, Toronto, Ontario, Canada M5S 3G3, 3Leslie Dan
+Faculty of Pharmacy, University of Toronto, Toronto, Ontario, M5S 3M2, Canada, and 4Neurobiology Laboratory,
+National Institute of Environmental Health Sciences, National Institutes of Health, Department of Health and Human
+Services, Research Triangle Park, NC 27709
+Abstract
+Cholecystokinin-expressing GABAergic (CCK-GABA) neurons are perisomatic inhibitory cells that have been
+arguedtoregulateemotionandsculptthenetworkoscillationsassociatedwithcognition.However,nostudyhas
+selectively manipulated CCK-GABA neuron activity during behavior in freely-moving animals. To explore the
+behavioral effects of activating CCK-GABA neurons on emotion and cognition, we utilized a novel intersectional
+genetic mouse model coupled with a chemogenetic approach. Specifically, we generated triple transgenic
+CCK-Cre;Dlx5/6-Flpe;RC::FL-hM3Dq (CCK-GABA/hM3Dq) mice that expressed the synthetic excitatory hM3Dq
+receptor in CCK-GABA neurons. Results showed that clozapine-N-oxide (CNO)-mediated activation of CCK-
+GABAneuronsdidnotalteropenfield(OF)ortailsuspension(TS)performanceandonlyslightlyincreasedanxiety
+in the elevated plus maze (EPM). Although CNO treatment had only modestly affected emotional behavior, it
+significantly enhanced multiple cognitive and memory behaviors including social recognition, contextual fear condi-
+tioning, contextual discrimination, object recognition, and problem-solving in the puzzle box. Collectively, these
+findingssuggestthatsystemicactivationofCCK-GABAneuronsminimallyaffectsemotionbutsignificantlyenhances
+cognition and memory. Our results imply that CCK-GABA neurons are more functionally diverse than originally
+expectedandcouldserveasapotentialtherapeutictargetforthetreatmentofcognitive/memorydisorders.
+Key words: anxiety; cholecystokinin; cognition; GABA; memory; perisomatic
+Significance Statement
+Cholecystokinin-expressing GABAergic (CCK-GABA) neurons are thought to play an important role in
+pathologies such as schizophrenia, but their contributions to behavior in healthy states are poorly under-
+stood.HerewereportanovelmethodforselectivelytargetingCCK-GABAneuronsandmanipulatingtheir
+activity during behavioral tasks. Our data demonstrate that activating CCK-GABA neurons subtly affects
+emotional behavior but surprisingly enhances multiple memory and cognitive processes.
+Introduction modifying neuronal excitability and synaptic plasticity
+The inhibitory neurotransmitter gamma-aminobutyric (WigströmandGustafsson,1983;Sloviter,1991).GABAe-
+acid(GABA)criticallyregulatesinformationprocessingby rgic transmission contributes to multiple behaviors, in-
+ReceivedSeptember12,2018;acceptedJanuary23,2019;Firstpublished Authorcontributions:P.D.W.,J.Y.B.,andJ.C.K.designedresearch;P.D.W.,
+February11,2019. J.Y.B., I.K., Y.-F.X., G.M.P., M.G., R.P.B., and J.C.K. performed research;
+Theauthorsdeclarenocompetingfinancialinterests. N.W.P., P.J., R.P.B., and J.C.K. contributed unpublished reagents/analytic
+January/February2019,6(1)e0360-18.20191–15
+NewResearch 2of15
+cluding anxiety, fear, pain, memory, olfaction and social theory. Firstly, CCK-GABA cells are comparatively abun-
+interaction (Enna and McCarson, 2006; Makkar et al., dant (20–30% of all GABA neurons) in brain regions in-
+2010; Schmidt et al., 2014). Dysregulation of GABAergic volved in cognitive/memory processes, such as the
+transmission is a defining feature of many pathologies, medial prefrontal cortex, hippocampus and ventrolateral
+including schizophrenia, chronic pain, depression, and temporal cortex (Whissell et al., 2015). Second, CCK-
+Alzheimer’sdisease(Rissmanetal.,2003;EnnaandMc- GABA neurons are thought to orchestrate the theta fre-
+Carson,2006;Luscheretal.,2011;TaylorandTso,2015). quency network oscillations associated with cognitive
+GABAergic signaling is orchestrated by interneurons, a processes as they elicit slow, asynchronous inhibitory
+heterogenous cell population composed of many sub- events in their targets (Curley and Lewis, 2012; Nagode
+types differing in morphologic, electrophysiological and et al., 2014). Third, the presynaptic nerve terminals of
+neurochemicalpropertiesaswellasconnectivitypatterns CCK-GABA neurons are enriched with CB1 receptors
+(KepecsandFishell,2014).Thereiswidelybelievedtobe (Katonaetal.,1999),whichhavebeenimplicatedincog-
+a “division of labor” among these many interneurons, nition and memory as well as the neuroplasticity that
+whereindistinctsubtypesarespecializedforcertainfunc- accompaniestheseprocesses(Carlsonetal.,2002).Col-
+tions (Kepecs and Fishell, 2014). lectively, these remarkable features suggest CCK-GABA
+Interneurons expressing the neuropeptide cholecysto- neurons are well-positioned to regulate cognition and
+kinin (CCK; termed CCK-GABA neurons) are recognized memory.
+for their characteristic axonal projections, which ramify To gain better insight into the behavioral effects of
+enhanced CCK-GABA neuron activity, we selectively ac-
+extensivelyaroundtheperisomaticregions(i.e.,cellbody,
+tivatedthesecellsduringtestsofemotion,cognitionand
+proximaldendrites,andaxoninitialsegments)ofpostsyn-
+memory by using an intersectional genetic approach
+aptic pyramidal cells. It has been hypothesized that
+(Sciolino et al., 2016) coupled with the chemogenetic
+CCK-GABA neurons are functionally specialized for the
+technique (Armbruster et al., 2007). In our novel trans-
+regulation of emotional behaviors such as mood, anxiety
+genic line, the CCK-GABA/hM3Dq mouse, CCK-GABA
+and fear (Freund, 2003). Notably, CCK-GABA neurons
+neurons express the synthetic excitatory Gq-coupled
+expressseveralreceptorsubtypesinvolvedincontrolling
+hM3Dqreceptorwhichcanbeselectivelyactivatedbythe
+emotionalbehavior,including5-hydroxytryptaminetype3
+synthetic ligand, clozapine-N-oxide (CNO). To determine
+receptors(5-HT3)andcannabinoidtype1(CB1)receptors
+the behavioral effects of CCK-GABA neuron activation,
+(Morales and Bloom, 1997; Marsicano and Lutz, 1999).
+westudieddifferentemotionalandcognitivebehaviorsin
+Additionally,thepostsynaptictargetsofCCK-GABAneu-
+CCK-GABA/hM3Dq mice given CNO or vehicle injection.
+rons are enriched with (cid:2)2-containing GABA receptors,
+A WeobservedthatCCK-GABAneuronactivationminimally
+which regulate anxiety behaviors and the effects of anxi-
+affected emotional behavior but significantly enhanced
+olytic drugs (Freund, 2003). However, compelling evi-
+memory and cognition.
+dence for the role of CCK-GABA neurons in emotional
+behaviors has proven elusive, with studies producing
+Materials and Methods
+conflictingfindings(Truittetal.,2009;Brownetal.,2014;
+Schmidt et al., 2014; Bowers and Ressler, 2015). Animals
+An alternative and underappreciated possibility is that To generate triple transgenic CCK-Cre;Dlx5/6-Flpe;
+CCK-GABA cells play an influential role in cognitive and RC::FL-hM3Dqmice(termedCCK-GABA/hM3Dq(cid:2)mice),
+memoryprocesses.Severallinesofevidencesupportthis homozygousCCK-ires-Cremice(C57BL/6geneticback-
+ground,B6N.Cg-Ccktm1.1(cre)Zjh/J,JAX#019021)werefirst
+crossedwithhomozygousRC::FL-hM3Dqmice(C57BL/6
+tools;P.D.W.,J.Y.B.,Y.-F.X.,andR.P.B.analyzeddata;P.D.W.andJ.C.K.
+geneticbackground;Sciolinoetal.,2016).Subsequently,
+wrotethepaper.
+double transgenic CCK-Cre;RC::FL-hM3Dq mice were
+P.D.W.wasfundedbypost-doctoralfellowshipsfromtheNaturalSciences
+andEngineeringCouncilofCanada(NSERC)andtheCanadianInstitutesof crossed with Dlx5/Dlx6-FLPe mice (FVB/NC genetic
+HealthResearch(CIHR)throughtheSleepandBiologicalRhythmsProgram. background, Tg(mI56i-FLPe)39Fsh/J, JAX#010815) to
+J.C.K.wassupportedbytheNSERCDiscoveryGrantMOP491009andthe obtain triple transgenic mice having all three alleles (Cre,
+CIHRGrantMOP496401.G.M.P.wasfundedbythepostdoctoralfellowship
+hM3DqandFlpe).DoubletransgenicmicehavingCreand
+fromtheBrazilianNationalCouncilforScientificandTechnologicalDevelop-
+ment(CNPq).R.P.B.issupportedbyaCanadaResearchChairinSensory hM3Dq alleles but not the Flpe allele were referred to as
+PlasticityandReconsolidation,theUniversityofTorontoCentrefortheStudy CCK-GABA/hM3Dq- mice and used as age-matched lit-
+ofPainandanNSERCDiscoverygrant(RGPIN-2016-05538).P.J.andN.W.P. termatecontrols.Bothmaleandfemalemicewereusedin
+are supported by the Intramural Research Program of the United States
+experiments. Mice were group housed with ad libitum
+NationalInstitutesofHealth,NationalInstituteofEnvironmentalHealthSci-
+access to food and water in a temperature-controlled
+encesGrantZIA-ES102805.
+^P.D.W.andJ.Y.B.contributedequallytothiswork. room on a 12/12 h light/dark cycle. All behavioral testing
+Acknowledgements:WethankElenaSoukhovfortechnicalassistance. occurredduringthelightphase.Animalsunderwentmul-
+Correspondence should be addressed to Jun Chul Kim at tiple behavioral tests in the following order (starting with
+kim@psych.utoronto.ca.
+the least aversive test and proceeding to the most aver-
+https://doi.org/10.1523/ENEURO.0360-18.2019
+Copyright©2019 Whisselletal. sive test): open field (OF) test, elevated plus maze (EPM)
+This is an open-access article distributed under the terms of the Creative test,novelobjectrecognitiontest,puzzleboxtest,social
+CommonsAttribution4.0Internationallicense,whichpermitsunrestricteduse, interaction test, and fear conditioning test. As the fear
+distributionandreproductioninanymediumprovidedthattheoriginalworkis
+properlyattributed. conditioningtestresultedinlong-termchangesinanimal
+January/February2019,6(1)e0360-18.2019 eNeuro.org
+NewResearch 3of15
+behavior, a separate population of naïve animals was acquired images, regions of interest in the hippocampus
+used for the tail suspension (TS) test. In all behavioral andprefrontalcortexweredelineatedmanuallyaccording
+assays but the novel object recognition test, a between- to area definitions established by Paxinos and Franklin
+subjectdesignwasusedwhereinanimalswererandomly (2012). Automated cell counting of GFP-labeled and
+assigned to either the vehicle injection condition or drug mCherry-labeled cells in delineated brain regions was
+injection condition before the experiment began. In all performed using cellSens 1.7 software (Olympus). For
+branches of the novel object recognition test, which fol- each animal, we calculated the relative abundance of
+lowedawithin-subjectdesign,animalsweretestedtwice mCherry-labeledcellsforaregionofinterest((cid:3)mCherry-
+and received each injection. Experimental procedures labeledcells/[mCherry-labeledcells(cid:2)GFP-labeledcells])
+were in accordance with the guidelines of the Canadian byaveragingallvaluesforthatregionacrossallsections.
+Council on Animal Care and the local Animal Care Com- For colocalization experiments, images were captured
+mittee at University of Toronto. through a Quorum spinning disk confocal microscope
+(Zeiss)usinga20(cid:4)objectivelensandwereanalyzedwith
+Immunohistochemistry and image acquisition VolocitySoftware(PerkinElmer).AlexaFluor405,488,and
+Triple transgenic mice three to six months old were 594 (secondary antibody signals) were excited with the
+anesthetizedwithavertinandunderwenttranscardialper- 405-, 491-, and 561-nm laser, respectively.
+fusion with 0.1 M PBS (pH 7.4) followed by 4% parafor-
+Drugs
+maldehyde (PFA) in PBS. Extracted brains were placed
+CNOwasobtainedfromtheNIHasapartoftheRapid
+into 4% PFA at 4°C for 24 h and then transferred into a
+Access to Investigative Drug Program funded by the Na-
+PBS solution containing 30% sucrose at 4°C for 48 h.
+Afterward, brains were cut into 40 (cid:3)M sections using a tional Institute of Neurologic Disorders and Stroke
+(NINDS). CNO powder was dissolved in 20% dimethyl-
+cryostat(CM1520;Leica)maintainedat–20°C.Fromeach
+sulfoxide (DMSO)/saline to prepare a stock solution of 3
+brain,10sectionswereobtainedintheareaofthedorsal
+hippocampus (bregma (cid:3) –1.34 to –1.94 mm). mM. In behavioral experiments, mice were weighed daily
+beforebeingrandomlyassignedtoeitherCNOorvehicle
+In wide field microscopy experiments, tissue sections
+treatmentgroups.Unlessotherwisestated,alldruginjec-
+wererinsedwith0.1MPBSandblockedwith5%normal
+tions were given in the intraperitoneal cavity (cid:5)10 min
+donkeyserumin0.1%TritonX-100PBS(PBS-T)for1hat
+before each test. Mice in the CNO group received a 3
+room temperature. Sections were then incubated with
+mg/kginjectionofCNOwhereasmiceinthevehiclegroup
+chicken polyclonal anti-green fluorescent protein (GFP;
+receivedaDMSO/salineinjection.Theexperimentersgiv-
+1:1000; ab13970; Abcam) and rabbit polyclonal anti-
+ingtheinjectionsandtestingthemicewereblindedtothe
+mCherry (1:1000; ab167453; Abcam) primary antibodies
+drugcondition.ToensurethatCNOinjectionofananimal
+inPBS-Tfor48hat4°C.Thereafter,sectionswererinsed
+in one behavioral test did not confound the performance
+withPBS-TandincubatedwithAlexaFluor488-conjugated
+of that animal in another subsequent behavioral test, we
+donkey anti-chicken (1:1000; 703545145; Jackson Immu-
+made sure that different behavioral tests were separated
+noResearch) and Alexa Fluor 594-conjugated donkey anti-
+by at least 48 h. In electrophysiology experiments, a
+rabbit(1:1000;715515152;JacksonImmunoResearch)sec-
+concentration of 5 (cid:3)M CNO was used.
+ondary antibodies in PBS-T for 2 h at room temperature.
+Sections were then rinsed with PBS-T and mounted on
+Electrophysiology, tissue preparation
+Superfrost Plus slides (Fisher Scientific) and coverslipped Male CCK-GABA/hM3Dq(cid:2) and CCK-GABA/hM3Dq-
+with Aquamount (Polysciences Inc.). In experiments exam-
+micetwotothreemonthsoldwereused.Miceweredeeply
+iningcolocalizationofmCherrywithCCKandglutamicacid
+anesthetizedwithchloralhydrate(400mg/kg;i.p.)followed
+decarboxylase 67 (GAD67), sections were stained using a
+by transcardial perfusion with ice-cold solution containing:
+different procedure. During primary antibody staining, sec-
+50 mM sucrose, 92 mM NaCl, 15 mM D-glucose, 26 mM
+tions were incubated with goat anti-mCherry antibody (1:
+NaHCO ,5mMKCl,1.25mMNaH PO ,0.5mMCaCl ,mM
+3 2 4 2
+1000; AB0040; Sicgen), mouse anti-GAD67 antibody (1:
+7 MgSO , and 1 mM kynurenic acid that was oxygenated
+4
+1000;Mab5406;Millipore)andrabbitpolyclonalanti-CCK-8 with 95% O /5% CO . The brain was removed and trans-
+2 2
+antibody(1:1000;C2581;Sigma-Aldrich)inPBS-Tfor48h verse hippocampus slices (300 (cid:3)m) were cut with a vi-
+at4°C.Insecondaryantibodystaining,sectionswereincu- bratome(LeicaVT-1200S)andthereafterincubatedatroom
+bated in PBS-T with Alexa Fluor 594-conjugated donkey temperature in artificial CSF (aCSF) containing: 124 mM
+anti-goat antibody (1:1000; 705515147; Jackson Immu- NaCl, 3 mM KCl, 1.25 mM NaH PO , 1.3 mM MgCl , 2.6
+2 4 2
+noResearch), DyLight 488-conjugated donkey anti-mouse mM CaCl , 26 mM NaHCO , and 10 mM D-glucose (300–
+2 3
+antibody (1:1000; 715485150; Jackson ImmunoResearch), 310mOsm)thatwasoxygenatedwith95%O /5%CO .
+2 2
+andAlexaFluor405-conjugateddonkeyanti-rabbitantibody
+(1:1000;ab175651;Abcam)for2hatroomtemperature. Electrophysiology, recording
+Forcellcountingexperiments,imagesofbrainsections Hippocampal slices were perfused with aCSF at 2–3
+weregeneratedusinganFSX100fluorescentmicroscope ml/min. Cells were visually identified using a microscope
+(Olympus).AlexaFluor488and594signalswerecaptured (BX-51W1; Olympus) fitted with IR-DIC and X-Cite
+using a U-MWIBA3 filter cube (Ex460-495, Em510-550, LED120 fluorescence illumination (Excelitas Technolo-
+DM505) for Alexa Fluor 488 and a U-MWIG3 filter cube gies) filtered with FITC and TRITC cubes (Olympus) for
+(Ex530-550, Em575IF, DM570) for Alexa Fluor 594. In detection of mCherry expression in CCK-GABA/hM3Dq(cid:2)
+January/February2019,6(1)e0360-18.2019 eNeuro.org
+NewResearch 4of15
+cells.Therecordingpipettehadaresistanceof4–6M(cid:6). allowedpassageintothecenterchamber.Eachoftheleft
+Forcurrent-clampexperimentsthepipettewasfilledwith andrightchamberscontainedawirecage(11cmD(cid:4)11
+intracellular solution containing: 132.5 mM K-gluconate, cm H, 1 cm bar spacing). Before testing, mice were
+17.5 mM KCl, 10 mM HEPES, 0.2 mM EGTA, 2 mM habituated to the apparatus for 10 min (habituation trial).
+Mg-ATP, and 0.3 mM GTP (pH 7.25, 290 mOsm). For Afterward, the test mouse was placed in a holding cage
+voltage-clamp experiments where miniature IPSCs (mIP- whileanoveljuvenilemouse(23–35dofage)unfamiliarto
+SCs) were recorded, the intracellular solution contained: the test mouse was placed inside one of the wire cages.
+140mMCsCl,10mMHEPES,11mMEGTA,1mMCaCl , The test mouse was returned to the apparatus and the
+2
+2 mM MgCl , 2 mM tetraethylammonium chloride, and 4 time spent interacting with the stranger mouse was re-
+2
+mMMg-ATP(pH7.25,290mOsm).Neuronswereheldat corded (sociability trial, 10 min). Afterward, both mice
+–60 mV, and mIPSCs were recorded with TTX (0.2 (cid:3)m), wereremovedandplacedinseparateholdingcageswhile
+APV (50 (cid:3)M), and CNQX (10 (cid:3)m) added to the aCSF. theapparatuswascleanedwith70%ethanol.Themouse
+Spontaneous action potential frequency and resting from the sociability trial, now familiar to the test mouse,
+membrane potential were recorded in current clamp was then returned to one of the wire cages. A second
+mode.TTX(0.2(cid:3)m)wasaddedtotheaCSFfordetermi- novel mouse, completely unfamiliar to the test mouse,
+nation of resting membrane potential. Electrophysiologi- was then added in the opposite wire cage (social recog-
+cal recordings were amplified with Multiclamp 700A nition trial, 10 min). The test mouse was then returned to
+(Molecular Devices), filtered at 2 kHz, sampled 50 kHz, theapparatusandinteractiontimewiththe“familiar”and
+andanalyzedofflinewithClampfit10(MolecularDevices). “novel” mouse was measured manually by an experi-
+Stable 3-min recordings of mIPSCs were selected for menter blind to condition using a keystroke function in
+measuring mIPSC amplitude and frequency. Action po- Ethovision XT 11.5 software.
+tentialfrequencywasmeasuredbyaveragingthenumber
+ofspontaneousactionpotentialsovera5-minwindowat Fear conditioning and contextual fear discrimination
+baseline or after bath application of CNO.
+Aconditioningchamber(20cmL(cid:4)20cmW(cid:4)30cm
+H)withashockgridfloorconsistingofstainless-steelbars
+OF test (2 cm apart, diameter (cid:3) 2 mm) was used (Coulbourn
+Animals were placed in an OF box (50 cm L (cid:4) 50 cm Instruments). In every trial, the percentage of time spent
+W(cid:4)20cmH)for10min.The35(cid:4)35regioninthecenter “freezing”(absenceofmovementexceptrespiration)was
+of the arena was defined as the center whereas the re- scored using FreezeFrame software (Coulbourn Instru-
+mainder was defined as the periphery zone. Automated ments). The experiment took place over 3 d. On day 1,
+scoring of zone time and distance traveled was coordi- miceacquiredafearconditioningresponseinthetraining
+nated by an experimenter blind to condition using Etho- context (termed context A) by receiving 5 tone-shock
+vision XT 11.5 software. pairings over 480 s. Every acquisition trial began with a
+180-shabituationperiodwhereinthemouseexploredthe
+EPM chamber freely. At 160 s into the trial, a tone (70 dB,
+The 5 min test was conducted in a plus-shaped maze duration (cid:3) 20 s) was delivered. At 178 s into the trial, a
+composedoftwo“open”armswithoutwalls(30cmL(cid:4)5 mildfootshock(0.7mA,duration(cid:3)2s)wasdeliveredand
+cmW)andtwo“closed”arms(30cmL(cid:4)5cmW)enclosed co-terminated with the tone. A further four tone-signaled
+bywalls(10cmH)arrangedaroundacenterzone(5cmL(cid:4) footshocks were delivered at 240, 300, 360, and 420 s.
+5 cm W). Automated scoring of arm time, arm entries and After 480 s, the mouse was removed from the chamber
+distancetraveledwascoordinatedbyanexperimenterblind andreturnedtotheirhomecagefor24h.Onday2inthe
+toconditionusingEthovisionXT11.5software. morning (9–12 A.M.), contextual fear memory was mea-
+sured by re-exposing mice to context A. On day 2 in the
+TS test afternoon (12–3 P.M.), contextual discrimination was
+Thetesttookplaceinatallchamber(20cmL(cid:4)50cm
+measured by placing mice in a second context (context
+W (cid:4) 50 cm H). To prevent bending of the mouse’s tail A’) that was similar to context A but differed subtly in
+duringthetest,alightweightplasticcylinder(8cmlong,2 visualcues(lighting/wallpaper).Contextualdiscrimination
+g in weight) was placed around the tail base. Next, a was measured using the discrimination index (A’ vs A),
+length of adhesive tape (20 cm) was gently but firmly whichwasdefinedas:(FreezinginAonDay2)/(Freezing
+wrappedaroundthetail2cmfromthetailtip.Thislength inA’onDay2(cid:2)FreezinginAonDay2).Chamberswere
+of tape was then fixed to the roof of the chamber, sus- cleanedwith70%ethanolbetweenexposures.Onday3,
+pendingthemouseintheair.Thetestlasted6minandthe cuedfearconditioningwasmeasuredbyre-exposingthe
+time that the mouse spent immobile was scored by an mice to the tone in a novel chamber (context B) that
+experimenter blind to condition. differed significantly from context A in olfactory cues,
+visual cues and overall volume. In the cued fear condi-
+Social interaction test tioningtrial,miceweregiven180stoexplorethechamber
+The three-chambered sociability test was conducted before the tone was delivered for 300 s.
+under red light (3 lux) in a clear Plexiglas box with three
+compartments(40cmL(cid:4)20cmW(cid:4)40cmH)separated Novel object recognition
+by walls. The center-facing walls of the left and right Micewerehabituatedfor15mintothetestingchamber
+chamberscontainedanopening(5cmW(cid:4)40cmH)that (20 cm L (cid:4) 20 cm W (cid:4) 20 cm H) before the protocol
+January/February2019,6(1)e0360-18.2019 eNeuro.org
+NewResearch 5of15
+began. On the following day, each mouse was placed in Statistical analysis
+thechamberfor15minwithtwoidenticalobjects(FO1(cid:2) In all cases, we used a randomized experimental de-
+FO2; training phase). Afterward, the animal was either sign. All analysis was performed using GraphPad Prism
+placedinaholdingcagefor60min(short-termversion)or 6.0 for Windows. For electrophysiological experiments,
+returned to their home cage for 24 h (long-term version; theWilcoxonmatchedpairssignedranktestwasusedto
+delayphase).Duringthistime,thechamberwascleaned compare action potential frequency before and after ap-
+with 70% ethanol and one of the objects (FO2) was plication of CNO, while Student’s t tests (paired) were
+replaced with a novel object (NO). The mouse was then performed with significance set at p (cid:3) 0.05 for all other
+placedbackinthechamber(TestingPhase),andthetime analyses.Inbehavioralexperiments,ttestsweregenerally
+that it spent interacting with each object was measured. used but two-way ANOVA was employed in several
+Novel object preference (%) was calculated as (cid:3) NO cases. In OF and puzzle box experiments, two-way
+interaction/(FO1 interaction (cid:2) NO interaction) whereas ANOVAwasusedwithdrugasabetween-subjectsfactor
+totalinteractiontimewascalculatedas(cid:3)FO1interaction and time as a within-subjects factor. In OF and EPM
+(cid:2) NO interaction. A within-subject design was used experiments, two-way ANOVA was used with drug as a
+between-subjects factor and compartment as a within-
+wherein all animals were exposed to all four conditions
+subjects factor. Post hoc analysis for two-way ANOVA
+(vehicle/post-training, vehicle/pre-training, CNO/post-
+was performed using Sidak’s multiple comparison test
+training, and CNO/pre-testing) over a period of 8 d in a
+withsignificancesetatp(cid:3)0.05.Inallexperiments,cases
+counterbalanced order using different sets of objects. In
+withascoreofmorethantwoabsolutestandarddeviation
+the post-training injection condition, CNO injection was
+units from the mean were classified as outliers and ex-
+given immediately following training. In the pre-testing
+cluded from analysis. This criterion resulted in the exclu-
+injection condition, CNO injection was given 15 min be-
+sionofbetween0and1animalperexperiment.Allfigures
+fore the testing phase. Automated scoring was coordi- present data as mean (cid:8) SEM.
+nated by an experimenter blind to condition using
+Ethovision XT 11.5 software. Animals with an interaction Results
+time of (cid:7)3 s were excluded from analysis.
+Selective targeting of CCK-GABA neurons in the
+Puzzle box CCK-GABA/hM3Dq mouse line
+Theboxwasatwo-chamberedapparatusconsistingof ToselectivelytargetCCK-GABAneurons,weemployed
+a start area (58 (cid:4) 28 (cid:4) 28 cm3) that was brightly illumi- a dual recombinase-based (Cre and Flpe) intersectional
+nated and a goal area (14 (cid:4) 28 (cid:4) 28 cm3) that was approach (Awatramani et al., 2003; Dymecki and Kim,
+enclosed by walls and filled with bedding. Initially, the 2007; Taniguchi et al., 2011) where neuronal subtypes
+start area was connected to the goal area via a doorway are defined by overlapping expression of two genetic
+markers. A dual recombinase-responsive allele, RC::FL-
+and underpass. During the task, the passage to the goal
+hM3Dq(Sciolinoetal.,2016),wascombinedwithCreand
+area was obscured by obstacles of increasing difficulty.
+Flpe recombinase alleles, each driven by different pro-
+Thetasktookplaceover3dwiththreetrialsperday(D1:
+moters:CrebytheCCK(CCKergic)promoterandFlpeby
+trial 1–3, D2: trial 4–6, D3: trial 7–9). On the first day of
+theDlx5/6(forebrainGABAergic)intergenicenhancer(Mi-
+testing,animalswereplacedineitherthevehicleinjection
+yoshi et al., 2010). Mice that inherit all three alleles (Cre,
+group or CNO injection group and received the same
+FlpeandhM3Dq)weretermedCCK-GABA/hM3Dq(cid:2)mice
+injection once per day, 10 min before testing began. On
+whereasmiceinheritingonlytwoalleles(CreandhM3Dq)
+trial 1 (T1), the goal area was accessible through the
+were termed CCK-GABA/hM3Dq- mice. In CCK-GABA/
+doorway and underpass. On T2, the doorway was
+hM3Dq(cid:2) mice, neurons expressing Cre and Flpe (i.e.,
+blocked and the goal area was only accessible through
+CCK-GABA neurons) express the excitatory Gq-coupled
+the underpass (underpass task). This process was re-
+receptor hM3Dq fused to the reporter protein mCherry
+peated for T3 and T4. On T5, the doorway remained
+(Fig. 1A). In contrast, neurons expressing only Flpe (i.e.,
+blocked and the underpass was filled with corncob bed-
+nonCCK-GABA neurons) express the reporter protein
+ding. To enter the goal area, the mice would have to dig
+GFPbutnothM3Dqreceptors.CCK-GABA/hM3Dq-mice
+through this bedding (dig task). This process was re-
+donotexpressanyreporterproteinsorhM3Dqreceptors
+peated for T6 and T7. During T8, the doorway remained
+(Fig. 1B).
+blockedandtheunderpasswasinsteadfilledwithacard-
+To demonstrate that the intersectional approach per-
+boardplug(plugtask).Toenterthegoalarea,micewould mittedselectiveaccesstoCCK-GABAneurons,wequan-
+have to remove/rearrange this plug. This process was tifiedtheexpressionofmolecularmarkersconsistentwith
+repeated in T9. As T2, T5, and T8 involved the introduc- CCK-GABA neuron identity in brain sections from CCK-
+tion of a novel problem (underpass, dig task, and plug GABA/hM3Dq(cid:2) mice. Histologic examination confirmed
+task, respectively) analysis focused on these trials. In an abundance of mCherry-positive cells in the stratum
+between trials, mice were placed in a holding cage while radiatum (SR), the hippocampal layer where CCK-GABA
+the chamber was cleaned with 70% ethanol. All scoring neurons are most numerous (Fig. 1C; Whissell et al.,
+wasdonemanuallybyanexperimenterblindtocondition. 2015). The majority of mCherry positive neurons showed
+If a mouse failed to solve the task within 300 s, the trial immunoreactivityforCCK(79.0(cid:8)3.2%,n(cid:3)11;Fig.1D;
+was terminated and a time of 300 s was assigned. absolutecellcountsareshowninTable1),afindingwhich
+January/February2019,6(1)e0360-18.2019 eNeuro.org
+NewResearch 6of15
+Figure 1. Intersectional genetic approach for targeting hM3Dq receptors to CCK-GABA neurons. A, top, The dual recombinase-
+responsive RC::FL-hM3Dq allele is knocked-in to the Gt(ROSA)26Sor (R26) locus with CAG (chicken (cid:4)-actin and CMV enhancer)
+promoter elements. Middle, Flpe-mediated excision of the FRT (rectangles, denoted by F)-flanked stop cassette (STOP) permits
+expressionofGFP.TranscriptionofthemCherry-hM3Dqalleleispreventedbytheinvertedorientationofthesequenceandsecond
+stop cassette. Bottom, Subsequent Cre-mediated recombination of loxP (orange triangles) and lox2272 (blue triangles) sites
+constituting the Cre-dependent FLEX switch leads to the removal of the GFP sequences and second stop cassette as well as
+inversion of the hM3Dq-mCherry sequences into the proper orientation for transcription. Cells expressing Cre and Flpe therefore
+January/February2019,6(1)e0360-18.2019 eNeuro.org
+NewResearch 7of15
+continued
+expresshM3Dq-mCherrybutnotGFP.B,Venndiagramsillustratingintersectionalandsubtractivecellpopulationstargetedusingthe
+intersectionalgeneticapproach.TheDlx5/6-FlpealleleisspecifictoGABAergiccellsintheforebrain,whereastheCCK-Crealleleis
+specifictoCre-expressingcells.Inmiceinheritingallthreealleles(CCK-Cre;Dlx5/6-Flpe;RC::FL-hM3Dq),cellsexpressingbothCre
+andFlpealleles(i.e.,intersectionalpopulation)representCCK-GABAneuronsandexpresshM3Dq-mCherry.Cellsexpressingonlythe
+Flpe allele (i.e., subtractive population) represent nonCCK-GABA neurons and express only GFP. C, Low-magnification images
+showinghM3Dq-mCherry(cid:2)andGFP(cid:2)neuronsinthedorsalhippocampusofCCK-GABA/hM3Dq(cid:2)mice.Scalebar(cid:3)250(cid:3)m.D,
+ConfocalimagesoftheCA1SRinCCK-GABA/hM3Dq(cid:2)mice.mCherry(cid:2)cellsarelabeledinred,CCK(cid:2)cellsarelabeledinblue,and
+GAD67(cid:2) cells are labeled in green. Cells expressing all three markers (mCherry, CCK, and GAD67) represent likely CCK-GABA
+neurons.Scalebar(cid:3)25(cid:3)m.E,QuantificationofhM3Dq-mCherry(cid:2)andGFP(cid:2)cellsinthehippocampus(n(cid:3)4)andprefrontalcortex
+(n(cid:3)5)ofCCK-GABA/hM3Dq(cid:2)mice.ShownisthepercentageofhM3Dq-mCherry(cid:2)cellsoutofalllabeledcells.Scalebar(cid:3)500
+(cid:3)m.dCA1(cid:3)dorsalCA1,vCA1(cid:3)ventralCA1,dCA3(cid:3)dorsalCA3,vCA3(cid:3)ventralCA3,dDG(cid:3)dentategyrus,Cg(cid:3)cingulate,DP
+(cid:3)dorsalpeduncularcortex,IL(cid:3)infralimbiccortex,PL(cid:3)prelimbiccortex.Allfigurespresentdataasmean(cid:8)SEM.
+verified the selectivity of CCK-GABA neuron targeting. in CCK-GABA/hM3Dq(cid:2) and CCK-GABA/hM3Dq- mice.
+Next, we evaluated the efficacy of the intersectional All experiments were performed in the SR layer of the
+approach by determining the proportion of CCK-GABA hippocampus, where there is a relative abundance of
+neurons positive for mCherry expression. CCK-GABA CCK-GABA neurons available for whole-cell patch
+neurons in CCK-GABA/hM3Dq(cid:2) brain sections were op- clamp (Whissell et al., 2015).
+erationally defined as cells with immunoreactivity for the To determine whether CCK-GABA neurons could be
+molecular markers CCK and GAD67. Analysis showed reliably excited in our model, we examined the response
+thatofallneuronsshowingimmunoreactivityforCCKand ofputativeCCK-GABAneuronstoCNO,acompoundthat
+GAD67, the majority were also immunoreactive for selectively activates transgenic hM3Dq receptors (Arm-
+mCherry(73.6(cid:8)4.6%,n(cid:3)11;Fig.1D;Table1).Toverify bruster et al., 2007). It was expected that CNO (5 (cid:3)M)
+that the GABA neuron labeling in our mouse line was woulddepolarizeSRcellsinCCK-GABA/hM3Dq(cid:2)butnot
+comparable to that in other intersectional models (Whis- CCK-GABA/hM3Dq- mice. In CCK-GABA/hM3Dq(cid:2) mice,
+sell et al., 2015), we quantified mCherry(cid:2) neurons (likely we targeted mCherry(cid:2) neurons for whole-cell patch
+CCK-GABAneurons)andGFP(cid:2)neurons(nonCCK-GABA clamp (Fig. 2A) as our histologic data indicated that the
+neurons)inthehippocampusandprefrontalcortex.Con- majorityofthesecellsexpressedmarkersconsistentwith
+sistent with past reports, we observed that CCK-GABA CCK-GABAneuronidentity(Fig.1D).Consistentwithex-
+neurons accounted for (cid:5)22% of GABA neurons in the pectations,CNOsignificantlydepolarizedmCherry(cid:2)neu-
+hippocampal subregions and 19% of GABA neurons in rons (t (cid:3) 5.66, p (cid:3) 0.0024) and increased their firing
+(4)
+prefrontal cortex subregions (Fig. 1E; Table 1). Together, frequency(W(cid:3)45,p(cid:3)0.0039).Incontrast,CNOdidnot
+these data indicate that the CCK-GABA/hM3Dq line tar- affectmembranepotentialorfiringrateinmCherry-neu-
+gets CCK-GABA neurons with relatively high selectivity rons from CCK-GABA/hM3Dq- mice (all ps (cid:9) 0.40).
+and efficacy. We next verified that activation of hippocampal CCK-
+GABA neurons increased inhibition of their postsynaptic
+Selective chemogenetic activation of CCK-GABA targets, CA1 pyramidal neurons (Basu et al., 2013). CA1
+neurons in the hippocampus increases inhibition at pyramidalneuronswerepatchedandmIPSCsweremea-
+CA1 pyramidal neurons sured before and after CNO administration (Fig. 2B). In
+To verify that our model permitted selective activa- CCK-GABA/hM3Dq(cid:2) mice, CNO significantly increased
+tion of CCK-GABA neurons but not other cells, we thefrequency(t (cid:3)2.82,p(cid:3)0.037)butnotamplitude(p
+(5)
+conducted in vitro slice electrophysiology experiments (cid:9)0.92)ofmIPSCsinCA1pyramidalneurons.Incontrast,
+Table1.AbsolutecellcountsofmCherry-labeledandGFP-labeledcellsinthehippocampusandprefrontalcortexofhM3Dq(cid:2)
+mice
+mCherry-labeled GFP-labeled
+cells cells
+Absolutecount Absolutecount
+Mainregion Subregion Mean SEM Mean SEM
+Hippocampus dCA1 CA1,dorsal 31.4 8.8 94.8 15.5
+vCA1 CA1,ventral 22.9 3.2 87.0 19.5
+dCA3 CA3,dorsal 16.9 2.1 48.7 8.4
+vCA3 CA3,ventral 15.9 1.8 56.2 4.2
+dDG Dentategyrus,dorsal 15.1 6.7 73.7 17.0
+Frontalcortex Cg Cingulate 18.6 0.4 57.6 0.4
+DP Dorsalpenducular 8.4 0.1 37.8 0.6
+IL Infralimbic 10.8 0.4 56.6 0.9
+PL Prelimbic 23.8 0.3 133.3 1.4
+mCherry-labeledcellsrepresentprobableCCK-GABAneuronswhereasGFP-labeledcellsrepresentnonCCK-GABAneurons.
+January/February2019,6(1)e0360-18.2019 eNeuro.org
+NewResearch 8of15
+Figure 2. Selective activation of CCK-GABA neurons increases inhibition of CA1 pyramidal neurons in CCK-GABA/hM3Dq mice. A,
+Whole-cellpatch-clamprecordingsofCA1SRneuronsinCCK-GABA/hM3Dq- (top)andCCK-GABA/hM3Dq(cid:2) mice(bottom)withand
+without CNO. In SR neurons from CCK-GABA/hM3Dq(cid:2) mice only, the administration of CNO (5 (cid:3)M) significantly depolarized the
+membranepotential(n(cid:3)5)andincreasedfiringrate(n(cid:3)13).B,Whole-cellpatch-clamprecordingsfromCA1pyramidalcells(PCs)in
+CCK-GABA/hM3Dq-(top)andCCK-GABA/hM3Dq(cid:2)mice(bottom)withandwithoutCNO.InCA1PCneuronsfromCCK-GABA/hM3Dq(cid:2)
+only(n(cid:3)6),CNOincreasedthefrequencybutnotamplitudeofmIPSCs.Allfigurespresentdataasmean(cid:8)SEM.Theasteriskindicates
+statisticalsignificanceatthep(cid:7)0.05level.
+noeffectsofCNOonmIPSCfrequencyoramplitudewere test,CNOtreatmentdidnotchange%centertimeortotal
+observed in CA1 pyramidal neurons from CCK-GABA/ distance traveled (all ps (cid:9) 0.07; Fig. 3A). Similarly, CNO
+hM3Dq- mice (all ps (cid:9) 0.37). Collectively, these findings treatment did not change % open arm time in the EPM
+indicate that CNO selectively increases the excitability of (Fig.3B),whichisregardedasthemostreliableindicator
+putative CCK-GABA neurons and inhibition of CA1 pyra- of anxiety-like behavior (Walf and Frye, 2007). However,
+midal neurons in CCK-GABA/hM3Dq(cid:2) mice. CNOdidincrease%closedarmtime(two-wayinteraction
+of drug (cid:4) compartment, F (cid:3) 7.79, p (cid:3) 0.0011) a
+(2,50)
+Systemic activation of CCK-GABA neurons minimally finding which may reflect a subtle increase in anxiety. To
+affects anxiety but enhances memory ensure that this effect of CNO was mediated by hM3Dq
+To determine the effects of CCK-GABA neuron activa- receptors(MacLarenetal.,2016;Gomezetal.,2017),we
+tion on emotional behavior, we compared the perfor- tested the effects of the drug in CCK-GABA/hM3Dq-
+manceofvehicle-andCNO-treatedCCK-GABA/hM3Dq(cid:2) mice. We did not observe any effect of the drug in these
+miceintheOF,EPM,andTStests(Fig.3A–C).IntheOF animals(F (cid:3)0.29,p(cid:3)0.75;ExtendedDataFig.3-1).
+(2,36)
+January/February2019,6(1)e0360-18.2019 eNeuro.org
+NewResearch 9of15
+Figure3.CCK-GABA neuron activation minimally affects overall emotional behavior but enhances contextual fear memory. A,
+OFtest.CNO-treatedmice(red,n(cid:3)10)donotdifferfromvehicle-treatedmice(black,n(cid:3)9)incentertime,peripherytime,or
+distancetraveled.B,EPM.CNO-treatedmice(n(cid:3)13)showsignificantlyhigherclosedarmtimethanvehicle-treatedcontrols
+(n (cid:3) 14). However, open and center arm time was not significantly different between groups. C, TS test. Immobility time, an
+indicatorofbehavioraldespairanddepression-likebehavior,doesnotdifferbetweenvehicle-treated(n(cid:3)6)andCNO-treated
+animals(n(cid:3)7).D,Socialinteractiontest.Preferencefornovelmice,anindicatorofsocialrecognition,ishigherinCNO-treated
+animals (n (cid:3) 10) than vehicle controls (n (cid:3) 10). Interaction time is unaffected by CNO. E, Fear conditioning and contextual
+discrimination. Top, left, Experimental protocol. Top, right, CNO-treated (n (cid:3) 13) and vehicle-treated (n (cid:3) 11) animals show
+similar responses during training sessions. Bottom, left, Recall of contextual but not cued fear conditioning, as evidenced by
+percentage freezing, is significantly greater in CNO-treated mice. Bottom, right, CNO-treated mice show greater contextual
+discriminationthanvehicle-treatedmice.Allfigurespresentdataasmean(cid:8)SEM.BehavioraldatainhM3Dq-miceisgivenin
+Extended Data Figure 3-1. The asterisk indicates statistical significance at the p (cid:7) 0.05 level.
+January/February2019,6(1)e0360-18.2019 eNeuro.org
+NewResearch 10of15
+In the TS test (Fig. 3C), a measure of depression-like measure cued fear conditioning. This behavior was not
+behavior,CNOhadnoeffectonimmobilitytime(p(cid:9)0.67; affected by CNO (t (cid:3) 0.39, p (cid:3) 0.35). These results
+(11)
+Steru et al., 1985). Together, these results suggest that indicatedthatCCK-GABAneuronactivationenhancesthe
+CCK-GABAneuronactivationdoesnotaffectlocomotion retrieval of contextual fear memory.
+or depression-like behavior but mildly increases anxiety- To exclude the possibility that anxiety influenced the
+like behavior in CCK-GABA/hM3Dq(cid:2) mice. contextualfearmemoryinCCK-GABA/hM3Dq(cid:2)mice,we
+Subtle changes in anxiety may potentially affect other next measured contextual discrimination (Whissell et al.,
+behavioral functions in mice, including social behavior. 2013). In this task, mice are exposed to a novel context
+Accordingly, we next examined the effects of activating (A’) that is highly similar to the training context (A) in
+CCK-GABAneuronsinthethree-chamberedsocialinter- features. Mice with strong contextual memories show
+action test (Moy et al., 2004). In the first portion of this selectively increased freezing in the training context but
+test,amouseisexposedtoanovelconspecific.Interac- notthesimilarcontext.Incontrast,anxiousmicetypically
+tion time with this novel mouse is deemed to reflect show high freezing in both contexts due to fear-induced
+sociability but is constrained by anxiety (File and Hyde, stimulusgeneralization(Huckleberryetal.,2016).Memory
+1978).CNOtreatmentdidnotaffectinteractiontime(p(cid:9) performance in this task is evaluated using the discrimi-
+0.86; Fig. 3D), a finding which suggests that systemic nation ratio (d (cid:3) freezing in A/[freezing in A (cid:2) freezing in
+activation of CCK-GABA cells does not affect sociability A’], ranging from 0 to 1). Contextual discrimination is
+or anxiety. In the second phase of the social interaction notoriously difficult; mice may take 9 d or more to learn
+test, we examined the effects of CNO on social recogni- this behavior (Whissell et al., 2013). Surprisingly, CNO-
+tion. To demonstrate social recognition, a mouse must treated mice exhibited successful context discrimination
+exhibitapreferenceforanovelconspecificoverafamiliar after1doftraining(t (cid:3)1.98,p(cid:3)0.030;Fig.3E).These
+(22)
+conspecific (File and Hyde, 1978). Social recognition is results support the argument that enhanced fear condi-
+constrained by anxiety, but also involves memory pro- tioning with CCK-GABA neuron activation is due to en-
+cesses and is regulated by the hippocampus (Tanimizu hanced memory rather than increased anxiety.
+etal.,2017),abrainregionwhereCCK-GABAneuronsare
+relativelyabundant(Whisselletal.,2015).Surprisingly,we Activation of CCK-GABA neurons enhances novel
+found that CNO enhanced social recognition in CCK- object recognition
+GABA/hM3Dq(cid:2) mice (t (cid:3) 2.44, p (cid:3) 0.026) but not The above results suggested that CCK-GABA neuron
+(17)
+CCK-GABA/hM3Dq- mice (t (cid:3) 1.98, p (cid:3) 0.078; activation is associated with improved memory perfor-
+(11)
+Extended Data Fig. 3-1). These data suggest that the mance in several tasks. However, it was unclear how
+activationofCCK-GABAneuronsenhancessocialrecog- CCK-GABA neuron activation bolsters memory perfor-
+nition memory in CCK-GABA/hM3Dq(cid:2) mice without mance.Memoryprocessingisarguedtobecomposedof
+changing overall sociability. several stages, (acquisition, maintenance/consolidation
+If CCK-GABA neurons facilitated social recognition by andretrieval),eachofwhichmaybemodulatedbyCCK-
+enhancing memory processes, then activation of these GABA neuron activity. To determine if memory mainte-
+cells might also improve the performance of other mem- nance/consolidation or retrieval are modulated by CCK-
+orytasks.Accordingly,wedeterminedtheeffectsofCCK- GABA activity, we examined how CNO injection during
+GABA neuron activation on performance in the fear these stages affected memory in the novel object recog-
+conditioningassay(Fig.3E;PhillipsandLeDoux,1992).In nition task (Fig. 4A; Warburton and Brown, 2015).
+this test, the animal learns to associate a stimulus (either Inthistask,themouseisplacedinanarenawhereitis
+atoneorcontext)withanaversiveexperience(anelectric allowed to interact with two identical objects (training;
+footshock). After multiple pairings between this stimulus where object memories are acquired). In the second
+and the aversive experience, the animal acquires a con- phase, the mouse is removed from the arena for 1 h
+ditionedresponse(freezing)tothestimulus.Thisfreezing (post-training; where memories are maintained/consoli-
+response is termed conditioned fear and is indicative of dated). In the third phase, the mouse is returned to the
+learning. Given that our earlier results showed an en- arena, which now includes a familiar object from the
+hancement in social recognition, we expected that con- training phase and a novel object (testing; where object
+ditioned fear in CCK-GABA/hM3Dq(cid:2) mice would be memoriesareretrieved).Micethathaveastrongmemory
+enhanced by CNO. of the familiar object show a preference for the novel
+During the training session, vehicle- and CNO-treated objectandinteractwithitmorefrequently.Todiscernthe
+miceshowedsimilarlevelsoffreezing(p(cid:9)0.54;Fig.3E). effects of CNO on different phases of memory process-
+Thisfindingsuggestedthatacquisitionofconditionedfear ing,CCK-GABA/hM3Dq(cid:2)miceweregivendruginjections
+was comparable in both groups. Twenty-four hours after in the post-training or pre-testing period. We expected
+training, mice were given a second CNO injection and that the pre-testing injection of CNO would enhance ob-
+re-exposedtothetrainingcontexttomeasurecontextual ject preference in the novel object recognition test, as
+fearmemory.Interestingly,freezingtothetrainingcontext pre-testing injection of CNO enhanced the retrieval of
+wasgreaterinCNO-treatedmice(t (cid:3)1.90,p(cid:3)0.036), contextual fear memory in the fear conditioning task.
+(22)
+suggesting enhanced contextual fear memory retrieval. Post-traininginjectionsdidnotaffectnovelobjectpref-
+Thenextday(48haftertraining),miceweregivenathird erence(p(cid:9)0.34),buttendedtoreduceobjectinteraction
+CNO injection and re-exposed to the auditory tone to (p (cid:3) 0.053; Fig. 4B). The failure of post-training CNO to
+January/February2019,6(1)e0360-18.2019 eNeuro.org
+NewResearch 11of15
+Figure4.SelectiveactivationofCCK-GABAneuronsenhancesnovelobjectrecognitionmemory.A,Experimentalprotocolshowing
+training (15 min), delay (1 or 24 h), and testing (15 min) phases. Post-training injections were given immediately following training,
+whereaspre-testinginjectionsweregiven15minbeforetesting.B,Post-trainingCNOinjectiondidnotaffectnovelobjectpreference
+(n(cid:3)11)buttendedtoreduceinteractiontime.C,Inthe1-hprotocol,pre-testingCNOinjectionincreasednovelobjectpreference
+(n(cid:3)12)butdidnotaffectinteractiontime.D,Inthe24-hprotocol,pre-testingCNOinjectionincreasednovelobjectpreference(n
+(cid:3)12)butnotaffectinteractiontime.Allfigurespresentdataasmean(cid:8)SEM.BehavioraldatainhM3Dq-miceisgiveninExtended
+DataFigure3-1.Theasteriskindicatesstatisticalsignificanceatthep(cid:7)0.05level.
+January/February2019,6(1)e0360-18.2019 eNeuro.org
+NewResearch 12of15
+Figure5.SelectiveactivationofCCK-GABAneuronsenhancesperformanceinthepuzzleboxtest.A,Cartoonofthepuzzleboxtest
+showingalltrialsinwhichanewobstacleisintroduced(trial2:underpass;trial5:dig;trial8:plug).Inthesetrials,themousemust
+acquireanewstrategytoescapefromthestartareaintothegoalarea.B,left,EscapelatencyofCNO-(n(cid:3)11)andvehicle-treated
+(n (cid:3) 14) CCK-GABA/hM3Dq mice in all nine trials of the puzzle box test. Lower escape latencies indicate better performance.
+CNO-treatedmiceshowsignificantlylowerescapelatencyonlyintrial8(plugtask).B,right,EscapelatenciesforCNO-treatedand
+Veh-treatedmiceinallnovelobstacletrials(underpass,dig,andplugtask).Allfigurespresentdataasmean(cid:8)SEM.Behavioraldata
+inhM3Dq-miceisgiveninExtendedDataFigure3-1.Theasteriskindicatesstatisticalsignificanceatthep(cid:7)0.05level.
+enhance object recognition does not support the notion 4). However, an interesting question is whether CCK-
+that CCK-GABA neuron activation affects memory main- GABA neuron activation enhances performance in a
+tenance/consolidation. The pre-testing injection was cognitivetaskthatdoesnotdirectlydependonmemory
+given 15 min before testing, as CNO takes (cid:5)15 min to processes.
+reach peak levels in plasma (Guettier et al., 2009). In To determine the effects of CCK-GABA neuron activa-
+contrast,pre-testingCNOinjectionsignificantlyincreased tiononcognitiveperformance,wesubjectedCCK-GABA/
+novelobjectpreference(t (cid:3)1.78,p(cid:3)0.05)butdidnot hM3Dq(cid:2) mice to the puzzle box test. This assay is
+(11)
+affectobjectinteraction(p(cid:9)0.22;Fig.4C).Thememory- regarded as an animal model of executive function, cog-
+enhancing effects of pre-testing CNO required the ex- nitiveflexibilityandproblemsolving.Thetesttakesplace
+pression of hM3Dq receptors, as CCK-GABA/hM3Dq- in a two-chambered apparatus: one chamber is brightly
+mice were unaffected by CNO (t (cid:3) 0.75, p (cid:3) 0.23; illuminatedandexposedtoair(“startarea”),whereasthe
+(12)
+Extended Data Fig. 3-1). Collectively, these results sug- other chamber is enclosed by walls and filled with bed-
+gested that CCK-GABA neuron activation enhances the ding(“goalarea”;Fig.5A).Themousebeginsinthestart
+retrieval of memories acquired 1 h earlier. To verify that area and must navigate to the goal area to complete the
+CCK-GABAneuronactivationalsoenhancedtheretrieval task.However,overaseriesoftrials,thepathtothegoal
+oflong-termmemories,weinvestigatedtheeffectofCNO areaisblockedbyaseriesofincreasinglydifficultobsta-
+on object recognition measured 24 h after training. Con- cles.Toreachthegoalarea,micemustdevelopstrategies
+sistent with our previous result, CNO enhanced object toovercometheseobstacles.Intrial2,micemustlearnto
+recognition measured 24 h after training in CCK-GABA/ use an underpass (underpass task). In trial 5, the under-
+hM3Dq(cid:2) mice (t (cid:3) 2.13, p (cid:3) 0.028) but did not affect passisblockedwithbeddingandmicemustdigthrough
+(11)
+interaction time (p (cid:3) 0.34; Fig. 4D). thisbedding(digtask).Intrial8,theunderpassisblocked
+withaplugandmicemustremovethisplug(plugtask).As
+Activation of CCK-GABA neurons enhances theobstacleineachofthesetrials(T2,T5,andt8)isnovel,
+performance in the puzzle box test a mouse cannot rely on a previously learned strategy (or
+TheaboveresultsshowedthattheactivationofCCK- memory)andmustdevelopanewapproachtotheprob-
+GABAneuronsenhancedperformanceinthreedifferent lem. If CCK-GABA neuron activation enhanced cognitive
+memory assays: social recognition, contextual fear function, it is likely that CNO-treated mice would com-
+conditioning and novel object recognition (Figs. 3D,E, plete trials more quickly than vehicle-treated mice. In-
+January/February2019,6(1)e0360-18.2019 eNeuro.org
+NewResearch 13of15
+deed, CNO-treated mice generally performed all three Additionally, CCK-GABA neurons may contribute to
+tasksmorequicklythanvehicle-treatedmice(maineffect memory processes via effects on other forms of network
+ofdrug,F (cid:3)4.70,p(cid:3)0.041;Fig.5B).However,post processing.Mostnotably,CCK-GABAneuronsmaycon-
+(1,23)
+hoc analysis indicated that CNO-treated mice only per- tribute to the generation of theta oscillations, which are
+formed significantly better than vehicle-treated controls linkedtocognitionandmemory(CurleyandLewis,2012).
+ontheplugtask(T8;Fig.5B).Thisenhancedperformance Inhibition of a GABAergic cell population which includes
+wasnotduetoCNOspecifically,asCCK-GABA/hM3Dq- CCK-GABA neurons impairs theta oscillations in the cor-
+micedidnotrespondtothedrug(F (cid:3)2.74,p(cid:3)0.13; texandhippocampus(Nagodeetal.,2014;Nguyenetal.,
+(1,9)
+Extended Data Fig. 3-1). These data support the notion 2014),aneffectassociatedwithimpairedmemory(Raver
+thatCCK-GABAneuronactivationfacilitatesgeneralcog- and Keller, 2014). Accordingly, several of the behavioral
+nitive function as well as memory performance. effects shown here may be explained by CCK-GABA
+neuron-mediated sculpting of cortical oscillations. As we
+Discussion did not examine cortical oscillations here, this exciting
+Inthepresentstudy,weusedadual-recombinasestrat- possibility may be addressed in future studies.
+egytoselectivelyactivateCCK-GABAneuronsduringan Our model, which permits CCK-GABA neuron activa-
+arrayofemotionalandcognitivebehaviors.Histologicand tionviahM3Dqreceptors,doesnotallowforthespecific
+electrophysiological data showed highly effective target- control of CCK or GABA release from these cells. How-
+ing and CNO-mediated activation of CCK-GABA cells, ever,itismostlikelythatCCKandGABAneurotransmis-
+respectively. Behavioral data revealed that the activation sion jointly contribute to our behavioral effects. Most
+of CCK-GABA neurons enhances memory and cognitive notably, the cluster of behaviors affected in this study
+performance in CCK-GABA/hM3Dq(cid:2) mice with minimal differs considerably from those previously linked to
+effectsonanxiety.AsarecentstudyshowedthatCNOis GABAergic transmission in CCK-GABA neurons (Brown
+convertedtoclozapineandclozapinecanaffectthebrain et al., 2014; Schmidt et al., 2014). In one transgenic
+withoutbindingtohM3Dqreceptors(Gomezetal.,2017), model, GABA synthesis was inhibited in CB1 receptor-
+expressingcells(Brownetal.,2014)themajorityofwhich
+we also investigated whether CNO had effects that were
+are CCK-GABA neurons (Marsicano and Lutz, 1999). In
+not dependent on hM3Dq receptors. As we did not ob-
+serve any effects of CNO in CCK-GABA/hM3Dq- mice, it contrasttoourfindings,thismanipulationenhancedcued
+fear but did not affect contextual fear learning (Brown
+is most likely that our behavioral effects are mediated by
+etal.,2014).Inanotherreport,inhibitionofGABAsynthe-
+the activation of hM3Dq receptors expressed in CCK-
+sisinCCK-expressingcellsdisruptedolfactionandloco-
+GABA cells.
+motion but not recognition memory or anxiety (Schmidt
+To our knowledge, this is the first report which directly
+etal.,2014).Whilethesemodelsandourownaredifferent
+reveals a selective contribution of CCK-GABA neuron
+in the extent and direction to which they manipulate
+activity to enhancement of cognitive performance. How
+GABA release (Brown et al., 2014; Schmidt et al., 2014),
+might CCK-GABA neuron activation facilitate cognition
+theyillustratethatGABAreleaseaccommodatesonlypart
+and memory? The signaling by CCK-GABA neurons is
+ofCCK-GABAneuronfunctionality.Notably,CCKrelease
+complexasitinvolvesboththeinhibitoryneurotransmitter
+from CCK-GABA neurons may be linked to the subtle
+GABA and the neuropeptide CCK, which tends to be
+increase in anxiety-like behaviors observed in our study
+excitatory (Lee et al., 2011). In the hippocampus, the
+and other models (Bowers and Ressler, 2015). As CCK
+release of GABA from CCK-GABA neurons inhibits CA1
+and GABA signaling interact in vivo (Lee et al., 2011) it
+pyramidalcells(Basuetal.,2013)whereasthereleaseof
+may be impractical to separate them experimentally.
+CCKexcitesparvalbumin-expressingGABAneurons(Lee
+An important consideration is that the CCK-GABA/
+et al., 2011). As parvalbumin-expressing GABA neurons
+hM3Dqmodelusedherepermitsonlyglobalactivationof
+also inhibit CA1 pyramidal cells, both these effects may
+CCK-GABA neurons. As CNO was injected in the intra-
+ultimately increase inhibitory tone within the hippocam-
+peritonealcavityandprocessedsystemically,itactivates
+pus. Several studies have demonstrated that inhibitory
+CCK-GABAneuronsacrosstheentireforebrain.Although
+tone supports hippocampus-dependent memory pro-
+multiple CCK-GABA neuron populations may contribute
+cesses, including contextual discrimination (Whissell to the behaviors studied here, we propose that CCK-
+et al., 2013; Engin et al., 2015), a behavior which was GABA neurons in the hippocampus play an important
+increasedbyCCK-GABAneuronactivationinthepresent role.Importantly,ourelectrophysiologicaldatashowsthat
+study.Contextualdiscriminationisthoughttorequirethe CCK-GABA neuron activation is associated with in-
+orthogonalrepresentationofcontextualmemoriesinnon- creased inhibition of CA1 pyramidal neurons in the hip-
+overlappingpopulationsofneurons(Aimoneetal.,2011). pocampus. Many behaviors enhanced by CCK-GABA
+By increasing inhibition, CCK-GABA neurons may effec- neuron activation (including contextual discrimination,
+tivelyreduce“noise”inthehippocampus,makingitpos- contextualfearconditioningandpuzzleboxperformance)
+sible to encode orthogonal memories that are easily are regulated by the hippocampus (Phillips and LeDoux,
+discriminated. Through their inhibitory actions in the hip- 1992; Frankland et al., 1998; Ben Abdallah et al., 2011).
+pocampus,CCK-GABAneuronsmayplayarolein“signal CNO-mediated enhancement of performance in these
+amplification” by enhancing the signal-to-noise ratio at tasksmayarisefromalteredhippocampalnetworkbehav-
+the network level (Bartos and Elgueta, 2012). ior,asarecentstudyfoundthatdisruptionofCCK-GABA
+January/February2019,6(1)e0360-18.2019 eNeuro.org
+NewResearch 14of15
+neuron wiring in the hippocampus was associated with LippHP,GassP(2011)Thepuzzleboxasasimpleandefficient
+abnormal neuronal oscillations, dysregulated spatial behavioraltestforexploringimpairmentsofgeneralcognitionand
+executivefunctionsinmousemodelsofschizophrenia.ExpNeurol
+memory encoding and impaired learning (Del Pino et al.,
+227:42–52.CrossRefMedline
+2017).Similarly,othershaveshownthatindirectinhibition
+BowersME,ResslerKJ(2015)Interactionbetweenthecholecysto-
+ofCCK-GABAneuronsintheCA1regionalteredcontex-
+kininandendogenouscannabinoidsystemsincuedfearexpres-
+tual fear conditioning and object recognition (Basu et al., sionandextinctionretention.Neuropsychopharmacology40:688–
+2016). Although hippocampal CCK-GABA neurons are 700.CrossRefMedline
+likelyinvolvedinourbehavioraleffects,itisalsopossible BrownJA,HorváthS,GarbettKA,SchmidtMJ,EverheartM,Gellért
+that other CCK-GABA populations contribute. CCK- L, Ebert P, Mirnics K (2014) The role of cannabinoid 1 receptor
+expressing interneurons in behavior. Neurobiol Dis 63:210–221.
+GABA neurons in the medial prefrontal and perirhinal
+CrossRefMedline
+cortex (Whissell et al., 2015) may be particularly relevant
+CarlsonG,WangY,AlgerBE(2002)Endocannabinoidsfacilitatethe
+to the enhanced recognition memory observed in CNO- induction of LTP in the hippocampus. Nat Neurosci 5:723–724.
+treatedCCK-GABA/hM3Dqmice,asrecognitionmemory CrossRefMedline
+depends on these areas (Warburton and Brown, 2015). Curley AA, Lewis DA (2012) Cortical basket cell dysfunction in
+Ultimately,functionalcharacterizationofindividualpopu- schizophrenia.JPhysiol590:715–724.CrossRefMedline
+DelPinoI,Brotons-MasJR,Marques-SmithA,MarighettoA,FrickA,
+lations of CCK-GABA neurons will require a comprehen-
+Marin O, Rico B (2017) Abnormal wiring of CCK(cid:2) basket cells
+sive, region-specific approach. In this regard, selective
+disruptsspatialinformationcoding.NatNeurosci20:784–792.
+delivery of CNO to individual brain regions through can-
+DymeckiSM,KimJC(2007)Molecularneuroanatomy’s“threeGs”:a
+nulation may be productive. primer.Neuron54:17–34.CrossRefMedline
+SeveraldisordersmayinvolvedisruptionofCCK-GABA EgganSM,HashimotoT,LewisDA(2008)Reducedcorticalcanna-
+neuron signaling, including chronic stress (Reich et al., binoid 1 receptor messenger RNA and protein expression in
+2013) and schizophrenia (Curley and Lewis, 2012). In the schizophrenia. Arch Gen Psychiatry 65:772–784. CrossRef Med-
+line
+case of schizophrenia, evidence suggests that dysregu-
+Engin E, Zarnowska ED, Benke D, Tsvetkov E, Sigal M, Keist R,
+lated CCK-GABA neuron signaling may contribute to the
+Bolshakov VY, Pearce RA, Rudolph U (2015) Tonic inhibitory
+pathogenesis of the disorder (Curley and Lewis, 2012; control of dentate gyrus granule cells by (cid:2)5-containing GABAA
+Nguyen et al., 2014). In human studies of schizophrenia receptors reduces memory interference. J Neurosci 35:13698–
+and animal models of the disorder, there is reduced ex- 13712.CrossRefMedline
+pressionofCCKandCB1receptormarkers(Egganetal., EnnaSJ,McCarsonKE(2006)TheroleofGABAinthemediationand
+perceptionofpain.AdvPharmacol54:1–27.CrossRefMedline
+2008; Hashimoto et al., 2008) as well as suppression of
+FileSE,HydeJR(1978)Cansocialinteractionbeusedtomeasure
+the cortical rhythms mediated by CCK-GABA neurons
+anxiety?BrJPharmacol62:19–24.CrossRefMedline
+(Raver and Keller, 2014). Our data support a role for the Frankland PW, Cestari V, Filipkowski RK, McDonald RJ, Silva AJ
+dysregulationofCCK-GABAactivityincognitivedysfunc- (1998) The dorsal hippocampus is essential for context discrimi-
+tion associated with these disorders. If disrupted CCK- nation but not for contextual conditioning. Behav Neurosci 112:
+GABAneuronsignalingcontributestothepathogenesisof 863–874.CrossRefMedline
+schizophrenia, then activation of CCK-GABA neurons Freund TF (2003) Interneuron diversity series: rhythm and mood in
+perisomatic inhibition. Trends Neurosci 26:489–495. CrossRef
+might prove therapeutic. The CCK-GABA/hM3Dq model
+Medline
+provides a useful strategy for testing this possibility.
+GomezJL,BonaventuraJ,LesniakW,MathewsWB,Sysa-ShahP,
+RodriguezLA,EllisRJ,RichieCT,HarveyBK,DannalsRF,Pomper
+References MG, Bonci A, Michaelides M (2017) Chemogenetics revealed:
+DREADDoccupancyandactivationviaconvertedclozapine.Sci-
+Aimone JB, Deng W, Gage FH (2011) Resolving new memories: a ence357:503–507.CrossRefMedline
+criticallookatthedentategyrus,adultneurogenesis,andpattern GuettierJM,GautamD,ScarselliM,RuizdeAzuaI,LiJH,Rosemond
+separation.Neuron70:589–596.CrossRefMedline E, Ma X, Gonzalez FJ, Armbruster BN, Lu H, Roth BL, Wess J
+ArmbrusterBN,LiX,PauschMH,HerlitzeS,RothBL(2007)Evolving (2009)Achemical-geneticapproachtostudyGproteinregulation
+the lock to fit the key to create a family of G protein-coupled ofbetacellfunctioninvivo.ProcNatlAcadSciUSA106:19197–
+receptorspotentlyactivatedbyaninertligand.ProcNatlAcadSci 19202.CrossRefMedline
+USA104:5163–5168.CrossRefMedline Hashimoto T, Arion D, Unger T, Maldonado-Avilés JG, Morris HM,
+AwatramaniR,SorianoP,RodriguezC,MaiJJ,DymeckiSM(2003) VolkDW,MirnicsK,LewisDA(2008)AlterationsinGABA-related
+Crypticboundariesinroofplateandchoroidplexusidentifiedby transcriptomeinthedorsolateralprefrontalcortexofsubjectswith
+intersectional gene activation. Nat Genet 35:70–75. CrossRef schizophrenia.MolPsychiatry13:147–161.CrossRefMedline
+Medline HuckleberryKA,FergusonLB,DrewMR(2016)Behavioralmecha-
+Bartos M, Elgueta C (2012) Functional characteristics of nismsofcontextfeargeneralizationinmice.LearnMem23:703–
+parvalbumin- and cholecystokinin-expressing basket cells. J 709.CrossRefMedline
+Physiol590:669–681.CrossRefMedline KatonaI,SperlághB,SíkA,KäfalviA,ViziES,MackieK,FreundTF
+Basu J, Srinivas KV, Cheung SK, Taniguchi H, Huang ZJ, Siegel- (1999) Presynaptically located CB1 cannabinoid receptors regu-
+baum SA (2013) A cortico-hippocampal learning rule shapes in- late GABA release from axon terminals of specific hippocampal
+hibitorymicrocircuitactivitytoenhancehippocampalinformation interneurons.JNeurosci19:4544–4558.CrossRefMedline
+flow.Neuron79:1208–1221.CrossRefMedline KepecsA,FishellG(2014)Interneuroncelltypesarefittofunction.
+BasuJ,ZarembaJD,CheungSK,HittiFL,ZemelmanBV,Losonczy Nature505:318–326.CrossRefMedline
+A,SiegelbaumSA(2016)Gatingofhippocampalactivity,plasticity, Lee SY, Foldy C, Szabadics J, Soltesz I (2011) Cell-type-specific
+and memory by entorhinal cortex long-range inhibition. Science CCK2 receptor signaling underlies the cholecystokinin-mediated
+351:aaa5694.CrossRefMedline selective excitation of hippocampal parvalbumin-positive fast-
+Ben Abdallah NM, Fuss J, Trusel M, Galsworthy MJ, Bobsin K, spikingbasketcells.JNeurosci31:10993–10002.CrossRefMed-
+Colacicco G, Deacon RM, Riva MA, Kellendonk C, Sprengel R, line
+January/February2019,6(1)e0360-18.2019 eNeuro.org
+NewResearch 15of15
+LuscherB,ShenQ,SahirN(2011)TheGABAergicdeficithypothesis RissmanRA,Mishizen-EberzAJ,CarterTL,WolfeBB,DeBlasAL,
+ofmajordepressivedisorder.MolPsychiatry16:383–406.Cross- Miralles CP, Ikonomovic MD, Armstrong DM (2003) Biochemical
+RefMedline analysis of GABA(A) receptor subunits alpha 1, alpha 5, beta 1,
+MacLaren DA, Browne RW, Shaw JK, Krishnan Radhakrishnan S, beta 2 in the hippocampus of patients with Alzheimer’s disease
+KhareP,EspanaRA,ClarkSD(2016)ClozapineN-oxideadministra- neuropathology.Neuroscience120:695–704.CrossRefMedline
+tion produces behavioral effects in Long-Evans rats: implications Schmidt MJ, Horvath S, Ebert P, Norris JL, Seeley EH, Brown J,
+for designing DREADD experiments. eNeuro 3:ENEURO.0219- GellertL,EverheartM,GarbettKA,GriceTW,CaprioliRM,Mirnics
+16.2016.CrossRefMedline K(2014)Modulationofbehavioralnetworksbyselectiveinterneu-
+Makkar SR, Zhang SQ, Cranney J (2010) Behavioral and neural ronalinactivation.MolPsychiatry19:580–587.CrossRefMedline
+analysis of GABA in the acquisition, consolidation, reconsolida- SciolinoNR,PlummerNW,ChenYW,AlexanderGM,RobertsonSD,
+tion, and extinction of fear memory. Neuropsychopharmacology Dudek SM, McElligott ZA, Jensen P (2016) Recombinase-de-
+35:1625–1652.CrossRefMedline pendent mouse lines for chemogenetic activation of genetically
+MarsicanoG,LutzB(1999)Expressionofthecannabinoidreceptor definedcelltypes.CellRep15:2563–2573.CrossRefMedline
+CB1indistinctneuronalsubpopulationsintheadultmousefore- Sloviter RS (1991) Feedforward and feedback inhibition of hip-
+brain.EurJNeurosci11:4213–4225.CrossRefMedline pocampalprincipalcellactivityevokedbyperforantpathstimula-
+Miyoshi G, Hjerling-Leffler J, Karayannis T, Sousa VH, Butt SJ, tion:GABA-mediatedmechanismsthatregulateexcitabilityinvivo.
+Hippocampus1:31–40.CrossRefMedline
+BattisteJ,JohnsonJE,MacholdRP,FishellG(2010)Geneticfate
+SteruL,ChermatR,ThierryB,SimonP(1985)Thetailsuspension
+mappingrevealsthatthecaudalganglioniceminenceproducesa
+test: a new method for screening antidepressants in mice. Psy-
+largeanddiversepopulationofsuperficialcorticalinterneurons.J
+chopharmacology(Berl)85:367–370.CrossRefMedline
+Neurosci30:1582–1594.CrossRefMedline
+TaniguchiH,HeM,WuP,KimS,PaikR,SuginoK,KvitsianiD,FuY,
+Morales M, Bloom FE (1997) The 5-HT3 receptor is present in
+LuJ,LinY,MiyoshiG,ShimaY,FishellG,NelsonSB,HuangZJ
+different subpopulations of GABAergic neurons in the rat telen-
+(2011) A resource of Cre driver lines for genetic targeting of
+cephalon.JNeurosci17:3157–3167.CrossRefMedline
+GABAergic neurons in cerebral cortex. Neuron 71:995–1013.
+MoySS,NadlerJJ,PerezA,BarbaroRP,JohnsJM,MagnusonTR,
+CrossRefMedline
+Piven J, Crawley JN (2004) Sociability and preference for social
+TanimizuT,KenneyJW,OkanoE,KadomaK,FranklandPW,KidaS
+noveltyinfiveinbredstrains:anapproachtoassessautistic-like
+(2017)Functionalconnectivityofmultiplebrainregionsrequiredfor
+behaviorinmice.GenesBrainBehav3:287–302.CrossRefMed-
+the consolidation of social recognition memory. J Neurosci 37:
+line
+4103–4116.CrossRefMedline
+NagodeDA,TangAH,YangK,AlgerBE(2014)Optogeneticidenti-
+Taylor SF, Tso IF (2015) GABA abnormalities in schizophrenia: a
+fication of an intrinsic cholinergically driven inhibitory oscillator
+methodologicalreviewofinvivostudies.SchizophrRes167:84–
+sensitive to cannabinoids and opioids in hippocampal CA1. J
+90.CrossRefMedline
+Physiol592:103–123.CrossRefMedline
+Truitt WA, Johnson PL, Dietrich AD, Fitz SD, Shekhar A (2009)
+NguyenR,MorrisseyMD,MahadevanV,CajandingJD,WoodinMA,
+Anxiety-likebehaviorismodulatedbyadiscretesubpopulationof
+Yeomans JS, Takehara-Nishiuchi K, Kim JC (2014) Parvalbumin
+interneuronsinthebasolateralamygdala.Neuroscience160:284–
+and GAD65 interneuron inhibition in the ventral hippocampus 294.CrossRefMedline
+induces distinct behavioral deficits relevant to schizophrenia. J Walf AA, Frye CA (2007) The use of the elevated plus maze as an
+Neurosci34:14948–14960.CrossRefMedline assay of anxiety-related behavior in rodents. Nat Protoc 2:322–
+PaxinosG,FranklinK(2012)PaxinosandFranklin’stheMouseBrain 328.CrossRefMedline
+inStereotaxicCoordinates.SanDiego,CA:AcademicPress. WarburtonEC,BrownMW(2015)Neuralcircuitryforratrecognition
+PhillipsRG,LeDouxJE(1992)Differentialcontributionofamygdala memory.BehavBrainRes285:131–139.CrossRefMedline
+andhippocampustocuedandcontextualfearconditioning.Behav WhissellPD,RosenzweigS,LeckerI,WangDS,WojtowiczJM,Orser
+Neurosci106:274–285.CrossRefMedline BA(2013)(cid:5)-AminobutyricacidtypeAreceptorspromotememory
+RaverSM,KellerA(2014)Permanentsuppressionofcorticaloscil- and neurogenesis in the dentate gyrus. Ann Neurol 74:611–621.
+lationsinmiceafteradolescentexposuretocannabinoids:recep- CrossRefMedline
+tor mechanisms. Neuropharmacology 86:161–173. CrossRef Whissell PD, Cajanding JD, Fogel N, Kim JC (2015) Comparative
+Medline density of CCK- and PV-GABA cells within the cortex and hip-
+Reich CG, Mihalik GR, Iskander AN, Seckler JC, Weiss MS (2013) pocampus.FrontNeuroanat9:124.CrossRefMedline
+AdolescentchronicmildstressaltershippocampalCB1receptor- WigströmH,GustafssonB(1983)Facilitatedinductionofhippocam-
+mediated excitatory neurotransmission and plasticity. Neurosci- pallong-lastingpotentiationduringblockadeofinhibition.Nature
+ence253:444–454.CrossRefMedline 301:603–604.CrossRefMedline
+January/February2019,6(1)e0360-18.2019 eNeuro.org

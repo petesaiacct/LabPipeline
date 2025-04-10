@@ -1,0 +1,1185 @@
+ARTICLE
+Received21Mar2016 |Accepted 13May 2016 |Published 16Jun 2016 DOI:10.1038/ncomms11937 OPEN
+Hypothalamic CRH neurons orchestrate complex
+behaviours after stress
+Tama´s Fu¨zesi1, Nuria Daviu1, Jaclyn I. Wamsteeker Cusulin1, Robert P. Bonin2 & Jaideep S. Bains1
+Allorganismspossessinnatebehaviouralandphysiologicalprogrammesthatensuresurvival.
+Inordertohavemaximumadaptivebenefit,theseprogrammesmustbesufficientlyflexibleto
+account for changes in the environment. Here we show that hypothalamic CRH neurons
+orchestrate an environmentally flexible repertoire of behaviours that emerge after acute
+stress in mice. Optical silencing of CRH neurons disrupts the organization of individual
+behavioursafteracutestress.Thesebehaviouralpatternsshiftaccordingtotheenvironment
+afterstress,butthisenvironmentalsensitivityisbluntedbyactivationofPVNCRHneurons.
+These findings provide evidence that PVN CRH cells are part of a previously unexplored
+circuit that matches precise behavioural patterns to environmental context following stress.
+Overactivity in this network in the absence of stress may contribute to environmental
+ambivalence, resulting in context-inappropriate behavioural strategies.
+1DepartmentofPhysiologyandPharmacology,HotchkissBrainInstitute,CummingSchoolofMedicine,UniversityofCalgary,3330HospitalDriveNW,
+Calgary,Alberta,CanadaT2N4N1.2LeslieDanSchoolofPharmacy,UniversityofToronto,144CollegeStreet,Toronto,Ontario,CanadaM5S3M2.
+CorrespondenceandrequestsformaterialsshouldbeaddressedtoJ.S.B.(email:jsbains@ucalgary.ca).
+NATURECOMMUNICATIONS|7:11937|DOI:10.1038/ncomms11937|www.nature.com/naturecommunications 1
+ARTICLE
+NATURECOMMUNICATIONS|DOI:10.1038/ncomms11937
+I
+nallorganisms,aperceivedthreattriggersspecificbehavioural Although the same eight behaviours were observed, there
+changes and accompanying physiological responses to ensure wereanumberofdifferences:Specifically,therewasasignificant
+survival1,2.Theunderlyingcircuitryresponsiblefortheserapid increase in grooming (Fig. 1b–d, Supplementary Fig. 1a,b and
+defensive behaviours at the onset of stress has been studied Supplementary Movie 1), rearing (Fig. 1b,e,f) and walking
+extensively3,4. Less is known about the behaviours that follow (Fig. 1b,g,h). There was a significant decrease in digging and
+immediately after a stressful event. Current descriptions of these chewing. Surveying, sleeping and freezing were unaffected. We
+behaviours indicate that they are complex and disparate; they next focused on the temporal organization specifically of the
+include behaviours associated with environmental assessment, behaviours that were increased after stress. Before stress, these
+vigilance and risk avoidance (that is, locomotion, exploration, behaviours exhibited no discernable temporal bias or organiza-
+neophobia)5 but also behaviours that are self-directed and tion(Fig.1c–h);themediantimeforanygivenbehaviourwasnot
+seemingly ambivalent to external cues (that is, self-grooming)6–9. significantly different from the halftime (HT) of the observation
+Giventhebehaviouralpathologiesthatcandevelopafterexposure period (HT¼450s; Supplementary Fig. 1c–e). Furthermore,
+tostressful situations10, a clearerunderstandingof theunderlying grooming, rearing and walking all showed a linear cumulative
+neural circuitry controlling behaviours after an acute stress will increase during the observation period. After stress, the median
+provide a new framework for studying the germination of stress- timeforgroomingdidnotshiftfromHT(SupplementaryFig.1c).
+related disorders. There was, however, a significant shift in the median times for
+Here we used an acute, experimental stress (footshock) to rearing (Supplementary Fig. 1d) and walking (Supplementary
+launchthestressresponseandthenstudiedtheentirebehavioural Fig. 1e) towards the start of the observation period. These
+repertoire in different environmental contexts after the observations indicate that mice use the same behavioural palette
+termination of the stress. We hypothesized that individual of individual behaviours before and after stress, but the organi-
+behaviours after stress are part of a broader behavioural pattern zation of these behaviours and the time allocated to each beha-
+comprised of multiple behaviours11 that allows animals to viour is different. Specifically, immediately after stress, there is a
+return to spontaneous behaviours. We focused specifically on bias towards exploratory behaviours that wanes during the
+corticotropin-releasing hormone (CRH) cells of the observationperiodandareliableincreaseingroomingbehaviour.
+paraventricular nucleus (PVN) of the hypothalamus. These cells This analysis provides a template for a behavioural pattern
+are responsible for launching the endocrine component of the immediately after an acute stress, which can now be used to
+mammalianstressresponse12,butthereareindicationstheymay explore neural circuitry.
+also regulate complex behaviours after stress. This idea is
+supported by reports that electrical activation of PVN and
+surrounding regions initiates self-grooming7,8, a behaviour Photoinhibition of PVN CRHneurons after stress. The robust
+observed after stress in many species in both experimental and increaseingroomingafterstresshasbeenreportedpreviously7,18
+natural conditions8,9,13. The canonical view of PVN CRH and it has been suggested that PVN neurons may control the
+neurons as endocrine cells that initiate a hormonal cascade that precise timing of grooming with respect to other behaviours19.
+may require tens of minutes to affect brain circuits14 is at odds Other studies, however, report that PVN lesions fail to affect
+witharoleforthesecellsindrivingrapidbehavioursafterstress. groomingfollowingstress20.Todirectlyassessthecontributionof
+Amoreplausiblescenarioisthatinadditiontosendingterminal PVN CRH neurons in grooming and related behaviours after
+axons to the blood vessels in the median eminence, PVN CRH stress, we used mice expressing Archaerhodopsin 3.0 in CRH
+neurons also send collateral projections to neighbouring neurons (CRHArch3.0)21 to attenuate firing specifically in PVN
+hypothalamic regions15. These reports provide a plausible CRHneurons(Fig.2a–d).Theeffectsoflightonbehaviourwere
+alternative through which PVN CRH neurons may control always compared with control CRHeYFP mice22,23
+rapid behaviours after stress16. (Supplementary Movie 1). First, using brain slices, we
+Here we used cell-specific tools to directly target PVN CRH confirmed that delivery of yellow light reliably inhibited firing
+neurons17 and test the hypothesis that these neurons play a key in CRH neurons from CRHArch3.0 mice (frequency of action
+role in orchestrating complex behaviours after stress. Our potentials: 7.7±6.7% of baseline P¼0.0168, n¼5, repeated
+findings indicate that: (i) behaviours exhibit an organized measures one-way analysis of variance (ANOVA)). In addition,
+structure after stress; (ii) this organization has distinct, but we did not observe any rebound increases in activity of CRH
+flexibletemporalfeaturesthataresensitivetoPVNCRHneuron neuronsfollowingterminationofopticalinhibition(frequencyof
+activity and environment; (iii) There is a reciprocal relationship action potentials: 62.5±51.0% of baseline, P40.9999, n¼5,
+between environmental cues and PVN CRH neural activity in repeated measures one-way ANOVA). Next, mice were exposed
+controllingspecificbehaviours.Understandingthespecificnodes to footshock, and continuous yellow light was delivered into the
+that control the behavioural sequence after stress may offer PVN during HC observation for 15min (Fig. 2e, Supplementary
+uniqueinsightsthatfacilitateourunderstandingofhowthebrain Fig. 2a,b and Supplementary Movie 2). This decreased the time
+helps to re-set after stress. spent grooming (Fig. 2f–h and Supplementary Fig. 2c,d),
+increased time spent rearing (Fig. 2i–k and Supplementary
+Fig. 2e) and walking (Fig. 2l–n and Supplementary Fig. 2f). The
+Results temporal organization of these behaviours, however, was
+Quantifying multiple behaviours after stress. To examine the unaltered (Supplementary Fig. 3l–n). Other behaviours were
+effects of a single episode of stress (footshock) on mouse beha- unaffected by photoinhibition of CRH neurons (Supplementary
+viour, we first quantified all the behaviours in a 15-min obser- Fig. 2g–k). To determine whether the relative changes in total
+vation period in the homecage (HC). We were able to discern timespentonagivenbehaviourreflectedasimplere-allocationof
+eight distinct behaviours: surveying, grooming, digging, walking, timeorwhetherspecificbehaviourswerefavouredaftersilencing
+chewing, rearing, freezing and sleeping (Fig. 1a). These beha- CRH neurons, we examined the relative time spent rearing or
+vioursappearedrandomwithnoobviouspatternorbiasevident walkingafterremovingthetimeallocatedtogrooming.Therewas
+duringtheobservationperiod(Fig.1a–g).Anothergroupofmice a significant increase in fractional time rearing (Fig. 2k) and
+were transferred to a footshock chamber, subjected to a series of walking (Fig. 2n) indicating that these behaviours are
+footshocks and then returned to the HC for observation. preferentially increased after silencing PVN CRH neurons.
+2 NATURECOMMUNICATIONS|7:11937|DOI:10.1038/ncomms11937|www.nature.com/naturecommunications
+a
+Naive Stress
+1 1
+2 2
+3 3
+4 4
+5 5
+6 6
+7 7
+8 8
+9 9
+b
+Naive Stress
+c d
+Stress
+Naive
+0 15 0 15 0 15
+Time (min) Time (min) Time (min)
+e f
+0 15 0 15 0 15
+Time (min) Time (min) Time (min)
+g h
+0 15 0 15 0 15
+Time (min) Time (min) Time (min)
+)s(
+emiT
+ARTICLE
+NATURECOMMUNICATIONS|DOI:10.1038/ncomms11937
+Survey Groom Sleep Dig Walk Chew Rear Freeze
+800 NS 500 ** 800 NS 300 ** 400 ** 200 * 150 15 NS
+**
+600 400 600 300 150
+200 100 10 300
+400 400 200 100
+200
+100 50 5
+200 100 200 100 50
+0 0 0 0 0 0 0 0
+N S N S N S N S N S N S N S N S
+Groom
+Rear
+Walk
+Figure1|Distinctandtemporallyorganizedbehaviouralpatternsemergefollowingstress.(a)Quantificationofbehaviouralactivityin15-minepochsin
+homecage(HC)ofna¨ıvemiceandmiceimmediatelyafterfootshock.Eightdistinctbehavioursareevidentinna¨ıve(N,left)andstressed(S,right)mice.
+Eachrowrepresentsonemouse.(b)Grooming(na¨ıve:124.8±33.2s,n¼9versusstressed:294.0±33.4s,n¼9;P¼0.0024;t-test),rearing(na¨ıve:
+19.7±4.8s,n¼9versusstressed:64.7±10.0s,n¼9;P¼0.0012;t-test)andwalking(na¨ıve:76.4±14.2s,n¼9versusstressed:171.4±27.0s,n¼9;
+P¼0.0067;t-test)areincreasedafterstress.Timespentdigging(na¨ıve:122.5±28.9s,n¼9versusstressed:7.5±5.0s,n¼9;P¼0.0012;t-test)and
+chewing(na¨ıve:61.5±21.1s,n¼9versusstressed:14.0±7.4s,n¼9;P¼0.0492;t-test)aredecreased.Surveying(na¨ıve:369.9±65.1s,n¼9versus
+stressed:282.8±31.6s,n¼9;P¼0.2463;t-test),sleeping(na¨ıve:124.3±85.3s,n¼9versusstressed:59.5±44.4s,n¼9;P¼0.5096;t-test)and
+freezing(na¨ıve:0.6±0.6s,n¼9versusstressed:2.6±1.6s,n¼9;P¼0.2541;t-test)areunaffected.(c–h)Percentageofanimalsexhibitingstated
+behaviourateachtimepointandcumulativegraphsillustratingtherelativeextentofgrooming(c,d),rearing(e,f)andwalking(g,h).Scalebars:c–h,20%;
+NS,notsignificant;*Po0.05;**Po0.01;Errorbars±s.e.m.
+NATURECOMMUNICATIONS|7:11937|DOI:10.1038/ncomms11937|www.nature.com/naturecommunications 3
+Since stress increases circulating glucocorticoids (CORT)12, we (Supplementary Fig. 3d). To assess the role of PVN CRH
+probedthepotentiallinkbetweenCORTandgrooming.Blocking neuronsintheregulationofbehaviourintheabsenceofstress,we
+CORTsynthesis1hbeforefootshockbluntedCORTincreasesin silenced the CRH neurons of na¨ıve mice. We observed no
+response to footshock (Supplementary Fig. 3a,b), but had no difference in the behavioural pattern of the mice in response to
+effect on grooming (Supplementary Fig. 3c) or rearing optical inhibition in na¨ıve condition (Supplementary Fig. 4a–d).
+a b
+PVN
+593-nm
+EF-1α Arch3.0 eYFP WPRE –0.7 mm laser
+c d
+Arch3.0/tdTomato
+CRHeYFP CRHArch3.0
+e
+1 1
+2 2
+3
+4 3
+5 4
+6 5
+7 6
+8
+9 7
+10 8
+f
+i
+15
+10
+5
+0
+l
+)%(
+gniraer
+.mroN
+*
+30
+20
+10
+0
+)%(
+gniklaw
+.mroN
+400
+**
+300
+200
+100
+0
+**
+)s(
+emit
+gnimoorG
+ARTICLE
+NATURECOMMUNICATIONS|DOI:10.1038/ncomms11937
+Survey Groom Sleep Dig Walk Chew Rear Freeze
+CRHeYFP CRHArch3.0 g h CRHeYFP
+CRHArch3.0
+CRHeYFP
+CRHArch3.0
+Groom
+0 150 15 0 15
+Time (min) Time (min) Time (min)
+j k CRHeYFP
+CRHArch3.0
+CRHeYFP
+CRHArch3.0
+Rear
+0 150 15 0 15
+Time (min) Time (min) Time (min)
+m n CRHeYFP
+CRHArch3.0
+CRHeYFP
+CRHArch3.0
+Walk
+0 150 15 0 15
+Time (min) Time (min) Time (min)
+4 NATURECOMMUNICATIONS|7:11937|DOI:10.1038/ncomms11937|www.nature.com/naturecommunications
+ARTICLE
+NATURECOMMUNICATIONS|DOI:10.1038/ncomms11937
+Takentogether,theseobservationsindicatethatpersistentactivity positioned in the LH to stimulate axon terminals (Fig. 4d and
+of PVN CRH neurons following footshock is necessary for SupplementaryFig.7a,b).Photostimulationofthefibresincreased
+regulating specific behaviours, but this occurs independently of grooming (Fig. 4d). A network of enhanced yellow fluorescent
+CORT. protein (eYFP)-positive fibres with bouton-shaped structures was
+evident in the LH (Fig. 4e,f and Supplementary Fig. 8a–c). There
+werenoeYFP-positivefibresinextra-hypothalamicregionsknown
+Photoactivation of PVN CRH neurons. To probe the effects of
+to receive input from the PVN25,26 or implicated in grooming
+CRH neuron activation, in the absence of an external stress, we
+behaviours27 (Supplementary Fig. 8d–i). To ask whether PVN
+expressed Channelrhodopsin 2 (ChR2) unilaterally in CRH
+neurons (CRHChR2)21 (Fig. 3a-c). In brain slices, we confirmed CRH neurons projecting to LH are distinct from PVN CRH
+that blue light induces inward currents and spiking in CRHChR2 neuronsthatprojecttothemedianeminence,weperformedadual
+retrograde tracer experiment. We injected fluorogold in the tail
+neurons reliably at frequencies up to 20Hz (Fig. 3d). To control
+vein (Supplementary Fig. 9a) to label neurons with axon
+CRHactivityinvivo,weimplantedafibreopticprobeipsilateral
+projections that terminate outside the blood–brain barrier
+to the injection site (Supplementary Fig. 5a,b). As expected,
+photostimulation of the PVN in CRHChR2 mice increased (endocrine) and also injected fluorescent beads into the
+perifornical region of the LH (Supplementary Fig. 9b) to
+circulating CORT (Fig. 3e) and increased the number of c-Fos-
+label cell bodies that have release sites in the LH. Fluorogold
+positive cells in the PVN (Supplementary Fig. 5c–e). Next, we
+photostimulated na¨ıve (unstressed) CRHChR2 mice in an and retrobeads were co-localized in a subset of PVN CRH
+neurons consistent with the hypothesis that individual
+observational chamber to which mice had been habituated
+neurons simultaneously project to the median eminence and the
+(HAB). This elicited robust grooming (Supplementary Fig. 6a
+LH (Supplementary Fig. 9c). To directly characterize functional
+and Supplementary Movie 3), with a rapid onset. Behaviour
+synaptic transmission from CRH axon fibres to LH neurons, we
+ceased immediately when photostimulation was terminated
+obtainedinvitrowhole-cellrecordingsfromLHneurons(Fig.4f).
+(Supplementary Fig. 6a). To examine the effects of PVN CRH
+Based on the fast latency, blockade by tetrodotoxin, and
+activation in the HAB environment and to assess different
+subsequent partial recovery in the presence of 4-amino-
+behaviours, we conducted additional experiments during which
+pyridine28, we conclude these connections are monosynaptic.
+blue light was delivered for 5 min (Fig. 3f). Photostimulation
+Pharmacological experiments demonstrating complete block with
+increased grooming (Fig. 3g–i) throughout the 5-min
+theAMPA/kainatereceptorantagonist,6,7-dinitroquinoxaline-2,3-
+observation period. It also consistently decreased both absolute
+dione(DNQX),indicatesthesynapsesareglutamatergic(Fig.4g-j).
+rearing (Fig. 3j–l and Supplementary Fig. 6b) and fractional
+In addition, we tested the effects of the CRHR1 antagonist on
+rearing (Fig. 3l). There was no effect of photostimulation on
+evoked transmission and failed to see any effect on individual
+walking (Fig. 3m–o and Supplementary Fig. 6c) or surveying
+excitatorypostsynapticcurrentsortrainsofexcitatorypostsynaptic
+(SupplementaryFig.6d,e).Wenextaskedwhetherthesechanges
+currents(datanotshown).Interestingly,notallLHneuronstested
+in behaviour were sensitive to changing the frequency of
+respondedtophotostimulation.Wenotedtwodistinctsubtypeson
+photostimulation. We observed a linear increase in grooming
+thebasisofelectricalfingerprints.Cellswithapronounceddelayto
+with increasing frequencies from 1 to 20Hz. This was
+first spike in response to a depolarizing current injection and a
+accompanied by a progressive, frequency-dependent decrease in
+linear current–voltage relationship, failed to respond to
+rearing(SupplementaryFig.6f).OpticalstimulationofPVNCRH
+optical stimulation of CRH fibres (non-responders, Fig. 4k). By
+neurons did not affect the temporal organization of either
+contrast, cells with a higher firing rate (Fig. 4l) and a prominent
+grooming, rearing or walking (Supplementary Fig. 6g-i). These
+‘sag’ in the membrane potential (Fig. 4k–n) always responded
+observationsdemonstratethatspecificactivationofPVNCRHis
+to photostimulation (responders). These observations
+sufficient to increase grooming and decrease rearing.
+demonstrate that PVN CRH neurons send excitatory,
+glutamatergic projections to an electrophysiologically distinct
+PVN CRH neurons target a discrete cell population in LH. population of neurons inthe LH.
+Axoncollaterals fromPVNCRH neuronshavebeendescribed in
+the lateral hypothalamus (LH)15.Inaddition,PVN CRH neurons
+also express mRNA for vesicular glutamate transporter 2 Behavioural profiles after stress are context sensitive. The
+(VGluT2)24 providing a substrate for fast synaptic transmission. organization of behaviours into an organized repertoire after
+To investigate the putative neural circuit downstream of CRH stress suggests a hardwired innate strategy. To be optimal, how-
+neurons,wedeliveredbluelightinvivofor5min(Fig.4a),and2h ever, this strategy should be sensitive to changes in the animal’s
+later,killedmiceandprocessedbraintissueforc-Fos.Therewasan environment. To test this idea, we conducted experiments in
+increaseinc-Fos-positivecellsintheLH(Fig.4b,c).Todirectlytest whichmicereceivedafootshockandthenwereplacedeitherina
+the contribution of the projection to LH, a fibre was unilaterally novelenvironment(Novel)orobservedinthefootshockchamber
+Figure2|PhotoinhibitionofPVNCRHArch3.0neuronsdisruptsbehaviouralpatternsafterstress.(a)Cre-dependentAAV-DIO-Arch3.0-eYFPvirus
+injectedintothePVN.(b)Schematicmapsshowtheinjectionsite(left)andtheimplantationsiteofthelightferrule(right).(c)Confocalimageshows
+expressionofArch3.0-eYFP(green)andtdTomato(red)inthePVN.(d)Deliveryofyellowlighttotheslice(denotedbyyellowbox)decreasesfiringin
+PVNCRHneuronsincurrentclamp.Bottom,Summaryhistogrambelowofactionpotentialsformrepeatedtrials.(e)Detailedanalysisshowsalleight
+behavioursinCRHeYFP(left)andCRHArch3.0(right)animalsina15-minepochimmediatelyafterfootshock.Eachrowrepresentsoneanimal.
+(f)Histogramsshowpercentageofanimalsgroomingineachgroupduringthe15-minobservationperiod.(g)Cumulativegraphillustratestherelative
+groomingineachcondition.(h)SummarygraphsshowgroomingisinhibitedduringopticalinhibitionofPVNCRHneurons(CRHeYFP:181.4±28.7,n¼10
+versusCRHArch3.0:79.0±11.2,n¼8;P¼0.0080;t-test).(i)Histogramsshowpercentageofanimalsrearingineachgroupduringthe15-minobservation
+period.(j)Cumulativegraphillustratestherelativerearing.(k)Rearingtime,asafractionofallnon-groomingbehaviours,isincreasedduring
+photoinhibition(CRHeYFP:4.5±0.8%,n¼10versusCRHArch3.0:8.6±1.5%,n¼8;P¼0.0229;t-test).(l)Histogramsshowpercentagewalkingineach
+groupduringthe15-minobservationperiod.(m)Cumulativegraphillustratestherelativewalking.(n)Fractionalwalkingtimeisalsoincreasedduring
+photoinhibitionofPVNCRHneurons(CRHeYFP:12.2±2.0%,n¼10versusCRHArch3.0:22.0±2.7%,n¼8;P¼0.0084;t-test).Scalebars:(c),50mm;
+(d),2Hzand1s;(f,g,i,j,l,m),20%;NS,notsignificant,*Po0.05;**Po0.01;Errorbars±s.e.m.
+NATURECOMMUNICATIONS|7:11937|DOI:10.1038/ncomms11937|www.nature.com/naturecommunications 5
+(Fig. 5a). The behavioural data were compared with the animals andincreasesinbothrearing(Fig.5f–h)andwalking(Fig.5i–k).
+placed into their HC after footshock (Fig. 1). Again, all eight We next assessed the temporal features of these behaviours.
+behaviours were evident in the novel environment (Fig. 5b), but Althoughtherewasnodifferenceinthedistributionofgrooming
+when compared with the HC, there was a decrease in grooming in comparison to HC, (Supplementary Fig. 10d) rearing and
+(Fig.5c–e,SupplementaryFig.10a,bandSupplementaryMovie4) walking were sustained for a longer time (Supplementary
+a b
+EF-1α ChR2 eYFP WPRE PVN 473-nm
+–0.7 mm
+laser
+c ChR2-eYFP/tdTomato
+d e
+f
+1 1
+2 2
+3 3
+4 4
+5 6 7 8 5 6 7
+9 8
+10 9
+11 10
+12 11
+g
+j
+m
+)1–ld
+gμ(
+TROC
+20
+*
+15
+10
+5
+0
+0 15
+Time (min)
+h i
+200
+150
+100
+50
+0
+0 5 0 5 0 5
+Time (min) Time (min) Time (min)
+k l
+0 5 0 5 0 5
+Time (min) Time (min) Time (min)
+n
+0 5 0 5 0 5
+Time (min) Time (min) Time (min)
+)s(
+emit
+gnimoorG
+CRHChR2
+CRHeYFP
+Survey Groom Sleep Dig Walk Chew Rear Freeze
+CRHeYFP CRHChR2
+CRHeYFP ****
+CRHChR2
+Groom
+15
+CRHeYFP *
+Rear CRHChR2
+10
+5
+0
+o
+40
+CRHeYFP NS Walk
+CRHChR2 30
+20
+10
+0
+)%(
+gniraer
+.mroN
+)%(
+gniklaw
+.mroN
+ARTICLE
+NATURECOMMUNICATIONS|DOI:10.1038/ncomms11937
+CRHeYFP
+CRHChR2
+CRHeYFP
+CRHChR2
+CRHeYFP
+CRHChR2
+6 NATURECOMMUNICATIONS|7:11937|DOI:10.1038/ncomms11937|www.nature.com/naturecommunications
+Fig.10e,f)throughouttheobservationperiod.Micemaintainedin after stress and hints at underlying differences in the strategy
+thefootshockcage(FS)showedrobustfreezingimmediatelyafter adopted by the animal in matching its behavioural paletteto the
+footshock(Fig.5l–n,SupplementaryFig.10gandSupplementary context.
+Movie 5). As this behaviour gradually dissipated, there was an
+increaseinwalking(Fig.5i–kandSupplementaryFig.10f).There
+was less rearing (Fig. 5f–h) and grooming (Fig. 5c–e) in the ContextaffectsbehavioursdrivenbyPVNCRHphotoactivation.
+footshock chamber. These observations demonstrate that the Next, we assessed the impact of the environment on behaviours
+environment has a profound effect on the behavioural pattern observed following photoactivation of PVN CRH neurons. We
+CRH
+Figure3|PhotostimulationofPVNCRHChR2neuronstriggersbehavioursintheabsenceofstress.(a)ConstructofCre-dependentAAV-DIO-ChR2-
+eYFPvirus.(b)SchematicmapsshowtheinjectionofvirusintothePVNofCRH-Cre/tdTomatomice(left)andtheimplantationsiteofthelightferrule
+(right).(c)ConfocalimageshowsexpressionofChR2-eYFP(green)andtdTomato(red)inthePVN.(d)Opticalstimulationincurrentclamp(top)and
+voltageclamp(bottom)showsdeliveryofbluelightreliablycontrolsPVNCRHneurons.(e)Bloodsamplestakenbeforeand15minaftertheonsetof
+opticalstimulationshowincreaseinCORTlevelsspecificallyinCRHChR2mice(CRHeYFP:0.528mgdl(cid:2)1increase,n¼6;versusCRHChR2:5.327mgdl(cid:2)1
+increase,n¼5;P¼0.0316;t-test).(f)DetailedanalysisshowsthepatternofeightdifferentbehavioursobservedinCRHeYFP(left)andCRHChR2(right)
+animalsduring5minofopticalstimulationinanobservationalchambertowhichmicewerepreviouslyhabituatedtointheabsenceofstress.Eachrow
+representsoneanimal.(g)Histogramsshowpercentageofanimalsgroomingineachgroupduringopticalstimulation.(h)Cumulativegraphillustrates
+relativeextentgrooming.(i)OpticalstimulationofPVNCRHneuronsincreasedgroomingtime(CRHeYFP:6.8±1.9s,n¼12;versusCRHChR2:112.6±13.6s,
+n¼11;Po0.0001;t-test).(j)Histogramsshowpercentageofanimalsrearingineachgroupduringopticalstimulation.(k)Cumulativegraphillustrates
+relativerearing.(l)Rearingtimeasafractionofnon-groomingbehavioursisdecreasedbyphotostimulationofCRHneurons(CRHeYFP:9.9±1.5%,n¼12;
+versusCRHChR2:5.4±1.4%,n¼11;P¼0.0396;t-test).(m)Histogramsshowpercentageofanimalswalkingduringtheopticalstimulation.(n)Cumulative
+graphillustratesrelativewalking.(o)Fractionalwalkingtimeisunalteredbyopticalstimulation(CRHeYFP:28.8±3.4%,n¼12;versusCRHChR2:
+28.7±3.8%,n¼11;P¼0.9784;t-test).Scalebars:c,50mm;d,Top:200pAand500ms,Bottom:20mVand200ms;(g,h,j,k,m,n),20%;NS,not
+significant,*Po0.05;****Po0.0001;Errorbars±s.e.m.
+xinroF
+10 ms,10 Hz
+e f g
+CRHeYFP CRHChR2 –1. L 2 H mm ChR2-eYFP/Biocytin 3 ms stim +TTX + 7. 5 4 - m AP s / stim
+c-Fos
+Fornix TTX 4-AP Δ light dur –150
+PVN –100 LH
+–50
+5 ME 0
+0 10 20 30
+Time (min)
+6
+)Ap(
+CSPo
+–
+h k
+Non-responders Responders
+i
++DNQX
++picro
+Baseline
+)Ap( edutilpma
+CSPo
+a Sacrifice d PVN light c-Fos
+stim. quantification
+5 min 120 min
+b c
+*
+j
+–200
+***
+–150 NS
+–100
+–50
+6
+6 0
+Baseline +picro +DNQX
+)n(
+sllec +soF-c
+LH
+–1.2 mm
+400
+*
+200
+0 4
+CRHeYFP CRHChR2
+)s(
+emit gnimoorG
+80
+60
+40
+20
+0
+CRHeYFP CRHChR2
+l
+100
+75
+50
+25
+0
+0 50 100 150
+Current inj. (pA)
+)zH(
+.qerf
+laitnetop
+noitcA
+****
+m
+Non-resp. Resp.
+xedni
+gaS
+n
+150
+0.3 ** 100
+0.2
+0.1 50
+0.0
+–0.1 0
+–0.1 0.0 0.1 0.2 0.3
+Sag index
+)zH( .qerf
+gnirif
+xaM
+ARTICLE
+NATURECOMMUNICATIONS|DOI:10.1038/ncomms11937
+Figure4|PVNCRHneuronsprojecttothelateralhypothalamus.(a)Schematicofexperimentaldesign.(b)c-Fos-positivecellsinLHofCRHeYFPand
+CRHChR2followingphotostimulationinPVN.(c)Summarydataofc-FosinLH(CRHeYFP:100.5±21.1,n¼4versusCRHChR2:318.8±60.4,n¼5;
+P¼0.0179;t-test).(d)InvivophotostimulationinLH(20hz,5min)increasesgroomingtime(CRHeYFP:5.4±3.0s,n¼3;versusCRHChR2:36.9±7.3s,
+n¼7;P¼0.0264;t-test).(e)Schematicmapandexperimentaldesignofinvitrowhole-cellrecordingsfromLHneurons.(f)Biocytinfilledrecorded
+neuronsinLH(red)surroundedbyChR2-eYFP-expressingfibres(green).(g)Involtageclamp(HP¼(cid:2)80mV),bluelight(2–5ms)elicitsfastinward
+currents(latency:4.7±0.3ms)thatareabolishedbyTTX(baseline:103.1±2.0pAversusTTX:4.7±0.7pA,n¼8;Po0.0001;repeated-measuresone-
+wayANOVA)andpartiallyrestoredbyincreasinglight-pulseduration(7.5–10ms)duringapplicationof4-aminopyridine(4-AP)28,44(40.1±9.0pA;
+Po0.0001versusbaseline;P¼0.0222versusTTX,n¼8;repeated-measuresone-wayANOVA).(h)Sampletracesshoweffectsofopticalstimulationon
+LHneuronfiring.(i,j)oPSCsareunaffectedbypicrotoxinbutarepotentlyinhibitedbyDNQX(baseline:90.7±12.6pA,picro:115.1±17.6pA,DNQX:
+11.3±3.5pA,n¼6;baselineversusDNQX,P¼0.0007;repeated-measuresone-wayANOVA).(k)CurrentclamprecordingsofLHneuronsrevealtwo
+distinctelectrophysiologicalprofiles.Cellsdepictedbygreysquareshownosynapticresponsestobluelightpulses;bluecircleindicatescellswithsynaptic
+responses.(l)Actionpotentialfrequency–currentrelationshipinresponding/non-respondingcells(n¼16;Po0.0001;two-wayANOVA).(m)Differential
+hyperpolarization-induced‘sag’betweengroups(non-responder:0.017±0.024,n¼8;responder:0.146±0.022,n¼8;P¼0.0016;t-test).Sagindex
+calculation:(Vmmax—Vmsteadystate)/Vmmax,inresponseto (cid:2)80pAhyperpolarizingstep).(n)Firingfrequency(þ60pAstep)versussagindexin
+respondingandnon-respondingcells.Scalebars:(b)and(f),50mm;(g)and(i),50pAand10ms;(h)and(k),50mVand50ms;NS,notsignificant;
+*Po0.05;**Po0.01;***Po0.0005;****Po0.0001;Errorbars,±s.e.m.
+NATURECOMMUNICATIONS|7:11937|DOI:10.1038/ncomms11937|www.nature.com/naturecommunications 7
+photostimulated PVN CRH neurons in a novel environment cages to which they had been habituated. Optically evoked
+(Novel)andfootshockchamber(followingfootshock)inCRHeYFP groomingtimewasgraduallyattenuatedasthepresumptivethreat
+and CRHChR2 mice. Photostimulation increased grooming in the level of the context increased (Fig. 6g,h), but the distribution of
+novel environment (Fig. 6a–c) and in the footshock chamber grooming time was unchanged (Supplementary Fig. 11a). The
+(Fig. 6d–f). We next tested whether the behavioural repertoire in reliable decrease in grooming behaviour from HC to novel to
+response to optical stimulation is modulated by environmental footshock chamber suggests that greater familiarity with the
+familiaritybycomparingthebehaviourofmiceinnovelcagesand environmentislikelyapositivesignalforgroomingbehaviour.To
+a
+Novel Footshock (FS)
+b
+1 1
+2 2
+3 3
+4 4
+5 5
+6 6
+7 7
+8 8
+9 9
+c d e
+300
+200
+100
+0
+f g h
+i j k
+l m n
+)s(
+emit
+gnimoorG * * * *
+* * * *
+NovelFS
+600
+400
+200
+0
+)s(
+emit
+gniklaW
+* * * * * * * *
+NovelFS
+400
+300
+200
+100
+0
+)s(
+emit
+gnizeerF
+* **
+* *
+200
+150
+100
+50
+0
+NovelFS
+)s(
+emit
+gniraeR
+* *
+* *
+ARTICLE
+NATURECOMMUNICATIONS|DOI:10.1038/ncomms11937
+Survey Groom Sleep Dig Walk Chew Rear Freeze
+Novel FS
+Groom Naive
+HC
+Novel
+FS
+0 150 15 0 15
+Time (min) Time (min) Time (min)
+Rear Naive
+HC
+Novel
+FS
+0 150 15 0 15 NovelFS
+Time (min) Time (min) Time (min)
+Walk Naive
+HC
+Novel
+FS
+0 150 15 0 15
+Time (min) Time (min) Time (min)
+Naive
+Freeze
+HC
+Novel
+FS
+0 150 15 0 15
+Time (min) Time (min) Time (min)
+8 NATURECOMMUNICATIONS|7:11937|DOI:10.1038/ncomms11937|www.nature.com/naturecommunications
+ARTICLE
+NATURECOMMUNICATIONS|DOI:10.1038/ncomms11937
+testthisidea,weconductedexperimentsintwogroupsofmice.In optogenetic targeting with the assessment of multiple
+the first group, mice were habituated by exposing them to the behaviours to demonstrate that PVN CRH neurons orchestrate
+testing chamber on each of five successive days. In the second a complex repertoire of behaviours after an acute stress. This
+group, mice were not exposed to the chamber. Both groups were behavioural repertoire does not require endocrine signalling, but
+then introduced to the chamber and grooming was quantified in ratherreliesonanexcitatory,glutamatergicprojectiontoasubset
+response to blue light delivery on each of five successive days of neurons in the perifornical region of the LH. Furthermore,
+(Fig. 6i). The HAB animals showed no change in total distance although these behaviours are exquisitely sensitive to
+travelled(Fig.6jandSupplementaryFig.11b)oringroomingtime environmental context, the selective activation of CRH neurons
+(Fig. 6k and Supplementary Fig. 11c) in response to photo- canover-ridetheenvironmentalcues,resultinginbehavioursthat
+stimulation. By contrast, in non-HAB animals, there was a appearmismatchedtothecontext.Thesefindingsprovideanew
+decrease in total distance travelled (Fig. 6j and Supplementary framework for assessing behaviours after stress and suggest that
+Fig.11b)andanincreaseingrooming(Fig.6kandSupplementary animals de-escalate their behaviours after stress in a specific
+Fig. 11c) on each of the five successive days. CRHeYFP mice only pattern thatisinfluenced bythe environment and the activity of
+showed insignificant levels of grooming in either condition PVN CRH neurons.
+(SupplementaryFig.11d).Theseobservationsdemonstratethatthe PVN CRH neurons are viewed as the canonical endocrine
+perceived familiarity of the environment positively impacts PVN controllers of the stress response12, but they may also regulate
+CRH-drivengrooming behaviour. complex behaviours following stress16. One of the most well-
+studied behaviours after stress is grooming7, and consistent with
+previous findings, we observed reliable increases in grooming
+PVNCRHphotoactivationbluntscontextappropriatebehaviours.
+after stress. Grooming, however, was one of eight distinct
+Finally, we asked whether the relationship between the environ-
+behaviours that we quantified. In na¨ıve animals, these
+mentandbehavioursobservedinresponsetostimulationofPVN
+behaviours were spontaneous (that is, no external stimulus)
+CRHneuronswasreciprocallymodulated.Inotherwords,could
+with a clear bias towards surveying the HC environment.
+direct activation of PVN CRH neurons over-ride environmental
+Following stress, there was an abrupt re-organization of the
+cues? Here we compared the dominant behaviours in the novel
+extantbehavioursandasignificantre-allocationofthetimespent
+and footshock environments in CRHeYFP and CRHChR2 animals
+on specific behaviours. In addition to the increase in grooming,
+in response to photostimulation. Photostimulation decreased
+there were also increases in walking and rearing. These
+rearing in the novel environment (Fig. 7a–d and Supplementary
+exploratory behaviours were evident early in the observation
+Fig.12a–d)andfreezinginthefootshockchamber(Fig.7e–hand
+period,butwanedwithinafewminutes,suggestingtheymayplay
+Supplementary Fig. 12e–h). We then asked whether this envir- aroleinthreatassessmentfollowingastressfulevent5.Although
+onmental ‘over-ride’ ability of CRH neurons was limited to the
+allthreebehaviourswereincreasedafterstress,photoinhibitionof
+behaviourswehavedescribed,orwhetherthishintsatabroader
+CRH neurons selectively decreased grooming and increased
+role of PVN CRH neurons. To test this idea, we assessed the
+rearing and walking. Meanwhile, photoactivation of PVN CRH
+effects of CRH photostimulation in two widely used behavioural
+neurons in the absence of stress did not mimic the behaviours
+tests,theopenfieldandthenovelobjectrecognition.Intheopen
+observed after stress, but increased grooming and decreased
+field,theCRHChR2micespentlesstimeinthecentreoftheopen
+rearingand walking.Collectively,these observationssuggestthat
+field during the 5-min photostimulation period (Fig. 7i) but
+the firing of PVN CRH neurons, in the absence of immediate
+locomotion was unaffected (Supplementary Fig. 12i). Next, we
+stress,maydecreasebehavioursassociatedwithriskassessmentin
+asked whether activation of PVN CRH neurons would interfere
+favour of behaviours that are self-directed. Consistent with this
+withnovelexplorationbehaviour(Fig.7j).Duringthe5-minobser-
+idea,recruitmentofthesecellseveninenvironmentsthatdemand
+vationperiod,thenaturalexplorationofanovelobjectwasvirtually
+increased vigilance (novel environment, FS chamber) increased
+eliminated when CRH neurons were photostimulated (Fig. 7k,l).
+grooming, suggesting that PVN CRH neurons are important in
+These observations indicate that PVN CRH neurons decrease the
+matching appropriate behaviours to the environmental context.
+sensitivityofmicetocontextualcues.Duringthistime,miceresortto
+Optical recruitment of CRH neurons increased circulating
+self-directed grooming activity instead of exhibiting behavioural
+CORT, but ex vivo recordings show the axons of these cells
+patternsthatareconsistentwithengagingwiththeirenvironment.
+release glutamate at synapses in the perifornical region of LH.
+Our doubleretrogradelabellingshowingthatasubpopulationof
+Discussion cellsinPVNprojectstobothtargetsisconsistentwithaprevious
+An acute stress necessitates an immediate behavioural and report that neuroendocrine CRH neurons sending branching
+physiological response1,2. Here we combined cell-specific collaterals to adjacent hypothalamic regions15; it is unclear
+Figure5|Stress-inducedbehaviouralpatternsaresensitivetocontext.(a)Schematicofexperimentshowingthetwodifferentenvironments,thenovel
+context(Novel)andfootshockchamber(FS)immediatelyafterfootshock.(b)Detailedanalysisshowsthepatternofbehavioursexhibitedbytheanimalsin
+differentcontexts.Eachrowrepresentsoneanimal.Thedifferentenvironmentschangethebehaviouralpatternexpressedbytheanimal.(c)Percentageof
+animalsgroomingateachtimepoint.(d)Cumulativegraphsillustratetherelativegroomingindifferentcontextsincludinghomecage(HC)immediately
+afterstressandcomparedwithna¨ıvemice(Fig.1).(e)GroomingisthedominantinHC(dottedlinerepresentsmeangroomingtimeinHC;Novel:
+85.1±8.0s;FS:49.3±9.4s;NovelversusHCPo0.0001;FSversusHCPo0.0001;n¼9ineachgroup;one-wayANOVA).(f)Percentageofanimals
+rearingateachtimepoint.(g)CumulativegraphsillustratetherelativeamountofrearingindifferentcontextsincludingHCimmediatelyafterstressandthe
+na¨ıvemice(Fig.1).(h)MicespendmoretimerearinginNovel(dottedlinerepresentsmeanrearingtimeinHC;Novel:120.4±16.0s;FS:18.3±8.5s;Novel
+versusHCP¼0.0097;NovelversusFSPo0.0001;n¼9ineachgroup;one-wayANOVA).(i)Percentageofanimalswalkingateachtimepoint.
+(j)CumulativegraphsillustratetherelativewalkingtimeindifferentcontextsincludingHCimmediatelyafterstressandinna¨ıvemice(Fig.1).(k)Micespendthe
+sameamountoftimewalkinginNovelandFS(dottedlinerepresentsmeanwalkingtimeinHC;Novel:436.7±25.2s;FS:405.6±41.7s;NovelversusHC
+Po0.0001;FSversusHCPo0.0001;n¼9ineachgroup;one-wayANOVA).(l)Percentageofanimalsfreezingateachtimepoint.(m)Cumulativegraphs
+illustratetherelativefreezingindifferentcontextsincludingHCimmediatelyafterstressandthena¨ıvemice(Fig.1).(n)Freezingbehaviourwasonlysignificantin
+FS(dottedlinerepresentsmeanfreezingtimeinHC;Novel:19.5±3.0s;FS:121.8±32.0s;NovelversusFSP¼0.0021;FSversusHCP¼0.0004;n¼9ineach
+group;one-wayANOVA).Scalebars:(c,d,f,g,i,j,l,m),20%;**Po0.01;***Po0.0005;****Po0.0001;Errorbars±s.e.m.
+NATURECOMMUNICATIONS|7:11937|DOI:10.1038/ncomms11937|www.nature.com/naturecommunications 9
+whether double-labelling of some, but not all, CRH neurons collaterals from neuroendocrine cell populations in the
+represents an under-sampling of the population because of hypothalamus can modulate behaviour31–33; importantly, we
+technical limitations, or whether this suggests that information provide one of the first demonstrations that presumptive
+from a seemingly homogenous population of neurons can be neuroendocrine cells not only modify, but also drive behaviour
+routed to different targets depending on the information being selection. This may be part of a larger theme suggesting that
+conveyed29. Our findings that PVN CRH neurons control hypothalamic circuits participate in behaviours that extend
+behaviour independent of their ability to release hormone, CRH beyond those that are strictly need based or homeostatic34.
+is consistent with previous work demonstrating that CRF Indeed, it appears that the hypothalamus exerts a bottom up
+knockout mice have a normal grooming following stress30. This control of complex behaviours35–37 and that the CRH neurons
+adds to the growing body of work demonstrating that putative playanessentialroleinshiftingbehaviouralattentionawayfrom
+theenvironmentandtowardsbehavioursthataremoreinternally
+focused.
+Recent efforts to establish causal links between behaviour and
+underlyingneuralsubstrateshavebeenextremelyfruitful;herewe
+further these efforts but with an important distinction. Rather
+than examining a single behaviour in isolation, we took an
+approach built on observations made by early behaviouralists
+whocommentedonindividualbehavioursasonecomponentofa
+morecomplexpatternorethogramofbehavioursintheanimal’s
+natural environment11. In some aspects, the behavioural
+ethogram we describe is a broader representation of
+microstructure of individual behaviours that has recently been
+demonstrated38. These authors conclude that the individual
+elements of a given behaviour represent a library of physical
+motifs that can be re-purposed and re-sequenced to generate
+distinct behaviours. As we did not observe any ‘new’ behaviours
+after stress, we would put forward a similar analogy here
+suggesting that individual behavioural traits are indeed re-
+purposed into more complex behavioural programmes. Our
+observations provide evidence for a distinct ethogram following
+stress thatiscontrolledbyPVNCRHneurons.Thisethogramis
+exquisitelysensitivetoenvironment,butthissensitivityismuted
+by activation of PVN CRH neurons.
+New insights gained from approaches that establish causal
+links between innate behaviour and neural circuits are an
+Figure6|Photostimulation-inducedgroomingissensitivetothecontext.
+(a–h)Identicallightdeliveryprotocol(10hzfor5min)usedinnovel
+environment(Novel)andintheFSimmediatelyafterfootshockstress.
+(a–c)PhotostimulationofPVNCRHneuronsinNovel.(a)Eachrow
+representsanindividualanimal.(b)Histogramshowingpercentageof
+animalsgrooming.(c)QuantificationofgroominginNovel(CRHeYFP:
+8.9±1.2s,n¼10;versusCRHChR2:85.0±10.9s,n¼10;Po0.0001;t-test).
+(d–f)OpticalstimulationofPVNCRHneuronsinFS.(d)Eachrow
+i
+No light Light representsanindividualanimal.(e)Histogramshowingpercentageof
+animalsgrooming.(f)QuantificationofgroominginFS(CRHeYFP:
+6.4±2.5s,n¼10;versusCRHChR2:40.1±9.5s,n¼10;P¼0.0031;t-test).
+15 min 15 min (g)Cumulativegraphsillustratetherelativeeffectofdifferentcontextson
+HAB (n=5) opticallyevokedgroomingincludinghabituated(HAB)context(datashown
+inFig.3).(h)Opticallyevokedgroomingtimeisgraduallyattenuatedasthe
+Non-HAB (n=11) presumptivethreatlevelofthecontextincreases(Novel:74.7±7.9%of
+HAB,P¼0.0405versusHAB;FS:35.8±8.3%ofHAB,P¼0.0013versus
+1 2 3 4 5 HAB,P¼0.0006versusNovel;n¼10;repeated-measuresone-way
+Test day ANOVA).(i)Schematicofexperimentshowingeffectsofhabituationon
+k ChR2-inducedgrooming.(j)Increasedfamiliarityintheparadigmcausesa
+decreaseinbaselinelocomotiondistanceinthearenainthenon-HAB(day 5:45.79±10.78%ofday1,n¼11;P¼0.0004versusday1;pairedt-test),
+200 butnotintheHABanimals(day5:85.13±10.62%ofday1,n¼5;P¼0.21
+versusday1,pairedt-test;P¼0.0431versusnon-HAB,t-test).(k)Optically
+150
+evokedgroomingtimeishigheronthefifthdayinnon-HABmice(day5:
+100 189.6±27.8%comparedwiththeday1,n¼11;P¼0.0016;pairedt-test).In
+contrast,HABanimalsshowinvariantresponsetoopticalactivation(day5:
+50 88.5±7.7%comparedwithday1;n¼5,P¼0.323versusday1,paired
+t-test;P¼0.0316versusNon-HAB,t-test).Scalebars:(b,e,g),20%;
+*Po0.05;**Po0.01;***Po0.0005;****Po0.0001.Errorbars±s.e.m.
+)%(
+emit
+gnimoorG
+Δ
+j
+150 250 *
+100
+*
+50
+0
+Day 1 Day 5
+)%(
+dellevart
+ecnatsiD
+Δ
+a
+b
+d
+e
+g
+h
+150
+100
+50
+0
+Day 1 Day 5
+)%(
+emit
+gnimoorG
+CRHeYFP CRHChR2
+1 1
+2 2
+3 3
+4 4
+5 5
+6 6
+7 7
+8 8
+9 9
+10 10
+c
+150
+100
+50
+0
+0 5 0 5
+Time (min) Time (min)
+CRHeYFP CRHChR2
+1 1
+2 2
+3 3
+4 4
+5 5
+6 6
+7 7
+8 8 9 9
+10 10
+HAB
+Novel
+FS
+0 5
+Time (min)
+**
+*
+***
+HAB Novel FS
+)s(
+emit
+gnimoorG
+CRHeYFP CRHChR2 CRHeYFP
+CRHChR2
+****
+Groom
+f
+150
+100
+50
+0
+0 5 0 5
+Time (min) Time (min)
+)s(
+emit
+gnimoorG
+ARTICLE
+NATURECOMMUNICATIONS|DOI:10.1038/ncomms11937
+CRHeYFP
+CRHeYFP CRHChR2 CRHChR2
+**
+Groom
+Groom
+10 NATURECOMMUNICATIONS|7:11937|DOI:10.1038/ncomms11937|www.nature.com/naturecommunications
+importantstepinfurtheringourunderstandingofhowthebrain brainforcontrollingbehavioursimmediatelyafteranacutestress,
+controls complex behaviour in a changing environment. They our observations provide a new model that can be exploited to
+also set the stage for further explorations that use circuit-based better understand the circuit function/dysfunction underlying
+approaches to better understand neurodevelopmental and stress disorders. For example, increased arousal and
+psychiatric disorders39. By pinpointing an essential node in the hypervigilance that persist after a traumatic event could be a
+CRHeYFP
+CRHChR2
+CRHeYFP
+CRHChR2
+)%(
+gnizeerf
+.mroN
+50
+*
+40
+30
+20
+10
+0
+)%(
+retnec
+eht
+ni
+emiT
+a
+CRHeYFP CRHChR2
+1 1
+2 2
+3 3
+4 4
+5 5
+6 6
+7 7
+8 8
+9 9
+10 10
+b c d
+e
+CRHeYFP CRHChR2
+1 1
+2 2
+3 3
+4 4
+5 5
+6 6
+7 7
+8 8
+9 9
+10 10
+f g h
+i j l
+CRHeYFP
+CRHChR2
+15
+10
+5
+*
+0
+Off On Off
+)%(
+gniraer
+.mroN
+CRHeYFP
+20 CRHChR2
+*
+15
+10
+5
+0
+0 5 0 5 0 5
+Time (min) Time (min) Time (min)
+CRHeYFP
+CRHChR2
+0 5 0 5 0 5
+Time (min) Time (min) Time (min)
+400
+300
+200
+100
+0
+)s(
+tcejbo
+ot
+ycnetaL
+k
+CRHeYFP
+CRHChR2
+*
+)s(
+tcatnoc
+tcejbO
+ARTICLE
+NATURECOMMUNICATIONS|DOI:10.1038/ncomms11937
+CRHeYFP CRHChR2
+Rear
+CRHeYFP CRHChR2
+Freeze
+CRHeYFP
+CRHChR2
+60 *
+40
+20
+0
+NATURECOMMUNICATIONS|7:11937|DOI:10.1038/ncomms11937|www.nature.com/naturecommunications 11
+ARTICLE
+NATURECOMMUNICATIONS|DOI:10.1038/ncomms11937
+consequenceofrapiddecreasesinPVNCRHactivityafterstress. Slicepreparationandelectrophysiology.ThreetofiveweekspostAAV-injection,
+By contrast, the ability of PVN CRH neurons to dampen the micewereanaesthetizedviaisofluraneinhalationanddecapitated.Rapidlydissected
+impact of environmental cues suggests that increased activity in brainswereimmersedinslicingsolution(0–4(cid:2)C,95%O 2 /5%CO 2 saturated)con-
+this cell population may contribute to stereotyped behaviours
+taining(inmM):87NaCl,2.5KCl,0.5CaCl
+2
+,7MgCl
+2
+,25NaHCO
+3
+,25D-glucose,
+1.25NaHPO,75sucrose.Avibratome(Leica)wasusedtopreparedcoronal
+2 4
+linkedtopsychiatricandneurodevelopmentaldisordersinwhich hypothalamicslices(250mmthickness),whichweretransferredfor1þhoursbefore
+individuals eschew their environmental context and turn their recordinginartificialcerebrospinalfluid(32(cid:2)C,95%O/5%CO saturated)con-
+2 2
+focus towards self-directed or internally focused behaviours. taining(inmM):126NaCl,2.5KCl,26NaHCO 3 ,2.5CaCl 2 ,1.5MgCl 2 ,1.25
+NaHPO,10glucose.Recordingswereperformedinartificialcerebrospinalfluid
+Specifically, intense inward focus is a core feature in autism (1ml 2 min 4 (cid:2)1perfusion)at30–32(cid:2)C.Thefollowingdrugswereappliedviaperfusion
+spectrum disorder, depression and anxiety. In each of these pump:DNQX(10mM,Tocris),picrotoxin(100mM,Sigma),4-aminopyridine(4-AP,
+conditions,patientsexhibitinternallyfocusedbehavioursranging 500mM,Tocris)andtetrodotoxin(TTX)(1mM,Tocris).PVN/LHneuronswere
+fromstereotypiestoruminationstonegativethinking.Strikingly, identifiedusingdifferentialinterferencecontrastandepifluorescenceoptics(UVICO,
+RappOptoelectronics)andacamera(AxioCamMRm)onanuprightmicroscope
+repetitivestereotypedbehaviours,particularlyfollowingexposure
+(Zeiss).Borosilicateelectrodes(3–5mOtip)werebackfilledwithrecordingsolution
+to stressful situations are a cardinal feature of autism spectrum composedof(inmM)108K-gluconate,2MgCl,8Na-gluconate,8KCl,1
+disorder10.Recentanimalmodelshavedirectedattentiontowards K-EGTA,4K-ATP,0.3Na-GTP,10mMHEP 2 ES,10mgml(cid:2)1biocytin.Signals
+2 2 3
+theamygdalaasakeystructurethatcontrolsthebalancebetween wereamplified(Multiclamp700B,MolecularDevices),low-passfiltered(1kHz),
+social and stereotyped behaviour40,41, but our findings would digitized(10kHz,Digidata1322)andrecorded(pClamp9.2)forofflineanalysis.
+Afterrecordings,sliceswerefixedin4%paraformaldehyde(PFA;24h),incubated
+suggestanexpandedmodelthatincorporatesPVNCRHneurons
+withstreptavidin-A555(1:500)andclearedin50:50glycerol/tris-bufferedsaline
+in regulating these behaviours, specifically after stress, is (TBS),beforemountingandconfocalimaging.
+warranted.
+Methods Optogenetics. Forinvitrorecordings,amicromanipulator-attachedfibreoptic
+Animals. AllexperimentswereapprovedbytheUniversityofCalgaryAnimal cable(105mmcorediameter)deliveredlightfromalaser(forChR2:473nm,
+CareandUseCommitteeinaccordancewithCanadianCouncilonAnimalCare OptoGeni473,IkeCoolCorporation;forArch3.0:593nm,IKE-593-100-OP,Ike-
+guidelines.Crh-IRES-Cre(B6(Cg)-Crhtm1(cre)Zjh/J;stocknumber012704)and CoolCorporation)wasplaced1–2mmawayfromthetargetarea.Lightintensity
+Ai14(B6.Cg-Gt(ROSA)26Sortm14(CAG-TdTomato)Hze/J;stocknumber007914) wascalibratedbyaPhotodiodePowerSensor(Thorlabs).Maximally,2.5or15mW
+mice,whosegenerationhasbeendetailedpreviously42,43,wereobtainedfrom light(forChR2orArch3.0,respectively)wasdeliveredtothetissue.
+Jacksonlaboratories.Colonymaintenanceandgenotypingwascarriedoutas Forinvivoexperiments,thelightsource(forChR2:473nm,LRS-0473-GFM,
+describedpreviously17.Forexperiments,Crh-IRES-Creþ/þ miceandoffspring LaserglowTechnologies;forArch3.0:593nm,IKE-593-100-OP,IkeCool
+derivedfromcrossesofhomozygousCrh-IRES-CreandAi14genotypeswereused. Corporation)wasconnectedtotheimplantedferrulewithafibreopticcable
+Untilthefirstproceduremiceweregroup-housed,thensingle-housedona12:12h (200mmcorediameter,DoricLenses).Thelaserswerecontrolledwithamanually
+light/darkschedule(lightsonat07:00hours)withadlibitumaccesstofoodand programmableMaster8unit(A.M.P.I.).
+water.
+Injectionandimplantation. Inastereotaxicapparatusunderisofluraneanaes- Behaviouralassessment.Wild-typemicereceivedaseriesoffootshocks(0.5mA
+thesia,glasscapillarieswereloweredintothebrainof6-to8-week-oldCrh-IRES- for2s,tentimesin5min;SMSCK,KinderScientific)andtheiractivitywasvideo-
+Cre;Ai14mice(anteroposterior(AP), (cid:2)0.7mm;lateral(L), (cid:2)0.3mmfromthe recordedfor15mininthefootshockchamber,inanovelenvironmentorinthe
+bregma;dorsoventral(DV), (cid:2)4.5mmfromthedura).Recombinantadeno- HCimmediatelyafterthefootshock.Forinvivooptogeneticsexperiments,mice
+associatedvirus(AAV)carryingChR2-eYFP(Addgeneplasmid20298,pAAV- werehandledthe4daysprecedingbehaviouralassessment.Bluelightwasdelivered
+EF1a-doublefloxed-hChR2(H134R)-eYFP-WPRE-HGHpA;5(cid:3)1011GCperml; for5min(10Hz,10mspulsewidth,15mW;473nm);inLHstimulationexperi-
+PennVectorCore),eYFP(Addgeneplasmid20296,pAAV-EF1a-doublefloxed- ments,20Hzwasused.Yellowlight(15mW)wasdeliveredcontinuouslyfor15or
+eYFP-WPRE-HGHpA;5(cid:3)1011GCperml;PennVectorCore)orArch3.0-eYFP 5min.Behaviouralvideoanalysiswasconductedbyanindividualblindedto
+(rAAV2-EF1a-doublefloxed-eArch3.0-eYFP;5(cid:3)1011GCperml;UNCVector subjecttreatmentgroupusingamacroinMicrosoftExcel.Walkingwasnotedas
+Core)waspressureinjectedwithNanojectIIapparatus(DrummondScientific theanimalchangeditslocationorturnedaslongasthefrontpawsmoved.
+Company)inatotalvolumeof210nl.Micewereallowedtorecoveratleast14days Freezingbehaviourwasnotedifanimalshowednomovementforatleast3s,
+beforefurtherexperiments.Forinvivooptogeneticexperiments,monofiberoptic exceptrespiratorymovements.
+cannulas(DoricLenses)werestereotacticallyimplantedundersimilarconditions Forc-Fosimmunolabelling,animalswerekilled2hafterlightstimulation.For
+(forArch3.0:AP, (cid:2)0.7mm;L,0.0mmfromthebregma;DV, (cid:2)4.0mmfromthe experimentswithArch3.0,afterrecoverymicewerehandledfor4daysandHABto
+dura,forChR2AP, (cid:2)0.7mm;L, (cid:2)0.3mmfromthebregma;DV, (cid:2)4.0mmfrom theexperimentalconditionfor3additionaldays.Afterasimilarseriesoffootshock,
+thedura;forLHstimulation:AP, (cid:2)1.2mmL, (cid:2)1.0mmfromthebregma;DV, theirbehaviourwasrecordedintheirHCundercontinuousyellowlight(15mW)
+(cid:2)4.2fromthedura).Animalswereallowedtorecoverforaweekandhandledca for15min.ForassessingtheinvolvementofcirculatingCORT,metyrapone(75mg
+5mindailyfor4consecutivedaysbeforeallbehaviouraltesting. perkg,TocrisBioscience,dissolvedin50mlpolyethyleneglycol)wasadministered
+Forneuraltracingexperiments,6-to8-week-oldCrh-IRES-Cre;Ai14micewere i.p.60minbeforefootshock.ForcirculatingCORTlevelmeasurements,baseline
+pressureinjectedwithgreenretrobeads(Lumafluor)asdescribedabove(AP, bloodsamplesweretakenfromthetailveinatleast2hbeforelightstimulation.
+(cid:2)1.2mm;L, (cid:2)1.0mmfromthebregma;DV, (cid:2)5.2mmfromthedura)inatotal Secondsamplingwasdone15minaftertheonsetoflightstimulation.CORTlevel
+volumeof32nl.Oneweeklater,micereceived100mlml(cid:2)1offluorogold(4mgml- wasmeasuredusinganELISAkit(ArborAssays).Toinvestigatesocialcues
+1;Fluorochrome)injectioni.v.Micewerekilledandprocessedfor beddingwasnotreplacedintheHCofmicefor10dayspriortesting.Experiment
+immunohistochemistryafteroneadditionalweek. subjectswereattheageof16weekswhileconspecificmaleswere7weeksold.
+Figure7|PhotostimulationofPVNCRHChR2neuronsoverridescontextualcues.(a–d)OpticalstimulationofPVNCRHneuronsattenuatesrearingin
+novelenvironment(Novel).(a)Eachrowrepresentsanindividualanimal.(b)Histogramsshowingpercentageofanimalsrearing.(c)Cumulativegraphs
+demonstratetherelativeextentofrearing.(d)Rearingtimeasafractionofallbehavioursafterexclusionoftimespentgrooming(CRHeYFP:13.6±1.4%,
+n¼10;versusCRHChR2:9.2±0.9%,n¼10;P¼0.0165;t-test).(e–h)OpticalstimulationofPVNCRHneuronsdisruptsfreezinginFS.(e)Eachrow
+representsanindividualanimal.(f)Histogramsshowpercentageofanimalsfreezing.(g)Cumulativegraphsdemonstratetherelativeextentoffreezing.
+(h)Quantificationoffractionalfreezingtimeiftimespentgroomingisexcludedfromtheanalysis(CRHeYFP:32.5±5.7%,n¼10;versusCRHChR2:
+15.8±3.8%,n¼10;P¼0.0251;t-test).(i)Assessmentoflocomotioninanopenfieldtest.Representativelocomotortrajectoryplotsduringoptical
+stimulationinCRHeYFP(black)andCRHChR2(blue)mice.AccompanyinggraphshowsCRHChR2micespendsignificantlylesstimespentinthecentrezone
+duringphotostimulation(CRHeYFP:before:3.9±0.5%,during:6.1±0.5%.after:6.6±0.9,n¼16;versusCRHChR2:before:4.3±1.0%,during:3.3±0.8%,
+after:5.3±0.8%,n¼14;CRHeYFPduringversusCRHChR2during,P¼0.0291;repeated-measurestwo-wayANOVA).(j)Representativelocomotor
+trajectoryplotsduringopticalstimulationinCRHeYFP(black)andCRHChR2(blue)miceinanovelobject(greenshape)test.Opticalstimulationreduces
+explorationofanovelobjectasmeasuredbythelatencytotouch(k,CRHeYFP:127.7±36.4s,n¼6;versusCRHChR2:259.0±35.2s,n¼6;P¼0.0267;t-
+test)andthetimespentincloseproximity(l,CRHeYFP:21.2±7.6s,n¼6;versusCRHChR2:3.0±2.8s,n¼6;P¼0.0494;t-test).Scalebars:(b,c,f,g),20%;
+*Po0.05;Errorbars±s.e.m.
+12 NATURECOMMUNICATIONS|7:11937|DOI:10.1038/ncomms11937|www.nature.com/naturecommunications
+ARTICLE
+NATURECOMMUNICATIONS|DOI:10.1038/ncomms11937
+Immunohistochemistry. Topreparefixedbraintissue,micewereanaesthetized 20.VanErp,A.M.,Kruk,M.R.,Willekens-Bramer,D.C.,Fermont,P.C.&
+withsodiumpentobarbital(30mgkg(cid:2)1)andtranscardiallyperfusedwithphos-
+Nijsen,M.J.PVHlesionsdonotinhibitstressor-inducedgroomingintherat.
+phate-bufferedsaline,followedby4%PFAinphosphatebuffer(4(cid:2)C).Brainswere Physiol.Behav.57,887–892(1995).
+placedinPFA24hfollowedby20%sucrosephosphatebuffer.30mMcoronalbrain
+21.Chow,B.Y.etal.High-performancegeneticallytargetableopticalneural
+sectionswereobtainedviacryostatinthreeseries.Rinseswereperformedbefore/
+silencingbylight-drivenprotonpumps.Nature463,98–102(2010).
+betweenincubationswithTBScontainingtriton(TBSt;pH7.4,with0.1%Triton
+22.Zhang,F.,Wang,L.-P.,Boyden,E.S.&Deisseroth,K.Channelrhodopsin-2and
+X-100),blockingsolution(5%normaldonkeyseruminTBSt)waspre-appliedfor
+opticalcontrolofexcitablecells.Nat.Methods3,785–792(2006).
+1handusedinsubsequentantibodyincubations.Rabbitanti-c-FosAb5(1:10,000
+23.Witten,I.B.etal.Recombinase-driverratlines:tools,techniques,and
+dilution;overnightatroomtemperature;Calbiochem)primaryantibodyorrabbit
+anti-fluorogold(1:10,000,overnightatroomtemperature;Chemicon)wasused. optogeneticapplicationtodopamine-mediatedreinforcement.Neuron72,
+Forfluorogoldandc-Foslabelling,biotinylateddonkeyanti-rabbitsecondary 721–733(2011).
+antibody(1:500;JacksonImmunoResearch)andDyLight-405-conjugatedstrepta- 24.Hrabovszky,E.,Wittmann,G.,Turi,G.F.,Liposits,Z.&Fekete,C.
+vidinwereused(1:500;JacksonImmunoResearch)inCrh-IRES-Cre;Ai14animals, Hypophysiotropicthyrotropin-releasinghormoneandcorticotropin-releasing
+whereasinCrh-IRES-Creanimals,Alexa-555-conjugateddonkeyanti-rabbit(1:500; hormoneneuronsoftheratcontainvesicularglutamatetransporter-2.
+MolecularProbes)wasutilized.Slide-mountedandcoverslippedsectionswere Endocrinology146,341–347(2005).
+imagedusingaconfocalmicroscope(OlympusBX50FluoviewandNikon 25.Rodaros,D.,Caruana,D.A.,Amir,S.&Stewart,J.Corticotropin-releasing
+D-EclipseC1).Forc-Fosassessment,weincludedtheentirerostral-caudalextentof factorprojectionsfromlimbicforebrainandparaventricularnucleusofthe
+onesideofthePVNandtheregionaroundthefornix.Immunolabellednucleiwere hypothalamustotheregionoftheventraltegmentalarea.Neuroscience150,
+countedusingImageJ. 8–13(2007).
+26.Swanson,L.W.,Sawchenko,P.E.,Rivier,J.&Vale,W.W.Organizationof
+Analysisandstatistics. Wherequantificationwasmade,dataarerepresentedas ovinecorticotropin-releasingfactorimmunoreactivecellsandfibersintherat
+mean±standarderrorofthemean(s.e.m.).Statisticalanalysiswasperformedin brain:animmunohistochemicalstudy.Neuroendocrinology36,165–186(1983).
+GraphPadPrism6usingpairedandunpairedStudent’st-testtofortwogroup 27.Ahmari,S.E.etal.Repeatedcortico-striatalstimulationgeneratespersistent
+comparisons,whereasrepeatedmeasuresone-wayandtwo-wayANOVAwith OCD-likebehavior.Science340,1234–1239(2013).
+Bonferroni’smultiplecomparisonpost-hoctestforsequentialtreatmentdata.P 28.Petreanu,L.,Mao,T.,Sternson,S.M.&Svoboda,K.Thesubcellular
+valueslessthan0.05wereconsideredsignificant. organizationofneocorticalexcitatoryconnections.Nature457,1142–1145
+(2009).
+Dataavailability. Thedatathatsupportthefindingsofthisstudyareavailable 29.Ciocchi,S.,Passecker,J.,Malagon-Vina,H.,Mikus,N.&Klausberger,T.Brain
+fromthecorrespondingauthoruponrequest. computation.SelectiveinformationroutingbyventralhippocampalCA1
+projectionneurons.Science348,560–563(2015).
+30.Dunn,A.J.&Swiergiel,A.H.Behavioralresponsestostressareintactin
+References
+CRF-deficientmice.BrainRes.845,14–20(1999).
+1. Cannon,W.B.BodilyChangesinPain,Hunger,Fear,andRage(Appleton, 31.Stoop,R.Neuromodulationbyoxytocinandvasopressin.Neuron76,142–159
+1915). (2012).
+2. Selye,H.Asyndromeproducedbydiversenocuousagents.Nature138,32 32.Knobloch,H.S.etal.Evokedaxonaloxytocinreleaseinthecentralamygdala
+(1936). attenuatesfearresponse.Neuron73,553–566(2012).
+3. Blanchard,D.C.,Blanchard,R.J.&Griebel,G.Defensiveresponsestopredator 33.Viviani,D.etal.Oxytocinselectivelygatesfearresponsesthroughdistinct
+threatintheratandmouse.Curr.Protoc.Neurosci.Chapter8,Unit8.19(2005). outputsfromthecentralamygdala.Science333,104–107(2011).
+4. Mongeau,R.,Miller,G.A.,Chiang,E.&Anderson,D.J.Neuralcorrelatesof
+34.Dietrich,M.O.,Zimmer,M.R.,Bober,J.&Horvath,T.L.HypothalamicAgrp
+competingfearbehaviorsevokedbyaninnatelyaversivestimulus.J.Neurosci.
+neuronsdrivestereotypicbehaviorsbeyondfeeding.Cell160,1222–1232
+23,3855–3868(2003).
+(2015).
+5. Blanchard,D.C.,Griebel,G.,Pobbe,R.&Blanchard,R.J.Riskassessmentas
+35.Sternson,S.M.Hypothalamicsurvivalcircuits:blueprintsforpurposive
+anevolvedthreatdetectionandanalysisprocess.Neurosci.Biobehav.Rev.35,
+behaviors.Neuron77,810–824(2013).
+991–998(2011).
+36.Jennings,J.H.etal.Visualizinghypothalamicnetworkdynamicsforappetitive
+6. Henson,S.M.etal.Copingbehaviourasanadaptationtostress:post-
+andconsummatorybehaviors.Cell160,516–527(2015).
+disturbancepreeningincolonialseabirds.J.Biol.Dyn.6,17–37(2012).
+37.Nieh,E.H.etal.Decodingneuralcircuitsthatcontrolcompulsivesucrose
+7. Kruk,M.R.etal.Thehypothalamus:cross-roadsofendocrineandbehavioural
+seeking.Cell160,528–541(2015).
+regulationingroomingandaggression.Neurosci.Biobehav.Rev.23,163–177
+38.Wiltschko,A.B.etal.Mappingsub-secondstructureinmousebehavior.
+(1998).
+Neuron88,1121–1135(2015).
+8. Spruijt,B.M.,vanHooff,J.A.&Gispen,W.H.Ethologyandneurobiologyof
+groomingbehavior.Physiol.Rev.72,825–852(1992). 39.Insel,T.etal.Researchdomaincriteria(RDoC):towardanewclassification
+9. Troisi,A.Displacementactivitiesasabehavioralmeasureofstressin frameworkforresearchonmentaldisorders.Am.J.Psychiatry167,748–751
+nonhumanprimatesandhumansubjects.Stress5,47–54(2002). (2010).
+10.AmericanPsychiatricAssociation.Diagnosticandstatisticalmanualofmental 40.Felix-Ortiz,A.C.&Tye,K.M.Amygdalainputstotheventralhippocampus
+disorders,(DSM-5).http://dsm.psychiatryonline.org/doi/book/10.1176/ bidirectionallymodulatesocialbehavior.J.Neurosci.34,586–595(2014).
+appi.books.9780890425596(AmericanPsychiatricAssociation,2013). 41.Hong,W.,Kim,D.-W.&Anderson,D.J.Antagonisticcontrolofsocialversus
+11.Tinbergen,N.TheStudyofInstinct(OxfordUniv.,1989). repetitiveself-groomingbehaviorsbyseparableamygdalaneuronalsubsets.Cell
+12.Denver,R.J.Structuralandfunctionalevolutionofvertebrateneuroendocrine 158,1348–1361(2014).
+stresssystems.Ann.N.Y.Acad.Sci.1163,1–16(2009). 42.Madisen,L.etal.Arobustandhigh-throughputCrereportingand
+13.Singer,H.S.Motorstereotypies.Semin.Pediatr.Neurol.16,77–81(2009). characterizationsystemforthewholemousebrain.Nat.Neurosci13,133–140
+14.Droste,S.K.etal.CorticosteroneLevelsintheBrainShowaDistinctUltradian (2010).
+RhythmbutaDelayedResponsetoForcedSwimStress.Endocrinology149, 43.Taniguchi,H.etal.AresourceofCredriverlinesforgenetictargetingof
+3244–3253(2008). GABAergicneuronsincerebralcortex.Neuron71,995–1013(2011).
+15.Rho,J.H.&Swanson,L.W.NeuroendocrineCRFmotoneurons: 44.Hull,C.,Adesnik,H.&Scanziani,M.Neocorticaldisynapticinhibitionrequires
+intrahypothalamicaxonterminalsshownwithanewretrograde-Lucifer- somatodendriticintegrationininterneurons.J.Neurosci.29,8991–8995(2009).
+immunomethod.BrainRes.436,143–147(1987).
+16.Bressers,W.M.etal.Timestructureofself-groomingintherat:self-facilitation
+andeffectsofhypothalamicstimulationandneuropeptides.Behav.Neurosci. Acknowledgements
+109,955–964(1995). WethankDinaraBaimoukhametova,CherylSank,MioTsutsuiandRodneyBarasifor
+17.WamsteekerCusulin,J.I.,Fu¨zesi,T.,Watts,A.G.&Bains,J.S. technicalassistancewithtissueprocessing,behaviouralassessmentandmousecolony
+Characterizationofcorticotropin-releasinghormoneneuronsinthe maintenance.WearegratefultoDrsWataruInoueandCarloCusulinforcritical
+paraventricularnucleusofthehypothalamusofCrh-IRES-Cremutantmice. commentsandalsothankAmyLiandAlexanderMorleyforassistingwithimmuno-
+PLoSONE8,e64943(2013). histochemistryandcellcounts.WeacknowledgeDrKarlDeisserothforkindlyproviding
+18.Lammers,J.H.,Meelis,W.,Kruk,M.R.&vanderPoel,A.M.Hypothalamic thevirusconstructs.WearegratefulforthesupportoftheHotchkissBrainInstitutein
+substratesforbrainstimulation-inducedgrooming,diggingandcirclinginthe creatingtheHBIAdvanceLightandOptogeneticscorefacility.Thisresearchwasfunded
+rat.BrainRes.418,1–19(1987). byoperatinggrantstoJ.S.B.fromtheCanadianInstitutesforHealthResearch(CIHR
+19.Bressers,W.M.etal.Atime-structuredanalysisofhypothalamically 86501)andBrainCanada.T.F.wassupportedbyaFellowshipfromAlbertaInnovates-
+inducedincreasesinself-groomingandactivityintherat.Behav.Neurosci.109, HealthSolutions(AIHS).N.D.issupportedbyaUCalgaryEyesHighFellowship.
+1158–1171(1995). J.I.W.C.wassupportedbystudentshipsfromAIHSandtheHBI(FongAward).
+NATURECOMMUNICATIONS|7:11937|DOI:10.1038/ncomms11937|www.nature.com/naturecommunications 13
+ARTICLE
+NATURECOMMUNICATIONS|DOI:10.1038/ncomms11937
+Author contributions Reprintsandpermissioninformationisavailableonlineathttp://npg.nature.com/
+T.F.designedandconductedexperiments,analysedthedataandwrotethe reprintsandpermissions/
+manuscript.N.D.andJ.I.W.C.conductedexperiments,analysedthedataand
+Howtocitethisarticle:Fu¨zesi,T.etal.HypothalamicCRHneuronsorchestrate
+contributedtothemanuscriptpreparation.R.P.B.wrotethescriptforbehavioural
+complexbehavioursafterstress.Nat.Commun.7:11937doi:10.1038/ncomms11937
+analysis.J.S.B.designedtheexperiments,preparedthemanuscriptandsupervisedthe
+(2016).
+project.
+This work is licensed under a Creative Commons Attribution 4.0
+Additional information InternationalLicense.Theimagesorotherthirdpartymaterialinthis
+articleareincludedinthearticle’sCreativeCommonslicense,unlessindicatedotherwise
+SupplementaryInformationaccompaniesthispaperathttp://www.nature.com/
+inthecreditline;ifthematerialisnotincludedundertheCreativeCommonslicense,
+naturecommunications
+userswillneedtoobtainpermissionfromthelicenseholdertoreproducethematerial.
+Competingfinancialinterests:Theauthorsdeclarenocompetingfinancialinterests. Toviewacopyofthislicense,visithttp://creativecommons.org/licenses/by/4.0/
+14 NATURECOMMUNICATIONS|7:11937|DOI:10.1038/ncomms11937|www.nature.com/naturecommunications

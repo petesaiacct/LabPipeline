@@ -1,0 +1,465 @@
+www.nature.com/scientificreports
+Corrected: Author Correction
+OPEN Evaluating analgesic efficacy and
+administration route following
+craniotomy in mice using the
+Received: 1 August 2018 grimace scale
+Accepted: 28 November 2018
+Published: 23 January 2019
+Chulmin Cho1, Vassilia Michailidis2, Irene Lecker3, Chereen Collymore4, David Hanwell5,
+Mary Loka1, Matthew Danesh1, Christine Pham3, Paige Urban3, Robert P. Bonin3 &
+Loren J. Martin1,2
+Most research laboratories abide by guidelines and mandates set by their research institution regarding
+the administration of analgesics to control pain during the postoperative period. Unfortunately,
+measuring pain originating from the head is difficult, making adequate decisions regarding pain control
+following stereotaxic surgery problematic. In addition, most postsurgical analgesia protocols require
+multiple injections over several days, which may cause stress and distress during a critical recovery
+period. Here we sought to (1) assess the degree of postoperative pain following craniotomy in mice, (2)
+compare the efficacy of three common rodent analgesics (carprofen, meloxicam and buprenorphine)
+for reducing this pain and (3) determine whether the route of administration (injected or self-
+administered through the drinking supply) influenced pain relief post-craniotomy. Using the mouse
+grimace scale (MGS), we found that injectable analgesics were significantly more effective at relieving
+post-craniotomy pain, however, both routes of administration decreased pain scores in the first 24 h
+postsurgery. Specifically, buprenorphine administered independently of administration route was the
+most effective at reducing MGS scores, however, female mice showed greater sensitivity to carprofen
+when administered through the water supply. Although it is necessary to provide laboratory animals
+with analgesics after an invasive procedure, there remains a gap in the literature regarding the degree
+of craniotomy-related pain in rodents and the efficacy of alternative routes of administration. Our study
+highlights the limitations of administering drugs through the drinking supply, even at doses that are
+considered to be higher than those currently recommended by most research institutions for treating
+pain of mild to moderate severity.
+In neuroscience, there are a variety of approaches and techniques that require direct access to the rodent brain.
+Consequently, it has become increasingly common for many neuroscience labs to perform craniotomies, an inva-
+sive brain surgery in which the brain is accessed via removal of a section of the skull, so that studies involving
+intracranial injections, cannulations, electrical stimulation, or optical implants can be conducted1–3. However,
+the pharmacological management of post-craniotomy pain has yet to be standardized and there are no cur-
+rent evidence-based recommendations for the alleviation of craniotomy pain in mice. Given that the insufficient
+management of acute pain following surgery may lead to depression and anxiety4,5 – behaviors directly studied
+by many neuroscience labs – finely-tuned pain control following craniotomy should be prioritized and properly
+evaluated.
+The establishment of a standardized analgesic regiment for post-craniotomy pain in animals has been hin-
+dered by the difficulty in assessing the degree of pain postsurgery and the efficacy of chosen analgesics. Traditional
+1Dept. of Psychology, University of Toronto Mississauga, Mississauga, ON, M9A1C5, Canada. 2Cell and Systems
+Biology, University of Toronto Mississauga, Mississauga, ON, M9A1C5, Canada. 3Leslie Dan Faculty of Pharmacy,
+University of Toronto, Toronto, ON, M5S 3M2, Canada. 4Division of Comparative Medicine, Faculty of Medicine,
+University of Toronto, Toronto, ON, M5S 1A8, Canada. 5Research Oversight and Compliance Office, University of
+Toronto, Toronto, Canada. Chulmin Cho and Vassilia Michailidis contributed equally. Correspondence and requests
+for materials should be addressed to R.P.B. (email: rob.bonin@utoronto.ca) or L.J.M. (email: lj.martin@utoronto.ca)
+Scientific RePoRts | (2019) 9:359 | DOI:10.1038/s41598-018-36897-w 1
+www.nature.com/scientificreports/
+Figure 1. Experimental timeline outlining the pre- and postsurgical periods. For all mice, tap water was
+replaced with the MediDrop solution 48 hrs prior to surgery. Analgesic drugs were then added to drinking
+water, as appropriate, beginning 48 hrs prior to surgery. MGS baseline scores were recorded 24 h before
+craniotomy and at the indicated time points following surgery.
+pain measurement in laboratory rodents has heavily relied on evoked pain behaviors. However, these assays
+are impractical for assessing pain originating from surgical operations involving the head and scalp (see6 for a
+review). Non-selective proxy measures such as cardiovascular changes, food and water intake, locomotion, and
+nest construction have been used to measure ‘spontaneous’ pain following injury with varying degrees of success
+and large inter-subject variability7–9. In addition, learning paradigms such as conditioned place preference have
+also been used to evaluate postoperative pain and pain relief following surgery10, but these studies are often lim-
+ited by one-trial learning making the assessment of pain over time difficult.
+The recent implementation of the grimace scales has expanded our ability to assess pain in rodents11,12 and
+potentially addresses some of the issues associated with evoked or proxy measures of pain in laboratory animals6.
+The grimace scale was originally developed for mice based on the facial action coding system for pain in infants
+and non-verbal humans13. The mouse grimace scale (MGS) measures changes in facial musculature – orbital
+tightening, nose bulge, cheek bulge, ear change, and whisker change – following injury11. Each feature is given
+a score of 0 (not present), 1 (moderate) or 2 (severe), which can be scored with remarkably high reliability and
+accuracy. Although the grimace scale has been readily evaluated in mice11,14,15 and rats12,16, other grimace scales
+have been developed to capture ‘pain faces’ in horses17, cats18, rabbits19, sheep20 and ferrets21, which have helped
+to evaluate postoperative pain across species.
+The sensitivity of the MGS allows for the detection of postoperative pain upwards of 48 h following surgery14.
+There is a strong positive correlation between MGS scores and pain-associated behaviors in mice22, suggest-
+ing that facial expressions of pain could provide a rapid and reliable clinical pain assessment modality. Because
+the mouse grimace scale has been shown to be a reliable indicator of pain postsurgery14,15,22, we used it as an
+assessment tool to characterize the extent and duration of postoperative pain in mice following craniotomy. We
+evaluated the efficacy of common rodent analgesics: the μ-opioid receptor partial agonist buprenorphine and
+nonsteroidal anti-inflammatory drugs (NSAID) carprofen and meloxicam. Further, since multiple injections of
+analgesics are often required for pain management in rodents5, we assessed whether self-administration of these
+analgesics (i.e. through the drinking supply) offered comparable analgesia to the injectable formulations. We
+largely find that analgesics administered through an injection route were more effective in reducing MGS scores
+when compared with free access through the drinking supply. Buprenorphine was the most effective for treating
+pain in both males and females, although minor sex differences emerged for carprofen.
+Results
+The experimental timeline is shown in Fig. 1. A five-way ANOVA of all data (site × sex × administration route
+× drug × repeated measure) revealed a main effect for time course (F = 143.4, p < 0.001), a main effect for
+5,142
+administration route (F = 4.77, p = 0.03) and a three-way interaction between sex, administration route and
+1,142
+drug (F = 2.56, p = 0.03). There was also a three-way interaction between administration route, drug and time
+5,142
+course (F = 2.51, p < 0.001). No other meaningful interactions reached significance (All F’s < 2.2, p > 0.05).
+25,142
+Because there was no main effect for site (F = 2.0, p = 0.16) and analysis of baseline MGS scores showed no
+1,142
+difference with respect to the source of the mice (mice bred in-house, 0.07 ± 0.01 vs. mice purchased from CRL,
+0.07 ± 0.01; mean ± SEM, two-tailed t-test, t = 0.595, p = 0.55), data were combined between and within sites.
+188
+However, data were separated according to route of administration (injected vs drinking supply) and sex for anal-
+ysis of the entire postoperative pain period (i.e. 72 h) based on the three-way interactions.
+Analysis of injected analgesics. Mean difference scores for each time point (MGS postoperative time
+point score – MGS baseline score) were calculated as previously done14. The interaction between drug and time
+point was significant (two-way ANOVA, drug × repeated measures: F = 4.75, p < 0.001) and posthoc testing
+25,88
+(one-way ANOVA at each time point) showed that buprenorphine, carprofen (25 mg/kg) and meloxicam (5 mg/
+kg) reduced MGS scores compared with saline control across time points within the first 24 hrs following cra-
+niotomy (4 h, F = 7.517, p < 0.001; 6 h, F = 10.63, p < 0.001; 8 h, F = 4.27, p = 0.002; 24 h, F = 5.259,
+5,88 5,88 5,88 5,88
+p < 0.001). Carprofen (10 mg/kg; p = 0.002) and meloxicam (2 mg/kg; p < 0.001) had a slower onset, but by 6 h
+following craniotomy MGS scores were significantly reduced compared with control mice (Fig. 2A). No drugs
+reduced MGS scores at 48 h (F = 0.93, p > 0.05) or 72 h (F = 1.03, p > 0.05) postsurgery even though scores
+5,88 5,88
+in the saline group were significantly higher than 0 at 48 h postsurgery (t = 2.12, p = 0.048). There were no over-
+15
+all sex differences for the injected analgesics (F = 0.072, p = 0.789), however, data were separated and plotted
+1,82
+for male (Fig. 2B) and female (Fig. 2C) mice over the entire postoperative observation period.
+Scientific RePoRts | (2019) 9:359 | DOI:10.1038/s41598-018-36897-w 2
+www.nature.com/scientificreports/
+Figure 2. Time course postsurgery for injected drugs. Mean difference scores are shown for carprofen (10
+and 25 mg/kg), meloxicam (2 and 5 mg/kg) and buprenorphine (0.1 mg/kg) compared with saline (control)
+for pooled sexes (A), male mice (B), and female mice (C). Each drug has been color-coded as indicated by the
+legend and significance at each time point was determined by comparing with saline control. The color of the
+asterisks corresponds to the appropriate drug. *p < 0.05; **p < 0.01, ***p < 0.001.
+Figure 3. Time course postsurgery for drugs added to the water supply. Mean difference scores are shown for
+carprofen (10 and 25 mg/kg), meloxicam (2 and 5 mg/kg) and buprenorphine (0.1 mg/kg) compared with saline
+(control) for pooled sexes (A), male mice (B), and female mice (C). Inset in A shows the time course of fluid
+consumption for mice over the postoperative monitoring period. Each drug has been color coded as indicated
+by the legend and significance at each time point was determined by comparing with saline control. The color of
+the asterisks corresponds to the appropriate drug. *p < 0.05; **p < 0.01, ***p < 0.001.
+Analysis of drinking supply analgesics. Mean difference MGS scores for all mice in the drinking supply
+groups were calculated and plotted as shown in Fig. 3A. A three-way ANOVA (sex × drug × repeated measures)
+revealed a main effect for drug (F = 2.82, p = 0.02), while a main effect for sex (F = 3.55, p = 0.06) and
+5,84 1,84
+three-way interaction (F = 1.41, p = 0.087) was approaching significance. To further examine the analgesic
+25,84
+efficacy following craniotomy, separate one-way ANOVAs were performed at each time point. None of the drugs
+significantly reduced MGS scores at the 4 h (F = 1.32, p = 0.26) and 6 h (F = 0.71, p = 0.62) time points.
+5,89 5,89
+However, buprenorphine reduced MGS scores at the 8 h time point (F = 2.36, p = 0.046) and all drugs reduced
+5,90
+MGS scores at the 24 h time point (F = 7.19, p < 0.001) compared with control mice. No further differences
+5,90
+were detected at 48 h (F = 1.18, p > 0.05) or 72 h (F = 0.842, p > 0.05). Overall fluid consumption was not
+5,90 5,90
+significant between drug conditions and likely not a contributing factor for differences in drug effects or lack
+thereof (drug × time interaction, F = 0.95, p > 0.05, Fig. 3A inset). In addition, we estimated the average drug
+15,168
+dose (in mg/kg) ingested by each mouse and these values were not significantly different from the injected doses
+when compared using multiple one-sample t-tests (Table 1). As was done for the injected analgesics, data were
+divided and plotted according to sex (Fig. 3B,C).
+Area Under Curve Analysis. To better compare the effect of drug treatment, sex and route of administra-
+tion on postcraniotomy pain, we computed a single value (area under the curve; AUC) to represent each drug
+over the entire postoperative period. There was a main effect for drug (F = 12.44, p < 0.001) and administra-
+5,166
+tion route (F = 13.88, p < 0.001), but not sex (F = 0.037, p > 0.05). However, the interaction between drug,
+1,166 1,166
+administration route and sex was highly significant (F = 3.54, p < 0.01). As shown in Fig. 4, there were no
+5,166
+major differences between drug treatment when administered through an injection or water supply for either sex.
+Additionally, carprofen had a greater analgesic effect in female mice when given via the water supply compared
+with the injected route (10 mg/kg, p < 0.001; 25 mg/kg, p = 0.05).
+Scientific RePoRts | (2019) 9:359 | DOI:10.1038/s41598-018-36897-w 3
+www.nature.com/scientificreports/
+Drug Injected Dose (mg/kg) Calculated Oral Dose (mg/kg) One sample t-test
+Carprofen 10 (n = 8 M, 8 F) 25 (n = 8 M, 8 F) 1 2 1 2 . . 4 9 6 2 ± ± 1 1 . . 0 9 9 9 ( ( n n = = 8 8 M M , , 8 8 F F ) ) t t7 7 = = 1 − .3 1 5 .0 , 5 p , = p = 0. 2 0 2 .3 3
+Meloxicam 2 (n = 8 M, 8 F) 5 (n = 8 M, 7 F) 1 6 . . 8 9 4 8 ± ± 0 1 . . 0 0 8 0 ( ( n n = = 8 8 M M , , 8 8 F F ) ) t t7 7 = = − 1.9 1 6 .7 , 3 p , = p = 0. 0 0 9 .13
+Buprenorphine 0.1 (n = 8 M, 8 F) 0.11 ± 0.008 (n = 8 M, 8 F) t7 = 1.25, p = 0.25
+Table 1. Estimated average drug dose (mg/kg) ingested compared to injected drug dose using a one-sample
+t-test.
+In order to determine whether these effects generalized to another mouse strain, we assessed the AUC of MGS
+scores for C57BL/6 N mice following craniotomy. We first noticed that the facial features of C57BL/6 N were
+more difficult to distinguish than CD-1 mice (Fig. 5). In C57BL/6 N mice, whiskers were particularly difficult to
+distinguish against the dark fur and were not scored. As such, orbital tightening, nose bulge, cheek bulge, and ear
+position were quantified and averaged to calculate the total MGS score for C57BL/6 N mice. AUC was analyzed
+to remove the influence of time course and directly compare drug effects and administration route. Two-way
+ANOVA (drug × administration route) revealed a significant main effect for drug (F = 3.38, p = 0.008), but
+5,82
+neither administration route (F = 2.55, p = 0.11) nor the interaction (F = 1.26, p = 0.29) reached statistical
+1,82 5,82
+significance. Carprofen (25 mg/kg) and meloxicam (5 mg/kg) significantly reduced the AUC when compared with
+control (Fig. 6A; Tukey’s, p < 0.05 and p < 0.01, respectively), indicating an analgesic effect. However, the degree
+of analgesia by carprofen or meloxicam in C57BL/6 N mice was less than CD-1 mice. This reduced analgesic effect
+of carprofen and meloxicam paralleled the overall lower MGS scores in the C57BL/6 N control mice compared to
+CD-1 mice (Fig. 6B, t = 5.53, p < 0.001).
+45
+Discussion
+Unless postoperative pain is specifically being studied, pain control following surgery is an absolute requirement.
+The severity of pain following craniotomy has historically been viewed as minimal, but recent data suggests oth-
+erwise23. This makes the detection of craniotomy-related pain in animals critically important for refinement, but
+since species and individual responses to pain are variable, evaluation and treatment of this pain are difficult.
+In the present study, we used the MGS to provide evidence that spontaneous pain following craniotomy lasted
+upwards of 48 h and commonly used analgesics reduced this pain when administered as an injected substance or
+through the drinking supply. We observed statistically significant reductions in MGS scores for all drugs given
+through both routes of administration, however, injected analgesics were more effective in the immediate hours
+(4 to 8 h) after surgery. Overall no sex differences were evident between drugs, but the NSAID carprofen was more
+efficacious for female mice when self-administered through the drinking supply (Fig. 4). In addition, we find
+that MGS scores were significantly lower for C57BL/6 N mice following craniotomy, when compared with CD-1
+mice and much higher doses of NSAIDS (carprofen or meloxicam) than currently recommended (Table 2) were
+required to reduce these scores.
+In lab animals, the majority of analgesics are administered through an injectable formulation following sur-
+gery. However, recent trends and innovations have led to the development of alternative vehicles for the admin-
+istration of drugs to reduce handling-related stress, such as gel formulations24, sucralose in the water supply25 or
+medicated pellets26. We tested MediDrop sucralose, a sweetened water gel for medication delivery (antibiotics,
+analgesics or experimental compounds), but did not find a clear advantage for analgesic administration following
+craniotomy when compared with equivalent injectable formulations – except when the NSAID carprofen was
+administered to female mice. Although, we did not measure serum concentration of drugs, we estimate from the
+consumption of water throughout the postoperative period that comparable levels of drug dosing were achieved
+for all mice, independent of administration route (Table 1).
+Oral administration of analgesic drugs is intended to reduce the negative impact that restraint stress has
+on laboratory animals. Inherently, this is progressive because the stress associated with repeated physical
+restraint has been shown to negatively impact heart rate, body temperature, blood glucose and hormonal levels
+in mice (see27 for a review). In addition, restraint stress has been shown to delay cutaneous wound healing in
+mice28, which may increase the risk of postsurgical infection and hemorrhage. Further, there are indications
+that routine laboratory manipulations, including picking mice up by the tail increases their anxiety and stress
+responses29, while the simple presence of a male-experimenter increases corticosterone30. Thus, an effective
+self-administration system for analgesics would offer tremendous benefits for reducing the negative impacts asso-
+ciated with experimenter-mouse interactions. The MediDrop system as used here may offer advantages in drug
+administration, but this benefit may be small and details such as dose-response and consumption period prior
+to surgery need to be refined. Because rodents have a natural aversion to new foods, sucralose was added to the
+water two days prior to surgery, which allowed mice to habituate to the novel taste and ensured that consumption
+remained constant throughout the postoperative testing period. We do not believe that prolonging the presurgical
+sucralose consumption period would have increased analgesic efficacy because previous studies have shown that
+only 15 h of voluntary buprenorphine ingestion was required to reach similar or higher blood concentrations than
+subcutaneous administration24. Previous studies have suggested that the willingness of the animal to ingest water
+may enhance inter-subject variation31, but that does not apply here as there was comparable water consumption
+between all of our water supply groups (Fig. 3A inset). Alternative approaches have been adopted to allow mice
+to voluntarily ingest analgesics, such as dissolving drugs in a sticky nut and chocolate paste (i.e. Nutella®), which
+Scientific RePoRts | (2019) 9:359 | DOI:10.1038/s41598-018-36897-w 4
+www.nature.com/scientificreports/
+Figure 4. Comparison of AUC scores for control, carprofen (10 and 25 mg/kg), meloxicam (2 and 5 mg/kg)
+and buprenorphine (0.1 mg/kg) over the entire 72 h postoperative period compared across administration route
+(injected vs. water supply). Pooled sexes (A), male mice (B) and female mice (C) are shown. Comparisons were
+conducted between administration routes for each panel, with lower AUC scores for female mice administered
+carprofen through the water supply. *p < 0.05, **p < 0.01.
+Figure 5. Representative images and corresponding scores for CD-1 and C57BL/6 N control mice at baseline,
+8 h and 48 h postcraniotomy. CD-1 images were scored using 5 action units, orbital tightening, nose bulge,
+cheek bulge, ear change and whisker change. All of the action units except for whisker change were scored for
+C57Bl/6 N due to the poor detection of whiskers in the dark colored mice.
+mice readily consume, but this is not a sustainable solution as Nutella® has a high content of fat and sugar making
+it undesirable as a delivery vehicle for pain studies given the impact of diet and inflammation on pain32.
+We believe that the current findings represent the most thorough assessment of postoperative craniotomy
+pain in mice. The evaluation of different drugs, routes of administration, surgery and testing sites, mouse sex and
+mouse strain using the MGS as a primary output demonstrate the reliability of the MGS, but also point toward
+the CD-1 mouse strain as an optimal choice for analgesic drug screening using this assay. Since, we were not
+investigating whether MGS was able to ‘detect’ pain following surgery and all mice received the same surgical
+manipulation (i.e. sham craniotomy), we did not attempt to blind the coder to baseline or surgical condition.
+Previous studies have blinded across surgical condition, but these studies typically compared a sham vs. surgical
+manipulation (i.e. cervical radiculopathy), where surgical status would almost certainly impact grimace scores33.
+Grimace scales have shown excellent consistency in pain detection among rodents and other species11,12,14,17,21,
+however no single study has ever compared generalizability among experimenters, testing sites or pharmaco-
+logical effects. Both the MGS and RGS (rat grimace scale) show robust inter-rater reliability, but these analyses
+have largely been conducted among individuals within the same test site and coding the same set of images.
+Given that husbandry practices may significantly alter mouse physiology and behavior, which may contribute to
+the lack of reproducibility in the literature, we did not make a deliberate effort to standardize practices between
+centers. Instead, we assessed the reliability and robustness of the MGS for craniotomy detection between centers
+Scientific RePoRts | (2019) 9:359 | DOI:10.1038/s41598-018-36897-w 5
+www.nature.com/scientificreports/
+Figure 6. Area under the Curve (AUC) analysis for C57BL/6 N mice. (A) AUC scores for C57BL/6 N mice that
+were treated with carprofen (10 and 25 mg/kg), meloxicam (2 and 5 mg/kg) and buprenorphine (0.1 mg/kg). For
+each condition, the scores of individual mice are presented as a dot plot with injectable analgesics indicated by
+the green circles and analgesics administered through the water supply as orange circles. In contrast with CD-1
+mice, MGS scores for the carprofen (25 mg/kg) and meloxicam (5 mg/kg) groups were significantly lower than
+control mice. (B) Overall higher MGS scores were found in CD-1 control mice when compared with C57BL/6 N
+mice. *p < 0.05; **p < 0.01, ***p < 0.001.
+Drug Dose (mg/kg) Route Frequency (h)
+Carprofen 5 SC 12–24
+Meloxicam 2 SC 24
+Buprenorphine 0.05–0.1 SC 8–12
+Table 2. University of Toronto recommendations for dose, route and frequency of mouse analgesics following
+surgery.
+and found no site-specific differences. This gives confidence in our results and supports the consistency of the
+MGS for detecting spontaneous pain following craniotomy despite differences in environmental conditions and
+experimental personnel. Our results were less robust for craniotomy detection when the C57BL/6 N mouse stain
+was used, but these mice had overall lower MGS scores than CD-1 mice.
+It’s been previously reported that MGS scores – both baseline and in response to injury – differ between
+mouse strains. Using cage-side, clinical assessment, C57BL/6 mice were observed to have lower baseline MGS
+scores than CD-1 mice, which have lower MGS scores than C3H/He mice15. Further, DBA/2, but not CBA mice
+show an increase in MGS scores following exposure to isoflurane anesthesia, which should be considered when
+using the MGS to assess changes in postsurgical pain34. CD-1 mice also show a slight increase in MGS scores
+following isoflurane exposure, but these increases are only observed 1-hr post-anesthesia and were very modest
+in comparison to the changes in MGS that were associated with craniotomy observed here14. In addition, admin-
+istration of common analgesics had no effect on MGS scores in the absence of postsurgical pain14,34. Moreover, as
+we were investigating optimal analgesic strategies for treatment of postoperative pain, we necessarily performed
+craniotomy surgery under isoflurane anesthesia in all groups and incorporated several test time points, from
+hours to days postsurgery, to evaluate analgesic efficacy. Finally, anesthetic-analgesic administration influenced
+measures of spontaneous postoperative pain, but only when movement was required (i.e. nest consolidation,
+locomotion, and grooming)35. Because MGS scores are not influenced by decreased locomotion, we believe that
+our current findings reflect best practices to address spontaneous pain following surgery.
+Overall, our results highlight the need for postoperative analgesia following craniotomy, preferably in the
+form of an injected over self-administered analgesic. Further, buprenorphine provides more effective analgesia
+compared to commonly used NSAIDs following craniotomy.
+Methods and Materials
+Mice and test facilities. All experiments were approved by the appropriate animal care committees at the
+University of Toronto and conducted in accordance with the Canadian Council on Animal Care (CCAC) guide-
+lines and the Ontario Animals for Research Act. Male and female CD-1 [Crl:CD1(ICR)] outbred mice (6–8 weeks
+of age) were tested in two different facilities. Mice tested at the University of Toronto Mississauga (Martin lab,
+n = 96 total) were bred in-house (n = 76) or purchased from Charles River Laboratories (n = 20). Mice tested at
+the University of Toronto St. George campus (Bonin Lab) were all purchased from Charles River (CD-1, n = 94;
+C57BL/6 N, n = 94). C57BL/6 N mice (of both sexes) were assessed by the Bonin Lab to determine whether find-
+ings in CD-1 mice were generalizable to another commonly used mouse strain. Mice bred at the University of
+Scientific RePoRts | (2019) 9:359 | DOI:10.1038/s41598-018-36897-w 6
+www.nature.com/scientificreports/
+Toronto Mississauga vivarium were housed with same-sex littermates in groups of 4–5 per cage at weaning. Prior
+to the start of the experiments, these mice were separated and individually housed for one-week. All mice pur-
+chased from Charles River (in both labs) were housed individually upon arrival and allowed a one-week habitua-
+tion period. Both facilities were temperature controlled (20 ± 1 °C) with 12:12 h light:dark cycle and experiments
+were only conducted during the light period. A compressed cotton nesting square and crinkled paper bedding
+were provided in each cage as a source of environmental enrichment. All mice had access to food (Harlan Teklad
+8604) and water ad libitum, however, water was switched to sucralose (MediDrop, Westbrook, ME) two days prior
+to surgery. Mice only underwent one surgery, and equal numbers of male and female mice were tested in each
+cohort. For the C57BL/6 N experiments, n = 4 mice per sex per group were used because no major sex differences
+emerged, and accurate detection of facial features was difficult in dark-colored mice, making any precise compar-
+ison between the two strains problematic.
+Digital video. Mice were placed individually on a tabletop in cubicles (9 × 5 × 5 cm high) with 2 walls of
+transparent acrylic glass and 2 side walls of removable stainless steel. Two high-resolution (1920 × 1080) digital
+video cameras (High-Definition Handycam Camcorder, model HDR-CX405, Sony, San Jose, CA) were placed
+immediately outside both acrylic glass walls to maximize the opportunity for clear facial shots. Video was taken
+for 30-min before surgery (−1 day) and for 30-min periods centered around the postsurgical time points con-
+sidered (4, 6, 8, 24, 48, and 72 h). For baseline videos, mice were acclimated to the cubicle for 15 min prior to
+recording. The videos were subsequently analyzed, and one clear facial image per mouse was taken for every
+three minutes of video. Image files were cropped and then copied into PowerPoint (Microsoft, Redmond, WA)
+with one image per slide. A PowerPoint macro (http://www.tushar-mehta.com/power-point/randomslideshow/
+index.htm) was used to randomize the slide order. Identifications were removed to ensure that a single, experi-
+enced experimenter (C. Cho) was blind to drug treatment, route of administration, sex and site. Average MGS
+scores for each mouse were then calculated by averaging individual action unit scores across the entire duration
+of recording for each time point and mean difference scores were obtained by subtracting baseline MGS scores
+from the time point following surgery. In CD-1 mice, all action units (orbital tightening, nose bulge, cheek bulge,
+ear position and whiskers) were scored. In C57BL/6 N mice, we did not score whiskers because they were diffi-
+cult to distinguish against the dark fur of the mice, so MGS scores for these mice were the average of the other 4
+action units. The brightness and contrast of all images was equally adjusted using Microsoft PowerPoint to better
+distinguish facial features.
+Surgery. A craniotomy, designed to mimic a neurosurgical procedure, was performed under isoflurane–
+oxygen-anesthesia (isoflurane: induction 4%, maintenance, 1.5–2%; oxygen: maintained at 1%) Surgeons had var-
+ied degrees of surgical experience (Martin lab: C.Cho, 5+ years surgical experience, n = 16 mice; M.L., 1+ year
+surgical experience, n = 80 mice; Bonin lab: C.C., lab animal veterinarian, 7+ years surgical experience, n = 188)
+and the time of an average surgery was approximately 20 min/mouse. Following anesthesia, mice were placed in a
+stereotaxic frame (BenchmarkTM, myNeuroLab) and administered a bolus of saline (0.1 ml/g of bodyweight, s.c.)
+to prevent dehydration; mice in the injectable analgesic groups were also given their first treatment at this time.
+After shaving and disinfection of the surgical site, the skull was exposed following a 1.3-cm midline incision,
+and a 0.6 mm diameter circular craniotomy was performed over the skull region at coordinates AP = −2.46,
+ML = 0.55 from bregma. A needle (30 G) was then used to remove the dura from the surface of the brain taking
+care to avoid puncturing the brain. The scalp was then sutured (6–0 vicryl, Ethicon) and mice were allowed to
+recover on a 37 °C heat pad with access to water and one pellet of food. Mice were monitored until ambulatory
+and then transferred to the experimental behavioral room for MGS assessment. All surgeries were performed at
+900 h ± 1 h with MGS images consistently captured at 4, 6, 8, 24, 48, and 72 h following surgery. All surgeons were
+blind to drug treatment.
+Injectable Administration of Drugs. Carprofen (10 and 25 mg/kg), meloxicam (2 and 5 mg/kg), and
+buprenorphine (0.1 mg/kg) were obtained from CDMV (St Hyacinthe, Quebec, Canada) and dissolved in physi-
+ologic saline. Injections were given subcutaneously immediately before surgery and at 12 h time intervals follow-
+ing surgery. For the control group, saline injections were given at the same frequency as the drug groups and all
+injections were administered in a volume of 0.1 ml/g body weight. Doses were selected based on standard oper-
+ating procedure and guidelines outlined by the University of Toronto, which considers craniotomy-related pain
+to be of mild-moderate severity. Table 2. outlines the University of Toronto dose recommendations for mouse
+analgesics following surgery, the preferred route of administration and frequency at which the analgesic should
+be administered. In most cases we selected doses at or above the upper range of these recommendations because
+previous studies have highlighted the inadequacy of recommended analgesic doses for treating postoperative pain
+in rodents14,16.
+Oral Administration of Drugs. Carprofen (10 and 25 mg/kg), meloxicam (2 and 5 mg/kg), and buprenor-
+phine (0.1 mg/kg) were dissolved in MediDrop Sucralose (https://www.clearh2o.com/research-products/medidrop/
+medidrop-sucralose.html) and made accessible to mice from 48 h prior to surgery. At the start of the experiment, a
+fixed amount of water/sucralose was given (192 ml) in a water bottle. On each day – before the start of the surgery or
+behavioural experiments – the remaining volume of water/sucralose was measured using a graduated cylinder. The
+amount of analgesic added to sucralose was calculated based on the average sucralose consumptions of naïve CD-1
+males (0.38 ml/g body weight/day; n = 8) and females (0.48 ml/g body weight/day; n = 8).
+Scientific RePoRts | (2019) 9:359 | DOI:10.1038/s41598-018-36897-w 7
+www.nature.com/scientificreports/
+Statistical analyses. All statistical analyses were performed using SPSS version 20 (SPSS, Chicago, IL), with
+a criterion of α = 0.05. Normality and homoscedasticity of all data sets were confirmed by using the Shapiro–Wilk
+and Levene tests, respectively, and thus parametric statistics were used in all cases. Time-course data were ana-
+lyzed using repeated-measures ANOVA, followed where appropriate by posthoc testing for repeated measures
+with Sidak correction for multiple comparisons. For initial analysis, time course data were separated according to
+the route of administration—that is, all drugs were first compared based on administration route (i.e. injectable
+or water supply). In addition, data were further quantified with respect to the area under the time course curve
+(using the trapezoidal method) over the postoperative testing period (72 h in all cases). The area under the curve
+data were analyzed using either a one-, two-, or three-way ANOVA followed by Dunnett’s case-comparison post-
+hoc test. Calculated drug doses for the oral administration groups were analyzed by one-sample Student t test,
+comparing the calculated with the actual injected dose of each drug. The routes of administration were directly
+compared for all drugs through area under the curve analysis.
+References
+1. Liu, J. et al. Syringe-injectable electronics. Nat Nanotechnol 10, 629–636 (2015).
+2. Herman, A. M., Huang, L., Murphey, D. K., Garcia, I. & Arenkiel, B. R. Cell type-specific and time-dependent light exposure
+contribute to silencing in neurons expressing Channelrhodopsin-2. Elife 3, e01481 (2014).
+3. Isosaka, T. et al. Htr2a-Expressing Cells in the Central Amygdala Control the Hierarchy between Innate and Learned Fear. Cell 163,
+1153–1164 (2015).
+4. Carr, E. C. J., Thomas, V. N. & Wilson-Barnet, J. Patient experiences of anxiety, depression and acute pain after surgery: a
+longitudinal perspective. Int J Nurs Stud 42, 521–530 (2005).
+5. Pogatzki-Zahn, E. M., Segelcke, D. & Schug, S. A. Postoperative pain-from mechanisms to treatment. Pain Rep 2, e588 (2017).
+6. Mogil, J. S. Animal models of pain: progress and challenges. Nature Reviews Neuroscience 10, 283–294 (2009).
+7. Deuis, J. R., Dvorakova, L. S. & Vetter, I. Methods Used to Evaluate Pain Behaviors in Rodents. Frontiers in Molecular Neuroscience
+10 (2017).
+8. Rock, M. L. et al. The Time-to-Integrate-to-Nest Test as an Indicator of Wellbeing in Laboratory Mice. J Am Assoc Lab Anim 53,
+24–28 (2014).
+9. Jacobsen, K. R., Kalliokoski, O., Teilmann, A. C., Hau, J. & Abelson, K. S. P. Postsurgical Food and Water Consumption, Fecal
+Corticosterone Metabolites, and Behavior Assessment as Noninvasive Measures of Pain in Vasectomized BALB/c Mice. J Am Assoc
+Lab Anim 51, 69–75 (2012).
+1 0. Navratilova, E. et al. Endogenous Opioid Activity in the Anterior Cingulate Cortex Is Required for Relief of Pain. Journal of
+Neuroscience 35, 7264–7271 (2015).
+11. Langford, D. J. et al. Coding of facial expressions of pain in the laboratory mouse. Nat Methods 7, 447–449 (2010).
+12. Sotocinal, S. G. et al. The Rat Grimace Scale: a partially automated method for quantifying pain in the laboratory rat via facial
+expressions. Mol Pain 7, 55 (2011).
+13. Ekman, P., Wallace, F. Facial Action Coding System: A Technique for the Measurement of Facial Movement (1978).
+14. Matsumiya, L. C. et al. Using the Mouse Grimace Scale to reevaluate the efficacy of postoperative analgesics in laboratory mice. J Am
+Assoc Lab Anim Sci 51, 42–49 (2012).
+15. Miller, A. L. & Leach, M. C. The Mouse Grimace Scale: A Clinically Useful Tool? PLoS One 10, e0136000 (2015).
+16. Waite, M. E. et al. Efficacy of Common Analgesics for Postsurgical Pain in Rats. J Am Assoc Lab Anim Sci 54, 420–425 (2015).
+17. Dalla Costa, E. et al. Using the Horse Grimace Scale (HGS) to Assess Pain Associated with Acute Laminitis in Horses (Equus
+caballus). Animals (Basel) 6 (2016).
+18. Holden, E. et al. Evaluation of facial expression in acute pain in cats. J Small Anim Pract 55, 615–621 (2014).
+19. Keating, S. C., Thomas, A. A., Flecknell, P. A. & Leach, M. C. Evaluation of EMLA cream for preventing pain during tattooing of
+rabbits: changes in physiological, behavioural and facial expression responses. Plos One 7, e44437 (2012).
+20. Hageri, C. et al. The Sheep Grimace Scale as an indicator of post-operative distress and pain in laboratory sheep. Plos One 12 (2017).
+21. Reijgwart, M. L. et al. The composition and initial evaluation of a grimace scale in ferrets after surgical implantation of a telemetry
+probe. PLoS One 12, e0187986 (2017).
+22. Leach, M. C. et al. The Assessment of Post-Vasectomy Pain in Mice Using Behaviour and the Mouse Grimace Scale. Plos One 7
+(2012).
+23. Chowdhury, T. et al. Perioperative Factors Contributing the Post-Craniotomy Pain: A Synthesis of Concepts. Front Med (Lausanne)
+4, 23 (2017).
+24. Hovard, A., Teilmann, A., Hau, J. & Abelson, K. The applicability of a gel delivery system for self-administration of buprenorphine
+to laboratory mice. Lab Anim 49, 40–45 (2015).
+25. Marx, J. O., Vudathala, D., Murphy, L., Rankin, S. & Hankenson, F. C. Antibiotic administration in the drinking water of mice. J Am
+Assoc Lab Anim Sci 53, 301–306 (2014).
+26. Molina-Cimadevila, M. J. et al. Oral self-administration of buprenorphine in the diet for analgesia in mice. Lab Anim 48, 216–224
+(2014).
+27. Balcombe, J. P., Barnard, N. D. & Sandusky, C. Laboratory routines cause animal stress. Contemp Top Lab Anim Sci 43, 42–51 (2004).
+28. Padgett, D. A., Marucha, P. T. & Sheridan, J. F. Restraint stress slows cutaneous wound healing in mice. Brain Behav Immun 12,
+64–73 (1998).
+29. Hurst, J. L. & West, R. S. Taming anxiety in laboratory mice. Nat Methods 7, 825–826 (2010).
+30. Sorge, R. E. et al. Olfactory exposure to males, including men, causes stress and related analgesia in rodents. Nat Methods 11,
+629–632 (2014).
+31. Jessen, L., Christensen, S. & Bjerrum, O. J. The antinociceptive efficacy of buprenorphine administered through the drinking water
+of rats. Lab Anim 41, 185–196 (2007).
+32. Totsch, S. K. et al. Total Western Diet Alters Mechanical and Thermal Sensitivity and Prolongs Hypersensitivity Following Complete
+Freund’s Adjuvant in Mice. J Pain 17, 119–125 (2016).
+33. Philips, B. H., Weisshaar, C. L. & Winkelstein, B. A. Use of the Rat Grimace Scale to Evaluate Neuropathic Pain in a Model of
+Cervical Radiculopathy. Comparative Med 67, 34–42 (2017).
+34. Miller, A., Kitson, G., Skalkoyannis, B. & Leach, M. The effect of isoflurane anaesthesia and buprenorphine on the mouse grimace
+scale and behaviour in CBA and DBA/2 mice. Appl Anim Behav Sci 172, 58–62 (2015).
+35. Oliver, V. L., Thurston, S. E. & Lofgren, J. L. Using Cageside Measures to Evaluate Analgesic Efficacy in Mice (Mus musculus) after
+Surgery. J Am Assoc Lab Anim 57, 186–201 (2018).
+Scientific RePoRts | (2019) 9:359 | DOI:10.1038/s41598-018-36897-w 8
+www.nature.com/scientificreports/
+Acknowledgements
+We thank Jasmine Hg, Annissa Ho, and Jerry Li for their assistance with the data organization and coding.
+This research was supported by the Canada Research Chairs Program (L.J.M. and R.P.B.), American College of
+Laboratory Animal Medicine (R.P.B), the University of Toronto Centre for the Study of Pain (R.P.B), the Research
+Scholars and Activity Fund, University of Toronto Mississauga (L.J.M.) and the Natural Sciences and Engineering
+Research Council of Canada (I.L.). Chulmin Cho was partially supported by a trainee fellowship from the
+University of Toronto Centre for the Study of Pain.
+Author Contributions
+L.J.M. and R.P.B. conceived of the project. C.Cho., V.M., I.L., C.C., M.L., M.D., C.P. and P.U. collected data.
+C.Cho., D.H. and L.J.M. analyzed data. L.J.M. wrote the paper with input from C.Cho., V.M. and M.L. All authors
+edited and commented on the paper.
+Additional Information
+Competing Interests: The authors declare no competing interests.
+Publisher’s note: Springer Nature remains neutral with regard to jurisdictional claims in published maps and
+institutional affiliations.
+Open Access This article is licensed under a Creative Commons Attribution 4.0 International
+License, which permits use, sharing, adaptation, distribution and reproduction in any medium or
+format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Cre-
+ative Commons license, and indicate if changes were made. The images or other third party material in this
+article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the
+material. If material is not included in the article’s Creative Commons license and your intended use is not per-
+mitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the
+copyright holder. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.
+© The Author(s) 2019
+Scientific RePoRts | (2019) 9:359 | DOI:10.1038/s41598-018-36897-w 9

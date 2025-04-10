@@ -1,0 +1,393 @@
+MOLECULAR PAIN
+A simplified up-down method (SUDO) for
+measuring mechanical nociception in rodents
+using von Frey filaments
+et al.
+Bonin
+Boninetal.MolecularPain2014,10:26
+http://www.molecularpain.com/content/10/1/26
+Boninetal.MolecularPain2014,10:26
+http://www.molecularpain.com/content/10/1/26 MOLECULAR PAIN
+METHODOLOGY Open Access
+A simplified up-down method (SUDO) for
+measuring mechanical nociception in rodents
+using von Frey filaments
+Robert P Bonin1, Cyril Bories1 and Yves De Koninck1,2*
+Abstract
+Background: The measurement of mechanosensitivity is a key method for thestudy of pain in animal models. This
+is often accomplishedwith the use ofvon Frey filamentsin anup-down testing paradigm. The up-down method
+described byChaplan et al. (JNeurosci Methods 53:55–63, 1994) for mechanosensitivity testing in rodents remains
+one ofthemost widely used methods for measuring pain inanimals. However, this method results inanimals
+receiving a varying number of stimuli, which may lead to animals in different groups receiving different testing
+experiences that influencestheir later responses. To standardize themeasurement of mechanosensitivity we
+developed a simplified up-down method (SUDO)for estimatingpaw withdrawal threshold (PWT) withvon Frey
+filaments that uses a constant numberof five stimuli per test. We further refinedthe PWTcalculation to allow the
+estimation of PWTdirectly from thebehavioral response to the fifth stimulus, omitting theneed for look-up tables.
+Results: The PWT estimates derivedusing SUDOstrongly correlated (r>0.96) with thePWT estimatesdetermined
+withtheconventional up-down method of Chaplan etal., and this correlation remained very strong across different
+levels oftesterexperience, different experimental conditions, and intests from both mice and rats. The two testing
+methods alsoproduced similarPWT estimates in prospective behavioral tests of mice atbaselineand after
+induction ofhyperalgesia by intraplantar capsaicin or complete Freund’sadjuvant.
+Conclusion: SUDO thus offersan accurate, fastand user-friendly replacement forthe widely used up-down method
+ofChaplan et al.
+Keywords: Mechanosensitivity,Pain measurement,Rodents, Allodynia, Nociception
+Background commonly used. Indeed, a survey of recent studies indi-
+Anexaggerated nocifensiveresponseto mechanical stimuli cated that approximately 60% of publications where PWT
+is considered a key indicator of abnormal sensory process- was measured used thisIn the up-down method up-down
+ing in most rodent models of pathological pain [1,2]. methodoramodifiedversionofit[6].
+Mechanosensitivity can be determined as the threshold In up-down methods of testing, a lack of response to a
+amount of force required to elicit a behavioral response, filamentdictatesthatthenexthigherfilamentisusedinthe
+such asthe withdrawal ofapaw from the applied stimulus followingstimulation,whileapositiveresponsedictatesthe
+[3,4].Therearedifferentmethodsavailabletoestimatepaw useofthenextlowerfilament.Intheup-downmethodde-
+withdrawal threshold (PWT) with the use of von Frey fila- scribed by Chaplan et al. [3], the number of von Frey pre-
+ments,buttheup-downmethodofDixon[5]asappliedto sentations in each trial is ultimately determined by the
+rodents by Chaplan et al. [3] remains one of the most numberoffilamentpresentationsrequiredtoapproachthe
+PWT. In this case, the PWT is assumed to exist in the
+vicinity of a stimulus level where the animal first changes
+*Correspondence:yves.dekoninck@neuro.ulaval.ca
+1Unitédeneurosciencescellulairesetmoléculaire,Centrederecherchede itsresponsepattern:anegativeresponsefollowedbyaposi-
+l’InstitutuniversitaireensantémentaledeQuébec,2601Chemindela tiveresponseorviceversa(Figure1A).Oncethisthreshold
+Canardière,Québec,QCG1J2G3,Canada
+is approached, another four von Frey presentations are
+2DepartmentofPsychiatryandNeuroscience,UniversitéLaval,Québec,
+Canada done according to up-down rules and the PWT is
+©2014Boninetal.;licenseeBioMedCentralLtd.ThisisanOpenAccessarticledistributedunderthetermsoftheCreative
+CommonsAttributionLicense(http://creativecommons.org/licenses/by/4.0),whichpermitsunrestricteduse,distribution,and
+reproductioninanymedium,providedtheoriginalworkisproperlycredited.TheCreativeCommonsPublicDomain
+Dedicationwaiver(http://creativecommons.org/publicdomain/zero/1.0/)appliestothedatamadeavailableinthisarticle,
+unlessotherwisestated.
+Boninetal.MolecularPain2014,10:26 Page2of10
+http://www.molecularpain.com/content/10/1/26
+Figure1MousemechanosensitivitymeasuredwithvonFreyfilaments.(A)Illustrationoftheup-downvonFreytestingparadigmsdescribed
+byChaplanetal.[3]andthesimplifiedup-downmethod(SUDO).(B)Frequencydistributionofthepawwithdrawalthreshold(PWT)estimates
+calculatedusingthemethodofChaplanetal.,[3]forthemousedatasetthatwasanalyzed(n=1065).(C)Frequencydistributionofthemouse
+PWTdividedbyexperimentertorevealdataheterogeneity(beginnern=318,intermediaten=220,expertn=527).(D)Frequencydistributionof
+thetotalnumberofvonFreypresentations(trials)pertest.
+calculatedbycombiningthevalueofthefinalvonFreyfila- tests that were originally conducted with mice and rats
+mentusedwithanadjustmentfactorbasedontheresponse using the method of Chaplan et al. [3]. We determined
+patternoftheanimal[3]. that SUDO effectively reproduces the PWT estimates
+When testing is conducted with a conventional set of calculated with the method of Chaplan et al. [3]. By re-
+8 different von Frey filaments [3], this method allows for ducing the number of stimuli to five in each trial we an-
+a total of four to nine stimuli in each trial. This variabil- ticipate that SUDO will require, on average, nearly 30%
+ity can become a source of bias since repeated testing fewer filament presentations and streamline testing and
+can change the responsiveness of the animal. Such a PWT estimation. Overall, we believe that the improve-
+change in responsiveness was described by Chaplan ments offered bySUDO willimprove mechanosensitivity
+et al. [3], when prolonged testing sessions altered the testing times and accuracy, particularly when large
+PWT ofnormal, un-operated rats.Additionally, theneed groups of mice are used, and reduce training time for
+to keep track of variable numbers of stimuli can become newusers.
+cumbersome and error-prone when large groups of ani-
+mals aretestedsimultaneously. Results
+To alleviate these drawbacks, we developed a Simpli- We first reanalyzed the results from 1065 previous
+fied Up-Down method (SUDO) for mechanosensitivity mechanosensitivity measurements in C57BL/6 mice. The
+testing with von Frey filaments that uses a consistent original measurements were conducted by three different
+number of stimuli without affecting PWT estimation. experimenters following the method described by Chaplan
+We propose using only five von Frey filament presenta- et al. [3] (Figure 1A, B). Each of the three experimenters
+tions per test; the minimum possible number when test- haddifferentlevelsofexperiencewithmechanosensitiv-
+ing with a set of 8 filaments in an up-down manner. We ity measurements using von Frey filaments and were
+implemented a further simplification for the estimation classified as “beginner” (less than 3 months experience,
+ofPWTthatemploysaconstantadjustmentfactorbased n=318), “intermediate” (more than 3 months experi-
+solely on the response to the fifth stimulus, omitting the ence,n=220),and“expert”(morethanoneyearexperi-
+need for look-up tables for PWTcalculation [3,5]. Using ence, n=527; Figure 1C). The data from the three
+the SUDO method, we reanalyzed mechanosensitivity experimenters were obtained from mice at baseline or
+Boninetal.MolecularPain2014,10:26 Page3of10
+http://www.molecularpain.com/content/10/1/26
+with varying degrees of experimental hyperalgesia in- We further explored whether this correlation could be
+duced though several means that differed across experi- improved by using the value of the sixth filament used in-
+menters. The population of PWT estimates in the stead of the fifth filament. In this case the correlation
+intermediate data set calculated with the method of remained very strong (r=0.97; P<0.0001; Figure 3A), al-
+Chaplan et al. [3] were significantly different from the though this correlation was not appreciably stronger than
+beginnerandexpertdatasets(Kruskal-Wallisstatistic= the correlation obtained through comparison with esti-
+83.8, P<0.001; intermediate vs beginner: P<0.001; mates from the fifth filament. Additionally, the PWT
+intermediate vs expert: P<0.001; beginner vs expert: estimates derived from the fifth and sixth filament used
+P>0.05). However, no further stratification by hyperalge- were also very highly correlated (r=0.96; P<0.0001;
+sicconditionwasdonetopreservethesizeandheterogen- Figure 3B), suggesting that there is no measureable benefit
+eity of the data sets. The average number of stimuli to increasing the number of filament presentations from 5
+presented across all mouse trials was 6.8 (95% CI: 6.8 – to 6. Additionally, we confirmed that the correlation of
+6.9;Figure1D). PWT estimates obtained with the two methods is still
+ThePWTestimateswerereanalyzedwithSUDObytak- present after conversion from filament number to bending
+ing the value of the fifth filament used in each testing se- force.AfterconversionofbothPWTestimatestoforce,the
+quence and adding or subtracting a value of 0.5 filament correlation was again very strong (r=0.95, P<0.0001;
+intervals if the response to the fifth filament was negative Figure3C).
+or positive, respectively (Figure 1A). When the entire We next questioned whether the use of an adjustment
+mouse data set was tested without stratification by experi- factor of±0.5 stimulus intervals based on the response
+menter, SUDO produced PWT estimates that correlated to the fifth filament was optimal. To test this, the adjust-
+extremelywellwiththeestimatesderivedfromthemethod ment factor was varied from 0 to 1 stimulus intervals in
+of Dixon [5] (Pearson r=0.96, P<0.0001; Figure 2A). This increments of 0.1, and was added or subtracted from the
+correlation remained very high regardless if the original value of the fifth filament as previously done. These
+experimenter was a beginner (r=0.96, P<0.0001), PWT estimates were correlated with the estimates from
+intermediate (r=0.97; P<0.0001), or expert (r=0.94; the method of Chaplan et al. [3], and the Pearson r
+P<0.0001;Figure2B). values of the correlations were plotted against the
+Figure2Strongcorrelationbetweenmousepawwithdrawalthreshold(PWT)estimatescalculatedusingthemethodofChaplanetal.
+andSUDO.(A)CorrelationbetweenPWTestimatesdeterminedusingthetwomethodsforthemousedataset.(B)CorrelationbetweenPWT
+estimatesfromthetwomethodsdividedbyexperimenter.
+Boninetal.MolecularPain2014,10:26 Page4of10
+http://www.molecularpain.com/content/10/1/26
+Figure3ValidationoftheparametersofSUDO.(A)Strongcorrelationbetweenmousepawwithdrawalthreshold(PWT)estimatescalculated
+usingSUDOwith6vonFreypresentations(trials)pertestandthemethodofChaplanetal.[3].(B)CorrelationbetweenPWTestimatescalculated
+withSUDOusingfiveorsixvonFreypresentations.(C)CorrelationbetweenmousePWTestimateswhencalculatedasfilamentbendingforce
+usingtheup-downmethodofChaplanetal.andSUDOwith5vonFreypresentations.(D)EffectofchangingtheadjustmentfactorforthePWT
+estimationforSUDO,demonstratingapeakcorrelationbetweenPWTscalculatedusingthesimplifiedmethodandthemethodofChaplanetal.
+[3]withanadjustmentfactornear0.5.
+adjustment factor (Figure 3D). The plot of correlation differenceofthePWTestimates(SUDOvs.Chaplanetal.)
+strength versus adjustment factor was fit with a non- for a particular response pattern and the frequency of oc-
+linear quadratic function (r2=1.00) that indicated a currence of the pattern (r=−0.66, P=0.019; Figure 4B).
+maximum degree ofcorrelation (r=0.96) with an adjust- This suggests that large changes in mouse responding
+ment factor of±0.57. This maximal r value is equal to did not occur very frequently, which indicated that
+the r value obtained with an adjustment factor of 0.5 mice are unlikely to exhibit mechanical sensitization or
+stimulus intervals, indicating that 0.5 is an ideal, or very desensitization throughout a single trial. To look at this
+close toideal, adjustmentvalueforthePWTcalculation. possibility directly we calculated the probability that a
+The greatest difference between the PWT estimates ob- mouse would respond to the fifth through the ninth fila-
+tained with the method of Chaplan et al. [3] or SUDO mentpresentationforeachtrialinthedataset.Wedidnot
+wouldoccurincaseswherealargechangeinresponsepat- examinethefirstthroughfourthstimulisincetheresponse
+tern occurs after the fifth filament used. For example, the probabilitiesinthesetrialswillbelargelydeterminedbydif-
+pattern OOOOXXXXX would yield a withdrawal estimate ference between the actual PWTand the starting stimulus
+of6.5usingthescoringmethodofDixon[5],but8.5when level. Wefound that the response probabilityto any ofthe
+calculated with the simplified method. Because the largest fifththroughninthpresentationoffilamentina singletrial
+differencesareseenwhentheresponsepatternbeginswith didnotsignificantlydifferfrom0.5(P>0.05forallcompar-
+four consecutive negative responses (“OOOO”) and 9 isons), suggesting that mice neither sensitized nor desensi-
+stimuliarepresentedpertrial,weinvestigatedalltrialswith tizedinasingletrial(Figure4C).
+9 filament presentations (n=166) to determine the fre- We next prospectively determined whether SUDO and
+quency with which response patterns associated with large the method of Chaplan et al. [3] produce similar PWT
+differences in scoring occurred (Figure 4A). We found a estimates in mechanosensitivity tests. The PWT of mice
+strong, negative correlation between the magnitude of the was measured using both methods in a randomized
+Boninetal.MolecularPain2014,10:26 Page5of10
+http://www.molecularpain.com/content/10/1/26
+Figure4Lackofsensitizationwithinsinglemechanosensitivitytestsinmiceconductedusingup-downmethods.(A)Observed
+frequencyofeachpossibleresponsepatternwhen9vonFreypresentationswereusedinatestandthecorrespondingdifferenceinthePWT
+estimatesforeachpatternascalculatedusingthemethodofChaplanetal.[3]andSUDO.(B)Negativecorrelationbetweenthemagnitudeof
+thedifferenceinPWTestimatescalculatedusingthetwomethodsandthefrequencywithwhicheachpatternoccurred.(C)Probabilityofa
+positivenocifensiveresponsebyamousetothefifththroughninthvonFreyfilamentpresentationinalltrials.Datain(C)aremeanand95%
+confidenceinterval.(D)PWTestimatesmeasuredinmiceatbaseline(n=58),3hoursafterintraplantarinjectionofcapsaicin(Cap;5μl,0.5%w/v,
+n=12),and3hoursor3daysafterintraplantarinjectionofcompleteFreund’sadjuvant(CFA;10μl,n=12)usingthemethodofChaplanetal.[3]
+andSUDO.Thetwotestingmethodswerepresentedinarandomizedcrossovermannerineachcondition.PWTestimateswerenotsignificantly
+differentbetweenmethods.(E)Samedataasin(D)withPWTestimatedexpressedasforce(g).PWTestimateswerenotsignificantlydifferent
+betweenmethods.Datain(D)and(E)aremean±s.e.m.
+cross-over manner at baseline (n=58) and after intra- value of±0.5 stimulus intervals also produces the stron-
+plantar injection of capsaicin (n=12) or complete gest correlation between PWT estimates from the two
+Freund’s adjuvant (CFA; n=12). We found no differ- methods in the rat data set. The adjustment was again
+ences in the PWT estimates of mice measured with varied from 0 to 1 in increments of 0.1, and the plot of
+either method, either in terms of filament number thePearsonr values andadjustment factor wasfit witha
+(all P>0.05; Figure4D)orforce(all P>0.05;Figure4E). non-linearquadraticfunction thathadamaximum value
+To ascertain whether these modifications are also ap- of r=0.98 at an adjustment value of 0.53 (Figure 5D).
+plicable to testing with other animals, we reanalyzed von This indicates than an adjustment factor of 0.5 stimulus
+Frey results from rats obtained following the method of intervals is ideal, or close to ideal, for testing in rats. We
+Chaplan et al. [3]. 300 trials from a single experimenter also confirmed that the correlation between PWT esti-
+were reanalyzed using SUDO (Figure 5A). The average mated obtained with SUDO or the method of Chaplan
+number of stimuli presented in these trials was 6.6 (95% et al. [3] did not change after converting the PWT esti-
+CI: 6.5 – 6.7). We again observed an extremely strong mates from fiber number to bending force (r=0.98, P<
+correlation between the PWT estimated obtained with 0.0001; Figure 5E). Similar to the mouse results, we also
+the two methods(r=0.98, P<0.0001; Figure 5B). Similar did not observe any indication of sensitization in the rat
+to the reanalysis of the mouse data, reanalyzing the rat data: the response probability at the fifth through ninth
+data using the value of the sixth filament used did not filamentpresentationdidnot significantlydiffer from 0.5
+produce any further improvement of this correlation (P>0.05for all;Figure 5F).
+(r=0.97; p<0.0001; Figure 5C). This suggests that five
+filament presentations are sufficient to reproduce the Discussion
+PWT estimates for rats obtained with the method of Our analysis confirms that SUDO provides a reliable al-
+Chaplan et al. [3]. We also tested whether an adjustment ternative to the up-down method of Dixon [5] as
+Boninetal.MolecularPain2014,10:26 Page6of10
+http://www.molecularpain.com/content/10/1/26
+Figure5SUDOisvalidforPWTestimationinrats.(A)Frequencydistributionoftheratpawwithdrawalthreshold(PWT)estimatescalculated
+usingthemethodofChaplanetal.,([3];n=300).(B)StrongcorrelationbetweenPWTestimatesdeterminedusingthemethodofChaplanetal.
+[3]andSUDO.(C)CorrelationbetweenmousePWTestimatescalculatedusingsixvonFreypresentations(trials)andthemethodofChaplanetal.
+[3].(D)Effectofchangingtheadjustmentfactorinthesimplifiedscoringmethod,demonstratingapeakcorrelationwithanadjustmentfactor
+near0.5.(E)CorrelationbetweenmousePWTestimatescalculatedwiththetwomethodswhencalculatedasfilamentbendingforce.(F)
+ProbabilityofapositivenocifensiveresponsebyarattothefifththroughninthvonFreyfilamentpresentationinalltrials.Datain(F)aremean
+and95%confidenceinterval.
+adapted by Chaplan et al. [3] for the estimation of PWT No effort was made to distinguish between the differ-
+(Figure 6). We validated the use of five filament presen- ent experimental populations in the data sets, where
+tations in each test and the use a constant adjustment mechanical hypersensitivity was induced through differ-
+factor of 0.5 stimulus intervals for the simplified PWT ent means. By grouping all the results together we cre-
+estimate. There was no improvement in the PWT esti- ated amuch more heterogeneous data set thanwould be
+mates obtained with six filaments as compared to five, produced if the data sets were stratified by condition.
+which is the minimum possible in a set of eight or nine Webelievethatthisheterogeneousdatasetisrepresenta-
+filaments when starting testing in the middle of the rage, tive of data from mechanosensitivity experiments, where
+indicating that the use of five von Frey presentations is both normal and pathological conditions may be tested
+sufficient for testing. Additionally, an adjustment factor simultaneously and where the experimenter should to be
+of 0.5 stimulus intervals was found to be an ideal value blind totheparticularexperimental conditionoftheani-
+in terms of conceptual simplicity and strength of correl- mal.Notably,thestrongestcorrelationbetweenPWTes-
+ationbetweenthetwo methods. timates was seen in datasets that covered the widest
+Boninetal.MolecularPain2014,10:26 Page7of10
+http://www.molecularpain.com/content/10/1/26
+Figure6FlowchartsummarizingmechanosensitivitytestingprotocolsofChaplanetal.andSUDO.InthemethodofChaplanetal.[3],
+thethresholdisconsideredtohavebeenreachedthefirsttimethattheresponseoftheanimaltoavonFreyfilamentisdifferentfromthe
+previoustrial,afterwhichfouradditionalvonFreypresentationsareconductedinanup-downmanner.Attheendofthetrialthepaw
+withdrawalestimate(PWT)iscalculatedbytakingthevalueofthefinalfilamentusedandaddinganadjustmentfactorderivedfromtheresponse
+patternusingthecalculationsofDixon[5].InSUDO,onlyfivevonFreyfilamentpresentationsaredoneineachtestandthePWTisestimated
+directlyfromtheresponsetothefinalfilamentbyincorporatingafixedadjustmentfactorbasedontheresponsetothefifthfilament.Seetext
+foradditionaldetails.
+range of withdrawal threshold estimates (rat and “inter- support this, where the use of SUDO or the method of
+mediate” set in mouse) indicative of the broadest range Chaplan et al. [3] produced similar PWT estimates in
+of observed mechanosensitivity. This implies that SUDO animals under baseline conditions or after the induction
+replicates the estimates obtained with the method of of hyperalgesia by intraplantar capaicin or CFA. More-
+Chaplan et al. [3] irrespective of pathology or range of over, very strong correlations between scoring methods
+hyperalgesia. Our data from behavioral experiments wereobtainedindatasetsthatweresignificantlydifferent
+Boninetal.MolecularPain2014,10:26 Page8of10
+http://www.molecularpain.com/content/10/1/26
+from each other (mouse intermediate vs. expert or be- calculated by Dixon [5] are dependent on the response
+ginner), demonstrating broad applicability of our pattern throughout the trial and are derived using a
+method. maximum probability estimate to obtain the 50% re-
+The simplifications proposed here are limited to tests sponse threshold. While this is a sound statistical ap-
+that use a set of eight or nine filaments. Thus, SUDO proach for the estimation of the 50% response threshold,
+will likely be applicable in any testing system where the this degree of precision may not be necessary for the es-
+relevant up-down testing range can be divided into eight timation of PWT as demonstrated by the very strong
+or nine equally spaced stimulus levels. We did not test correlation between the PWT estimates derived using
+whether similar modifications can be made in systems SUDO and the method of Chaplan et al. [3]. An adjust-
+with more than nine filaments, which would require a ment factor of 0.5 stimulus intervals has the additional
+minimum of 6 or more stimuli presentations to cover benefitof beingaconceptuallysimple value,allowing for
+the full testing range. However, increasing the minimum the quick manual addition or subtraction of half a
+number of trials necessary diminishes the time savings stimulusintervaltocalculate thePWTestimate.
+from these simplifications and may exacerbate the pos-
+sible testing bias created by repeated resting [3]. Add- Conclusion
+itionally, it is unlikely that dividing the relevant sensory ThepresentstudyvalidatestheuseofSUDOformechano-
+rangeintomorethaneightorninestimulilevelswillsig- sensitivitytestinginrodentswithvonFreyfibers.Oursim-
+nificantly enhance the accuracy of the PWT estimate plified method effectively reproduces the PWT estimates
+given the relative insensitivity of the up-down method of obtainedwiththewidelyusedmethodofChaplanetal.[3],
+Dixon tothespacing ofthestimuluslevels[5]. butwithafasterandmoreuser-friendlyapproach.
+We saw no evidence of sensitization or changes in re-
+sponsiveness over the single trials analyzed here. Indeed, Methods
+the probability of a positive response to the fifth through Dataanalysis
+ninth stimulus in a testing sequence was never signifi- Data from previous von Frey tests in 1065 mice and 300
+cantly different from 0.5 in rats or mice. However, this rats were entered into a spreadsheet for analysis. In each
+finding does not exclude the possibility that sensitization test,twoseparatetrialswereconductedandaveragedtoob-
+can occur across trials during repeated testing, as re- tain the PWT. Tests were excluded if any of response pat-
+ported by Chaplan et al. [3]. Because fewer stimuli are terns recorded did not correspond to the testing method
+required for the simplified testing method here com- described by Chaplan et al. [3] or would have required the
+pared to the up-down method of Chaplan et al. [3], we use of filaments outside the specified range. The values of
+speculate ourapproachwillfurtherreducethepossibility thevonFreyfilamentsreportedhererepresentthenumber
+ofsensitizationoccurringwithrepeatedtesting. of the filament within a complete set of 20 von Frey fila-
+Our simplified method uses a fixed number of stimuli ments that spans a range of force from 0.008 g to 300 g
+per trial that is independent from the response pattern (Stoelting, Dale Wood, IL, USA). In the original mouse
+of the mouse. This has several advantages. It ensures a tests, filaments numbered 2 through 9 were used, while in
+constant number of stimuli per animal, which may help rat tests filaments 7 through 14 were used. Testing always
+reducemeasurementbiasthatcouldarisefromlargedis- began with filament 5 for mice and filament 10 for rats,
+parities in the number of stimuli given to different mice and the testing sequenceprogressed following anup-down
+or rats. Additionally, using a constant number of stimuli sequence such that a positive response to a particular fila-
+is methodologically simpler than using a variable num- mentindicatedthenextlowervaluefilamentbeusedinthe
+ber of stimuli, which we believe would reduce training subsequent test, while a negative response indicated the
+time for new experimenters and reduce the risk of ex- nexthighervaluefilamentbeused[3].Testingwasstopped
+perimenter error associated with the need to track vari- if a positive response to the lowest possible filament or a
+able stimulation numbers in large groups of animals. negative response to the highest possible filament was
+Finally,the useofonly five stimuli equates toatime sav- observed.
+ings of nearly 30% compared to the average number of The PWT estimate was first calculated from the re-
+stimuli used in the data sets analyzed here. These time sponse pattern using methods described in Chaplan
+savings may become substantial when tests are con- et al. [3]. For this, an adjustment factor was determined
+ducted on large groups of animals and mice in particu- by the response pattern in the trial and added to the
+lar, which typically move more and take longer to test final filament value used in the trial (Figure 1A).Thead-
+than rats[4]. justment factors were obtained from the look-up tables
+We further validate the use of a constant adjustment developed by Dixon for this purpose [5]. For SUDO, the
+factor of 0.5 stimulus intervals to replace the adjustment PWT estimate was calculated by taking the value of the
+factors calculated by Dixon [5]. The adjustment factors fifthfilamentusedineachtestandaddinganadjustment
+Boninetal.MolecularPain2014,10:26 Page9of10
+http://www.molecularpain.com/content/10/1/26
+value of±0.5 stimulus intervals (Figure 1A). The adjust- et al. [3]. x and B were determined from a linear regres-
+ment factor was positive if there was no response to the sion of the logarithm of the empirically measured fila-
+fifth filament of the sequence to generate a PWTslightly ment bending force plotted against the filament number
+higher than the fifth filament value, or negative if there usingtheequation:
+was a withdrawal to generate a PWTslightly lower than
+the fifth filament value. Because whole numbers were LogðbendingforceÞ¼x (cid:2) FilamentnumberþB:
+used for the filament values, this adjustment corre-
+sponded to an actual adjustment of±0.5 from the value Because different filament sets were used for mice and
+of the fifth filament used. In some instances a variant of rats, the linear regression for each set produced different
+SUDO was used in which PWT was derived from the constants. For the mouse filament set, x=0.240 and
+sixth filament used in the sequence, or the absolute ad- B=−2.00, and for the rat filament set x=0.182 and
+justment factor was varied from 0 to 1 in increments of B=−1.47. The two trials in each test were converted to
+0.1stimulusintervals. force before averaging to obtain the PWT in terms of fila-
+The use of whole numbers to represent the filament mentbendingforce.
+value is a valid approach since the estimation of the Statistical analyses were performed using Prism 5
+PWT using the up-down method of Dixon [5] assumes (GraphPad, San Diego, CA, USA). Linear regression,
+that the stimuli are equally spaced on an appropriate correlation, or non-linear curve fitting were used as ap-
+scale. It would also have been appropriate to use the propriate. Mouse data sets for beginner, intermediate
+manufacturer-provided filament values (e.g., 2.83, 3.22, and expert were compared using a Kruskal-Wallis test
+3.61, etc.), which are logarithmically related to the actual followed by Dunn’s multiple comparison post-test to
+bending force of the filament and can also be fitted with compare between groups. To analyze the response prob-
+a linear relation for the calculation of the 50% with- abilities, the responses at each filament presentation
+drawal thresholds. However, we preferred the use of were compared to theoretical a value of 0.5 using a Wil-
+whole numbers because they allowedfor amuch simpler coxon signedrank test.
+calculation of PWT by using an adjustment factor of±
+0.5 based on the stimulus intervals, yet do not alter the Mechanosensitivitytesting
+final outcome of the experiment. Moreover, it is equally All prospective mechanosensitivity experiments with an-
+possible to calculate the bending force of the filament imals were conducted in accordance with the guidelines
+from either the filament number of manufacturer- from the Canadian Council on Animal Care and ap-
+providedfilamentnumbers. proval of the Laval University Animal Care Committee.
+Notably,differentmethodsofinducingexperimentalpain PWT was measured in adult male C57BL/6 mice using
+hypersensitivity were used in the original experiments by von Frey filaments 2 through 9. Mice were placed in
+thedifferentexperimenters,includingintraplantarinjection acrylic chambers (5.5 × 10 cm) suspended above a wire
+of capsaicin (mice; beginner, intermediate) or CFA (mice; mesh grid and allowed to acclimatize to the testing ap-
+intermediate),experimentalautoimmuneencephalomyelitis paratus for 1 hour prior to experiments. When the
+(mice; expert), repetitive paw stimulation (mice; beginner), mouse was not moving the von Frey filaments were
+and nerve injury (rats). We did not distinguish between pressed against the plantar surface of the paw until the
+naïveorhyperalgesicanimalsinanyoftheoriginaldatasets filament buckled and held for a maximum of 3 seconds.
+since the degree of mechanical hypersensitivity can vary A positive response was noted if the paw was sharply
+greatly both over time and between different experimental withdrawn on application of the filament. Flinching im-
+conditions, requiring the creation of many datasets for mediately upon removal of the filament was also consid-
+comparison with small sample sizes. We further reasoned ered a positive response as previously described [3].
+that the heterogeneity in mechanosensitivity produced by Testing began with filament number 5 and progressed
+pooling all experimental conditions is more representative according to an up-down method. Mice were randomly
+of the variability that would often be observed in experi- assigned to be tested either with the method of Chaplan
+mentsdesignedtostudymechanicalhypersensitivity. et al. [3] or SUDO. After the first measurement of PWT,
+In some cases the PWT was converted from filament a second measurement of PWT was conducted using
+number to force, and expressed in grams using the the alternate test. In some prospective experiments,
+equation: hyperalgesia was induced by intraplantar injection of
+capsaicin (0.5% w/v, 5 μl) or complete Freund’s adjuvant
+PWT ¼10 ðx (cid:2) FþBÞ; (CFA;10μl)inone hindpawunder briefanesthesia with
+force
+isoflurane (<3 minutes, 4% isoflurane). PWT was mea-
+where F is the PWT calculated in terms of filament sured 3 hours after intraplantar injection of either com-
+number using either SUDO or the method of Chaplan pound and again 3 days after injection of CFA. The
+Boninetal.MolecularPain2014,10:26 Page10of10
+http://www.molecularpain.com/content/10/1/26
+PWT estimates derived using SUDO or the method of
+Chaplan et al. [3] for each condition were compared
+usingapairedt-test inGraphpadPrism 5.
+Abbreviations
+CFA:CompleteFreund’sadjuvant;PWT:Pawwithdrawalthreshold;
+SUDO:Simplifiedup-downmethod.
+Competinginterests
+Theauthorsdeclarethattheyhavenocompetinginterests.
+Authors’contributions
+RPBconductedthebehavioralexperimentsandanalyzedthedata,andall
+authorsdesignedthestudyandwrotethemanuscript.Allauthorsreadand
+approvedthefinalmanuscript.
+Acknowledgements
+WewouldliketothankKarineBachand,MireilleDesrochers-Coutureand
+SophieLaffrayfortheirassistancewiththedatacollection,andDr.JeffreyS.
+Mogilforhishelpwiththepreparationofthemanuscript.Theauthors
+acknowledgesupportbytheCanadianInstitutesofHealthResearch(MOP
+12942toYDK).RPBwassupportedbyapost-doctoralFellowshipfromthe
+FondsderechercheQuébec–Santé(FRQS)andtheCatherineBushnellPain
+ResearchFellowshipfromtheLouiseandAlanEdwardsfoundation.YDKwas
+aChercheurNationaloftheFRQS.
+Received:3February2014Accepted:10April2014
+Published:16April2014
+References
+1. RuscheweyhR,Wilder-SmithO,DrdlaR,LiuX-G,SandkühlerJ:Long-term
+potentiationinspinalnociceptivepathwaysasanoveltargetforpain
+therapy.MolPain2011,7:20.
+2. MogilJS:Animalmodelsofpain:progressandchallenges.NatRev
+Neurosci2009,10:283–294.
+3. ChaplanSR,BachFW,PogrelJW,ChungJM,YakshTL:Quantitative
+assessmentoftactileallodyniaintheratpaw.JNeurosciMethods1994,
+53:55–63.
+4. MogilJS,WilsonSG,WanY:Assessingnociceptioninmurinesubjects.In
+MethodsinPainResearch.EditedbyKrugerL.BocaRaton:CRCPress;
+2001:11–39.
+5. DixonW:Theup-and-downmethodforsmallsamples.JAmStatAssoc
+1965,60:967–978.
+6. MillsC,LeBlondD,JoshiS,ZhuC,HsiehG,JacobsonP,MeyerM,DeckerM:
+EstimatingefficacyanddrugED ’susingvonFreyThresholds:impactof
+50
+Weber’sLawandLogTransformation.JPain2012,13:519–523.
+doi:10.1186/1744-8069-10-26
+Citethisarticleas:Boninetal.:Asimplifiedup-downmethod(SUDO)
+formeasuringmechanicalnociceptioninrodentsusingvonFrey
+filaments.MolecularPain201410:26.
+Submit your next manuscript to BioMed Central
+and take full advantage of:
+• Convenient online submission
+• Thorough peer review
+• No space constraints or color figure charges
+• Immediate publication on acceptance
+• Inclusion in PubMed, CAS, Scopus and Google Scholar
+• Research which is freely available for redistribution
+Submit your manuscript at
+www.biomedcentral.com/submit
