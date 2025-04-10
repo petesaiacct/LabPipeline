@@ -6,6 +6,14 @@ import json
 import pdfplumber # Ensure this is in requirements.txt
 from pathlib import Path
 import logging # Consider using logging instead of print for better control
+from src.config.processing_config import ProcessingConfig
+from src.processing.content_analysis import (
+    analyze_page_content,
+    extract_image_metadata,
+    extract_text_by_page,
+    generate_content_hash
+)
+
 
 # --- Configuration ---
 # Define input and output paths using pathlib for OS-independent access
@@ -120,7 +128,7 @@ def extract_title_heuristic(text: str, num_lines: int = 5) -> str | None:
     return potential_title
 
 
-def process_pdfs():
+def process_pdfs(config: ProcessingConfig = ProcessingConfig()):
     """
     Process all PDF files in the raw papers directory:
     - Extract text
@@ -146,51 +154,55 @@ def process_pdfs():
     for pdf_file in pdf_files:
         logging.info(f"--- Processing {pdf_file.name} ---")
 
-        # --- 1. Extract Text ---
-        text = extract_pdf_text(pdf_file)
-        if text is None:
-            logging.warning(f"Skipping {pdf_file.name} due to text extraction error.")
-            error_count += 1
-            continue  # Skip this file if error occurred
+        # Configurable processing pipeline — toggle steps in ProcessingConfig
 
-        # --- 2. Save Text ---
-        text_filename = TEXT_OUTPUT_DIR / f"{pdf_file.stem}.txt"
-        try:
-            with open(text_filename, "w", encoding="utf-8") as f:
-                f.write(text)
-            logging.info(f"Saved extracted text to {text_filename}")
-        except IOError as e:
-            logging.error(f"Failed to write text file {text_filename}: {e}", exc_info=True)
-            error_count += 1
-            continue # Skip metadata if text saving failed
+        metadata = {}
 
-        # --- 3. Extract Metadata ---
-        # From filename
-        metadata = extract_metadata_from_filename(pdf_file.name)
-        # Add file paths (convert Path objects to strings for JSON)
-        metadata["source_pdf_path"] = str(pdf_file.resolve()) # Use absolute path
-        metadata["processed_text_path"] = str(text_filename.resolve()) # Use absolute path
-        
-        # From text content (heuristic)
-        metadata["extracted_title_heuristic"] = extract_title_heuristic(text)
+        # 1. Extract text
+        text = None
+        if config.extract_text:
+            text = extract_pdf_text(pdf_file)
+            if text is None:
+                logging.warning(f"Skipping {pdf_file.name} due to text extraction error.")
+                error_count += 1
+                continue
+            text_filename = TEXT_OUTPUT_DIR / f"{pdf_file.stem}.txt"
+            text_filename.write_text(text, encoding="utf-8")
+            metadata["processed_text_path"] = str(text_filename.resolve())
 
-        # --- 4. Save Metadata ---
+        # 2. Metadata from filename
+        if config.extract_metadata:
+            metadata.update(extract_metadata_from_filename(pdf_file.name))
+
+        # 3. Title heuristic
+        if config.extract_title and text:
+            metadata["extracted_title_heuristic"] = extract_title_heuristic(text)
+
+        # 4. Page-level content analysis
+        if config.analyze_content:
+            metadata["content_analysis"] = analyze_page_content(pdf_file)
+
+        # 5. Extract image metadata
+        if config.extract_images:
+            metadata["image_metadata"] = extract_image_metadata(pdf_file)
+            metadata["has_scanned_content"] = metadata["content_analysis"]["image_pages"] > 0
+
+        # 6. Text by page (for vector chunking)
+        if config.extract_text_by_page:
+            metadata["pagewise_text"] = extract_text_by_page(pdf_file)
+
+        # 7. Optional content hash
+        if config.generate_hash and text:
+            metadata["content_hash"] = generate_content_hash(text)
+
+        # 8. Save final metadata
         meta_filename = META_OUTPUT_DIR / f"{pdf_file.stem}.json"
-        try:
-            with open(meta_filename, "w", encoding="utf-8") as f:
-                # Use ensure_ascii=False for broader character support if needed
-                json.dump(metadata, f, indent=2, ensure_ascii=False) 
-            logging.info(f"Saved metadata to {meta_filename}")
-        except IOError as e:
-            logging.error(f"Failed to write metadata file {meta_filename}: {e}", exc_info=True)
-            error_count += 1
-            # Continue processing other files even if metadata saving failed for one
-        except TypeError as e:
-             logging.error(f"Failed to serialize metadata for {meta_filename}: {e}", exc_info=True)
-             error_count += 1
+        with open(meta_filename, "w", encoding="utf-8") as f:
+            json.dump(metadata, f, indent=2, ensure_ascii=False)
 
-        processed_count += 1
         logging.info(f"--- Finished processing {pdf_file.name} ---")
+        processed_count += 1
+
 
 
     logging.info(f"\n--- Processing Summary ---")
@@ -201,27 +213,18 @@ def process_pdfs():
 
 
 def main():
-    """
-    Entrypoint for command-line execution.
-    Ensures required directories exist before processing.
-    """
-    # Ensure output directories exist before starting
-    try:
-        TEXT_OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-        META_OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-        logging.info(f"Ensured output directories exist:\n  Text: {TEXT_OUTPUT_DIR}\n  Meta: {META_OUTPUT_DIR}")
-    except Exception as e:
-        logging.error(f"Could not create output directories: {e}", exc_info=True)
-        return # Exit if directories can't be created
-
-    process_pdfs()
-
+    config = ProcessingConfig(
+        extract_text=True,
+        extract_metadata=True,
+        extract_title=True,
+        analyze_content=True,
+        extract_images=True,
+        extract_text_by_page=True,
+        generate_hash=True
+    )
+    process_pdfs(config)
 
 if __name__ == "__main__":
-    # This structure allows the script to be run directly
-    # (`python src/processing/pdf_processor.py`) and also allows
-    # functions (`extract_pdf_text`, `process_pdfs`, etc.) to be
-    # imported into other scripts or notebooks if needed.
     main()
 
 
